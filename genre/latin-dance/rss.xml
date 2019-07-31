@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Genre » Latin Dance</title>
-    <link>http://localhost:8080</link>
+    <link>http://ukealong.com</link>
     <description>Genre » Latin Dance</description>
-    <lastBuildDate>Wed, 31 Jul 2019 15:05:22 </lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 01:04:52 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Los Del Rio - Macarena]]></title>
-        <link><![CDATA[http://localhost:8080/song/los-del-rio-macarena/]]></link>
-        <description><![CDATA[For educational use.  For a SIMPLIFIED 1 chord version, click here: https://youtu.be/ET7NTSOmUWw .
+        <link><![CDATA[http://ukealong.com/song/los-del-rio-macarena/]]></link>
+        <description><![CDATA[For educational use.  Only 1 Chord Used: G
 
-Chords Used: G F
+For a "not-so-simplified" version of this ukulele play along, click here: https://youtu.be/y03Bp1W0tDs.
 
 La Macarena by Los Del Rio.  It’s been lowered by 1 semitone so beginner ukulele students can play along.
 
 
 Original Just Dance Unlimited Video: http://youtube.com/watch?v=Nt-0yK9gPv4]]></description>
-        <guid><![CDATA[http://localhost:8080/song/los-del-rio-macarena/]]></guid>
+        <guid><![CDATA[http://ukealong.com/song/los-del-rio-macarena/]]></guid>
         <pubDate>Sat, 04 May 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[The Mavericks - Dance The Night Away]]></title>
-        <link><![CDATA[http://localhost:8080/song/the-mavericks-dance-the-night-away/]]></link>
+        <link><![CDATA[http://ukealong.com/song/the-mavericks-dance-the-night-away/]]></link>
         <description><![CDATA[Ukulele play along - Very Easy - Ideal For Beginners
 
 Dance The Night Away - The Mavericks
@@ -39,7 +39,7 @@ Suggested Strum Patterns: D D D D or D DU U DU
 This video is meant for educational purposes.
 
 No copyright infringement intended]]></description>
-        <guid><![CDATA[http://localhost:8080/song/the-mavericks-dance-the-night-away/]]></guid>
+        <guid><![CDATA[http://ukealong.com/song/the-mavericks-dance-the-night-away/]]></guid>
         <pubDate>Sun, 17 Jun 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

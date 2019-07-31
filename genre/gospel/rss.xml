@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Genre » Gospel</title>
-    <link>http://localhost:8080</link>
+    <link>http://ukealong.com</link>
     <description>Genre » Gospel</description>
-    <lastBuildDate>Wed, 31 Jul 2019 15:05:22 </lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 01:04:52 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Johnny Cash - Wayfaring Stranger]]></title>
-        <link><![CDATA[http://localhost:8080/song/johnny-cash-wayfaring-stranger/]]></link>
+        <link><![CDATA[http://ukealong.com/song/johnny-cash-wayfaring-stranger/]]></link>
         <description><![CDATA[Performed by Johnny Cash
 Trad.
 
 This video is created for an educational purpose. All rights belong to their respectful owners.]]></description>
-        <guid><![CDATA[http://localhost:8080/song/johnny-cash-wayfaring-stranger/]]></guid>
+        <guid><![CDATA[http://ukealong.com/song/johnny-cash-wayfaring-stranger/]]></guid>
         <pubDate>Mon, 06 Nov 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

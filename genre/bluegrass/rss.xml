@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Genre » Bluegrass</title>
-    <link>http://localhost:8080</link>
+    <link>http://ukealong.com</link>
     <description>Genre » Bluegrass</description>
-    <lastBuildDate>Wed, 31 Jul 2019 15:05:22 </lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 01:04:52 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[The Carter Family - Keep On the Sunny Side]]></title>
-        <link><![CDATA[http://localhost:8080/song/the-carter-family-keep-on-the-sunny-side/]]></link>
+        <link><![CDATA[http://ukealong.com/song/the-carter-family-keep-on-the-sunny-side/]]></link>
         <description><![CDATA[For educational use.  Optimized for GCEA ukulele.  Key of C.
 
 As performed by The Carter Family.
@@ -16,7 +16,7 @@ As performed by The Carter Family.
 Need to practice at a different tempo?  Use the gear icon in the video (lower right) to slow down (or speed up) the tempo at pitch!  Need to do so on an iPad or iPhone?  Check out the browser called "iCab Mobile" which has a Module called "Video Playback Rate"
 
 Video created on the iPad Pro using Luma Fusion.  The ukulele chord font is Chordette for Education, available at ukefarm.com.]]></description>
-        <guid><![CDATA[http://localhost:8080/song/the-carter-family-keep-on-the-sunny-side/]]></guid>
+        <guid><![CDATA[http://ukealong.com/song/the-carter-family-keep-on-the-sunny-side/]]></guid>
         <pubDate>Mon, 14 Aug 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

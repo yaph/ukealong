@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Genre » Reggae</title>
-    <link>http://localhost:8080</link>
+    <link>http://ukealong.com</link>
     <description>Genre » Reggae</description>
-    <lastBuildDate>Wed, 31 Jul 2019 15:05:22 </lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 01:04:51 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Bob Marley and The Wailers - Lively Up Yourself - Original]]></title>
-        <link><![CDATA[http://localhost:8080/song/bob-marley-and-the-wailers-lively-up-yourself---original/]]></link>
+        <link><![CDATA[http://ukealong.com/song/bob-marley-and-the-wailers-lively-up-yourself---original/]]></link>
         <description><![CDATA[Ukulele Play Along - Very Easy
 
 Lively Up Yourself - Bob Marley
@@ -25,12 +25,12 @@ Suggested Strum Patterns: D D D D or a back beat strum
 This video is meant for educational purposes.
 
 No copyright infringement intended]]></description>
-        <guid><![CDATA[http://localhost:8080/song/bob-marley-and-the-wailers-lively-up-yourself---original/]]></guid>
+        <guid><![CDATA[http://ukealong.com/song/bob-marley-and-the-wailers-lively-up-yourself---original/]]></guid>
         <pubDate>Sat, 25 May 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Bob Marley & The Wailers - Exodus (Kindred Spirit Dub Mix)]]></title>
-        <link><![CDATA[http://localhost:8080/song/bob-marley-&-the-wailers-exodus/]]></link>
+        <link><![CDATA[http://ukealong.com/song/bob-marley-&-the-wailers-exodus/]]></link>
         <description><![CDATA[For educational use.
 
 As performed by Bob Marley & the Wailers
@@ -39,12 +39,12 @@ Source video: https://www.youtube.com/watch?v=ImQewFMzIzI
 If you found this video useful please subscribe and share with your friends. If you want to be notified of future videos please click on bell next to subscribe.
 
 Do you have a request for a song to be made into a video? First, check the index of play alongs at www.ukeplayalongs.com to make sure your song isn't already available. If it isn't, please fill out this request form: https://forms.gle/84rgm7kFNJWnTqFB6 .  We cannot promise that a request will be made into a play along, but we do appreciate your recommendations!]]></description>
-        <guid><![CDATA[http://localhost:8080/song/bob-marley-&-the-wailers-exodus/]]></guid>
+        <guid><![CDATA[http://ukealong.com/song/bob-marley-&-the-wailers-exodus/]]></guid>
         <pubDate>Sat, 13 Apr 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Paolo Nutini - 10-Oct (Album)]]></title>
-        <link><![CDATA[http://localhost:8080/song/paolo-nutini-10-oct/]]></link>
+        <link><![CDATA[http://ukealong.com/song/paolo-nutini-10-oct/]]></link>
         <description><![CDATA[Ukulele play along - Very Easy
 
 10/10 - Paolo Nutini (from his 2009 album Sunny Side Up)
@@ -57,12 +57,12 @@ Suggested Strum Patterns: D DU U DU or D DU D DU
 This video is meant for educational purposes.
 
 No copyright infringement intended]]></description>
-        <guid><![CDATA[http://localhost:8080/song/paolo-nutini-10-oct/]]></guid>
+        <guid><![CDATA[http://ukealong.com/song/paolo-nutini-10-oct/]]></guid>
         <pubDate>Mon, 11 Mar 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[MAGIC! - Rude]]></title>
-        <link><![CDATA[http://localhost:8080/song/magic!-rude/]]></link>
+        <link><![CDATA[http://ukealong.com/song/magic!-rude/]]></link>
         <description><![CDATA[For educational use.  Optimized for GCEA ukulele.  Key of C. Transposed down a half step from the original song.
 
 As performed by Magic.
@@ -76,14 +76,14 @@ The colored font matches Aquila KIDS ukulele strings.
 This version matches the educational Color Chord approach and uses four chords: C (red sticker), G (green stickers), F (yellow stickers) and Am (blue sticker).
 
 Are these ukulele resources valuable to you?  If so, consider following my blog at ukestuff.info, and becoming a patron at www.patreon.com/cjrphd.  There is a master list of all similar play along videos at ukestuff.info.]]></description>
-        <guid><![CDATA[http://localhost:8080/song/magic!-rude/]]></guid>
+        <guid><![CDATA[http://ukealong.com/song/magic!-rude/]]></guid>
         <pubDate>Tue, 28 Nov 2017 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Bob Marley & The Wailers - Three Little Birds (Dub)]]></title>
-        <link><![CDATA[http://localhost:8080/song/bob-marley-&-the-wailers-three-little-birds/]]></link>
+        <link><![CDATA[http://ukealong.com/song/bob-marley-&-the-wailers-three-little-birds/]]></link>
         <description><![CDATA[Fredonia Middle School Ukulele]]></description>
-        <guid><![CDATA[http://localhost:8080/song/bob-marley-&-the-wailers-three-little-birds/]]></guid>
+        <guid><![CDATA[http://ukealong.com/song/bob-marley-&-the-wailers-three-little-birds/]]></guid>
         <pubDate>Mon, 01 May 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

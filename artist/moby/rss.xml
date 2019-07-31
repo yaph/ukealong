@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Artist » Moby</title>
+    <link>http://ukealong.com</link>
+    <description>Artist » Moby</description>
+    <lastBuildDate>Thu, 01 Aug 2019 01:04:52 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Moby - Sunday (The Day Before My Birthday)]]></title>
+        <link><![CDATA[http://ukealong.com/song/moby-sunday/]]></link>
+        <description><![CDATA[Words & music by Moby & Sylvia Robinson.]]></description>
+        <guid><![CDATA[http://ukealong.com/song/moby-sunday/]]></guid>
+        <pubDate>Fri, 08 Jun 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Moby - One of These Mornings]]></title>
+        <link><![CDATA[http://ukealong.com/song/moby-one-of-these-mornings/]]></link>
+        <description><![CDATA[By Moby.
+
+This is a good song to practise the slightly complicated Bm chord.]]></description>
+        <guid><![CDATA[http://ukealong.com/song/moby-one-of-these-mornings/]]></guid>
+        <pubDate>Tue, 20 Feb 2018 00:00:00 </pubDate>
+    </item>
+</channel></rss>

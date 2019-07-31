@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Artist » Steve Miller Band</title>
+    <link>http://ukealong.com</link>
+    <description>Artist » Steve Miller Band</description>
+    <lastBuildDate>Thu, 01 Aug 2019 01:04:52 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Steve Miller Band - Jet Airliner (Remastered 2017)]]></title>
+        <link><![CDATA[http://ukealong.com/song/steve-miller-band-jet-airliner/]]></link>
+        <description><![CDATA[Chords: F, C, B-flat]]></description>
+        <guid><![CDATA[http://ukealong.com/song/steve-miller-band-jet-airliner/]]></guid>
+        <pubDate>Sun, 21 Apr 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Steve Miller Band - Rock 'n' Me]]></title>
+        <link><![CDATA[http://ukealong.com/song/steve-miller-band-rock-'n'-me/]]></link>
+        <description><![CDATA[Chords: F, C, B-flat
+See Riff Practice Video: https://youtu.be/o-CP4fPDI0o]]></description>
+        <guid><![CDATA[http://ukealong.com/song/steve-miller-band-rock-'n'-me/]]></guid>
+        <pubDate>Sun, 21 Apr 2019 00:00:00 </pubDate>
+    </item>
+</channel></rss>

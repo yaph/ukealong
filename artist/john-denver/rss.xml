@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Artist » John Denver</title>
+    <link>http://ukealong.com</link>
+    <description>Artist » John Denver</description>
+    <lastBuildDate>Thu, 01 Aug 2019 01:04:52 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[John Denver - Take Me Home, Country Roads]]></title>
+        <link><![CDATA[http://ukealong.com/song/john-denver-take-me-home,-country-roads/]]></link>
+        <description><![CDATA[Fredonia Middle School Ukulele]]></description>
+        <guid><![CDATA[http://ukealong.com/song/john-denver-take-me-home,-country-roads/]]></guid>
+        <pubDate>Mon, 17 Sep 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[John Denver - Leaving on a Jet Plane]]></title>
+        <link><![CDATA[http://ukealong.com/song/john-denver-leaving-on-a-jet-plane/]]></link>
+        <description><![CDATA[G, D, C, Am  Strum pattern...try this: D-  DU   -U  DU]]></description>
+        <guid><![CDATA[http://ukealong.com/song/john-denver-leaving-on-a-jet-plane/]]></guid>
+        <pubDate>Mon, 08 May 2017 00:00:00 </pubDate>
+    </item>
+</channel></rss>

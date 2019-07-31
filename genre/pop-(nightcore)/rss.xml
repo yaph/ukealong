@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Genre » Pop (Nightcore)</title>
-    <link>http://localhost:8080</link>
+    <link>http://ukealong.com</link>
     <description>Genre » Pop (Nightcore)</description>
-    <lastBuildDate>Wed, 31 Jul 2019 15:05:22 </lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 01:04:52 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Andie Case - Complicated]]></title>
-        <link><![CDATA[http://localhost:8080/song/andie-case-complicated/]]></link>
+        <link><![CDATA[http://ukealong.com/song/andie-case-complicated/]]></link>
         <description><![CDATA[For educational use.  Optimized for GCEA ukulele.  Key of G.  Lowered slightly from the Nightcore original.
 
 Chords Used: G, Em, C, D, Dsus4, Em7, Am7
@@ -28,7 +28,7 @@ There is a master list of all similar play along videos at my blog: ukestuff.inf
 Check out the Ukulele Video Play Along Podcast, where I talk about ukulele education and my own ukulele experiences.  Available on Apple Podcasts, Google Play, Spotify, and Stitcher.
 
 Thanks for watching the videos and supporting the channel!]]></description>
-        <guid><![CDATA[http://localhost:8080/song/andie-case-complicated/]]></guid>
+        <guid><![CDATA[http://ukealong.com/song/andie-case-complicated/]]></guid>
         <pubDate>Fri, 24 May 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>
