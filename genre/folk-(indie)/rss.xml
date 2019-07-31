@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Genre » Folk (Indie)</title>
+    <link>http://localhost:8080</link>
+    <description>Genre » Folk (Indie)</description>
+    <lastBuildDate>Wed, 31 Jul 2019 15:05:22 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Langhorne Slim - Changes]]></title>
+        <link><![CDATA[http://localhost:8080/song/langhorne-slim-changes/]]></link>
+        <description><![CDATA[For educational use.  Optimized for GCEA ukulele.  Key of C.
+
+As performed by Langhorne Slim & The Law.
+
+Video created on the iPad Pro using Luma Fusion.  The ukulele chord font is Chordette for Education, available at ukefarm.com.]]></description>
+        <guid><![CDATA[http://localhost:8080/song/langhorne-slim-changes/]]></guid>
+        <pubDate>Tue, 18 Jul 2017 00:00:00 </pubDate>
+    </item>
+</channel></rss>
