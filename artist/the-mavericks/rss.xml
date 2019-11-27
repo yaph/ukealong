@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » The Mavericks</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » The Mavericks</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[The Mavericks - Dance The Night Away]]></title>
-        <link><![CDATA[http://ukealong.com/song/the-mavericks-dance-the-night-away/]]></link>
+        <link><![CDATA[https://ukealong.com//song/the-mavericks-dance-the-night-away/]]></link>
         <description><![CDATA[Ukulele play along - Very Easy - Ideal For Beginners
 
 Dance The Night Away - The Mavericks
@@ -25,7 +25,7 @@ Suggested Strum Patterns: D D D D or D DU U DU
 This video is meant for educational purposes.
 
 No copyright infringement intended]]></description>
-        <guid><![CDATA[http://ukealong.com/song/the-mavericks-dance-the-night-away/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/the-mavericks-dance-the-night-away/]]></guid>
         <pubDate>Sun, 17 Jun 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

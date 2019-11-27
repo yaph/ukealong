@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » The Monkees</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » The Monkees</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[The Monkees - I'm a believer]]></title>
-        <link><![CDATA[http://ukealong.com/song/the-monkees-i'm-a-believer/]]></link>
+        <link><![CDATA[https://ukealong.com//song/the-monkees-i'm-a-believer/]]></link>
         <description><![CDATA[C, G, D, and F chords...great for developing a quick switch between C and G!]]></description>
-        <guid><![CDATA[http://ukealong.com/song/the-monkees-i'm-a-believer/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/the-monkees-i'm-a-believer/]]></guid>
         <pubDate>Wed, 27 Jul 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>

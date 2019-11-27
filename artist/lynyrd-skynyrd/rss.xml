@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » Lynyrd Skynyrd</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » Lynyrd Skynyrd</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
+        <title><![CDATA[Lynyrd Skynyrd - Free Bird ]]></title>
+        <link><![CDATA[https://ukealong.com//song/lynyrd-skynyrd-free-bird/]]></link>
+        <description><![CDATA[Free Bird by Lynyrd Skynyrd.  For educational use.  The lyrics video was created by YouTuber Anna Mintz and may be found at https://www.youtube.com/watch?v=vKLJdmR6UGU, I just added the ukulele chords.  Chords Used: G, D, Em, F, C (and Bb, but only during the bridge / guitar solo).
+
+If you found this video useful please subscribe.  If you want to be notified of future videos please click on bell next to subscribe.
+
+Do you have a request for a song to be made into a video?  First, check the index of play along videos at www.ukeplayalongs.com to make sure your song isn't already available.  If it isn't, please fill out this request form: https://forms.gle/84rgm7kFNJWnTqFB6.  We cannot promise that a request will be made into a play along, but we do appreciate your recommendations!]]></description>
+        <guid><![CDATA[https://ukealong.com//song/lynyrd-skynyrd-free-bird/]]></guid>
+        <pubDate>Sat, 24 Aug 2019 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Lynyrd Skynyrd - Sweet Home Alabama]]></title>
-        <link><![CDATA[http://ukealong.com/song/lynyrd-skynyrd-sweet-home-alabama/]]></link>
+        <link><![CDATA[https://ukealong.com//song/lynyrd-skynyrd-sweet-home-alabama/]]></link>
         <description><![CDATA[]]></description>
-        <guid><![CDATA[http://ukealong.com/song/lynyrd-skynyrd-sweet-home-alabama/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/lynyrd-skynyrd-sweet-home-alabama/]]></guid>
         <pubDate>Thu, 27 Sep 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

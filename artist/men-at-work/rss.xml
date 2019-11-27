@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » Men At Work</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » Men At Work</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Men at Work - Down Under]]></title>
-        <link><![CDATA[http://ukealong.com/song/men-at-work-down-under/]]></link>
+        <link><![CDATA[https://ukealong.com//song/men-at-work-down-under/]]></link>
         <description><![CDATA[Ukulele tutorial for Fredonia Middle School]]></description>
-        <guid><![CDATA[http://ukealong.com/song/men-at-work-down-under/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/men-at-work-down-under/]]></guid>
         <pubDate>Thu, 29 Sep 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>

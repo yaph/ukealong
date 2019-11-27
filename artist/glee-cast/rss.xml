@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » Glee Cast</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » Glee Cast</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-        <title><![CDATA[Glee Cast - Feliz Navidad (Glee Cast Version)]]></title>
-        <link><![CDATA[http://ukealong.com/song/glee-cast-feliz-navidad/]]></link>
+        <title><![CDATA[Glee Cast - Somebody That I Used To Know ]]></title>
+        <link><![CDATA[https://ukealong.com//song/glee-cast-somebody-that-i-used-to-know/]]></link>
+        <description><![CDATA[Ukulele play along
+
+Somebody That I Used To Know - Gotye (feat. Kimbra)
+
+Using the chords: Bb  C  Dm
+
+Suggested Strum Patterns: D DU D DU or D XU D XU (X=chuck)
+
+
+This video is meant for educational purposes and ukulele lessons.
+
+No copyright infringement intended.]]></description>
+        <guid><![CDATA[https://ukealong.com//song/glee-cast-somebody-that-i-used-to-know/]]></guid>
+        <pubDate>Sat, 10 Aug 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Glee Cast - Feliz Navidad ]]></title>
+        <link><![CDATA[https://ukealong.com//song/glee-cast-feliz-navidad/]]></link>
         <description><![CDATA[For educational use.
 
 Chords Used: C F G (or G7) Am
@@ -20,12 +38,12 @@ If you found this video useful please subscribe and share with your friends. If 
 
 
 Do you have a request for a song to be made into a video? First, check the index of play alongs at www.ukeplayalongs.com to make sure your song isn't already available. If it isn't, please fill out this request form: https://forms.gle/84rgm7kFNJWnTqFB6 .  We cannot promise that a request will be made into a play along, but we do appreciate your recommendations!]]></description>
-        <guid><![CDATA[http://ukealong.com/song/glee-cast-feliz-navidad/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/glee-cast-feliz-navidad/]]></guid>
         <pubDate>Sat, 25 May 2019 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Glee Cast - Wake Me Up Before You Go-Go (Glee Cast Version)]]></title>
-        <link><![CDATA[http://ukealong.com/song/glee-cast-wake-me-up-before-you-go-go/]]></link>
+        <title><![CDATA[Glee Cast - Wake Me Up Before You Go-Go ]]></title>
+        <link><![CDATA[https://ukealong.com//song/glee-cast-wake-me-up-before-you-go-go/]]></link>
         <description><![CDATA[For educational use.  Optimized for GCEA ukulele.  Key of C.
 
 The original song is by Wham, in C.  This version was originally in Bb (transposed up a whole step) as perfomed by the cast of Glee.
@@ -37,7 +55,7 @@ Video created on the iPad Pro using Luma Fusion.  The ukulele chord font is Chor
 Check out the Ukulele Video Play Along Podcast, where I talk about ukulele education and my own ukulele experiences.  Available on Apple Podcasts and Google Play.
 
 Are these ukulele resources valuable to you?  If so, consider following my blog at ukestuff.info, and becoming a patron at www.patreon.com/cjrphd.  There is a master list of all similar play along videos at ukestuff.info.]]></description>
-        <guid><![CDATA[http://ukealong.com/song/glee-cast-wake-me-up-before-you-go-go/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/glee-cast-wake-me-up-before-you-go-go/]]></guid>
         <pubDate>Fri, 30 Mar 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

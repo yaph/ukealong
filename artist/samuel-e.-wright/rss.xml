@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » Samuel E. Wright</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » Samuel E. Wright</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Samuel E. Wright - Limbo Rock]]></title>
-        <link><![CDATA[http://ukealong.com/song/samuel-e.-wright-limbo-rock/]]></link>
+        <link><![CDATA[https://ukealong.com//song/samuel-e.-wright-limbo-rock/]]></link>
         <description><![CDATA[For educational use.
 
 The pitch has been raised to make it playable by young ukulele students.  Original audio from https://youtu.be/4f-P0Q-pqsw.]]></description>
-        <guid><![CDATA[http://ukealong.com/song/samuel-e.-wright-limbo-rock/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/samuel-e.-wright-limbo-rock/]]></guid>
         <pubDate>Sun, 31 Mar 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

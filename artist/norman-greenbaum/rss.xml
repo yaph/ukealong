@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » Norman Greenbaum</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » Norman Greenbaum</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Norman Greenbaum - Spirit in the Sky]]></title>
-        <link><![CDATA[http://ukealong.com/song/norman-greenbaum-spirit-in-the-sky/]]></link>
+        <link><![CDATA[https://ukealong.com//song/norman-greenbaum-spirit-in-the-sky/]]></link>
         <description><![CDATA[Performed & written by Norman Greenbaum]]></description>
-        <guid><![CDATA[http://ukealong.com/song/norman-greenbaum-spirit-in-the-sky/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/norman-greenbaum-spirit-in-the-sky/]]></guid>
         <pubDate>Fri, 15 Dec 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

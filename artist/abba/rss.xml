@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » Abba</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » Abba</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-        <title><![CDATA[ABBA - Mamma Mia (Spanish Version)]]></title>
-        <link><![CDATA[http://ukealong.com/song/abba-mamma-mia/]]></link>
+        <title><![CDATA[ABBA - Mamma Mia ]]></title>
+        <link><![CDATA[https://ukealong.com//song/abba-mamma-mia/]]></link>
         <description><![CDATA[This video was created by the SUNY Fredonia Ukulele Club and is for educational purposes ONLY.
 
 All rights belong to ABBA, Bjorn Ulvaeus, Stig Anderson and Benny Anderson.
@@ -20,21 +20,21 @@ Check out our Instagram: https://www.instagram.com/fredoniaukuleleclub
 Like our page on Facebook: https://www.facebook.com/fredoniaukuleleclub/?ref=aymt_homepage_panel
 
 Strum on!]]></description>
-        <guid><![CDATA[http://ukealong.com/song/abba-mamma-mia/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/abba-mamma-mia/]]></guid>
         <pubDate>Fri, 07 Dec 2018 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[ABBA - Take A Chance On Me]]></title>
-        <link><![CDATA[http://ukealong.com/song/abba-take-a-chance-on-me/]]></link>
+        <link><![CDATA[https://ukealong.com//song/abba-take-a-chance-on-me/]]></link>
         <description><![CDATA[Fredonia Middle School Ukulele]]></description>
-        <guid><![CDATA[http://ukealong.com/song/abba-take-a-chance-on-me/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/abba-take-a-chance-on-me/]]></guid>
         <pubDate>Mon, 19 Nov 2018 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[ABBA - I Have A Dream]]></title>
-        <link><![CDATA[http://ukealong.com/song/abba-i-have-a-dream/]]></link>
+        <link><![CDATA[https://ukealong.com//song/abba-i-have-a-dream/]]></link>
         <description><![CDATA[Chords are A, E7, and D]]></description>
-        <guid><![CDATA[http://ukealong.com/song/abba-i-have-a-dream/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/abba-i-have-a-dream/]]></guid>
         <pubDate>Mon, 21 Aug 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

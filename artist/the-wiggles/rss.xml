@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » The Wiggles</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » The Wiggles</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-        <title><![CDATA[The Wiggles - Day-O (aka The Banana Boat Song)]]></title>
-        <link><![CDATA[http://ukealong.com/song/the-wiggles-day-o/]]></link>
+        <title><![CDATA[The Wiggles - Day-O ]]></title>
+        <link><![CDATA[https://ukealong.com//song/the-wiggles-day-o/]]></link>
         <description><![CDATA[This video works as a call and response between teacher and students.
 Students play on "Daylight come an' me wanna go home."
 Students use modified F chord and the C7 chord.
 
 (This video replaces an earlier upload. I found a mistake in the earlier version.)]]></description>
-        <guid><![CDATA[http://ukealong.com/song/the-wiggles-day-o/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/the-wiggles-day-o/]]></guid>
         <pubDate>Tue, 11 Oct 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>

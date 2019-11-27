@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » John Fogerty</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » John Fogerty</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-        <title><![CDATA[John Fogerty - Who'll Stop The Rain (Album Version)]]></title>
-        <link><![CDATA[http://ukealong.com/song/john-fogerty-who'll-stop-the-rain/]]></link>
+        <title><![CDATA[John Fogerty - Who'll Stop The Rain ]]></title>
+        <link><![CDATA[https://ukealong.com//song/john-fogerty-who'll-stop-the-rain/]]></link>
         <description><![CDATA[Mostly G, C, D...some D7, Em, Am, and Bm7.
 Possible Strumming Pattern: D-  DU  -U  DU]]></description>
-        <guid><![CDATA[http://ukealong.com/song/john-fogerty-who'll-stop-the-rain/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/john-fogerty-who'll-stop-the-rain/]]></guid>
         <pubDate>Fri, 11 Jan 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

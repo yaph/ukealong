@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » James Arthur</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » James Arthur</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[James Arthur - Impossible]]></title>
-        <link><![CDATA[http://ukealong.com/song/james-arthur-impossible/]]></link>
+        <link><![CDATA[https://ukealong.com//song/james-arthur-impossible/]]></link>
         <description><![CDATA[The key for this song was transposed.  Chords Am, C, G, & F.  For Educational Purposes Only.]]></description>
-        <guid><![CDATA[http://ukealong.com/song/james-arthur-impossible/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/james-arthur-impossible/]]></guid>
         <pubDate>Mon, 25 Mar 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[James Arthur - Say You Won't Let Go]]></title>
-        <link><![CDATA[http://ukealong.com/song/james-arthur-say-you-won't-let-go/]]></link>
+        <link><![CDATA[https://ukealong.com//song/james-arthur-say-you-won't-let-go/]]></link>
         <description><![CDATA[This play along includes C, G, Am, and F chords.
 Possible Strumming Pattern: D- DU -U DU]]></description>
-        <guid><![CDATA[http://ukealong.com/song/james-arthur-say-you-won't-let-go/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/james-arthur-say-you-won't-let-go/]]></guid>
         <pubDate>Sun, 06 Jan 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

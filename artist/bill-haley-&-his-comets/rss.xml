@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » Bill Haley & His Comets</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » Bill Haley & His Comets</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Bill Haley & His Comets - See You Later, Alligator]]></title>
-        <link><![CDATA[http://ukealong.com/song/bill-haley-&-his-comets-see-you-later,-alligator/]]></link>
+        <link><![CDATA[https://ukealong.com//song/bill-haley-&-his-comets-see-you-later,-alligator/]]></link>
         <description><![CDATA[Ukulele play along - Very Easy
 
 See You Later Alligator - Bill Haley and his Comets
@@ -26,7 +26,7 @@ Suggested Strum Patterns: D D D D or D DU D DU
 This video is meant for educational purposes.
 
 No copyright infringement intended]]></description>
-        <guid><![CDATA[http://ukealong.com/song/bill-haley-&-his-comets-see-you-later,-alligator/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/bill-haley-&-his-comets-see-you-later,-alligator/]]></guid>
         <pubDate>Mon, 14 Jan 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

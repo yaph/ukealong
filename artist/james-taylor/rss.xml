@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » James Taylor</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » James Taylor</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[James Taylor - Fire and Rain]]></title>
-        <link><![CDATA[http://ukealong.com/song/james-taylor-fire-and-rain/]]></link>
+        <link><![CDATA[https://ukealong.com//song/james-taylor-fire-and-rain/]]></link>
         <description><![CDATA[C, G, F, Dm, Gm7, B-flatM7, Csus2   Simple Strum:
 Two strums per chord...or...Complex Strum: D-  DU  -U  DU]]></description>
-        <guid><![CDATA[http://ukealong.com/song/james-taylor-fire-and-rain/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/james-taylor-fire-and-rain/]]></guid>
         <pubDate>Tue, 23 Jan 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

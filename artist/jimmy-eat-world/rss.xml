@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » Jimmy Eat World</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » Jimmy Eat World</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Jimmy Eat World - The Middle]]></title>
-        <link><![CDATA[http://ukealong.com/song/jimmy-eat-world-the-middle/]]></link>
-        <description><![CDATA[This video was created by the SUNY Fredonia Ukulele Club and is for educational purposes ONLY.
-
-All rights belong to Jim Adkins, Zach Lind, Tom Linton and Rick Burch.
-
-CHORDS USED: D, A, G
-
-Strum On!!
-
-Instagram: https://www.instagram.com/fredoniaukuleleclub/
-
-Facebook: https://www.facebook.com/fredoniaukuleleclub/?ref=aymt_homepage_panel]]></description>
-        <guid><![CDATA[http://ukealong.com/song/jimmy-eat-world-the-middle/]]></guid>
-        <pubDate>Mon, 02 Oct 2017 00:00:00 </pubDate>
+        <link><![CDATA[https://ukealong.com//song/jimmy-eat-world-the-middle/]]></link>
+        <description><![CDATA[G, D, A - Enjoy!!!]]></description>
+        <guid><![CDATA[https://ukealong.com//song/jimmy-eat-world-the-middle/]]></guid>
+        <pubDate>Sat, 03 Jun 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

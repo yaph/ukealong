@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Chord » D+</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Chord » D+</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Elvis Presley - Blue Hawaii]]></title>
-        <link><![CDATA[http://ukealong.com/song/elvis-presley-blue-hawaii/]]></link>
+        <link><![CDATA[https://ukealong.com//song/elvis-presley-blue-hawaii/]]></link>
         <description><![CDATA[For Educational Use.  Key of G: A7, Hawaiian D7, G, Cm, E7, G7, D, D+.  The D+ is an uncommon chord..make sure to practice it before starting the song!
 
 The original recording is in A (a version in this key was created, too).  the pitch has been lowered to G...and no, Elvis did not have a cold while singing it.
@@ -16,7 +16,7 @@ The original recording is in A (a version in this key was created, too).  the pi
 The original YouTube video: https://www.youtube.com/watch?v=p2h0f1VgDrM
 
 The ukulele font comes from Chordette for Education, available at ukefarm.com]]></description>
-        <guid><![CDATA[http://ukealong.com/song/elvis-presley-blue-hawaii/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/elvis-presley-blue-hawaii/]]></guid>
         <pubDate>Mon, 19 Jun 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

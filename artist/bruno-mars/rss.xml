@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » Bruno Mars</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » Bruno Mars</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
+        <title><![CDATA[Bruno Mars - The Lazy Song]]></title>
+        <link><![CDATA[https://ukealong.com//song/bruno-mars-the-lazy-song/]]></link>
+        <description><![CDATA[The Lazy Song by Bruno Mars.  It’s been lowered by 4 semitones so beginner ukulele students can play along.  The lyric video was created by YouTuber gizmothing1, I digitally lowered the recording so you can play it without a capo and added the ukulele chord diagrams.  The original lyric video may be found here - https://youtu.be/k1_26Iayp1s .  For educational use.  Chords Used: G C D B7 Am Bm Em
+
+If you found this video useful please subscribe.  If you want to be notified of future videos please click on bell next to subscribe.
+
+Do you have a request for a song to be made into a video?  First, check the index of play along videos at www.ukeplayalongs.com to make sure your song isn't already available.  If it isn't, please fill out this request form: https://forms.gle/84rgm7kFNJWnTqFB6.  We cannot promise that a request will be made into a play along, but we do appreciate your recommendations!]]></description>
+        <guid><![CDATA[https://ukealong.com//song/bruno-mars-the-lazy-song/]]></guid>
+        <pubDate>Sat, 10 Aug 2019 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Bruno Mars - Marry You]]></title>
-        <link><![CDATA[http://ukealong.com/song/bruno-mars-marry-you/]]></link>
+        <link><![CDATA[https://ukealong.com//song/bruno-mars-marry-you/]]></link>
         <description><![CDATA[Ukulele play along
 
 Marry You - Bruno Mars
@@ -21,12 +32,12 @@ Suggested Strum Patterns: D DU U DU or D DU D DU
 This video is meant for educational purposes.
 
 No copyright infringement intended]]></description>
-        <guid><![CDATA[http://ukealong.com/song/bruno-mars-marry-you/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/bruno-mars-marry-you/]]></guid>
         <pubDate>Thu, 04 Jul 2019 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Bruno Mars - Count on Me (EP Version)]]></title>
-        <link><![CDATA[http://ukealong.com/song/bruno-mars-count-on-me/]]></link>
+        <title><![CDATA[Bruno Mars - Count on Me ]]></title>
+        <link><![CDATA[https://ukealong.com//song/bruno-mars-count-on-me/]]></link>
         <description><![CDATA[For educational use.  Optimized for GCEA ukulele.  Key of C.
 
 As performed by Bruno Mars.
@@ -38,7 +49,7 @@ Video created on the iPad Pro using Luma Fusion.  The ukulele chord font is Chor
 Check out the Ukulele Video Play Along Podcast, where I talk about ukulele education and my own ukulele experiences.  Available on Apple Podcasts and Google Play.
 
 Are these ukulele resources valuable to you?  If so, consider following my blog at ukestuff.info, and becoming a patron at www.patreon.com/cjrphd.  There is a master list of all similar play along videos at ukestuff.info.]]></description>
-        <guid><![CDATA[http://ukealong.com/song/bruno-mars-count-on-me/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/bruno-mars-count-on-me/]]></guid>
         <pubDate>Fri, 20 Apr 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

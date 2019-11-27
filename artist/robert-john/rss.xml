@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » Robert John</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » Robert John</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Robert John - The Lion Sleeps Tonight]]></title>
-        <link><![CDATA[http://ukealong.com/song/robert-john-the-lion-sleeps-tonight/]]></link>
+        <link><![CDATA[https://ukealong.com//song/robert-john-the-lion-sleeps-tonight/]]></link>
         <description><![CDATA[Ukulele play along - Easy
 
 The Lion Sleeps Tonight - The Tokens
@@ -21,7 +21,7 @@ Suggested Strum Patterns: D  DU  D  DU or DU  XU  DU  XU
 This video is meant for educational purposes.
 
 No copyright infringement intended]]></description>
-        <guid><![CDATA[http://ukealong.com/song/robert-john-the-lion-sleeps-tonight/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/robert-john-the-lion-sleeps-tonight/]]></guid>
         <pubDate>Sat, 20 Oct 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

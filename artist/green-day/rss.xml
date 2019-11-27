@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » Green Day</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » Green Day</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-        <title><![CDATA[Green Day - Good Riddance (Time of Your Life)]]></title>
-        <link><![CDATA[http://ukealong.com/song/green-day-good-riddance/]]></link>
+        <title><![CDATA[Green Day - Good Riddance ]]></title>
+        <link><![CDATA[https://ukealong.com//song/green-day-good-riddance/]]></link>
         <description><![CDATA[Ukulele tutorial for Fredonia Middle School]]></description>
-        <guid><![CDATA[http://ukealong.com/song/green-day-good-riddance/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/green-day-good-riddance/]]></guid>
         <pubDate>Wed, 12 Oct 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>

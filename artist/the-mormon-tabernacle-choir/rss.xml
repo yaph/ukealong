@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » The Mormon Tabernacle Choir</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » The Mormon Tabernacle Choir</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[The Mormon Tabernacle Choir - Anchors Aweigh]]></title>
-        <link><![CDATA[http://ukealong.com/song/the-mormon-tabernacle-choir-anchors-aweigh/]]></link>
+        <link><![CDATA[https://ukealong.com//song/the-mormon-tabernacle-choir-anchors-aweigh/]]></link>
         <description><![CDATA[For educational use.
 
 The US Navy Song.  It's just the chorus, and it's been digitally altered to lower the pitch 3 semitones so beginner ukulele player can learn the song.  There are chords, the melody line, lyrics, and ukulele tab.
@@ -23,7 +23,7 @@ Navy - https://youtu.be/e8VI857L4Vc
 Air Force - https://youtu.be/43gjtd783q8
 Marines - https://youtu.be/yYqlXKRdFW0
 Coast Guard - https://youtu.be/d4jyOXkH3TA]]></description>
-        <guid><![CDATA[http://ukealong.com/song/the-mormon-tabernacle-choir-anchors-aweigh/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/the-mormon-tabernacle-choir-anchors-aweigh/]]></guid>
         <pubDate>Fri, 26 Apr 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

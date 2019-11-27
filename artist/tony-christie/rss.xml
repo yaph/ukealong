@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » Tony Christie</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » Tony Christie</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-        <title><![CDATA[Tony Christie - (Is This The Way To) Amarillo]]></title>
-        <link><![CDATA[http://ukealong.com/song/tony-christie--amarillo/]]></link>
+        <title><![CDATA[Tony Christie -  Amarillo]]></title>
+        <link><![CDATA[https://ukealong.com//song/tony-christie--amarillo/]]></link>
         <description><![CDATA[Ukulele play along
 
 Amarillo
@@ -24,7 +24,7 @@ Suggested Strum Patterns: D DU U DU
 This video is meant for educational purposes.
 
 No copyright infringement intended]]></description>
-        <guid><![CDATA[http://ukealong.com/song/tony-christie--amarillo/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/tony-christie--amarillo/]]></guid>
         <pubDate>Sat, 16 Jun 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

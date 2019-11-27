@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » Chris Rea</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » Chris Rea</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Chris Rea - The Road to Hell, Pt. 2]]></title>
-        <link><![CDATA[http://ukealong.com/song/chris-rea-the-road-to-hell,-pt.-2/]]></link>
+        <link><![CDATA[https://ukealong.com//song/chris-rea-the-road-to-hell,-pt.-2/]]></link>
         <description><![CDATA[Performed & written by Chris Rea.]]></description>
-        <guid><![CDATA[http://ukealong.com/song/chris-rea-the-road-to-hell,-pt.-2/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/chris-rea-the-road-to-hell,-pt.-2/]]></guid>
         <pubDate>Mon, 02 Apr 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

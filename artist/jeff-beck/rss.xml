@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » Jeff Beck</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » Jeff Beck</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Jeff Beck - Hi Ho Silver Lining]]></title>
-        <link><![CDATA[http://ukealong.com/song/jeff-beck-hi-ho-silver-lining/]]></link>
+        <link><![CDATA[https://ukealong.com//song/jeff-beck-hi-ho-silver-lining/]]></link>
         <description><![CDATA[Ukulele play along
 
 Hi Ho Silver Lining - Jeff Beck
@@ -22,7 +22,7 @@ Suggested Strum Pattern: D DU D DU (single strums for intro)
 This video is meant for educational purposes.
 
 No copyright infringement intended]]></description>
-        <guid><![CDATA[http://ukealong.com/song/jeff-beck-hi-ho-silver-lining/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/jeff-beck-hi-ho-silver-lining/]]></guid>
         <pubDate>Sat, 04 May 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

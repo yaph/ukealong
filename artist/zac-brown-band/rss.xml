@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » Zac Brown Band</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » Zac Brown Band</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-        <title><![CDATA[Zac Brown Band - Knee Deep (feat. Jimmy Buffett)]]></title>
-        <link><![CDATA[http://ukealong.com/song/zac-brown-band-knee-deep/]]></link>
+        <title><![CDATA[Zac Brown Band - Knee Deep ]]></title>
+        <link><![CDATA[https://ukealong.com//song/zac-brown-band-knee-deep/]]></link>
         <description><![CDATA[Knee Deep" by Zac Brown Band featuring Jimmy Buffet
 I transposed the song down to the key of D to make it more friendly for the ukulele.
 
@@ -21,7 +21,7 @@ This video features:
 A fun song for summer!
 
 I do not own the copyright to the song "Knee Deep." This video is for educational purposes]]></description>
-        <guid><![CDATA[http://ukealong.com/song/zac-brown-band-knee-deep/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/zac-brown-band-knee-deep/]]></guid>
         <pubDate>Sun, 10 Jul 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>

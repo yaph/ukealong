@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » Leon Redbone</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » Leon Redbone</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Leon Redbone - Christmas Island]]></title>
-        <link><![CDATA[http://ukealong.com/song/leon-redbone-christmas-island/]]></link>
+        <link><![CDATA[https://ukealong.com//song/leon-redbone-christmas-island/]]></link>
         <description><![CDATA[C, C7, F, G, G7, Am, D, D7]]></description>
-        <guid><![CDATA[http://ukealong.com/song/leon-redbone-christmas-island/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/leon-redbone-christmas-island/]]></guid>
         <pubDate>Fri, 09 Dec 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>

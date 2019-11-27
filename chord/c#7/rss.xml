@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Chord » C#7</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Chord » C#7</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Michael Jackson - Billie Jean]]></title>
-        <link><![CDATA[http://ukealong.com/song/michael-jackson-billie-jean/]]></link>
+        <link><![CDATA[https://ukealong.com//song/michael-jackson-billie-jean/]]></link>
         <description><![CDATA[Fredonia Middle School Ukulele]]></description>
-        <guid><![CDATA[http://ukealong.com/song/michael-jackson-billie-jean/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/michael-jackson-billie-jean/]]></guid>
         <pubDate>Tue, 13 Mar 2018 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Johnny Cash - Love's Been Good To Me (Album Version)]]></title>
-        <link><![CDATA[http://ukealong.com/song/johnny-cash-love's-been-good-to-me/]]></link>
+        <title><![CDATA[Johnny Cash - Love's Been Good To Me ]]></title>
+        <link><![CDATA[https://ukealong.com//song/johnny-cash-love's-been-good-to-me/]]></link>
         <description><![CDATA[Here's one for those who fancy a little challenge. Tip: play only every second chord. The good thing is, once you master this track you have improved a lot in your uke playing!
 
 Performed by Johnny Cash
 Written by Rod McKuen
 
 This video is created for an educational purpose. All rights belong to their respectful owners.]]></description>
-        <guid><![CDATA[http://ukealong.com/song/johnny-cash-love's-been-good-to-me/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/johnny-cash-love's-been-good-to-me/]]></guid>
         <pubDate>Mon, 06 Nov 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

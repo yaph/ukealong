@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Chord » Ammaj7</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Chord » Ammaj7</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Johnny Cash - The Mercy Seat]]></title>
-        <link><![CDATA[http://ukealong.com/song/johnny-cash-the-mercy-seat/]]></link>
+        <link><![CDATA[https://ukealong.com//song/johnny-cash-the-mercy-seat/]]></link>
         <description><![CDATA[Performed by Johnny Cash
 Written by Nick Cave]]></description>
-        <guid><![CDATA[http://ukealong.com/song/johnny-cash-the-mercy-seat/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/johnny-cash-the-mercy-seat/]]></guid>
         <pubDate>Tue, 01 May 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

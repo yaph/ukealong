@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » Paolo Nutini</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » Paolo Nutini</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-        <title><![CDATA[Paolo Nutini - 10-Oct (Album)]]></title>
-        <link><![CDATA[http://ukealong.com/song/paolo-nutini-10-oct/]]></link>
+        <title><![CDATA[Paolo Nutini - 10-Oct ]]></title>
+        <link><![CDATA[https://ukealong.com//song/paolo-nutini-10-oct/]]></link>
         <description><![CDATA[Ukulele play along - Very Easy
 
 10/10 - Paolo Nutini (from his 2009 album Sunny Side Up)
@@ -21,7 +21,7 @@ Suggested Strum Patterns: D DU U DU or D DU D DU
 This video is meant for educational purposes.
 
 No copyright infringement intended]]></description>
-        <guid><![CDATA[http://ukealong.com/song/paolo-nutini-10-oct/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/paolo-nutini-10-oct/]]></guid>
         <pubDate>Mon, 11 Mar 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

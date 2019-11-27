@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » Jesse Cook</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » Jesse Cook</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Jesse Cook - Cecilia]]></title>
-        <link><![CDATA[http://ukealong.com/song/jesse-cook-cecilia/]]></link>
+        <link><![CDATA[https://ukealong.com//song/jesse-cook-cecilia/]]></link>
         <description><![CDATA[Only C, F, G7!  The recording is a cover by Jesse Cook of the original by Simon and Garfunkel.]]></description>
-        <guid><![CDATA[http://ukealong.com/song/jesse-cook-cecilia/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/jesse-cook-cecilia/]]></guid>
         <pubDate>Tue, 27 Dec 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>

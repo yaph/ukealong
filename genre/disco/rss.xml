@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Genre » Disco</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Genre » Disco</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-        <title><![CDATA[Gloria Gaynor - I Will Survive (Single Version)]]></title>
-        <link><![CDATA[http://ukealong.com/song/gloria-gaynor-i-will-survive/]]></link>
+        <title><![CDATA[Gloria Gaynor - I Will Survive ]]></title>
+        <link><![CDATA[https://ukealong.com//song/gloria-gaynor-i-will-survive/]]></link>
         <description><![CDATA[Ukulele play along - Easy
 
 I Will Survive - Gloria Gaynor
@@ -23,12 +23,12 @@ Suggested Strum Patterns: D  D  DU UDU D DU or D DU U DU
 This video is meant for educational purposes.
 
 No copyright infringement intended]]></description>
-        <guid><![CDATA[http://ukealong.com/song/gloria-gaynor-i-will-survive/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/gloria-gaynor-i-will-survive/]]></guid>
         <pubDate>Fri, 26 Apr 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Power Generation Project - Dancing Queen]]></title>
-        <link><![CDATA[http://ukealong.com/song/power-generation-project-dancing-queen/]]></link>
+        <link><![CDATA[https://ukealong.com//song/power-generation-project-dancing-queen/]]></link>
         <description><![CDATA[For educational use.  Optimized for GCEA ukulele.  Key of G.  Transposed down a whole step from the original song.
 
 As performed by ABBA.
@@ -38,7 +38,7 @@ This one is partially for my wife, who has always loved disco music.
 Video created on the iPad Pro using Luma Fusion.  The ukulele chord font is Chordette for Education, available at ukefarm.com.
 
 Are these ukulele resources valuable to you?  If so, consider following my blog at ukestuff.info, and becoming a patron at www.patreon.com/cjrphd.  There is a master list of all similar play along videos at ukestuff.info.]]></description>
-        <guid><![CDATA[http://ukealong.com/song/power-generation-project-dancing-queen/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/power-generation-project-dancing-queen/]]></guid>
         <pubDate>Fri, 19 Jan 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

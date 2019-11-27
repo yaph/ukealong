@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Artist » Crosby</title>
-    <link>http://ukealong.com</link>
+    <link>https://ukealong.com/</link>
     <description>Artist » Crosby</description>
-    <lastBuildDate>Tue, 13 Aug 2019 00:23:46 </lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 01:35:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-        <title><![CDATA[Crosby, Stills, Nash & Young - Teach Your Children]]></title>
-        <link><![CDATA[http://ukealong.com/song/crosby,-stills,-nash-&-young-teach-your-children/]]></link>
+        <title><![CDATA[Crosby - Teach Your Children]]></title>
+        <link><![CDATA[https://ukealong.com//song/crosby-teach-your-children/]]></link>
         <description><![CDATA[Chords:
 D, G, A, A7, Bm7]]></description>
-        <guid><![CDATA[http://ukealong.com/song/crosby,-stills,-nash-&-young-teach-your-children/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/crosby-teach-your-children/]]></guid>
         <pubDate>Fri, 08 Feb 2019 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Crosby, Stills, Nash & Young - Helplessly Hoping]]></title>
-        <link><![CDATA[http://ukealong.com/song/crosby,-stills,-nash-&-young-helplessly-hoping/]]></link>
+        <title><![CDATA[Crosby - Helplessly Hoping]]></title>
+        <link><![CDATA[https://ukealong.com//song/crosby-helplessly-hoping/]]></link>
         <description><![CDATA[Am, Am7, C, G, D]]></description>
-        <guid><![CDATA[http://ukealong.com/song/crosby,-stills,-nash-&-young-helplessly-hoping/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/crosby-helplessly-hoping/]]></guid>
         <pubDate>Fri, 09 Dec 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>
