@@ -13,13 +13,15 @@
     <link href="/rss.xml" rel="alternate" type="application/rss+xml" title="RSS feed">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css">
     <link rel="stylesheet" href="/style.css">
-    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
 </head>
 <body>
-    <section class="content">
-        <div class="container"><a class="button is-light" href="/"><i class="fas fa-home"></i>&nbsp;&nbsp;Uke Along</a></div>
-    </section>
-<section class="content"><div class="container">
+<nav class="navbar" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+        <a class="navbar-item" href="/">
+            <img src="/img/ukealong-logo.png" width="110" height="42">
+        </a>
+    </div>
+</nav><section class="content"><div class="container">
 <h1>Chord » Bb C</h1>
 <div class="columns is-multiline">
     <div class="card column is-3">
@@ -33,14 +35,12 @@
 
 </div>
 </div></section>
-
-    <footer class="footer content">
+    <footer class="footer">
         <div class="container">
             <p>Uke Along is a site for ukulele players featuring songs to play along with chord charts.<br>
             <strong>Meta:</strong> <a class="link light-blue" href="/rss.xml">RSS Feed</a></p>
         </div>
     </footer>
-
     <script src="/vendor/blazy.min.js"></script>
     <script>window.onload = () => bLazy = new Blazy();</script>
 </body>
