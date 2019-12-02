@@ -2,6 +2,15 @@
     min-height: 150px;
 }
 
+.caption {
+    margin-top: .5rem;
+}
+
+.navbar-dropdown {
+    max-height: 70vh;
+    overflow: scroll;
+}
+
 /* responsive embed */
 .embed {
     background: #000000;
