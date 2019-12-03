@@ -6,6 +6,10 @@
     margin-top: .5rem;
 }
 
+.inline-list li {
+    display: inline;
+}
+
 .navbar-dropdown {
     max-height: 70vh;
     overflow: scroll;
