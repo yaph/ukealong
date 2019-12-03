@@ -3,9 +3,16 @@
 <channel><title>RSS Feed</title>
     <link>https://ukealong.com/</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Tue, 03 Dec 2019 20:23:00 </lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2019 21:45:16 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Alphabetical List of Artists Performing the Play Along Songs]]></title>
+        <link><![CDATA[https://ukealong.com//artists/]]></link>
+        <description><![CDATA[This page lists all artists who perform the play along songs currently featured on UkeAlong.com in alphabetical order based on the artist name.]]></description>
+        <guid><![CDATA[https://ukealong.com//artists/]]></guid>
+        <pubDate>Tue, 03 Dec 2019 21:32:51 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Alphabetical List of Chords Used in Play Along Songs]]></title>
         <link><![CDATA[https://ukealong.com//chords/]]></link>
@@ -112,23 +119,5 @@ If you found this video useful please subscribe.  If you want to be notified of 
 Do you have a request for a song to be made into a video?  First, check the index of play along videos at www.ukeplayalongs.com to make sure your song isn't already available.  If it isn't, please fill out this request form: https://forms.gle/84rgm7kFNJWnTqFB6.  We cannot promise that a request will be made into a play along, but we do appreciate your recommendations!]]></description>
         <guid><![CDATA[https://ukealong.com//song/sudha-wendeyaho/]]></guid>
         <pubDate>Thu, 05 Sep 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Kodaline - All I Want]]></title>
-        <link><![CDATA[https://ukealong.com//song/kodaline-all-i-want/]]></link>
-        <description><![CDATA[Ukulele play along
-
-All I Want - Kodaline
-
-Using the chords: Am  C Dm   F  G
-
-Suggested Strum Patterns: D DU DU (fast)
-
-
-This video is meant for educational purposes and ukulele lessons.
-
-No copyright infringement intended.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/kodaline-all-i-want/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>
