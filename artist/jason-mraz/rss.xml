@@ -3,7 +3,7 @@
 <channel><title>Artist » Jason Mraz</title>
     <link>https://ukealong.com/</link>
     <description>Artist » Jason Mraz</description>
-    <lastBuildDate>Tue, 03 Dec 2019 23:44:06 </lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2019 00:20:30 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -25,6 +25,14 @@ This video is meant for educational purposes.
 No copyright infringement intended]]></description>
         <guid><![CDATA[https://ukealong.com//song/jason-mraz-i-won-t-give-up/]]></guid>
         <pubDate>Tue, 30 Jul 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Jason Mraz - I'm Yours]]></title>
+        <link><![CDATA[https://ukealong.com//song/jason-mraz-i-m-yours/]]></link>
+        <description><![CDATA[Chords: C, G, Am, F, D7
+Lyrics are clean for school use and the ending now has accurate lyrics!]]></description>
+        <guid><![CDATA[https://ukealong.com//song/jason-mraz-i-m-yours/]]></guid>
+        <pubDate>Thu, 25 Oct 2018 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Jason Mraz - Have It All]]></title>
@@ -68,13 +76,5 @@ Check out the Ukulele Video Play Along Podcast, where I talk about ukulele educa
 Are these ukulele resources valuable to you?  If so, consider following my blog at ukestuff.info, and becoming a patron at www.patreon.com/cjrphd.  There is a master list of all similar play along videos at ukestuff.info.]]></description>
         <guid><![CDATA[https://ukealong.com//song/jason-mraz-lucky/]]></guid>
         <pubDate>Tue, 27 Mar 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Jason Mraz - I'm Yours]]></title>
-        <link><![CDATA[https://ukealong.com//song/jason-mraz-i-m-yours/]]></link>
-        <description><![CDATA[C, G, Am, F (and two instances of D7)!
-Clean language version for teachers at https://youtu.be/BFxVN_wVBgs]]></description>
-        <guid><![CDATA[https://ukealong.com//song/jason-mraz-i-m-yours/]]></guid>
-        <pubDate>Fri, 05 Aug 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>
