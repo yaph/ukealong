@@ -3,12 +3,12 @@
 <channel><title>Genre » Jazz</title>
     <link>https://ukealong.com/</link>
     <description>Genre » Jazz</description>
-    <lastBuildDate>Tue, 03 Dec 2019 22:06:17 </lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2019 23:44:06 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-        <title><![CDATA[Michael Bublé - Sway ]]></title>
-        <link><![CDATA[https://ukealong.com//song/michael-bublé-sway/]]></link>
+        <title><![CDATA[Michael Bublé - Sway]]></title>
+        <link><![CDATA[https://ukealong.com//song/michael-buble-sway/]]></link>
         <description><![CDATA[For educational use.  Optimized for GCEA ukulele.  Key of Dm.
 
 As performed by Michael Bublé.
@@ -18,7 +18,7 @@ The original shifts up a half step at the end...this version stays in Dm.  This 
 Need to practice at a different tempo?  Use the gear icon in the video (lower right) to slow down (or speed up) the tempo at pitch!  Need to do so on an iPad or iPhone?  Check out the browser called "iCab Mobile" which has a Module called "Video Playback Rate"
 
 Video created on the iPad Pro using Luma Fusion.  The ukulele chord font is Chordette for Education, available at ukefarm.com.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/michael-bublé-sway/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/michael-buble-sway/]]></guid>
         <pubDate>Thu, 24 Aug 2017 00:00:00 </pubDate>
     </item>
     <item>
@@ -52,5 +52,20 @@ My apologies to every music teacher who cringes as students play this song on th
 The ukulele chord font is Chordette for Education from ukefarm.com]]></description>
         <guid><![CDATA[https://ukealong.com//song/larry-clinton-heart-and-soul/]]></guid>
         <pubDate>Mon, 19 Jun 2017 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Bring Me Sunshine Ukulele Play Along]]></title>
+        <link><![CDATA[https://ukealong.com//song/bring-me-sunshine-ukulele-play-along/]]></link>
+        <description><![CDATA[From the Jive Aces..."Bring Me Sunshine."  The song uses a lot of chords, starting in Bb (Bb, Cm, F7, Bb7, C7, Eb) and then modulating with a change of tempo to C (C, Dm, G7, C7, D7, F).  If working with beginners, try starting at the faster tempo where it changes to C.
+
+This appears for educational use...please support the Jive Aces (who use ukulele) by downloading their albums and songs.
+
+The audio comes from the official Jive Aces video (only the music used):
+
+https://www.youtube.com/watch?v=oXvJ8UquYoo
+
+I created the printed lyrics on Keynote, edited in iMovie.  Transparency of the sun icon was created in Preview.  The chords that are used are a part of the Chordette for Education fonts from ukefarm.com.]]></description>
+        <guid><![CDATA[https://ukealong.com//song/bring-me-sunshine-ukulele-play-along/]]></guid>
+        <pubDate>Sat, 03 Jun 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

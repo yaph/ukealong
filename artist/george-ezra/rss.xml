@@ -3,27 +3,9 @@
 <channel><title>Artist » George Ezra</title>
     <link>https://ukealong.com/</link>
     <description>Artist » George Ezra</description>
-    <lastBuildDate>Tue, 03 Dec 2019 22:06:18 </lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2019 23:44:06 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    <item>
-        <title><![CDATA[George Ezra - Budapest]]></title>
-        <link><![CDATA[https://ukealong.com//song/george-ezra-budapest/]]></link>
-        <description><![CDATA[Ukulele play along
-
-Budapest - George Ezra
-
-Using the chords: Bb  C  F
-
-Suggested Strum Patterns: D DU U DU (island strum)
-
-
-This video is meant for educational purposes.
-
-No copyright infringement intended]]></description>
-        <guid><![CDATA[https://ukealong.com//song/george-ezra-budapest/]]></guid>
-        <pubDate>Wed, 29 May 2019 00:00:00 </pubDate>
-    </item>
     <item>
         <title><![CDATA[George Ezra - Shotgun]]></title>
         <link><![CDATA[https://ukealong.com//song/george-ezra-shotgun/]]></link>
@@ -41,5 +23,22 @@ This video is meant for educational purposes.
 No copyright infringement intended]]></description>
         <guid><![CDATA[https://ukealong.com//song/george-ezra-shotgun/]]></guid>
         <pubDate>Sun, 10 Feb 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[George Ezra - Budapest]]></title>
+        <link><![CDATA[https://ukealong.com//song/george-ezra-budapest/]]></link>
+        <description><![CDATA[This video was created by the SUNY Fredonia Ukulele Club, and is for educational purposes ONLY.
+
+All rights belong to George Ezra and Joel Pott.
+
+CHORDS USED: C, Bb, F
+
+Strum On!
+
+Instagram: https://www.instagram.com/fredoniaukuleleclub/
+
+Facebook: https://www.facebook.com/fredoniaukuleleclub/?ref=aymt_homepage_panel]]></description>
+        <guid><![CDATA[https://ukealong.com//song/george-ezra-budapest/]]></guid>
+        <pubDate>Thu, 01 Feb 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

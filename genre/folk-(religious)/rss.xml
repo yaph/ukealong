@@ -3,12 +3,25 @@
 <channel><title>Genre » Folk (Religious)</title>
     <link>https://ukealong.com/</link>
     <description>Genre » Folk (Religious)</description>
-    <lastBuildDate>Tue, 03 Dec 2019 22:06:18 </lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2019 23:44:06 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
+        <title><![CDATA[When the Saints Go Marching In]]></title>
+        <link><![CDATA[https://ukealong.com//song/when-the-saints-go-marching-in/]]></link>
+        <description><![CDATA[For educational use.  Optimized for GCEA ukulele.  Key of C.
+
+As performed by Kids-Songs.TV.  It is nearly impossible to find a version of this song in C that uses only 3 chords and stays in C!  This is a transposed (from D) and shortened version of the original video.
+
+Original video:  https://www.youtube.com/watch?v=giiK_lYsR0Q
+
+Video created on the iPad Pro using Luma Fusion.  The ukulele chord font is Chordette for Education, available at ukefarm.com. The colored font matches Aquila KIDS ukulele strings.]]></description>
+        <guid><![CDATA[https://ukealong.com//song/when-the-saints-go-marching-in/]]></guid>
+        <pubDate>Mon, 10 Jul 2017 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Laurie London - He's Got the Whole World in His Hands]]></title>
-        <link><![CDATA[https://ukealong.com//song/laurie-london-he's-got-the-whole-world-in-his-hands/]]></link>
+        <link><![CDATA[https://ukealong.com//song/laurie-london-he-s-got-the-whole-world-in-his-hands/]]></link>
         <description><![CDATA[For educational use.  Optimized for GCEA ukulele.  Key of C.
 
 As performed by Laurie London
@@ -16,7 +29,7 @@ As performed by Laurie London
 Original video:  https://www.youtube.com/watch?v=cqb3NSiSwoc
 
 Video created on the iPad Pro using Luma Fusion.  The ukulele chord font is Chordette for Education, available at ukefarm.com. The colored font matches Aquila KIDS ukulele strings.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/laurie-london-he's-got-the-whole-world-in-his-hands/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/laurie-london-he-s-got-the-whole-world-in-his-hands/]]></guid>
         <pubDate>Sun, 09 Jul 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>
