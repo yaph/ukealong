@@ -90,6 +90,7 @@
     </div>
 </nav><section class="content"><div class="container">
 <h1>Chord » C7 D</h1>
+<svg id="fretboard"></svg>
 <div class="columns is-multiline">
     <div class="card column is-3">
     <a href="/song/yael-naim-new-soul/">
@@ -115,5 +116,25 @@
     <script src="/vendor/blazy.min.js"></script>
     <script src="/compiled/navbar.js"></script>
     <script>window.onload = () => bLazy = new Blazy();</script>
+<script src="/vendor/tonal.min.js"></script>
+<script src="/vendor/d3-selection.min.js"></script>
+<script src="/vendor/traste.min.js"></script>
+<script>
+let chord_name = 'C7-D';
+let chord = Tonal.Chord.chord(chord_name);
+let highlight_color = '#eeeeee';
+let triad_colors = ['#96CBFF', '#FFE48E', '#FFB28E'];
+
+traste.drawFretboard('#fretboard', traste.instruments.ukulele, chord.notes);
+
+let h1 = d3.select('h1');
+h1.text(chord_name + ' chord: ' + chord.notes.join(' - '));
+
+for (let idx in chord.notes) {
+    let note = chord.notes[idx];
+    let fill = triad_colors && triad_colors[idx] ? triad_colors[idx] : highlight_color;
+    d3.selectAll(`.notes circle[title="${note}"]`).style('fill', fill);
+}
+</script>
 </body>
 </html>
