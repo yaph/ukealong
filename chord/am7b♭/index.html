@@ -123,20 +123,7 @@
 <script src="/vendor/traste.min.js"></script>
 <script>
 let chord_name = 'Am7bb';
-let chord = Tonal.Chord.chord(chord_name);
-let highlight_color = '#eeeeee';
-let colors = ['#8dd3c7','#ffffb3','#bebada','#fb8072','#80b1d3','#fdb462','#b3de69'];
-
-traste.drawFretboard('#fretboard', traste.instruments.ukulele, chord.notes);
-
-let h1 = d3.select('h1');
-h1.text(chord_name + ' chord: ' + chord.notes.join(' - '));
-
-for (let idx in chord.notes) {
-    let note = chord.notes[idx];
-    let fill = colors && colors[idx] ? colors[idx] : highlight_color;
-    d3.selectAll(`.notes circle[title="${note}"]`).style('fill', fill);
-}
 </script>
+<script src="/compiled/chord.js"></script>
 </body>
 </html>
