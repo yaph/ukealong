@@ -3,9 +3,45 @@
 <channel><title>Uke Along Artist » Vance Joy</title>
     <link>https://ukealong.com/</link>
     <description>Artist » Vance Joy</description>
-    <lastBuildDate>Wed, 25 Dec 2019 19:06:52 </lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2019 13:16:55 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Vance Joy - Saturday Sun]]></title>
+        <link><![CDATA[https://ukealong.com//song/vance-joy-saturday-sun/]]></link>
+        <description><![CDATA[Ukulele play along - Easy
+
+Saturday Sun - Vance Joy
+
+Using the chords: C D Em G
+
+Suggested Strum Patterns: D DU U DU
+
+
+This video is meant for educational purposes.
+
+No copyright infringement intended]]></description>
+        <guid><![CDATA[https://ukealong.com//song/vance-joy-saturday-sun/]]></guid>
+        <pubDate>Sat, 21 Sep 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Vance Joy - Riptide]]></title>
+        <link><![CDATA[https://ukealong.com//song/vance-joy-riptide/]]></link>
+        <description><![CDATA[Ukulele play along - Easy
+
+Riptide - Vance Joy
+
+Using the chords: Am  C  F  G
+
+Suggested Strum Patterns: D D UDU and D XU U DU
+
+
+This video is meant for educational purposes.
+
+No copyright infringement intended]]></description>
+        <guid><![CDATA[https://ukealong.com//song/vance-joy-riptide/]]></guid>
+        <pubDate>Fri, 14 Jun 2019 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Vance Joy - Georgia]]></title>
         <link><![CDATA[https://ukealong.com//song/vance-joy-georgia/]]></link>
@@ -20,12 +56,5 @@ Check out the Ukulele Video Play Along Podcast, where I talk about ukulele educa
 Are these ukulele resources valuable to you?  If so, consider following my blog at ukestuff.info, and becoming a patron at www.patreon.com/cjrphd.  There is a master list of all similar play along videos at ukestuff.info.]]></description>
         <guid><![CDATA[https://ukealong.com//song/vance-joy-georgia/]]></guid>
         <pubDate>Sun, 25 Mar 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Vance Joy - Riptide]]></title>
-        <link><![CDATA[https://ukealong.com//song/vance-joy-riptide/]]></link>
-        <description><![CDATA[This video was created by the university students in the SUNY Fredonia Ukulele Club.  BIG thanks to them for allowing me to post their work. Chords = Am, G, C, F]]></description>
-        <guid><![CDATA[https://ukealong.com//song/vance-joy-riptide/]]></guid>
-        <pubDate>Sun, 21 Aug 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>
