@@ -3,9 +3,16 @@
 <channel><title>Uke Along Artist » Bastille</title>
     <link>https://ukealong.com/</link>
     <description>Artist » Bastille</description>
-    <lastBuildDate>Thu, 26 Dec 2019 13:16:55 </lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2020 01:58:43 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Marshmello - Happier]]></title>
+        <link><![CDATA[https://ukealong.com//song/marshmello-happier/]]></link>
+        <description><![CDATA[Fredonia Middle School Ukulele]]></description>
+        <guid><![CDATA[https://ukealong.com//song/marshmello-happier/]]></guid>
+        <pubDate>Tue, 11 Dec 2018 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Bastille - Pompeii]]></title>
         <link><![CDATA[https://ukealong.com//song/bastille-pompeii/]]></link>
