@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Holiday</title>
     <link>https://ukealong.com/</link>
     <description>Genre » Holiday</description>
-    <lastBuildDate>Sat, 11 Jan 2020 15:44:30 </lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2020 15:55:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -32,6 +32,13 @@ T-Shirts & Merch: https:https://www.redbubble.com/people/ukulaliens/shop
 This video is meant for educational purposes.]]></description>
         <guid><![CDATA[https://ukealong.com//song/rockin-roary-all-i-want-for-christmas/]]></guid>
         <pubDate>Thu, 05 Dec 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[All I want for Christmas is My Two Front Teeth Ukulele Play Along]]></title>
+        <link><![CDATA[https://ukealong.com//song/all-i-want-for-christmas-is-my-two-front-teeth-ukulele-play-along/]]></link>
+        <description><![CDATA[For Educational Use.  This video will be used for my ukulele players,  with another class singing along.  Chords used are:  C, D7, G7, F, E7, and Am.]]></description>
+        <guid><![CDATA[https://ukealong.com//song/all-i-want-for-christmas-is-my-two-front-teeth-ukulele-play-along/]]></guid>
+        <pubDate>Tue, 19 Nov 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[We Wish You A Merry Christmas - Ukulele Play Along]]></title>
@@ -202,14 +209,5 @@ If you found this video useful please subscribe and share with your friends. If 
 Do you have a request for a song to be made into a video? First, check the index of play alongs at www.ukeplayalongs.com to make sure your song isn't already available. If it isn't, please fill out this request form: https://forms.gle/84rgm7kFNJWnTqFB6 .  We cannot promise that a request will be made into a play along, but we do appreciate your recommendations!]]></description>
         <guid><![CDATA[https://ukealong.com//song/easter-egg-hunt-by-kizcastle-ukulele-play-along/]]></guid>
         <pubDate>Fri, 29 Mar 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Oh, No! Silly Bunny - Ukulele Play Along for Easter]]></title>
-        <link><![CDATA[https://ukealong.com//song/oh-no-silly-bunny-ukulele-play-along-for-easter/]]></link>
-        <description><![CDATA[For educational use.
-
-As performed by ‎Maple Leaf Learning, with the pitch lowered to the key of C.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/oh-no-silly-bunny-ukulele-play-along-for-easter/]]></guid>
-        <pubDate>Wed, 20 Mar 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>
