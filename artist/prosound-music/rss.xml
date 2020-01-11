@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Uke Along Artist » Prosound Music</title>
+    <link>https://ukealong.com/</link>
+    <description>Artist » Prosound Music</description>
+    <lastBuildDate>Sat, 11 Jan 2020 15:07:08 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[ProSound Music - You've Got A Friend In Me]]></title>
+        <link><![CDATA[https://ukealong.com//song/prosound-music-you-ve-got-a-friend-in-me/]]></link>
+        <description><![CDATA[This video is about You've Got a Friend in Me Key Change]]></description>
+        <guid><![CDATA[https://ukealong.com//song/prosound-music-you-ve-got-a-friend-in-me/]]></guid>
+        <pubDate>Wed, 17 May 2017 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[ProSound Music - Walking On Sunshine]]></title>
+        <link><![CDATA[https://ukealong.com//song/prosound-music-walking-on-sunshine/]]></link>
+        <description><![CDATA[This video is about Walking on Sunshine]]></description>
+        <guid><![CDATA[https://ukealong.com//song/prosound-music-walking-on-sunshine/]]></guid>
+        <pubDate>Tue, 25 Apr 2017 00:00:00 </pubDate>
+    </item>
+</channel></rss>

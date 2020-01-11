@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Vance Joy</title>
     <link>https://ukealong.com/</link>
     <description>Artist » Vance Joy</description>
-    <lastBuildDate>Sat, 11 Jan 2020 01:58:42 </lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2020 15:07:08 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -56,5 +56,12 @@ Check out the Ukulele Video Play Along Podcast, where I talk about ukulele educa
 Are these ukulele resources valuable to you?  If so, consider following my blog at ukestuff.info, and becoming a patron at www.patreon.com/cjrphd.  There is a master list of all similar play along videos at ukestuff.info.]]></description>
         <guid><![CDATA[https://ukealong.com//song/vance-joy-georgia/]]></guid>
         <pubDate>Sun, 25 Mar 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Vance Joy - Play With Fire]]></title>
+        <link><![CDATA[https://ukealong.com//song/vance-joy-play-with-fire/]]></link>
+        <description><![CDATA[What a cool song owned by Vance Joy buy his CDs.  This song has the same the chord progression all the way through: G (1bar) C (1 bar) and F (2 bars).]]></description>
+        <guid><![CDATA[https://ukealong.com//song/vance-joy-play-with-fire/]]></guid>
+        <pubDate>Fri, 22 Aug 2014 00:00:00 </pubDate>
     </item>
 </channel></rss>

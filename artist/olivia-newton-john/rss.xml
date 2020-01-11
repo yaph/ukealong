@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Olivia Newton John</title>
     <link>https://ukealong.com/</link>
     <description>Artist » Olivia Newton John</description>
-    <lastBuildDate>Sat, 11 Jan 2020 01:58:43 </lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2020 15:07:08 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -20,5 +20,12 @@ Check out the Ukulele Video Play Along Podcast, where I talk about ukulele educa
 Are these ukulele resources valuable to you?  If so, consider following my blog at ukestuff.info, and becoming a patron at www.patreon.com/cjrphd.  There is a master list of all similar play along videos at ukestuff.info.  Also check out the searchable interface at ukeability.org.]]></description>
         <guid><![CDATA[https://ukealong.com//song/john-travolta-we-go-together/]]></guid>
         <pubDate>Sat, 24 Mar 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[John Travolta - The Grease Mega-Mix]]></title>
+        <link><![CDATA[https://ukealong.com//song/john-travolta-the-grease-mega-mix/]]></link>
+        <description><![CDATA[Lowered Summer Nights to the key of C to fit nicely on the Uke.]]></description>
+        <guid><![CDATA[https://ukealong.com//song/john-travolta-the-grease-mega-mix/]]></guid>
+        <pubDate>Fri, 15 Nov 2013 00:00:00 </pubDate>
     </item>
 </channel></rss>
