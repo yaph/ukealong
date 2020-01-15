@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » G.R.L.</title>
     <link>https://ukealong.com/</link>
     <description>Artist » G.R.L.</description>
-    <lastBuildDate>Wed, 15 Jan 2020 15:20:04 </lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 00:48:25 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -13,5 +13,13 @@
 In this version I plant the 1st and 2nd fingers for three chords: A, D and F#m.]]></description>
         <guid><![CDATA[https://ukealong.com//song/g-r-l-ugly-heart/]]></guid>
         <pubDate>Fri, 15 Aug 2014 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[G.R.L. - Ugly Heart]]></title>
+        <link><![CDATA[https://ukealong.com//song/g-r-l-ugly-heart-2/]]></link>
+        <description><![CDATA[This song belongs to GRL so buy their CDs
+It's a nice song with no inappropriate messages, (rare these days) and it essentially says don't put up with someone who has an ugly heart.]]></description>
+        <guid><![CDATA[https://ukealong.com//song/g-r-l-ugly-heart-2/]]></guid>
+        <pubDate>Thu, 14 Aug 2014 00:00:00 </pubDate>
     </item>
 </channel></rss>

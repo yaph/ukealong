@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » R. City</title>
     <link>https://ukealong.com/</link>
     <description>Artist » R. City</description>
-    <lastBuildDate>Wed, 15 Jan 2020 15:20:05 </lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 00:48:26 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -24,5 +24,17 @@ This version matches the educational Color Chord approach and uses four chords: 
 Are these ukulele resources valuable to you?  If so, consider following my blog at ukestuff.info, and becoming a patron at www.patreon.com/cjrphd.  There is a master list of all similar play along videos at ukestuff.info.]]></description>
         <guid><![CDATA[https://ukealong.com//song/r-city-locked-away/]]></guid>
         <pubDate>Sun, 21 Jan 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[R. City - Locked Away]]></title>
+        <link><![CDATA[https://ukealong.com//song/r-city-locked-away-2/]]></link>
+        <description><![CDATA[Only C, Am, F, G
+
+Check out the website for the ukulele jam sessions I run via Fredonia Ukulele: https://sites.google.com/a/fredonia.e...
+
+Check out my website for music teachers:
+https://sites.google.com/a/fredonia.e...]]></description>
+        <guid><![CDATA[https://ukealong.com//song/r-city-locked-away-2/]]></guid>
+        <pubDate>Sat, 13 Feb 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>

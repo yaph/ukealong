@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Dwayne Johnson</title>
     <link>https://ukealong.com/</link>
     <description>Artist » Dwayne Johnson</description>
-    <lastBuildDate>Wed, 15 Jan 2020 15:20:04 </lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 00:48:25 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,5 +12,12 @@
         <description><![CDATA[Fredonia Middle School Ukulele]]></description>
         <guid><![CDATA[https://ukealong.com//song/dwayne-johnson-you-re-welcome/]]></guid>
         <pubDate>Wed, 15 Mar 2017 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Dwayne Johnson - You're Welcome]]></title>
+        <link><![CDATA[https://ukealong.com//song/dwayne-johnson-you-re-welcome-2/]]></link>
+        <description><![CDATA[Educational ukulele play-along video of "You're Welcome" from "Moana".  Music by Lin-Manuel Miranda]]></description>
+        <guid><![CDATA[https://ukealong.com//song/dwayne-johnson-you-re-welcome-2/]]></guid>
+        <pubDate>Mon, 16 Jan 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

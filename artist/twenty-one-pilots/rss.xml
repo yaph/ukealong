@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Twenty One Pilots</title>
     <link>https://ukealong.com/</link>
     <description>Artist » Twenty One Pilots</description>
-    <lastBuildDate>Wed, 15 Jan 2020 15:20:04 </lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 00:48:25 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -51,5 +51,12 @@ No copyright infringement intended]]></description>
         <description><![CDATA[This video is for educational purposes only.]]></description>
         <guid><![CDATA[https://ukealong.com//song/twenty-one-pilots-stressed-out/]]></guid>
         <pubDate>Sun, 19 Mar 2017 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Twenty One Pilots - The Judge]]></title>
+        <link><![CDATA[https://ukealong.com//song/twenty-one-pilots-the-judge-2/]]></link>
+        <description><![CDATA[Fredonia Middle School Ukulele]]></description>
+        <guid><![CDATA[https://ukealong.com//song/twenty-one-pilots-the-judge-2/]]></guid>
+        <pubDate>Wed, 08 Feb 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

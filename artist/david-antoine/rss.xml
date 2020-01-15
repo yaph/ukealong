@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » David Antoine</title>
     <link>https://ukealong.com/</link>
     <description>Artist » David Antoine</description>
-    <lastBuildDate>Wed, 15 Jan 2020 15:20:05 </lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 00:48:25 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,5 +12,12 @@
         <description><![CDATA[From 3mins18s to 1min9s not enough time to get bored with the song]]></description>
         <guid><![CDATA[https://ukealong.com//song/david-antoine-what-makes-you-beautiful/]]></guid>
         <pubDate>Wed, 20 Nov 2013 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[David Antoine - What Makes You Beautiful]]></title>
+        <link><![CDATA[https://ukealong.com//song/david-antoine-what-makes-you-beautiful-2/]]></link>
+        <description><![CDATA[Strumming pattern in the verses Ta Ta Ta Ta titi titi titi titi - Down down down down, downup downup downup downup.  Then reverse in the chorus.. with clapping in the middle and one strums in the bridge.]]></description>
+        <guid><![CDATA[https://ukealong.com//song/david-antoine-what-makes-you-beautiful-2/]]></guid>
+        <pubDate>Wed, 29 May 2013 00:00:00 </pubDate>
     </item>
 </channel></rss>

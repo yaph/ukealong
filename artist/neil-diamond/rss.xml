@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Neil Diamond</title>
     <link>https://ukealong.com/</link>
     <description>Artist » Neil Diamond</description>
-    <lastBuildDate>Wed, 15 Jan 2020 15:20:05 </lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 00:48:26 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -24,5 +24,17 @@ This video is meant for educational purposes.
 No copyright infringement intended]]></description>
         <guid><![CDATA[https://ukealong.com//song/neil-diamond-sweet-caroline/]]></guid>
         <pubDate>Sat, 13 Apr 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Neil Diamond - Sweet Caroline]]></title>
+        <link><![CDATA[https://ukealong.com//song/neil-diamond-sweet-caroline-2/]]></link>
+        <description><![CDATA[Mainly C, F, G or G7...A little bit of Em, Am, Dm.
+
+Check out the website for the ukulele jam sessions I run via Fredonia Ukulele: https://sites.google.com/a/fredonia.e...
+
+Check out my website for music teachers:
+https://sites.google.com/a/fredonia.e...]]></description>
+        <guid><![CDATA[https://ukealong.com//song/neil-diamond-sweet-caroline-2/]]></guid>
+        <pubDate>Sun, 03 Apr 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>

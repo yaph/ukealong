@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Bruno Mars</title>
     <link>https://ukealong.com/</link>
     <description>Artist » Bruno Mars</description>
-    <lastBuildDate>Wed, 15 Jan 2020 15:20:04 </lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 00:48:25 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -45,5 +45,12 @@ If you found this video useful please subscribe and share with your friends. If 
 Video created on the iPad Pro using Luma Fusion. The uke chord font is Chordette for Education, available at ukefarm.com.]]></description>
         <guid><![CDATA[https://ukealong.com//song/bruno-mars-count-on-me/]]></guid>
         <pubDate>Tue, 04 Jun 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Bruno Mars - Count on Me]]></title>
+        <link><![CDATA[https://ukealong.com//song/bruno-mars-count-on-me-2/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com//song/bruno-mars-count-on-me-2/]]></guid>
+        <pubDate>Sat, 01 Jun 2013 00:00:00 </pubDate>
     </item>
 </channel></rss>

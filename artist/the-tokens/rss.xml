@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » The Tokens</title>
     <link>https://ukealong.com/</link>
     <description>Artist » The Tokens</description>
-    <lastBuildDate>Wed, 15 Jan 2020 15:20:05 </lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 00:48:25 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -18,5 +18,12 @@ or
 https://www.youtube.com/watch?v=MBBmUVqM6Vw]]></description>
         <guid><![CDATA[https://ukealong.com//song/the-tokens-the-lion-sleeps-tonight/]]></guid>
         <pubDate>Thu, 12 Jul 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Tokens - The Lion Sleeps Tonight]]></title>
+        <link><![CDATA[https://ukealong.com//song/the-tokens-the-lion-sleeps-tonight-2/]]></link>
+        <description><![CDATA[This is a video I made for my elementary music students - it's in the key of C & can be played on soprano, concert, & tenor ukuleles.]]></description>
+        <guid><![CDATA[https://ukealong.com//song/the-tokens-the-lion-sleeps-tonight-2/]]></guid>
+        <pubDate>Mon, 24 Oct 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>

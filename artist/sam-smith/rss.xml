@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Sam Smith</title>
     <link>https://ukealong.com/</link>
     <description>Artist » Sam Smith</description>
-    <lastBuildDate>Wed, 15 Jan 2020 15:20:04 </lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 00:48:25 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -37,5 +37,13 @@ Thanks for watching the videos and supporting the channel!]]></description>
         <description><![CDATA[For Educational Use ...Key transposed to play the chords of C, D, Em, and G]]></description>
         <guid><![CDATA[https://ukealong.com//song/sam-smith-dancing-with-a-stranger/]]></guid>
         <pubDate>Mon, 22 Apr 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Sam Smith - Too Good At Goodbyes]]></title>
+        <link><![CDATA[https://ukealong.com//song/sam-smith-too-good-at-goodbyes-2/]]></link>
+        <description><![CDATA[Created with Movavi Video Suite
+https://www.movavi.com/videoeditor/]]></description>
+        <guid><![CDATA[https://ukealong.com//song/sam-smith-too-good-at-goodbyes-2/]]></guid>
+        <pubDate>Sat, 30 Dec 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

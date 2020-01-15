@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Plastic Lines</title>
     <link>https://ukealong.com/</link>
     <description>Artist » Plastic Lines</description>
-    <lastBuildDate>Wed, 15 Jan 2020 15:20:04 </lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 00:48:25 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -11,6 +11,13 @@
         <link><![CDATA[https://ukealong.com//song/plastic-lines-wake-me-up/]]></link>
         <description><![CDATA[Just Am, F, C, G.  This video has the play-along with a simpler strum pattern at the original tempo. Use this link to access the practice video for the syncopated strum (https://youtu.be/CPlUsgAAWA8). Use this link to access the play-along with the syncopated strum at a slower place (https://youtu.be/Hz1tPr_gLNc). Use this link to access the play-along with the syncopated strum at the original speed (https://youtu.be/7tNG1J2ybgo).]]></description>
         <guid><![CDATA[https://ukealong.com//song/plastic-lines-wake-me-up/]]></guid>
+        <pubDate>Mon, 05 Sep 2016 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Plastic Lines - Wake Me Up]]></title>
+        <link><![CDATA[https://ukealong.com//song/plastic-lines-wake-me-up-2/]]></link>
+        <description><![CDATA[Just Am, F, C, G.  This video has the play-along with the syncopated strum pattern at a slower tempo. Use this link to access the play-along at the original speed (https://youtu.be/7tNG1J2ybgo). Use this link to access the strum practice video (https://youtu.be/CPlUsgAAWA8).  Use this link to access the play-along with a simplified strum pattern (https://youtu.be/lEHPJ_bOGbI ).]]></description>
+        <guid><![CDATA[https://ukealong.com//song/plastic-lines-wake-me-up-2/]]></guid>
         <pubDate>Mon, 05 Sep 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>

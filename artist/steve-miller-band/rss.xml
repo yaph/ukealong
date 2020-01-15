@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Steve Miller Band</title>
     <link>https://ukealong.com/</link>
     <description>Artist » Steve Miller Band</description>
-    <lastBuildDate>Wed, 15 Jan 2020 15:20:04 </lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 00:48:25 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -18,6 +18,14 @@
         <link><![CDATA[https://ukealong.com//song/steve-miller-band-rock-n-me/]]></link>
         <description><![CDATA[See the full video at https://youtu.be/g5Oaasxiof4]]></description>
         <guid><![CDATA[https://ukealong.com//song/steve-miller-band-rock-n-me/]]></guid>
+        <pubDate>Sun, 21 Apr 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Steve Miller Band - Rock 'n' Me]]></title>
+        <link><![CDATA[https://ukealong.com//song/steve-miller-band-rock-n-me-2/]]></link>
+        <description><![CDATA[Chords: F, C, B-flat
+See Riff Practice Video: https://youtu.be/o-CP4fPDI0o]]></description>
+        <guid><![CDATA[https://ukealong.com//song/steve-miller-band-rock-n-me-2/]]></guid>
         <pubDate>Sun, 21 Apr 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

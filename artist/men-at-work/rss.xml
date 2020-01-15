@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Men At Work</title>
     <link>https://ukealong.com/</link>
     <description>Artist » Men At Work</description>
-    <lastBuildDate>Wed, 15 Jan 2020 15:20:05 </lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 00:48:26 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -24,5 +24,12 @@ This video is meant for educational purposes and ukulele lessons.
 No copyright infringement intended.]]></description>
         <guid><![CDATA[https://ukealong.com//song/men-at-work-down-under/]]></guid>
         <pubDate>Sat, 17 Aug 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Men at Work - Down Under]]></title>
+        <link><![CDATA[https://ukealong.com//song/men-at-work-down-under-2/]]></link>
+        <description><![CDATA[Ukulele tutorial for Fredonia Middle School]]></description>
+        <guid><![CDATA[https://ukealong.com//song/men-at-work-down-under-2/]]></guid>
+        <pubDate>Thu, 29 Sep 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>

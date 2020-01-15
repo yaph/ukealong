@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Santana</title>
     <link>https://ukealong.com/</link>
     <description>Artist » Santana</description>
-    <lastBuildDate>Wed, 15 Jan 2020 15:20:04 </lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 00:48:25 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,5 +12,12 @@
         <description><![CDATA[Am and D with no picking parts.  This is for some teachers/students who find the additional picking parts unnecessary or distracting.]]></description>
         <guid><![CDATA[https://ukealong.com//song/santana-oye-como-va/]]></guid>
         <pubDate>Thu, 15 Sep 2016 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Santana - Oye Como Va]]></title>
+        <link><![CDATA[https://ukealong.com//song/santana-oye-como-va-2/]]></link>
+        <description><![CDATA[Use this video to practice the syncopated strums and the picking.  Then visit the play-along of the whole song and jam: https://youtu.be/g5kipSXZVMI]]></description>
+        <guid><![CDATA[https://ukealong.com//song/santana-oye-como-va-2/]]></guid>
+        <pubDate>Fri, 29 Jul 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>
