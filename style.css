@@ -10,8 +10,16 @@ a:visited {
     min-height: 150px;
 }
 
+.card img {
+    width: 100%;
+}
+
 .caption {
     margin-top: .5rem;
+}
+
+.content.section {
+    padding-top: .5rem;
 }
 
 .inline-list li {

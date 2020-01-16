@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Santana</title>
     <link>https://ukealong.com/</link>
     <description>Artist » Santana</description>
-    <lastBuildDate>Thu, 16 Jan 2020 00:48:25 </lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2020 00:34:00 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -14,10 +14,17 @@
         <pubDate>Thu, 15 Sep 2016 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Santana - Oye Como Va]]></title>
+        <title><![CDATA[Santana - Oye Como Va - Key of D]]></title>
         <link><![CDATA[https://ukealong.com//song/santana-oye-como-va-2/]]></link>
-        <description><![CDATA[Use this video to practice the syncopated strums and the picking.  Then visit the play-along of the whole song and jam: https://youtu.be/g5kipSXZVMI]]></description>
+        <description><![CDATA[Only D and Am chords!  Watch out for the syncopated rhythms throughout.  Try the bass line!  To practice the parts (at a slower speed and at the original speed), go to this video: https://youtu.be/Vl_I4jfsMvE]]></description>
         <guid><![CDATA[https://ukealong.com//song/santana-oye-como-va-2/]]></guid>
+        <pubDate>Fri, 29 Jul 2016 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Santana - Oye Como Va]]></title>
+        <link><![CDATA[https://ukealong.com//song/santana-oye-como-va-3/]]></link>
+        <description><![CDATA[Use this video to practice the syncopated strums and the picking.  Then visit the play-along of the whole song and jam: https://youtu.be/g5kipSXZVMI]]></description>
+        <guid><![CDATA[https://ukealong.com//song/santana-oye-como-va-3/]]></guid>
         <pubDate>Fri, 29 Jul 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>

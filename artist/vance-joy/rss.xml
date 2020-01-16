@@ -3,11 +3,11 @@
 <channel><title>Uke Along Artist » Vance Joy</title>
     <link>https://ukealong.com/</link>
     <description>Artist » Vance Joy</description>
-    <lastBuildDate>Thu, 16 Jan 2020 00:48:25 </lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2020 00:34:00 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-        <title><![CDATA[Vance Joy - Saturday Sun]]></title>
+        <title><![CDATA[Vance Joy - Saturday Sun - Key of G]]></title>
         <link><![CDATA[https://ukealong.com//song/vance-joy-saturday-sun/]]></link>
         <description><![CDATA[Ukulele play along - Easy
 
@@ -43,7 +43,7 @@ No copyright infringement intended]]></description>
         <pubDate>Fri, 14 Jun 2019 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Vance Joy - Georgia]]></title>
+        <title><![CDATA[Vance Joy - Georgia - Key of Am]]></title>
         <link><![CDATA[https://ukealong.com//song/vance-joy-georgia/]]></link>
         <description><![CDATA[For educational use.  Optimized for GCEA ukulele.  Key of Am.  Raised a half step from the original key.
 
@@ -58,6 +58,13 @@ Are these ukulele resources valuable to you?  If so, consider following my blog 
         <pubDate>Sun, 25 Mar 2018 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Vance Joy - Riptide - Key of Am]]></title>
+        <link><![CDATA[https://ukealong.com//song/vance-joy-riptide-2/]]></link>
+        <description><![CDATA[This video was created by the university students in the SUNY Fredonia Ukulele Club.  BIG thanks to them for allowing me to post their work. Chords = Am, G, C, F]]></description>
+        <guid><![CDATA[https://ukealong.com//song/vance-joy-riptide-2/]]></guid>
+        <pubDate>Sun, 21 Aug 2016 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Vance Joy - Play With Fire]]></title>
         <link><![CDATA[https://ukealong.com//song/vance-joy-play-with-fire/]]></link>
         <description><![CDATA[What a cool song owned by Vance Joy buy his CDs.  This song has the same the chord progression all the way through: G (1bar) C (1 bar) and F (2 bars).]]></description>
@@ -66,9 +73,9 @@ Are these ukulele resources valuable to you?  If so, consider following my blog 
     </item>
     <item>
         <title><![CDATA[Vance Joy - Riptide]]></title>
-        <link><![CDATA[https://ukealong.com//song/vance-joy-riptide-2/]]></link>
+        <link><![CDATA[https://ukealong.com//song/vance-joy-riptide-3/]]></link>
         <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com//song/vance-joy-riptide-2/]]></guid>
+        <guid><![CDATA[https://ukealong.com//song/vance-joy-riptide-3/]]></guid>
         <pubDate>Wed, 29 Jan 2014 00:00:00 </pubDate>
     </item>
 </channel></rss>
