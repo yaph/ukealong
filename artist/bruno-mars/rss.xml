@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Bruno Mars</title>
     <link>https://ukealong.com/</link>
     <description>Artist » Bruno Mars</description>
-    <lastBuildDate>Fri, 17 Jan 2020 02:00:28 </lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2020 14:38:05 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -47,7 +47,7 @@ Video created on the iPad Pro using Luma Fusion. The uke chord font is Chordette
         <pubDate>Tue, 04 Jun 2019 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Bruno Mars - Count on Me - Baritone Ukulele]]></title>
+        <title><![CDATA[Bruno Mars - Count on Me - Baritone Ukulele - Key of C]]></title>
         <link><![CDATA[https://ukealong.com//song/bruno-mars-count-on-me-baritone-ukulele/]]></link>
         <description><![CDATA[This tutorial will show you how to play Count On Me on the ukulele by Bruno Mars. The chords used are C F G Am Dm Em.
 
@@ -85,12 +85,5 @@ Check out my website for music teachers:
 https://sites.google.com/a/fredonia.e...]]></description>
         <guid><![CDATA[https://ukealong.com//song/bruno-mars-count-on-me-3/]]></guid>
         <pubDate>Sat, 12 Mar 2016 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Bruno Mars - Count on Me]]></title>
-        <link><![CDATA[https://ukealong.com//song/bruno-mars-count-on-me-4/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com//song/bruno-mars-count-on-me-4/]]></guid>
-        <pubDate>Sat, 01 Jun 2013 00:00:00 </pubDate>
     </item>
 </channel></rss>
