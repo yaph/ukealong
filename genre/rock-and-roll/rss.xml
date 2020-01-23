@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Rock And Roll</title>
     <link>https://ukealong.com/</link>
     <description>Genre » Rock And Roll</description>
-    <lastBuildDate>Wed, 22 Jan 2020 16:40:27 </lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2020 15:08:40 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -82,5 +82,21 @@ Need to practice at a different tempo?  Use the gear icon in the video (lower ri
 Video created on the iPad Pro using Luma Fusion.  The ukulele chord font is Chordette for Education, available at ukefarm.com.]]></description>
         <guid><![CDATA[https://ukealong.com//song/chuck-berry-johnny-b-goode/]]></guid>
         <pubDate>Fri, 21 Jul 2017 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Dave Clark Five - Do You Love Me - Key of C]]></title>
+        <link><![CDATA[https://ukealong.com//song/dave-clark-five-do-you-love-me/]]></link>
+        <description><![CDATA[As performed by the Dave Clark Five
+
+Transposed to the Key of C
+
+Video contains directions for music classroom use.
+Call and Response style playing.
+Chords used:  C  F  G
+
+This revision fixes an issue with a couple of chords placed on the wrong lyric.
+I do not own the copyright to this music.]]></description>
+        <guid><![CDATA[https://ukealong.com//song/dave-clark-five-do-you-love-me/]]></guid>
+        <pubDate>Sun, 30 Oct 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>
