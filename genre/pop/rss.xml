@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Pop</title>
     <link>https://ukealong.com/</link>
     <description>Genre » Pop</description>
-    <lastBuildDate>Thu, 23 Jan 2020 15:08:40 </lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2020 14:45:38 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -128,6 +128,13 @@ No copyright infringement intended]]></description>
         <pubDate>Sat, 23 Nov 2019 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Ed Sheeran - Beautiful People - Key of C]]></title>
+        <link><![CDATA[https://ukealong.com//song/ed-sheeran-beautiful-people/]]></link>
+        <description><![CDATA[This video is for educational purposes only.]]></description>
+        <guid><![CDATA[https://ukealong.com//song/ed-sheeran-beautiful-people/]]></guid>
+        <pubDate>Fri, 01 Nov 2019 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Purple People Eater Ukulele Play Along Without Key Changes - Key of D]]></title>
         <link><![CDATA[https://ukealong.com//song/purple-people-eater-ukulele-play-along-without-key-changes/]]></link>
         <description><![CDATA[For educational use.  Optimized for GCEA Ukulele.  Key of D
@@ -192,25 +199,6 @@ This video is meant for educational purposes.
 
 No copyright infringement intended]]></description>
         <guid><![CDATA[https://ukealong.com//song/elvis-presley-suspicious-minds-2/]]></guid>
-        <pubDate>Thu, 10 Oct 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Elvis Presley - Suspicious Minds - Key of Am]]></title>
-        <link><![CDATA[https://ukealong.com//song/elvis-presley-suspicious-minds/]]></link>
-        <description><![CDATA[Ukulele play along
-
-Suspicious Minds - Elvis Presley
-Written by Mark James
-
-Using the chords: Bm  B7  C  D  D7  Em  G
-
-Suggested Strum Patterns: D DU U DU
-
-
-This video is meant for educational purposes.
-
-No copyright infringement intended]]></description>
-        <guid><![CDATA[https://ukealong.com//song/elvis-presley-suspicious-minds/]]></guid>
         <pubDate>Thu, 10 Oct 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>
