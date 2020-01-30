@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » R5</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » R5</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[R5 - Lay Your Head Down]]></title>
-        <link><![CDATA[https://ukealong.com//song/r5-lay-your-head-down/]]></link>
+        <link><![CDATA[https://ukealong.com/song/r5-lay-your-head-down/]]></link>
         <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com//song/r5-lay-your-head-down/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/r5-lay-your-head-down/]]></guid>
         <pubDate>Sat, 15 Jul 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

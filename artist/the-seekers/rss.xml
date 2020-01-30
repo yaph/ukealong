@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » The Seekers</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » The Seekers</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[The Seekers - Emerald City]]></title>
-        <link><![CDATA[https://ukealong.com//song/the-seekers-emerald-city/]]></link>
+        <link><![CDATA[https://ukealong.com/song/the-seekers-emerald-city/]]></link>
         <description><![CDATA[Seekers' Song (not mine). I changed the key up to G from the original Eflat, to sit nicely on the Recorder and semi nicely on the Uke.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/the-seekers-emerald-city/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/the-seekers-emerald-city/]]></guid>
         <pubDate>Mon, 01 Dec 2014 00:00:00 </pubDate>
     </item>
 </channel></rss>

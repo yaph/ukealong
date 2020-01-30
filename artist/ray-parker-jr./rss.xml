@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Ray Parker Jr.</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Ray Parker Jr.</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Ray Parker Jr. - Ghostbusters - Key of A]]></title>
-        <link><![CDATA[https://ukealong.com//song/ray-parker-jr-ghostbusters/]]></link>
+        <link><![CDATA[https://ukealong.com/song/ray-parker-jr-ghostbusters/]]></link>
         <description><![CDATA[For educational use.  Modified and optimized for GCEA ukulele.  Key of A.
 
 As performed by Ray Parker, Jr
@@ -16,15 +16,15 @@ As performed by Ray Parker, Jr
 Need to practice at a different tempo?  Use the gear icon in the video (lower right) to slow down (or speed up) the tempo at pitch!  Need to do so on an iPad or iPhone?  Check out the browser called "iCab Mobile" which has a Module called "Video Playback Rate"
 
 Video created on the iPad Pro using Luma Fusion.  The ukulele chord font is Chordette for Education, available at ukefarm.com.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/ray-parker-jr-ghostbusters/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/ray-parker-jr-ghostbusters/]]></guid>
         <pubDate>Sat, 28 Oct 2017 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Ray Parker Jr. - Ghostbusters - Key of F]]></title>
-        <link><![CDATA[https://ukealong.com//song/ray-parker-jr-ghostbusters-2/]]></link>
+        <link><![CDATA[https://ukealong.com/song/ray-parker-jr-ghostbusters-2/]]></link>
         <description><![CDATA[An educational ukulele play along to the Ghostbusters theme, using mainly C and F. The strumming pattern is on macrobeats. The Bb chord is optional, as are the picking patterns.
 The original lyric video is from https://www.youtube.com/watch?v=1HFw50kMh-w]]></description>
-        <guid><![CDATA[https://ukealong.com//song/ray-parker-jr-ghostbusters-2/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/ray-parker-jr-ghostbusters-2/]]></guid>
         <pubDate>Wed, 25 Oct 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

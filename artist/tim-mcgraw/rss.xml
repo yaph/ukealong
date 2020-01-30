@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Tim Mcgraw</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Tim Mcgraw</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Tim McGraw - Live Like You Were Dying - Key of G, A]]></title>
-        <link><![CDATA[https://ukealong.com//song/tim-mcgraw-live-like-you-were-dying/]]></link>
+        <link><![CDATA[https://ukealong.com/song/tim-mcgraw-live-like-you-were-dying/]]></link>
         <description><![CDATA[For educational use.
 
 Chords Used: The first two verses are in the key of G and uses G, C, Em, D, and 1 B7.  The third verse is in the key of A and uses A, D, Gbm, E, and 1 C#.
@@ -19,7 +19,7 @@ If you found this video useful please subscribe and share with your friends. If 
 
 
 Do you have a request for a song to be made into a video? First, check the index of play alongs at www.ukeplayalongs.com to make sure your song isn't already available. If it isn't, please fill out this request form: https://forms.gle/84rgm7kFNJWnTqFB6 .  We cannot promise that a request will be made into a play along, but we do appreciate your recommendations!]]></description>
-        <guid><![CDATA[https://ukealong.com//song/tim-mcgraw-live-like-you-were-dying/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/tim-mcgraw-live-like-you-were-dying/]]></guid>
         <pubDate>Thu, 04 Jul 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

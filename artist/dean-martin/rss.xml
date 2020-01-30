@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Dean Martin</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Dean Martin</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Dean Martin - Let It Snow, Let It Snow, Let It Snow - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com//song/dean-martin-let-it-snow-let-it-snow-let-it-snow/]]></link>
+        <link><![CDATA[https://ukealong.com/song/dean-martin-let-it-snow-let-it-snow-let-it-snow/]]></link>
         <description><![CDATA[For Educational Use.  Optimized for GCEA ukulele.  Key of C.
 
 As performed by Dean Martin...however, I ended the video after the instrumental break as the ending experiences a half step key change...making the ending too hard to play for many players (C#, G#7, etc.).
 
 Created with Luma Fusion on the iPad Pro, ukulele font is Chordette for Education, available at ukefarm.com]]></description>
-        <guid><![CDATA[https://ukealong.com//song/dean-martin-let-it-snow-let-it-snow-let-it-snow/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/dean-martin-let-it-snow-let-it-snow-let-it-snow/]]></guid>
         <pubDate>Sun, 02 Jul 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

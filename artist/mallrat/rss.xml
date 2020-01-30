@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Mallrat</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Mallrat</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Mallrat - Groceries - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com//song/mallrat-groceries/]]></link>
+        <link><![CDATA[https://ukealong.com/song/mallrat-groceries/]]></link>
         <description><![CDATA[Fredonia Middle School Ukulele]]></description>
-        <guid><![CDATA[https://ukealong.com//song/mallrat-groceries/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/mallrat-groceries/]]></guid>
         <pubDate>Tue, 28 May 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

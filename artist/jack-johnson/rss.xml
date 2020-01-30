@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Jack Johnson</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Jack Johnson</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Jack Johnson - Better Together - Key of F]]></title>
-        <link><![CDATA[https://ukealong.com//song/jack-johnson-better-together/]]></link>
+        <link><![CDATA[https://ukealong.com/song/jack-johnson-better-together/]]></link>
         <description><![CDATA[Ukulele play along
 
 Better Together - Jack Johnson
@@ -21,19 +21,19 @@ Suggested Strum Patterns: DU XU DU XU or DU DU DU DU  (X=chuck)
 This video is meant for educational purposes.
 
 No copyright infringement intended]]></description>
-        <guid><![CDATA[https://ukealong.com//song/jack-johnson-better-together/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/jack-johnson-better-together/]]></guid>
         <pubDate>Thu, 11 Jul 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Jack Johnson - Banana Pancakes - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com//song/jack-johnson-banana-pancakes/]]></link>
+        <link><![CDATA[https://ukealong.com/song/jack-johnson-banana-pancakes/]]></link>
         <description><![CDATA[Fredonia Middle School Ukulele]]></description>
-        <guid><![CDATA[https://ukealong.com//song/jack-johnson-banana-pancakes/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/jack-johnson-banana-pancakes/]]></guid>
         <pubDate>Mon, 18 Sep 2017 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Jack Johnson - My Own Two Hands - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com//song/jack-johnson-my-own-two-hands/]]></link>
+        <link><![CDATA[https://ukealong.com/song/jack-johnson-my-own-two-hands/]]></link>
         <description><![CDATA[This is a ukulele play-along for the song "My Own Two Hands" as performed by Jack Johnson and Ben Harper; simply added chords to the existing YouTube video by EricaElliptical (https://www.youtube.com/watch?v=mRjDBd6tBBY)
 
 The blog post that led to the creation of this play along: http://motleymuse.blogspot.com/2017/03/lower-school-uke-jam.html
@@ -41,7 +41,7 @@ The blog post that led to the creation of this play along: http://motleymuse.blo
 Chords used: G, C, D, and E minor.
 
 The ukulele chord font comes from an app/font set called Chordette for Education by ukefarm.com.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/jack-johnson-my-own-two-hands/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/jack-johnson-my-own-two-hands/]]></guid>
         <pubDate>Wed, 31 May 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

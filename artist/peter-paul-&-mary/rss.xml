@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Peter Paul & Mary</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Peter Paul & Mary</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Peter Paul & Mary - Puff the Magic Dragon - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com//song/peter-paul-mary-puff-the-magic-dragon/]]></link>
+        <link><![CDATA[https://ukealong.com/song/peter-paul-mary-puff-the-magic-dragon/]]></link>
         <description><![CDATA[For educational use.  Optimized for GCEA ukulele.  Key of G.  The original is in A, so this is lowered a whole step.
 
 As performed by Peter, Paul, and Mary.
@@ -18,7 +18,7 @@ I’m not going to lie...this was a favorite song of mine growing up...and thus 
 Video created on the iPad Pro using Luma Fusion.  The ukulele chord font is Chordette for Education, available at ukefarm.com.
 
 Are these ukulele resources valuable to you?  If so, consider following my blog at ukestuff.info, and becoming a patron at www.patreon.com/cjrphd.  There is a master list of all similar play along videos at ukestuff.info.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/peter-paul-mary-puff-the-magic-dragon/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/peter-paul-mary-puff-the-magic-dragon/]]></guid>
         <pubDate>Fri, 09 Feb 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

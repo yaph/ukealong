@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Various Artists</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Various Artists</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:09 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Various Artists - The Window Cleaner - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com//song/various-artists-the-window-cleaner/]]></link>
+        <link><![CDATA[https://ukealong.com/song/various-artists-the-window-cleaner/]]></link>
         <description><![CDATA[Ukulele play along
 
 When I'm Cleaning Windows (In C) - George Formby
@@ -23,12 +23,12 @@ This is a higher key than our other version.
 This video is meant for educational purposes.
 
 No copyright infringement intended]]></description>
-        <guid><![CDATA[https://ukealong.com//song/various-artists-the-window-cleaner/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/various-artists-the-window-cleaner/]]></guid>
         <pubDate>Thu, 01 Aug 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Various Artists - The Window Cleaner - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com//song/various-artists-the-window-cleaner-2/]]></link>
+        <link><![CDATA[https://ukealong.com/song/various-artists-the-window-cleaner-2/]]></link>
         <description><![CDATA[Ukulele play along
 
 When I'm Cleaning Windows - George Formby
@@ -43,25 +43,25 @@ The audio has been slightly lowered to make it easier to play
 This video is meant for educational purposes.
 
 No copyright infringement intended]]></description>
-        <guid><![CDATA[https://ukealong.com//song/various-artists-the-window-cleaner-2/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/various-artists-the-window-cleaner-2/]]></guid>
         <pubDate>Wed, 31 Jul 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Various Artists - All Star - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com//song/various-artists-all-star/]]></link>
+        <link><![CDATA[https://ukealong.com/song/various-artists-all-star/]]></link>
         <description><![CDATA[Fredonia Middle School Ukulele]]></description>
-        <guid><![CDATA[https://ukealong.com//song/various-artists-all-star/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/various-artists-all-star/]]></guid>
         <pubDate>Mon, 11 Feb 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Various Artists - On Top of Spaghetti - Key of C, D]]></title>
-        <link><![CDATA[https://ukealong.com//song/various-artists-on-top-of-spaghetti/]]></link>
+        <link><![CDATA[https://ukealong.com/song/various-artists-on-top-of-spaghetti/]]></link>
         <description><![CDATA[For educational use.  Optimized for GCEA ukulele.  Keys of C & D
 
 As performed by Luigi
 
 Video created on the iPad Pro using Luma Fusion.  The ukulele chord font is Chordette for Education, available at ukefarm.com.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/various-artists-on-top-of-spaghetti/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/various-artists-on-top-of-spaghetti/]]></guid>
         <pubDate>Mon, 17 Jul 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

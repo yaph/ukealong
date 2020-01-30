@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » David Antoine</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » David Antoine</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[David Antoine - What Makes You Beautiful - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com//song/david-antoine-what-makes-you-beautiful/]]></link>
+        <link><![CDATA[https://ukealong.com/song/david-antoine-what-makes-you-beautiful/]]></link>
         <description><![CDATA[Strumming pattern in the verses Ta Ta Ta Ta titi titi titi titi - Down down down down, downup downup downup downup.  Then reverse in the chorus.. with clapping in the middle and one strums in the bridge.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/david-antoine-what-makes-you-beautiful/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/david-antoine-what-makes-you-beautiful/]]></guid>
         <pubDate>Wed, 29 May 2013 00:00:00 </pubDate>
     </item>
 </channel></rss>

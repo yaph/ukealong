@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » George Ezra</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » George Ezra</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[George Ezra - Shotgun - Key of F]]></title>
-        <link><![CDATA[https://ukealong.com//song/george-ezra-shotgun/]]></link>
+        <link><![CDATA[https://ukealong.com/song/george-ezra-shotgun/]]></link>
         <description><![CDATA[Ukulele play along - Easy
 
 Shotgun - George Ezra
@@ -21,12 +21,12 @@ Suggested Strum Patterns: D DU U DU (Island strum)
 This video is meant for educational purposes.
 
 No copyright infringement intended]]></description>
-        <guid><![CDATA[https://ukealong.com//song/george-ezra-shotgun/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/george-ezra-shotgun/]]></guid>
         <pubDate>Sun, 10 Feb 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[George Ezra - Budapest - Key of F]]></title>
-        <link><![CDATA[https://ukealong.com//song/george-ezra-budapest/]]></link>
+        <link><![CDATA[https://ukealong.com/song/george-ezra-budapest/]]></link>
         <description><![CDATA[This video was created by the SUNY Fredonia Ukulele Club, and is for educational purposes ONLY.
 
 All rights belong to George Ezra and Joel Pott.
@@ -38,7 +38,7 @@ Strum On!
 Instagram: https://www.instagram.com/fredoniaukuleleclub/
 
 Facebook: https://www.facebook.com/fredoniaukuleleclub/?ref=aymt_homepage_panel]]></description>
-        <guid><![CDATA[https://ukealong.com//song/george-ezra-budapest/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/george-ezra-budapest/]]></guid>
         <pubDate>Thu, 01 Feb 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

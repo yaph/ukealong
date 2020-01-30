@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » My Chemical Romance</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » My Chemical Romance</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[My Chemical Romance - Welcome to the Black Parade - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com//song/my-chemical-romance-welcome-to-the-black-parade/]]></link>
+        <link><![CDATA[https://ukealong.com/song/my-chemical-romance-welcome-to-the-black-parade/]]></link>
         <description><![CDATA[Ukulele tutorial for Fredonia Middle School]]></description>
-        <guid><![CDATA[https://ukealong.com//song/my-chemical-romance-welcome-to-the-black-parade/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/my-chemical-romance-welcome-to-the-black-parade/]]></guid>
         <pubDate>Mon, 03 Oct 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>

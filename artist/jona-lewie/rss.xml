@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Jona Lewie</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Jona Lewie</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Jona Lewie - Stop the Cavalry - Key of A]]></title>
-        <link><![CDATA[https://ukealong.com//song/jona-lewie-stop-the-cavalry/]]></link>
+        <link><![CDATA[https://ukealong.com/song/jona-lewie-stop-the-cavalry/]]></link>
         <description><![CDATA[Ukulele play along of Stop The Cavalry by Jona Lewie
 Using the chords: A E7 G D
 
@@ -18,7 +18,7 @@ No copyright infringement intended - original recording by Jona Lewie
 
 Note:
 Try using 2nd, 3rd and 4th dingers for the D chord, especially changing between D and A.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/jona-lewie-stop-the-cavalry/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/jona-lewie-stop-the-cavalry/]]></guid>
         <pubDate>Thu, 12 Oct 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

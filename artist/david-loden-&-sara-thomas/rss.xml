@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » David Loden & Sara Thomas</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » David Loden & Sara Thomas</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Nava Loden - I Have A Little Dreidl - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com//song/nava-loden-i-have-a-little-dreidl/]]></link>
+        <link><![CDATA[https://ukealong.com/song/nava-loden-i-have-a-little-dreidl/]]></link>
         <description><![CDATA[For educational use.  Optimized for GCEA ukulele.  Key of C (lowered a whole step from the original)
 
 As performed by David and Lisa Loren
@@ -20,7 +20,7 @@ Video created on the iPad Pro using Luma Fusion.  The ukulele chord font is Chor
 The colored font matches Aquila KIDS ukulele strings.
 
 Are these ukulele resources valuable to you?  If so, consider following my blog at ukestuff.info, and becoming a patron at www.patreon.com/cjrphd]]></description>
-        <guid><![CDATA[https://ukealong.com//song/nava-loden-i-have-a-little-dreidl/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/nava-loden-i-have-a-little-dreidl/]]></guid>
         <pubDate>Sun, 19 Nov 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

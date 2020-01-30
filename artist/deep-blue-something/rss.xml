@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Deep Blue Something</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Deep Blue Something</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Deep Blue Something - Breakfast At Tiffany's - Key of D]]></title>
-        <link><![CDATA[https://ukealong.com//song/deep-blue-something-breakfast-at-tiffany-s/]]></link>
+        <link><![CDATA[https://ukealong.com/song/deep-blue-something-breakfast-at-tiffany-s/]]></link>
         <description><![CDATA[Ukulele play along
 Breakfast At Tiffany's - Deep Blue Something
 
@@ -23,7 +23,7 @@ Play D DU U DU for the D chord then D D for the G chord and U DU for the A chord
 This video is meant for educational purposes.
 
 No copyright infringement intended]]></description>
-        <guid><![CDATA[https://ukealong.com//song/deep-blue-something-breakfast-at-tiffany-s/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/deep-blue-something-breakfast-at-tiffany-s/]]></guid>
         <pubDate>Sat, 07 Apr 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

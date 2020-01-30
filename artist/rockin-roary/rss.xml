@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Rockin Roary</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Rockin Roary</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Rockin Roary - All I Want For Christmas - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com//song/rockin-roary-all-i-want-for-christmas/]]></link>
+        <link><![CDATA[https://ukealong.com/song/rockin-roary-all-i-want-for-christmas/]]></link>
         <description><![CDATA[Ukulele play along - Christmas Easy
 
 All I Want For Christmas Is My two front Teeth
@@ -30,7 +30,7 @@ T-Shirts & Merch: https:https://www.redbubble.com/people/ukulaliens/shop
 
 
 This video is meant for educational purposes.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/rockin-roary-all-i-want-for-christmas/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/rockin-roary-all-i-want-for-christmas/]]></guid>
         <pubDate>Thu, 05 Dec 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

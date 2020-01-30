@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Gummibaer</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Gummibaer</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Gummibaer - I Am A Gummy Bear Karaoke Version - Key of Am]]></title>
-        <link><![CDATA[https://ukealong.com//song/gummibaer-i-am-a-gummy-bear-karaoke-version/]]></link>
+        <link><![CDATA[https://ukealong.com/song/gummibaer-i-am-a-gummy-bear-karaoke-version/]]></link>
         <description><![CDATA[For educational use.  Optimized for GCEA ukulele.  Key of Am.
 
 As performed by The Gummy Bear Show.
@@ -20,7 +20,7 @@ The colored font matches Aquila KIDS and DR Multi-Color ukulele strings.
 This version matches the educational Color Chord approach and uses four chords: C (red sticker), G (green stickers), F (yellow stickers) and Am (blue sticker).
 
 Are these ukulele resources valuable to you?  If so, consider following my blog at ukestuff.info, and becoming a patron at www.patreon.com/cjrphd.  There is a master list of all similar play along videos at ukestuff.info.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/gummibaer-i-am-a-gummy-bear-karaoke-version/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/gummibaer-i-am-a-gummy-bear-karaoke-version/]]></guid>
         <pubDate>Wed, 17 Jan 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

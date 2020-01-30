@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Queens Of The Stone Age</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Queens Of The Stone Age</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Queens Of The Stone Age - Go With The Flow]]></title>
-        <link><![CDATA[https://ukealong.com//song/queens-of-the-stone-age-go-with-the-flow/]]></link>
+        <link><![CDATA[https://ukealong.com/song/queens-of-the-stone-age-go-with-the-flow/]]></link>
         <description><![CDATA[Hey! Check my awesome stuff for merch at
 https://www.redbubble.com/people/Ukeledu/shop
 
@@ -40,7 +40,7 @@ _________________________
 
 Facebook: https://www.facebook.com/ukeledu/
 Instagram: https://www.instagram.com/ukeledu.music/]]></description>
-        <guid><![CDATA[https://ukealong.com//song/queens-of-the-stone-age-go-with-the-flow/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/queens-of-the-stone-age-go-with-the-flow/]]></guid>
         <pubDate>Sat, 28 Dec 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

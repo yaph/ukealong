@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Clean Bandit</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Clean Bandit</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Clean Bandit - Rockabye - Key of Am]]></title>
-        <link><![CDATA[https://ukealong.com//song/clean-bandit-rockabye/]]></link>
+        <link><![CDATA[https://ukealong.com/song/clean-bandit-rockabye/]]></link>
         <description><![CDATA[Fredonia Middle School Ukulele]]></description>
-        <guid><![CDATA[https://ukealong.com//song/clean-bandit-rockabye/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/clean-bandit-rockabye/]]></guid>
         <pubDate>Tue, 24 Apr 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

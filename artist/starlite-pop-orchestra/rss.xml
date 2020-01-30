@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Starlite Pop Orchestra</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Starlite Pop Orchestra</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Starlite Pop Orchestra - White Christmas, song - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com//song/starlite-pop-orchestra-white-christmas-song/]]></link>
+        <link><![CDATA[https://ukealong.com/song/starlite-pop-orchestra-white-christmas-song/]]></link>
         <description><![CDATA[Ukulele play along of White Christmas
 
 A nice easy version as it is a slow tempo, ideal for beginners.
@@ -20,7 +20,7 @@ Strum Pattern: D  DU  D  DU
 This video is meant for educational purposes.
 
 No copyright infringement intended]]></description>
-        <guid><![CDATA[https://ukealong.com//song/starlite-pop-orchestra-white-christmas-song/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/starlite-pop-orchestra-white-christmas-song/]]></guid>
         <pubDate>Wed, 18 Oct 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

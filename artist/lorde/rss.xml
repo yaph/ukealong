@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Lorde</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Lorde</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Lorde - Royals - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com//song/lorde-royals/]]></link>
+        <link><![CDATA[https://ukealong.com/song/lorde-royals/]]></link>
         <description><![CDATA[This video was created by the SUNY Fredonia Ukulele Club and is for educational purposes ONLY.
 
 All rights belong to Lorde and Joel Little.
@@ -20,7 +20,7 @@ Strum On!!
 Instagram: https://www.instagram.com/fredoniaukuleleclub/
 
 Facebook: https://www.facebook.com/fredoniaukuleleclub/?ref=aymt_homepage_panel]]></description>
-        <guid><![CDATA[https://ukealong.com//song/lorde-royals/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/lorde-royals/]]></guid>
         <pubDate>Fri, 10 Nov 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

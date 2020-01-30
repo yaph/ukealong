@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Alicia Keys</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Alicia Keys</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Pedro Capó - Calma - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com//song/pedro-capo-calma/]]></link>
+        <link><![CDATA[https://ukealong.com/song/pedro-capo-calma/]]></link>
         <description><![CDATA[Acá les dejo CALMA de Pedro Capó, para que puedan tocarlo con sus Ukeleles!!
 
 Deja en los comentarios que canción querés para el próximo video!]]></description>
-        <guid><![CDATA[https://ukealong.com//song/pedro-capo-calma/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/pedro-capo-calma/]]></guid>
         <pubDate>Mon, 04 Feb 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

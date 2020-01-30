@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Joseph Williams</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Joseph Williams</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Nathan Lane - Hakuna Matata - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com//song/nathan-lane-hakuna-matata/]]></link>
+        <link><![CDATA[https://ukealong.com/song/nathan-lane-hakuna-matata/]]></link>
         <description><![CDATA[This video was created by the SUNY Fredonia Ukulele Club and is for educational purposes ONLY.
 
 All rights belong to Elton John and Tim Rice.
@@ -20,7 +20,7 @@ Like our page on facebook: https://www.facebook.com/fredoniaukuleleclub/?ref=aym
 Follow us on instagram: https://www.instagram.com/fredoniaukuleleclub/
 
 Strum On!!]]></description>
-        <guid><![CDATA[https://ukealong.com//song/nathan-lane-hakuna-matata/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/nathan-lane-hakuna-matata/]]></guid>
         <pubDate>Sun, 01 Oct 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

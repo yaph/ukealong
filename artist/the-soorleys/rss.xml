@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » The Soorleys</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » The Soorleys</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[The Soorleys - Rumble]]></title>
-        <link><![CDATA[https://ukealong.com//song/the-soorleys-rumble/]]></link>
+        <link><![CDATA[https://ukealong.com/song/the-soorleys-rumble/]]></link>
         <description><![CDATA[This song belongs to the Soorleys so please buy their Music and go and see them live.  The strumming pattern they I have played over the track is mostly ti ti tikatika ti ti tikatika, or down  down  down-up down-up down  down  down-up down-up,,  I think these lyrics are correct.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/the-soorleys-rumble/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/the-soorleys-rumble/]]></guid>
         <pubDate>Thu, 09 Oct 2014 00:00:00 </pubDate>
     </item>
 </channel></rss>

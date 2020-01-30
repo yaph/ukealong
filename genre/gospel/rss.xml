@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Genre » Gospel</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Genre » Gospel</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Johnny Cash - Wayfaring Stranger - Key of Am]]></title>
-        <link><![CDATA[https://ukealong.com//song/johnny-cash-wayfaring-stranger/]]></link>
+        <link><![CDATA[https://ukealong.com/song/johnny-cash-wayfaring-stranger/]]></link>
         <description><![CDATA[Performed by Johnny Cash
 Trad.
 
 This video is created for an educational purpose. All rights belong to their respectful owners.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/johnny-cash-wayfaring-stranger/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/johnny-cash-wayfaring-stranger/]]></guid>
         <pubDate>Mon, 06 Nov 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

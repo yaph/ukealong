@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » The Traveling Wilburys</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » The Traveling Wilburys</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[The Traveling Wilburys - Handle With Care - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com//song/the-traveling-wilburys-handle-with-care/]]></link>
+        <link><![CDATA[https://ukealong.com/song/the-traveling-wilburys-handle-with-care/]]></link>
         <description><![CDATA[Chords: D, D7, G, C, Em, G+
 Simple Strum: DU DU DU DU
 Other Strum: D- DU D- DU;  D- DU -U DU]]></description>
-        <guid><![CDATA[https://ukealong.com//song/the-traveling-wilburys-handle-with-care/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/the-traveling-wilburys-handle-with-care/]]></guid>
         <pubDate>Thu, 16 May 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

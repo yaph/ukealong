@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Crosby</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Crosby</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Crosby - Teach Your Children - Key of D]]></title>
-        <link><![CDATA[https://ukealong.com//song/crosby-teach-your-children/]]></link>
+        <link><![CDATA[https://ukealong.com/song/crosby-teach-your-children/]]></link>
         <description><![CDATA[Chords:
 D, G, A, A7, Bm7]]></description>
-        <guid><![CDATA[https://ukealong.com//song/crosby-teach-your-children/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/crosby-teach-your-children/]]></guid>
         <pubDate>Fri, 08 Feb 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Crosby - Helplessly Hoping - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com//song/crosby-helplessly-hoping/]]></link>
+        <link><![CDATA[https://ukealong.com/song/crosby-helplessly-hoping/]]></link>
         <description><![CDATA[Am, Am7, C, G, D]]></description>
-        <guid><![CDATA[https://ukealong.com//song/crosby-helplessly-hoping/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/crosby-helplessly-hoping/]]></guid>
         <pubDate>Fri, 09 Dec 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>

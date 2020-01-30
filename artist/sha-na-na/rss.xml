@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Sha Na Na</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Sha Na Na</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Sha-Na-Na - Those Magic Changes - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com//song/sha-na-na-those-magic-changes/]]></link>
+        <link><![CDATA[https://ukealong.com/song/sha-na-na-those-magic-changes/]]></link>
         <description><![CDATA[Last version had a host of issues.
 Chords = C, G, Am, F...with a G# at the very end.
 
 Possible strum: D- DU- -U DU]]></description>
-        <guid><![CDATA[https://ukealong.com//song/sha-na-na-those-magic-changes/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/sha-na-na-those-magic-changes/]]></guid>
         <pubDate>Mon, 28 Jan 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

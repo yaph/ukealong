@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Mama Cass</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Mama Cass</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Mama Cass - Dream A Little Dream Of Me - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com//song/mama-cass-dream-a-little-dream-of-me/]]></link>
+        <link><![CDATA[https://ukealong.com/song/mama-cass-dream-a-little-dream-of-me/]]></link>
         <description><![CDATA[Ukulele play along
 
 Dream A Little Dream Of Me - The Mamas & The Paps
@@ -24,7 +24,7 @@ This is not an easy play along but with lots of practice it is very playable and
 This video is meant for educational purposes and ukulele lessons.
 
 No copyright infringement intended.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/mama-cass-dream-a-little-dream-of-me/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/mama-cass-dream-a-little-dream-of-me/]]></guid>
         <pubDate>Fri, 09 Aug 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

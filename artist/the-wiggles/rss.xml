@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » The Wiggles</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » The Wiggles</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[The Wiggles - Day-O - Key of F]]></title>
-        <link><![CDATA[https://ukealong.com//song/the-wiggles-day-o/]]></link>
+        <link><![CDATA[https://ukealong.com/song/the-wiggles-day-o/]]></link>
         <description><![CDATA[This video works as a call and response between teacher and students.
 Students play on "Daylight come an' me wanna go home."
 Students use modified F chord and the C7 chord.
 
 (This video replaces an earlier upload. I found a mistake in the earlier version.)]]></description>
-        <guid><![CDATA[https://ukealong.com//song/the-wiggles-day-o/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/the-wiggles-day-o/]]></guid>
         <pubDate>Tue, 11 Oct 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>

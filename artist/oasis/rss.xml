@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Oasis</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Oasis</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Oasis - Don't Look Back in Anger - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com//song/oasis-don-t-look-back-in-anger/]]></link>
+        <link><![CDATA[https://ukealong.com/song/oasis-don-t-look-back-in-anger/]]></link>
         <description><![CDATA[Ukulele play along
 
 Don't Look Back In Anger - Oasis
@@ -21,14 +21,14 @@ Suggested Strum Patterns: D  D DU    D  D DU  (for fast chords use D DU)
 This video is meant for educational purposes.
 
 No copyright infringement intended]]></description>
-        <guid><![CDATA[https://ukealong.com//song/oasis-don-t-look-back-in-anger/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/oasis-don-t-look-back-in-anger/]]></guid>
         <pubDate>Wed, 27 Feb 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Oasis - Wonderwall - Key of Em]]></title>
-        <link><![CDATA[https://ukealong.com//song/oasis-wonderwall/]]></link>
+        <link><![CDATA[https://ukealong.com/song/oasis-wonderwall/]]></link>
         <description><![CDATA[Em, G, C, D, Dsus4, A7, A7sus4.  Syncopated strum pattern. See the Wonderwall Strum Guide Video (https://youtu.be/4dqoZWCVoVM).]]></description>
-        <guid><![CDATA[https://ukealong.com//song/oasis-wonderwall/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/oasis-wonderwall/]]></guid>
         <pubDate>Fri, 26 May 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

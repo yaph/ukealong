@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » The Turtles</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » The Turtles</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[The Turtles - Happy Together - Key of Gm, G]]></title>
-        <link><![CDATA[https://ukealong.com//song/the-turtles-happy-together/]]></link>
+        <link><![CDATA[https://ukealong.com/song/the-turtles-happy-together/]]></link>
         <description><![CDATA[For Educational Use.  In the Key of Gm/G (it switches back and forth) with Gm, F, Eb (D#), G, D, Dm, Bb (A#).  The original song is in F#m/F#, so the song has been raised a half step to facilitate playing on the ukulele.
 
 The original video can be found at https://www.youtube.com/watch?v=M69nNFLA1wA, with a nod to Mookie's Play Along Songs.
 
 The ukulele chord font is Chordette for Education, available at ukestuff.info]]></description>
-        <guid><![CDATA[https://ukealong.com//song/the-turtles-happy-together/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/the-turtles-happy-together/]]></guid>
         <pubDate>Mon, 19 Jun 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

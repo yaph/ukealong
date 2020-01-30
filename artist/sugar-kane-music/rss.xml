@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Sugar Kane Music</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Sugar Kane Music</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Sugar Kane Music - Christmas Where the Gum Trees Grow]]></title>
-        <link><![CDATA[https://ukealong.com//song/sugar-kane-music-christmas-where-the-gum-trees-grow/]]></link>
+        <link><![CDATA[https://ukealong.com/song/sugar-kane-music-christmas-where-the-gum-trees-grow/]]></link>
         <description><![CDATA[This recording belongs to Sugar Kane Music:
 https://www.shazam.com/track/56157132/christmas-where-the-gum-trees-grow
 
@@ -63,7 +63,7 @@ would never do,
 Santa should jump
 on a kangaroo.
 (Chorus)]]></description>
-        <guid><![CDATA[https://ukealong.com//song/sugar-kane-music-christmas-where-the-gum-trees-grow/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/sugar-kane-music-christmas-where-the-gum-trees-grow/]]></guid>
         <pubDate>Tue, 22 Nov 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>

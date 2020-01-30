@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Walk The Moon</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Walk The Moon</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[WALK THE MOON - One Foot - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com//song/walk-the-moon-one-foot/]]></link>
+        <link><![CDATA[https://ukealong.com/song/walk-the-moon-one-foot/]]></link>
         <description><![CDATA[Fredonia Middle School Ukulele]]></description>
-        <guid><![CDATA[https://ukealong.com//song/walk-the-moon-one-foot/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/walk-the-moon-one-foot/]]></guid>
         <pubDate>Fri, 20 Apr 2018 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[WALK THE MOON - Shut Up and Dance - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com//song/walk-the-moon-shut-up-and-dance/]]></link>
+        <link><![CDATA[https://ukealong.com/song/walk-the-moon-shut-up-and-dance/]]></link>
         <description><![CDATA[For educational use.  Optimized for GCEA ukulele.  Key of C.  Original is in the key of C#, so this is transposed down a half step.
 
 As performed by Walk the Moon.
@@ -31,14 +31,14 @@ The colored font matches Aquila KIDS and DR Multi-Color ukulele strings.
 This version matches the educational Color Chord approach and uses four chords: C (red sticker), G (green stickers), F (yellow stickers) and Am (blue sticker).
 
 Are these ukulele resources valuable to you?  If so, consider following my blog at ukestuff.info, and becoming a patron at www.patreon.com/cjrphd.  There is a master list of all similar play along videos at ukestuff.info.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/walk-the-moon-shut-up-and-dance/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/walk-the-moon-shut-up-and-dance/]]></guid>
         <pubDate>Mon, 22 Jan 2018 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[WALK THE MOON - Shut Up and Dance - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com//song/walk-the-moon-shut-up-and-dance-2/]]></link>
+        <link><![CDATA[https://ukealong.com/song/walk-the-moon-shut-up-and-dance-2/]]></link>
         <description><![CDATA[This video is for educational purposes only.  I do not own the rights to the songg.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/walk-the-moon-shut-up-and-dance-2/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/walk-the-moon-shut-up-and-dance-2/]]></guid>
         <pubDate>Thu, 29 Jun 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

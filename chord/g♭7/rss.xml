@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Chord » G♭7</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Chord » G♭7</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Travis - Hit Me Baby One More]]></title>
-        <link><![CDATA[https://ukealong.com//song/travis-hit-me-baby-one-more/]]></link>
+        <link><![CDATA[https://ukealong.com/song/travis-hit-me-baby-one-more/]]></link>
         <description><![CDATA[Hey! Check my awesome stuff for merch at
 https://www.redbubble.com/people/Ukeledu/shop
 
@@ -34,7 +34,7 @@ _________________________
 
 Facebook: https://www.facebook.com/ukeledu/
 Instagram: https://www.instagram.com/ukeledu.music/]]></description>
-        <guid><![CDATA[https://ukealong.com//song/travis-hit-me-baby-one-more/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/travis-hit-me-baby-one-more/]]></guid>
         <pubDate>Thu, 30 Aug 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

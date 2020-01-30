@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Jesse Cook</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Jesse Cook</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Jesse Cook - Cecilia - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com//song/jesse-cook-cecilia/]]></link>
+        <link><![CDATA[https://ukealong.com/song/jesse-cook-cecilia/]]></link>
         <description><![CDATA[Only C, F, G7!  The recording is a cover by Jesse Cook of the original by Simon and Garfunkel.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/jesse-cook-cecilia/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/jesse-cook-cecilia/]]></guid>
         <pubDate>Tue, 27 Dec 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>

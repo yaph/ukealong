@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Bobby Helms</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Bobby Helms</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Bobby Helms - Jingle Bell Rock - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com//song/bobby-helms-jingle-bell-rock/]]></link>
+        <link><![CDATA[https://ukealong.com/song/bobby-helms-jingle-bell-rock/]]></link>
         <description><![CDATA[For Educational Use.  Best used with GCEA tuned ukuleles.  Key of C.
 13 chords (see video).
 
 Chord font is Chordette for Education, available at ukefarm.com]]></description>
-        <guid><![CDATA[https://ukealong.com//song/bobby-helms-jingle-bell-rock/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/bobby-helms-jingle-bell-rock/]]></guid>
         <pubDate>Thu, 29 Jun 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » "Weird Al" Yankovic</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » "Weird Al" Yankovic</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA["Weird Al" Yankovic - Bob]]></title>
-        <link><![CDATA[https://ukealong.com//song/weird-al-yankovic-bob/]]></link>
+        <link><![CDATA[https://ukealong.com/song/weird-al-yankovic-bob/]]></link>
         <description><![CDATA[This is so cool. The song belongs to Weird Al Yankavic with the lyrics consisting of A palindrome. Palindromes are a word, phrase, number, or other sequence of characters which can be read  backward or forward. Allowances may be made for adjustments to capital letters, punctuation, and word dividers. The music video is a tribute to Bob Dylan's song Subterranean Homesick Blues.
 https://www.youtube.com/watch?v=67u2fmYz7S4]]></description>
-        <guid><![CDATA[https://ukealong.com//song/weird-al-yankovic-bob/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/weird-al-yankovic-bob/]]></guid>
         <pubDate>Sat, 30 May 2015 00:00:00 </pubDate>
     </item>
 </channel></rss>

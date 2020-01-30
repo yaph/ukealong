@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Chord » G7Sus2</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Chord » G7Sus2</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Ukulele Anthem Amanda Palmer playalong - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com//song/ukulele-anthem-amanda-palmer-playalong/]]></link>
+        <link><![CDATA[https://ukealong.com/song/ukulele-anthem-amanda-palmer-playalong/]]></link>
         <description><![CDATA[CW: adult language and themes such as world peace.
 
 lyrics
@@ -121,7 +121,7 @@ Remember we're all going to die
 So PLAY YOUR UKULELE!
 Written and played by Amanda Palmer
 Playalong video by Julia Priest www.MusicAndMovementOfNewton.com]]></description>
-        <guid><![CDATA[https://ukealong.com//song/ukulele-anthem-amanda-palmer-playalong/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/ukulele-anthem-amanda-palmer-playalong/]]></guid>
         <pubDate>Fri, 31 Aug 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

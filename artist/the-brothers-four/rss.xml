@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » The Brothers Four</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » The Brothers Four</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[The Brothers Four - 500 Miles - Key of F]]></title>
-        <link><![CDATA[https://ukealong.com//song/the-brothers-four-500-miles/]]></link>
+        <link><![CDATA[https://ukealong.com/song/the-brothers-four-500-miles/]]></link>
         <description><![CDATA[For Educational Use.  As performed by the Brothers Four.  Originally in E, transposed up to the Key of F: F, Dm, Gm, C7.
 
 Original video: https://www.youtube.com/watch?v=PFGlBcU9zxo
 
 The ukulele chord font is Chordette for Education, available from ukefarm.com]]></description>
-        <guid><![CDATA[https://ukealong.com//song/the-brothers-four-500-miles/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/the-brothers-four-500-miles/]]></guid>
         <pubDate>Tue, 20 Jun 2017 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[The Brothers Four - Beautiful Brown Eyes - Key of D]]></title>
-        <link><![CDATA[https://ukealong.com//song/the-brothers-four-beautiful-brown-eyes/]]></link>
+        <link><![CDATA[https://ukealong.com/song/the-brothers-four-beautiful-brown-eyes/]]></link>
         <description><![CDATA[For educational purposes.  The Brothers Four version of Beautiful Brown Eyes transposed to the Key of D (D, G, E7, A7).  You can leave the E7 out, but the Brothers Four definitely sing an E7 in harmony on each chorus.
 
 The intent of this ukulele play along is to provide songs that are frequently performed at ukulele jam sessions from all age groups.
@@ -27,7 +27,7 @@ The intent of this ukulele play along is to provide songs that are frequently pe
 The original YouTube video of this song (in its original key) can be found here: https://www.youtube.com/watch?v=SthMCp539j0
 
 The ukulele chord font is from Chordette for Education, available at ukefarm.com.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/the-brothers-four-beautiful-brown-eyes/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/the-brothers-four-beautiful-brown-eyes/]]></guid>
         <pubDate>Mon, 05 Jun 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

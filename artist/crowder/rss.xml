@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Crowder</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Crowder</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Crowder - All My Hope - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com//song/crowder-all-my-hope/]]></link>
+        <link><![CDATA[https://ukealong.com/song/crowder-all-my-hope/]]></link>
         <description><![CDATA[For educational use.   Chords Used: G Am C D7 A7
 
 All My Hope by David Crowder.  It’s been lowered by 1 semitone so beginner ukulele students can play along.
@@ -16,7 +16,7 @@ All My Hope by David Crowder.  It’s been lowered by 1 semitone so beginner uku
 Do you have a request for a song to be made into a video?  First, check the index of play along videos at www.ukeplayalongs.com to make sure your song isn't already available.  If it isn't, please fill out this request form: https://forms.gle/84rgm7kFNJWnTqFB6.  We cannot promise that a request will be made into a play along, but we do appreciate your recommendations!
 
 If you found this video useful please subscribe and share with your friends. If you want to be notified of future videos please click on bell next to subscribe.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/crowder-all-my-hope/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/crowder-all-my-hope/]]></guid>
         <pubDate>Mon, 29 Jul 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

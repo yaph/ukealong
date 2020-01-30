@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Now United</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Now United</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Now United - All Day - Key of Bm]]></title>
-        <link><![CDATA[https://ukealong.com//song/now-united-all-day/]]></link>
+        <link><![CDATA[https://ukealong.com/song/now-united-all-day/]]></link>
         <description><![CDATA[For educational use.  Optimized for GCEA ukulele.  Key of Bm (Transposed down a half step from the original).
 
 Chords Used: G, A, F#m, Bm
@@ -30,12 +30,12 @@ Check out the UkeStuff Podcast, where I talk about ukulele education and my own 
 You are invited to visit my ukulele blog/website, ukestuff.info (a free resource).
 
 Thanks for watching the videos and supporting the channel!  Your support of these videos and subscription to the channel makes it possible to produce this content.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/now-united-all-day/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/now-united-all-day/]]></guid>
         <pubDate>Mon, 29 Jul 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Now United - All Day - Baritone Ukulele]]></title>
-        <link><![CDATA[https://ukealong.com//song/now-united-all-day-baritone-ukulele/]]></link>
+        <link><![CDATA[https://ukealong.com/song/now-united-all-day-baritone-ukulele/]]></link>
         <description><![CDATA[For educational use.  Optimized for DGBE ukulele.  Key of Bm (Transposed down a half step from the original).
 
 Chords Used: G, A, F#m, Bm
@@ -57,7 +57,7 @@ Check out the UkeStuff Podcast, where I talk about ukulele education and my own 
 You are invited to visit my ukulele blog/website, ukestuff.info (a free resource).
 
 Thanks for watching the videos and supporting the channel!  Your support of these videos and subscription to the channel makes it possible to produce this content.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/now-united-all-day-baritone-ukulele/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/now-united-all-day-baritone-ukulele/]]></guid>
         <pubDate>Mon, 29 Jul 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

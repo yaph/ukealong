@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Martina Mcbride</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Martina Mcbride</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Martina McBride - Let It Snow, Let It Snow, Let It Snow - Key of D]]></title>
-        <link><![CDATA[https://ukealong.com//song/martina-mcbride-let-it-snow-let-it-snow-let-it-snow/]]></link>
+        <link><![CDATA[https://ukealong.com/song/martina-mcbride-let-it-snow-let-it-snow-let-it-snow/]]></link>
         <description><![CDATA[Ukulele play along of Let It Snow as recorded by Martina McBride
 
 A nice easy version using the original key of D.
@@ -22,7 +22,7 @@ This video is meant for educational purposes.
 No copyright infringement intended - recording artist - Martina McBride
 
 Note: try playing the D7 chord with your 2nd and 3rd fingers to make it easier for chord changes.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/martina-mcbride-let-it-snow-let-it-snow-let-it-snow/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/martina-mcbride-let-it-snow-let-it-snow-let-it-snow/]]></guid>
         <pubDate>Sat, 21 Oct 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

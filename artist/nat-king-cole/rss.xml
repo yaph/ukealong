@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Nat King Cole</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Nat King Cole</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Nat King Cole - Love]]></title>
-        <link><![CDATA[https://ukealong.com//song/nat-king-cole-love/]]></link>
+        <link><![CDATA[https://ukealong.com/song/nat-king-cole-love/]]></link>
         <description><![CDATA[This song "L-O-V-E" is a song recorded by Nat King Cole for his album of the same name (1965). It was composed by Bert Kaempfert, with lyrics by Milt Gabler. The trumpet solo was performed by Bobby Bryant.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/nat-king-cole-love/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/nat-king-cole-love/]]></guid>
         <pubDate>Fri, 11 Dec 2015 00:00:00 </pubDate>
     </item>
 </channel></rss>

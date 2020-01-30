@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Bounce Patrol</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Bounce Patrol</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Bounce Patrol - Hippity Hop-13182-DNC]]></title>
-        <link><![CDATA[https://ukealong.com//song/bounce-patrol-hippity-hop-13182-dnc/]]></link>
+        <link><![CDATA[https://ukealong.com/song/bounce-patrol-hippity-hop-13182-dnc/]]></link>
         <description><![CDATA[This song belongs to Bounce Patrol Kids i just changed the key down form F# to E and put the lyrics together.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/bounce-patrol-hippity-hop-13182-dnc/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/bounce-patrol-hippity-hop-13182-dnc/]]></guid>
         <pubDate>Thu, 26 Mar 2015 00:00:00 </pubDate>
     </item>
 </channel></rss>

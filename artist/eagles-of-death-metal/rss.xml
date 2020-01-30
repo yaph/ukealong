@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Eagles Of Death Metal</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Eagles Of Death Metal</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Eagles Of Death Metal - I Only Want You - Key of Am]]></title>
-        <link><![CDATA[https://ukealong.com//song/eagles-of-death-metal-i-only-want-you/]]></link>
+        <link><![CDATA[https://ukealong.com/song/eagles-of-death-metal-i-only-want-you/]]></link>
         <description><![CDATA[At the request of a subscriber, here's an educational play along video that uses just 2 chords: C and Am.  I have another version of it that has other parts on the screen (drums, boomwhackers, etc) that may be found here (https://youtu.be/5Nt1bF5a3j0), but this version is just for ukulele.]]></description>
-        <guid><![CDATA[https://ukealong.com//song/eagles-of-death-metal-i-only-want-you/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/eagles-of-death-metal-i-only-want-you/]]></guid>
         <pubDate>Thu, 19 Sep 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

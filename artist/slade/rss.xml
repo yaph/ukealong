@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Slade</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Slade</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Slade - Merry Xmas Everybody - Key of D]]></title>
-        <link><![CDATA[https://ukealong.com//song/slade-merry-xmas-everybody/]]></link>
+        <link><![CDATA[https://ukealong.com/song/slade-merry-xmas-everybody/]]></link>
         <description><![CDATA[Ukulele play along
 
 Merry Xmas Everybody - by Slade
@@ -23,7 +23,7 @@ Suggested Strum Patterns: D DU D DU or DU DU DU DU
 This video is meant for educational purposes.
 
 No copyright infringement intended]]></description>
-        <guid><![CDATA[https://ukealong.com//song/slade-merry-xmas-everybody/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/slade-merry-xmas-everybody/]]></guid>
         <pubDate>Sun, 04 Nov 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

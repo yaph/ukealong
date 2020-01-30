@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Paul Simon</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Paul Simon</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Paul Simon - Me And Julio Down By The School Yard]]></title>
-        <link><![CDATA[https://ukealong.com//song/paul-simon-me-and-julio-down-by-the-school-yard/]]></link>
+        <link><![CDATA[https://ukealong.com/song/paul-simon-me-and-julio-down-by-the-school-yard/]]></link>
         <description><![CDATA[Paul Simon's "Me and Julio Down by the Schoolyard": Lyrics and Uke chords]]></description>
-        <guid><![CDATA[https://ukealong.com//song/paul-simon-me-and-julio-down-by-the-school-yard/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/paul-simon-me-and-julio-down-by-the-school-yard/]]></guid>
         <pubDate>Thu, 25 Apr 2013 00:00:00 </pubDate>
     </item>
 </channel></rss>

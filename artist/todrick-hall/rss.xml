@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » Todrick Hall</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » Todrick Hall</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Todrick Hall - Little People]]></title>
-        <link><![CDATA[https://ukealong.com//song/todrick-hall-little-people/]]></link>
+        <link><![CDATA[https://ukealong.com/song/todrick-hall-little-people/]]></link>
         <description><![CDATA[This video is about My Movie]]></description>
-        <guid><![CDATA[https://ukealong.com//song/todrick-hall-little-people/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/todrick-hall-little-people/]]></guid>
         <pubDate>Mon, 29 Apr 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

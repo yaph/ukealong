@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Uke Along Artist » X Ambassadors</title>
-    <link>https://ukealong.com/</link>
+    <link>https://ukealong.com</link>
     <description>Artist » X Ambassadors</description>
-    <lastBuildDate>Wed, 29 Jan 2020 15:40:46 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:16:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[X Ambassadors - Renegades - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com//song/x-ambassadors-renegades/]]></link>
+        <link><![CDATA[https://ukealong.com/song/x-ambassadors-renegades/]]></link>
         <description><![CDATA[Am,  C, G, F]]></description>
-        <guid><![CDATA[https://ukealong.com//song/x-ambassadors-renegades/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/x-ambassadors-renegades/]]></guid>
         <pubDate>Sun, 04 Jun 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>
