@@ -3,9 +3,18 @@
 <channel><title>Uke Along Genre » Movie</title>
     <link>https://ukealong.com</link>
     <description>Genre » Movie</description>
-    <lastBuildDate>Thu, 30 Jan 2020 23:16:09 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 23:33:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Darth Vader's Theme - Ukulele TAB playalong]]></title>
+        <link><![CDATA[https://ukealong.com/song/darth-vader-s-theme-ukulele-tab-playalong/]]></link>
+        <description><![CDATA[For educational use.  This tutorial shows ukulele students how to play the melody of The Imperial March (from Star Wars), also known as Darth Vader's Theme, on the uke.
+
+Optimized for GCEA ukulele.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/darth-vader-s-theme-ukulele-tab-playalong/]]></guid>
+        <pubDate>Sun, 26 Jan 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Panic! At The Disco - Into The Unknown]]></title>
         <link><![CDATA[https://ukealong.com/song/panic-at-the-disco-into-the-unknown/]]></link>
@@ -210,16 +219,5 @@ Check out the Ukulele Video Play Along Podcast, where I talk about ukulele educa
 Thanks for watching the videos and supporting the channel!]]></description>
         <guid><![CDATA[https://ukealong.com/song/naomi-scott-speechless/]]></guid>
         <pubDate>Sun, 02 Jun 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Anthony Gonzalez - Un Poco Loco - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com/song/anthony-gonzalez-un-poco-loco/]]></link>
-        <description><![CDATA[This tutorial will show you how to play Un Poco Loco on the ukulele by Anthony Gonzalez and Gael Garcia Bernal. The chords used are G C D A D E.
-
-If you found this video useful please subscribe and share with your friends. If you want to be notified of future videos please click on the bell next to subscribe.
-
-Video created on the iPad Pro using Luma Fusion. The uke chord font is Chordette for Education, available at ukefarm.com.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/anthony-gonzalez-un-poco-loco/]]></guid>
-        <pubDate>Thu, 16 May 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>
