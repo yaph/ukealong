@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Walk The Moon</title>
     <link>https://ukealong.com</link>
     <description>Artist » Walk The Moon</description>
-    <lastBuildDate>Wed, 19 Feb 2020 15:00:24 </lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2020 23:21:40 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -37,8 +37,15 @@ Are these ukulele resources valuable to you?  If so, consider following my blog 
     <item>
         <title><![CDATA[WALK THE MOON - Shut Up and Dance - Key of C]]></title>
         <link><![CDATA[https://ukealong.com/song/walk-the-moon-shut-up-and-dance-2/]]></link>
-        <description><![CDATA[This video is for educational purposes only.  I do not own the rights to the songg.]]></description>
+        <description><![CDATA[This video is about Shut Up and Dance]]></description>
         <guid><![CDATA[https://ukealong.com/song/walk-the-moon-shut-up-and-dance-2/]]></guid>
+        <pubDate>Wed, 08 Nov 2017 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[WALK THE MOON - Shut Up and Dance - Key of C]]></title>
+        <link><![CDATA[https://ukealong.com/song/walk-the-moon-shut-up-and-dance-3/]]></link>
+        <description><![CDATA[This video is for educational purposes only.  I do not own the rights to the songg.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/walk-the-moon-shut-up-and-dance-3/]]></guid>
         <pubDate>Thu, 29 Jun 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>
