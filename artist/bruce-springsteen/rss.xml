@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Uke Along Artist » Bruce Springsteen</title>
+    <link>https://ukealong.com</link>
+    <description>Artist » Bruce Springsteen</description>
+    <lastBuildDate>Sun, 23 Feb 2020 23:36:27 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Bruce Springsteen - My Oklahoma Home - Key of G]]></title>
+        <link><![CDATA[https://ukealong.com/song/bruce-springsteen-my-oklahoma-home/]]></link>
+        <description><![CDATA[For Educational Use.  This is a folk song originally by Bill and Sis Cunningham, later recorded by Pete Seeger.  This version features Bruce Springsteen and the Seeger Sessions Band, found here:
+
+https://www.youtube.com/watch?v=ky-HYHrm_oE
+
+The song is in the key of G with standard chords (G, C, D, G7, Hawaiian D7), and there are a lot of verses and choruses.
+
+This song came to my attention at a local ukulele jam, where a player brought along the song as a handout for the group to sing.  As the song is about growing up in Oklahoma in the times of the dust bowl and in regards to the challenges of the weather--this is a great song for educational purposes--and it also has some humor as well.
+
+I did have to cut out one solo instrumental verse (violin/fiddle) as the original YouTube recording has an imperfection on the audio recording.  I tried to splice the video as well as I could.
+
+I used keepvid to save the video, Audacity to open the video as an audio file and add to seconds of silence (I try to let the opening slides be a total of 15 seconds), then Keynote to create the images (including text).  The font is Chordette for Education, found at ukefarm.com.  Timing recorded in Kenote, then exported as a video.
+The final editing is done in iMovie to add the "bouncing house" (hope you enjoy that), adjust audio a bit, and in this case, to remove a faulty verse due to the original audio.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bruce-springsteen-my-oklahoma-home/]]></guid>
+        <pubDate>Sun, 11 Jun 2017 00:00:00 </pubDate>
+    </item>
+</channel></rss>

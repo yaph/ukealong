@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Mike Jackson</title>
     <link>https://ukealong.com</link>
     <description>Artist » Mike Jackson</description>
-    <lastBuildDate>Sun, 23 Feb 2020 17:37:46 </lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2020 23:36:27 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -20,5 +20,20 @@ Video created on the iPad Pro using Luma Fusion.  The ukulele chord font is Chor
 The colored font matches Aquila KIDS ukulele strings.]]></description>
         <guid><![CDATA[https://ukealong.com/song/mike-jackson-found-a-peanut/]]></guid>
         <pubDate>Sun, 15 Oct 2017 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Mike Jackson - Miss Mary Mack - Key of F]]></title>
+        <link><![CDATA[https://ukealong.com/song/mike-jackson-miss-mary-mack/]]></link>
+        <description><![CDATA[For educational use.  Optimized for GCEA ukulele.  Key of F
+
+As performed by Mike Jackson, and based upon a David Allen’s original video: https://youtu.be/zZhTKfesU24
+
+Need to practice at a different tempo?  Use the gear icon in the video (lower right) to slow down (or speed up) the tempo at pitch!  Need to do so on an iPad or iPhone?  Check out the browser called "iCab Mobile" which has a Module called "Video Playback Rate"
+
+Video created on the iPad Pro using Luma Fusion.  The ukulele chord font is Chordette for Education, available at ukefarm.com.
+
+The colored font matches Aquila KIDS ukulele strings.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/mike-jackson-miss-mary-mack/]]></guid>
+        <pubDate>Sat, 14 Oct 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Blues</title>
     <link>https://ukealong.com</link>
     <description>Genre » Blues</description>
-    <lastBuildDate>Sun, 23 Feb 2020 17:37:46 </lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2020 23:36:27 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -24,10 +24,19 @@ Are these ukulele resources valuable to you?  If so, consider following my blog 
         <pubDate>Tue, 05 Jun 2018 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Move It On Over - With picking improvisation - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com/song/move-it-on-over-with-picking-improvisation/]]></link>
+        <title><![CDATA[George Thorogood - Move It On Over - Key of G]]></title>
+        <link><![CDATA[https://ukealong.com/song/george-thorogood-move-it-on-over/]]></link>
+        <description><![CDATA[G, C, D7
+
+Check out the website for Fredonia Ukulele: https://sites.google.com/a/fredonia.edu/fredonia-ukulele]]></description>
+        <guid><![CDATA[https://ukealong.com/song/george-thorogood-move-it-on-over/]]></guid>
+        <pubDate>Wed, 27 Jul 2016 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[George Thorogood - Move It On Over - Key of G]]></title>
+        <link><![CDATA[https://ukealong.com/song/george-thorogood-move-it-on-over-2/]]></link>
         <description><![CDATA[Only chords G, C, D7 (simplified). Improvisation section using the G-Blues Scale!]]></description>
-        <guid><![CDATA[https://ukealong.com/song/move-it-on-over-with-picking-improvisation/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/george-thorogood-move-it-on-over-2/]]></guid>
         <pubDate>Wed, 25 May 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>
