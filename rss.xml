@@ -3,7 +3,7 @@
 <channel><title>Uke Along RSS Feed</title>
     <link>https://ukealong.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Tue, 25 Feb 2020 17:52:27 </lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2020 00:08:19 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -29,18 +29,6 @@ Towarisch hey, hey, hey, auf die Liebe!
 
 #ukulele #Moskau #DschinghisKhan]]></description>
         <guid><![CDATA[https://ukealong.com/song/dschinghis-khan-moskau/]]></guid>
-        <pubDate>Fri, 21 Feb 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Parry Gripp & BooneBum - Raining Tacos]]></title>
-        <link><![CDATA[https://ukealong.com/song/parry-gripp-boonebum-raining-tacos/]]></link>
-        <description><![CDATA[It’s Raining Tacos by Parry Gripp & BooneBum.  For educational use.  This playalong is designed for high drum, low drum, clapping, and shaker.  That said, it could easily be adapted for bucket drum, body drum, drum line, drumset, etc.  Original Video: https://www.youtube.com/watch?v=npjF032TDDQ
-
-Boomwhacker Version - https://youtu.be/y6xfNi5yiZA
-Ukulele / Guitar Version - https://youtu.be/kgFyUphEW_0
-
-If you found this video useful please subscribe.  If you want to be notified of future videos please click on bell next to subscribe.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/parry-gripp-boonebum-raining-tacos/]]></guid>
         <pubDate>Fri, 21 Feb 2020 00:00:00 </pubDate>
     </item>
     <item>
@@ -169,5 +157,31 @@ etc...]]></description>
         <description><![CDATA[Ukulele Picks: None versus felt versus plastic versus nylon]]></description>
         <guid><![CDATA[https://ukealong.com/song/ukulele-picks-none-versus-felt-versus-plastic-versus-nylon/]]></guid>
         <pubDate>Sat, 15 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Billie Eilish - No Time To Die - Key of Am]]></title>
+        <link><![CDATA[https://ukealong.com/song/billie-eilish-no-time-to-die/]]></link>
+        <description><![CDATA[Ukulele play along / Tutorial
+
+No Time To Die - Billie Eilish
+From the James Bond Film
+
+Using the chords: A  Am  B7  Cmaj7  Em
+
+Suggested Strum Pattern:  D D D DU or single strums
+You can be quite flexible with the strumming as it is slow
+
+If you prefer, try playing some of the Am and Cmaj7 chords with your 1st finger to make it easier to move to the Em and B7 chords
+
+
+Website: http://ukulele.wales/
+Ukulele Wales Channel: http://www.youtube.com/c/UkuleleWales
+T-Shirts & Merch: https:https://www.redbubble.com/people/ukulaliens/shop
+
+This video is meant for educational purposes.
+
+No copyright infringement intended]]></description>
+        <guid><![CDATA[https://ukealong.com/song/billie-eilish-no-time-to-die/]]></guid>
+        <pubDate>Fri, 14 Feb 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>
