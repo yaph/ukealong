@@ -3,7 +3,7 @@
 <channel><title>Uke Along Key » C</title>
     <link>https://ukealong.com</link>
     <description>Key » C</description>
-    <lastBuildDate>Wed, 26 Feb 2020 14:01:58 </lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2020 14:18:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,13 @@
         <description><![CDATA[Play along video for the song Memories performed by Maroon 5. Chords used in the song: Am, C, Em, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/maroon-5-memories/]]></guid>
         <pubDate>Tue, 04 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[LeAnn Rimes - Raining Tacos - Key of C]]></title>
+        <link><![CDATA[https://ukealong.com/song/leann-rimes-raining-tacos/]]></link>
+        <description><![CDATA[Play along video for the song Raining Tacos performed by LeAnn Rimes. Chords used in the song: Am, C, Em, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/leann-rimes-raining-tacos/]]></guid>
+        <pubDate>Sat, 01 Feb 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Melinda Caroll - Ging Gang Gooli - Key of C]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/somebody-to-love-connor-maynard-c-g-am-f/]]></guid>
         <pubDate>Wed, 04 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Billie Eilish - come out and play - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com/song/billie-eilish-come-out-and-play/]]></link>
-        <description><![CDATA[Play along video for the song come out and play performed by Billie Eilish. Chords used in the song: Am, C, Cmaj7, Dm, Em, F, G, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/billie-eilish-come-out-and-play/]]></guid>
-        <pubDate>Sat, 23 Nov 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>
