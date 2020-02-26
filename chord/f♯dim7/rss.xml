@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » F♯Dim7</title>
     <link>https://ukealong.com</link>
     <description>Chord » F♯Dim7</description>
-    <lastBuildDate>Wed, 26 Feb 2020 14:18:10 </lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2020 00:08:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -18,6 +18,13 @@
         <link><![CDATA[https://ukealong.com/song/phil-harris-the-bare-necessities/]]></link>
         <description><![CDATA[Play along video for the song The Bare Necessities performed by Phil Harris. Chords used in the song: A7, Am, C, C7, Cmaj7, D7, Dm, E7, F, Fm, F♯dim7, G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/phil-harris-the-bare-necessities/]]></guid>
+        <pubDate>Sat, 03 Nov 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Phil Harris - The Bare Necessities - Baritone Ukulele - Key of C]]></title>
+        <link><![CDATA[https://ukealong.com/song/phil-harris-the-bare-necessities-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song The Bare Necessities performed by Phil Harris. Chords used in the song: A7, Am, C, C7, Cmaj7, D7, Dm, E7, F, Fm, F♯dim7, G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/phil-harris-the-bare-necessities-baritone-ukulele/]]></guid>
         <pubDate>Sat, 03 Nov 2018 00:00:00 </pubDate>
     </item>
     <item>
@@ -67,13 +74,6 @@
         <link><![CDATA[https://ukealong.com/song/gene-autry-here-comes-santa-claus/]]></link>
         <description><![CDATA[Play along video for the song Here Comes Santa Claus performed by Gene Autry. Chords used in the song: Am, C, C7, Dm, F, F♯dim7, G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/gene-autry-here-comes-santa-claus/]]></guid>
-        <pubDate>Wed, 28 Jun 2017 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Gene Autry - Here Comes Santa Claus - Key of C, G]]></title>
-        <link><![CDATA[https://ukealong.com/song/gene-autry-here-comes-santa-claus-2/]]></link>
-        <description><![CDATA[Play along video for the song Here Comes Santa Claus performed by Gene Autry. Chords used in the song: Am, C, C7, C♯dim7, D7, Dm, Em, F, F♯dim7, G, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/gene-autry-here-comes-santa-claus-2/]]></guid>
         <pubDate>Wed, 28 Jun 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

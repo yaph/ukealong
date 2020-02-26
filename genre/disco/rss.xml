@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Disco</title>
     <link>https://ukealong.com</link>
     <description>Genre » Disco</description>
-    <lastBuildDate>Wed, 26 Feb 2020 14:18:10 </lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2020 00:08:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -14,10 +14,17 @@
         <pubDate>Fri, 26 Apr 2019 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Power Generation Project - Dancing Queen - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com/song/power-generation-project-dancing-queen/]]></link>
-        <description><![CDATA[Play along video for the song Dancing Queen performed by Power Generation Project. Chords used in the song: A7, Am, B7, C, D, D7, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/power-generation-project-dancing-queen/]]></guid>
+        <title><![CDATA[ABBA - Dancing Queen - Key of G]]></title>
+        <link><![CDATA[https://ukealong.com/song/abba-dancing-queen/]]></link>
+        <description><![CDATA[Play along video for the song Dancing Queen performed by ABBA. Chords used in the song: A7, Am, B7, C, D, D7, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/abba-dancing-queen/]]></guid>
+        <pubDate>Fri, 19 Jan 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[ABBA - Dancing Queen - Key of G]]></title>
+        <link><![CDATA[https://ukealong.com/song/abba-dancing-queen-2/]]></link>
+        <description><![CDATA[Play along video for the song Dancing Queen performed by ABBA. Chords used in the song: A7, Am, B7, C, D, D7, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/abba-dancing-queen-2/]]></guid>
         <pubDate>Fri, 19 Jan 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>
