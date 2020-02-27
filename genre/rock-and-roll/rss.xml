@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Rock And Roll</title>
     <link>https://ukealong.com</link>
     <description>Genre » Rock And Roll</description>
-    <lastBuildDate>Thu, 27 Feb 2020 00:08:01 </lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2020 13:33:55 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -40,6 +40,13 @@
         <description><![CDATA[Play along video for the song Sweet Little Sixteen performed by Chuck Berry. Chords used in the song: A7, D, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/chuck-berry-sweet-little-sixteen-baritone-ukulele/]]></guid>
         <pubDate>Sun, 05 May 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Queen - Crazy Little Thing Called Love - Key of A]]></title>
+        <link><![CDATA[https://ukealong.com/song/queen-crazy-little-thing-called-love/]]></link>
+        <description><![CDATA[Play along video for the song Crazy Little Thing Called Love performed by Queen. Chords used in the song: A, B♭, C, D, Dsus4, E7, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/queen-crazy-little-thing-called-love/]]></guid>
+        <pubDate>Sat, 12 Jan 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Chuck Berry - Johnny B. Goode - Key of C]]></title>
