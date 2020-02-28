@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Video Game</title>
     <link>https://ukealong.com</link>
     <description>Genre » Video Game</description>
-    <lastBuildDate>Thu, 27 Feb 2020 13:33:55 </lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2020 22:57:49 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -42,6 +42,13 @@
         <pubDate>Sun, 22 Sep 2019 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[CaptainSparklez - Revenge - Key of Am]]></title>
+        <link><![CDATA[https://ukealong.com/song/captainsparklez-revenge/]]></link>
+        <description><![CDATA[Play along video for the song Revenge performed by CaptainSparklez. Chords used in the song: Am, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/captainsparklez-revenge/]]></guid>
+        <pubDate>Sat, 21 Sep 2019 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Tetris Theme Ukulele Play Along - Key of Am]]></title>
         <link><![CDATA[https://ukealong.com/song/tetris-theme-ukulele-play-along/]]></link>
         <description><![CDATA[]]></description>
@@ -68,12 +75,5 @@
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/magalovania-undertale-ukulele-play-along-slow-version/]]></guid>
         <pubDate>Wed, 17 Apr 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Fortnite Default Dance. Ukulele tutorial]]></title>
-        <link><![CDATA[https://ukealong.com/song/fortnite-default-dance-ukulele-tutorial/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/fortnite-default-dance-ukulele-tutorial/]]></guid>
-        <pubDate>Sat, 16 Feb 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

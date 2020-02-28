@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Uke Along Artist » Rammstein</title>
+    <link>https://ukealong.com</link>
+    <description>Artist » Rammstein</description>
+    <lastBuildDate>Fri, 28 Feb 2020 22:57:49 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Rammstein - Ausländer]]></title>
+        <link><![CDATA[https://ukealong.com/song/rammstein-auslander/]]></link>
+        <description><![CDATA[Play along video for the song Ausländer performed by Rammstein.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/rammstein-auslander/]]></guid>
+        <pubDate>Mon, 30 Sep 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Rammstein - Mutter]]></title>
+        <link><![CDATA[https://ukealong.com/song/rammstein-mutter/]]></link>
+        <description><![CDATA[Play along video for the song Mutter performed by Rammstein.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/rammstein-mutter/]]></guid>
+        <pubDate>Mon, 01 Jul 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Rammstein - Ohne Dich]]></title>
+        <link><![CDATA[https://ukealong.com/song/rammstein-ohne-dich/]]></link>
+        <description><![CDATA[Play along video for the song Ohne Dich performed by Rammstein.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/rammstein-ohne-dich/]]></guid>
+        <pubDate>Tue, 23 Apr 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Rammstein - Amour]]></title>
+        <link><![CDATA[https://ukealong.com/song/rammstein-amour/]]></link>
+        <description><![CDATA[Play along video for the song Amour performed by Rammstein.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/rammstein-amour/]]></guid>
+        <pubDate>Fri, 22 Mar 2019 00:00:00 </pubDate>
+    </item>
+</channel></rss>

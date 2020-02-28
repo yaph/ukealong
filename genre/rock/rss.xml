@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Rock</title>
     <link>https://ukealong.com</link>
     <description>Genre » Rock</description>
-    <lastBuildDate>Thu, 27 Feb 2020 13:33:55 </lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2020 22:57:49 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,13 @@
         <description><![CDATA[Play along video for the song Killer Queen performed by Queen.]]></description>
         <guid><![CDATA[https://ukealong.com/song/queen-killer-queen/]]></guid>
         <pubDate>Thu, 07 Nov 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Rammstein - Ausländer]]></title>
+        <link><![CDATA[https://ukealong.com/song/rammstein-auslander/]]></link>
+        <description><![CDATA[Play along video for the song Ausländer performed by Rammstein.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/rammstein-auslander/]]></guid>
+        <pubDate>Mon, 30 Sep 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Eagles Of Death Metal - I Only Want You - Key of Am]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Down Under performed by Men at Work. Chords used in the song: Am, C, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/men-at-work-down-under/]]></guid>
         <pubDate>Sat, 17 Aug 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Metallica - Enter Sandman]]></title>
-        <link><![CDATA[https://ukealong.com/song/metallica-enter-sandman/]]></link>
-        <description><![CDATA[Play along video for the song Enter Sandman performed by Metallica.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/metallica-enter-sandman/]]></guid>
-        <pubDate>Mon, 12 Aug 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>
