@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Vance Joy</title>
     <link>https://ukealong.com</link>
     <description>Artist » Vance Joy</description>
-    <lastBuildDate>Fri, 28 Feb 2020 22:57:49 </lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2020 23:03:53 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -21,6 +21,13 @@
         <pubDate>Fri, 14 Jun 2019 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Vance Joy - Riptide - Key of Am]]></title>
+        <link><![CDATA[https://ukealong.com/song/vance-joy-riptide-2/]]></link>
+        <description><![CDATA[Play along video for the song Riptide performed by Vance Joy. Chords used in the song: Am, C, F9, G, Gsus4.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/vance-joy-riptide-2/]]></guid>
+        <pubDate>Wed, 20 Jun 2018 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Vance Joy - Georgia - Key of Am]]></title>
         <link><![CDATA[https://ukealong.com/song/vance-joy-georgia/]]></link>
         <description><![CDATA[Play along video for the song Georgia performed by Vance Joy. Chords used in the song: Am, C, Em, F, G.]]></description>
@@ -29,9 +36,9 @@
     </item>
     <item>
         <title><![CDATA[Vance Joy - Riptide - Key of Am]]></title>
-        <link><![CDATA[https://ukealong.com/song/vance-joy-riptide-2/]]></link>
+        <link><![CDATA[https://ukealong.com/song/vance-joy-riptide-3/]]></link>
         <description><![CDATA[Play along video for the song Riptide performed by Vance Joy. Chords used in the song: Am, C, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/vance-joy-riptide-2/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/vance-joy-riptide-3/]]></guid>
         <pubDate>Sun, 21 Aug 2016 00:00:00 </pubDate>
     </item>
     <item>
@@ -43,9 +50,9 @@
     </item>
     <item>
         <title><![CDATA[Vance Joy - Riptide]]></title>
-        <link><![CDATA[https://ukealong.com/song/vance-joy-riptide-3/]]></link>
+        <link><![CDATA[https://ukealong.com/song/vance-joy-riptide-4/]]></link>
         <description><![CDATA[Play along video for the song Riptide performed by Vance Joy.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/vance-joy-riptide-3/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/vance-joy-riptide-4/]]></guid>
         <pubDate>Wed, 29 Jan 2014 00:00:00 </pubDate>
     </item>
 </channel></rss>

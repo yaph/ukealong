@@ -3,14 +3,21 @@
 <channel><title>Uke Along Artist » Rick Astley</title>
     <link>https://ukealong.com</link>
     <description>Artist » Rick Astley</description>
-    <lastBuildDate>Fri, 28 Feb 2020 22:57:49 </lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2020 23:03:53 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-        <title><![CDATA[Rick Astley - Never Gonna Give You Up - Key of Am]]></title>
+        <title><![CDATA[Rick Astley - Never Gonna Give You Up]]></title>
         <link><![CDATA[https://ukealong.com/song/rick-astley-never-gonna-give-you-up/]]></link>
-        <description><![CDATA[Play along video for the song Never Gonna Give You Up performed by Rick Astley. Chords used in the song: Am, Em, F, G.]]></description>
+        <description><![CDATA[Play along video for the song Never Gonna Give You Up performed by Rick Astley.]]></description>
         <guid><![CDATA[https://ukealong.com/song/rick-astley-never-gonna-give-you-up/]]></guid>
+        <pubDate>Wed, 20 Nov 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Rick Astley - Never Gonna Give You Up - Key of Am]]></title>
+        <link><![CDATA[https://ukealong.com/song/rick-astley-never-gonna-give-you-up-2/]]></link>
+        <description><![CDATA[Play along video for the song Never Gonna Give You Up performed by Rick Astley. Chords used in the song: Am, Em, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/rick-astley-never-gonna-give-you-up-2/]]></guid>
         <pubDate>Sat, 21 Apr 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

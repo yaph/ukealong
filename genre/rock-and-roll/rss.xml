@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Rock And Roll</title>
     <link>https://ukealong.com</link>
     <description>Genre » Rock And Roll</description>
-    <lastBuildDate>Fri, 28 Feb 2020 22:57:49 </lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2020 23:03:53 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -42,11 +42,25 @@
         <pubDate>Sun, 05 May 2019 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Roy Orbison - Dream Baby - Key of F]]></title>
+        <link><![CDATA[https://ukealong.com/song/roy-orbison-dream-baby/]]></link>
+        <description><![CDATA[Play along video for the song Dream Baby performed by Roy Orbison. Chords used in the song: C7, F.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/roy-orbison-dream-baby/]]></guid>
+        <pubDate>Thu, 25 Apr 2019 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Queen - Crazy Little Thing Called Love - Key of A]]></title>
         <link><![CDATA[https://ukealong.com/song/queen-crazy-little-thing-called-love/]]></link>
         <description><![CDATA[Play along video for the song Crazy Little Thing Called Love performed by Queen. Chords used in the song: A, B♭, C, D, Dsus4, E7, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/queen-crazy-little-thing-called-love/]]></guid>
         <pubDate>Sat, 12 Jan 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Status Quo - Rockin' All Over the World - Key of C]]></title>
+        <link><![CDATA[https://ukealong.com/song/status-quo-rockin-all-over-the-world/]]></link>
+        <description><![CDATA[Play along video for the song Rockin' All Over the World performed by Status Quo. Chords used in the song: C, F, G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/status-quo-rockin-all-over-the-world/]]></guid>
+        <pubDate>Wed, 30 May 2018 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Chuck Berry - Johnny B. Goode - Key of C]]></title>
@@ -56,17 +70,10 @@
         <pubDate>Fri, 21 Jul 2017 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Dave Clark Five - Do You Love Me - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com/song/dave-clark-five-do-you-love-me/]]></link>
-        <description><![CDATA[Play along video for the song Do You Love Me performed by Dave Clark Five. Chords used in the song: C, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/dave-clark-five-do-you-love-me/]]></guid>
-        <pubDate>Sun, 30 Oct 2016 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Peppermint Twist Lyrics and Uke chords]]></title>
-        <link><![CDATA[https://ukealong.com/song/peppermint-twist-lyrics-and-uke-chords/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/peppermint-twist-lyrics-and-uke-chords/]]></guid>
-        <pubDate>Sun, 25 May 2014 00:00:00 </pubDate>
+        <title><![CDATA[Bill Haley and the Comets - Rock Around the Clock - Key of A]]></title>
+        <link><![CDATA[https://ukealong.com/song/bill-haley-and-the-comets-rock-around-the-clock/]]></link>
+        <description><![CDATA[Play along video for the song Rock Around the Clock performed by Bill Haley and the Comets. Chords used in the song: A, A7, D7, E7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bill-haley-and-the-comets-rock-around-the-clock/]]></guid>
+        <pubDate>Tue, 28 Feb 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>
