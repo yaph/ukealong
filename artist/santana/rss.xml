@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Santana</title>
     <link>https://ukealong.com</link>
     <description>Artist » Santana</description>
-    <lastBuildDate>Sun, 01 Mar 2020 23:03:53 </lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 14:59:18 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -14,24 +14,10 @@
         <pubDate>Wed, 16 May 2018 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Santana - Oye Como Va]]></title>
-        <link><![CDATA[https://ukealong.com/song/santana-oye-como-va/]]></link>
-        <description><![CDATA[Play along video for the song Oye Como Va performed by Santana.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/santana-oye-como-va/]]></guid>
-        <pubDate>Thu, 15 Sep 2016 00:00:00 </pubDate>
-    </item>
-    <item>
         <title><![CDATA[Santana - Oye Como Va - Key of D]]></title>
-        <link><![CDATA[https://ukealong.com/song/santana-oye-como-va-2/]]></link>
+        <link><![CDATA[https://ukealong.com/song/santana-oye-como-va/]]></link>
         <description><![CDATA[Play along video for the song Oye Como Va performed by Santana. Chords used in the song: Am, D.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/santana-oye-como-va-2/]]></guid>
-        <pubDate>Fri, 29 Jul 2016 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Santana - Oye Como Va]]></title>
-        <link><![CDATA[https://ukealong.com/song/santana-oye-como-va-3/]]></link>
-        <description><![CDATA[Play along video for the song Oye Como Va performed by Santana.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/santana-oye-como-va-3/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/santana-oye-como-va/]]></guid>
         <pubDate>Fri, 29 Jul 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>

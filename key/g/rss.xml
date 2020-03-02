@@ -3,7 +3,7 @@
 <channel><title>Uke Along Key » G</title>
     <link>https://ukealong.com</link>
     <description>Key » G</description>
-    <lastBuildDate>Sun, 01 Mar 2020 23:03:53 </lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 14:59:17 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,6 +12,13 @@
         <description><![CDATA[Play along video for the song Heaven Everywhere performed by Francesca Battistelli. Chords used in the song: C, D, Em, Em7, G, G6, Gmaj7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/francesca-battistelli-heaven-everywhere-baritone-ukulele/]]></guid>
         <pubDate>Wed, 25 Dec 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Sara Bareilles - Love Is Christmas - Key of G]]></title>
+        <link><![CDATA[https://ukealong.com/song/sara-bareilles-love-is-christmas/]]></link>
+        <description><![CDATA[Play along video for the song Love Is Christmas performed by Sara Bareilles. Chords used in the song: C, D, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/sara-bareilles-love-is-christmas/]]></guid>
+        <pubDate>Tue, 26 Nov 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[We Wish You A Merry Christmas - Ukulele Play Along - Key of G]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Calling All Angels performed by Train. Chords used in the song: Am, C, Dm, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/train-calling-all-angels/]]></guid>
         <pubDate>Sun, 06 Oct 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Vance Joy - Saturday Sun - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com/song/vance-joy-saturday-sun/]]></link>
-        <description><![CDATA[Play along video for the song Saturday Sun performed by Vance Joy. Chords used in the song: C, D, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/vance-joy-saturday-sun/]]></guid>
-        <pubDate>Sat, 21 Sep 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

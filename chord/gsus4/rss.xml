@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Gsus4</title>
     <link>https://ukealong.com</link>
     <description>Chord » Gsus4</description>
-    <lastBuildDate>Sun, 01 Mar 2020 23:03:53 </lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 14:59:18 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -49,6 +49,13 @@
         <pubDate>Wed, 20 Jun 2018 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Salvador Sobral - Amar Pelos Dois]]></title>
+        <link><![CDATA[https://ukealong.com/song/salvador-sobral-amar-pelos-dois/]]></link>
+        <description><![CDATA[Play along video for the song Amar Pelos Dois performed by Salvador Sobral. Chords used in the song: A7, Am, B♭, C, C7, Cm, D7, Dm, F, F7, G, Gm, Gsus4.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/salvador-sobral-amar-pelos-dois/]]></guid>
+        <pubDate>Sat, 12 May 2018 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[The Alternate Routes - Nothing More - Key of C]]></title>
         <link><![CDATA[https://ukealong.com/song/the-alternate-routes-nothing-more/]]></link>
         <description><![CDATA[Play along video for the song Nothing More performed by The Alternate Routes. Chords used in the song: Am, C, F, G, G7, Gsus4.]]></description>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song You And I performed by Ingrid Michaelson. Chords used in the song: Am, C, Csus4, D, E7, F, Fadd9, G, Gsus4.]]></description>
         <guid><![CDATA[https://ukealong.com/song/ingrid-michaelson-you-and-i/]]></guid>
         <pubDate>Mon, 01 Jan 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Muffin Songs - Hush Little Baby - Key of F, G]]></title>
-        <link><![CDATA[https://ukealong.com/song/muffin-songs-hush-little-baby/]]></link>
-        <description><![CDATA[Play along video for the song Hush Little Baby performed by Muffin Songs. Chords used in the song: A7, Am, C7, D7, Em, F, G, Gsus4.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/muffin-songs-hush-little-baby/]]></guid>
-        <pubDate>Fri, 07 Jul 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>
