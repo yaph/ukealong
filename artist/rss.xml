@@ -3,18 +3,25 @@
 <channel><title>Uke Along Artist</title>
     <link>https://ukealong.com</link>
     <description>Artist</description>
-    <lastBuildDate>Mon, 02 Mar 2020 23:35:35 </lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2020 00:09:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-        <title><![CDATA[Dua Lipa - Don't Start Now]]></title>
+        <title><![CDATA[Roy Orbison - Oh, Pretty Woman]]></title>
+        <link><![CDATA[https://ukealong.com/song/roy-orbison-oh-pretty-woman/]]></link>
+        <description><![CDATA[Play along video for the song Oh, Pretty Woman performed by Roy Orbison.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/roy-orbison-oh-pretty-woman/]]></guid>
+        <pubDate>Mon, 02 Mar 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Dua Lipa - Don't Start Now - Key of C]]></title>
         <link><![CDATA[https://ukealong.com/song/dua-lipa-don-t-start-now/]]></link>
-        <description><![CDATA[Play along video for the song Don't Start Now performed by Dua Lipa.]]></description>
+        <description><![CDATA[Play along video for the song Don't Start Now performed by Dua Lipa. Chords used in the song: Am, C, Dm, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/dua-lipa-don-t-start-now/]]></guid>
         <pubDate>Sun, 01 Mar 2020 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Free - All Right Now]]></title>
+        <title><![CDATA[Free - All Right Now - Key of C]]></title>
         <link><![CDATA[https://ukealong.com/song/free-all-right-now/]]></link>
         <description><![CDATA[Play along video for the song All Right Now performed by Free. Chords used in the song: C, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/free-all-right-now/]]></guid>
@@ -28,14 +35,14 @@
         <pubDate>Wed, 26 Feb 2020 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Michael Bublé - I Believe in You]]></title>
+        <title><![CDATA[Michael Bublé - I Believe in You - Key of A, G]]></title>
         <link><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></link>
         <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></guid>
         <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Michael Bublé - I Believe in You - Baritone Ukulele]]></title>
+        <title><![CDATA[Michael Bublé - I Believe in You - Baritone Ukulele - Key of A, G]]></title>
         <link><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></link>
         <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></guid>
@@ -67,13 +74,6 @@
         <link><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda-baritone-ukulele/]]></link>
         <description><![CDATA[Play along video for the song Yoda performed by "Weird Al" Yankovic.]]></description>
         <guid><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda-baritone-ukulele/]]></guid>
-        <pubDate>Tue, 18 Feb 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA["Weird Al" Yankovic - Yoda]]></title>
-        <link><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda-2/]]></link>
-        <description><![CDATA[Play along video for the song Yoda performed by "Weird Al" Yankovic. Chords used in the song: A, A7, Bm, B♭, C, D, E7, F♯7, G, Gm.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda-2/]]></guid>
         <pubDate>Tue, 18 Feb 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

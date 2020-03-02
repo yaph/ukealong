@@ -3,9 +3,30 @@
 <channel><title>Uke Along Genre » Pop</title>
     <link>https://ukealong.com</link>
     <description>Genre » Pop</description>
-    <lastBuildDate>Mon, 02 Mar 2020 23:35:35 </lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2020 00:09:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Dua Lipa - Don't Start Now - Key of C]]></title>
+        <link><![CDATA[https://ukealong.com/song/dua-lipa-don-t-start-now/]]></link>
+        <description><![CDATA[Play along video for the song Don't Start Now performed by Dua Lipa. Chords used in the song: Am, C, Dm, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/dua-lipa-don-t-start-now/]]></guid>
+        <pubDate>Sun, 01 Mar 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Michael Bublé - I Believe in You - Key of A, G]]></title>
+        <link><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></link>
+        <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></guid>
+        <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Michael Bublé - I Believe in You - Baritone Ukulele - Key of A, G]]></title>
+        <link><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></guid>
+        <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Dschinghis Khan - Moskau]]></title>
         <link><![CDATA[https://ukealong.com/song/dschinghis-khan-moskau/]]></link>
@@ -54,26 +75,5 @@
         <description><![CDATA[Play along video for the song Heaven Everywhere performed by Francesca Battistelli. Chords used in the song: Am, Am7, C, C6, Cmaj7, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/francesca-battistelli-heaven-everywhere/]]></guid>
         <pubDate>Wed, 25 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Francesca Battistelli - Heaven Everywhere - Baritone Ukulele - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com/song/francesca-battistelli-heaven-everywhere-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song Heaven Everywhere performed by Francesca Battistelli. Chords used in the song: C, D, Em, Em7, G, G6, Gmaj7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/francesca-battistelli-heaven-everywhere-baritone-ukulele/]]></guid>
-        <pubDate>Wed, 25 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Post Malone - Circles]]></title>
-        <link><![CDATA[https://ukealong.com/song/post-malone-circles/]]></link>
-        <description><![CDATA[Play along video for the song Circles performed by Post Malone. Chords used in the song: C, Cmaj7, F, Fm.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/post-malone-circles/]]></guid>
-        <pubDate>Sat, 21 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Johnny Hates Jazz - Shattered Dreams - Baritone Ukulele - Key of Am, A#m]]></title>
-        <link><![CDATA[https://ukealong.com/song/johnny-hates-jazz-shattered-dreams-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song Shattered Dreams performed by Johnny Hates Jazz. Chords used in the song: A, Am, Bm, B♭, B♭m, C, C♯, D, Em, E♭, Fm.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/johnny-hates-jazz-shattered-dreams-baritone-ukulele/]]></guid>
-        <pubDate>Thu, 19 Dec 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

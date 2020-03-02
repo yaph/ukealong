@@ -3,9 +3,23 @@
 <channel><title>Uke Along Key » G</title>
     <link>https://ukealong.com</link>
     <description>Key » G</description>
-    <lastBuildDate>Mon, 02 Mar 2020 23:35:35 </lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2020 00:09:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Michael Bublé - I Believe in You - Key of A, G]]></title>
+        <link><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></link>
+        <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></guid>
+        <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Michael Bublé - I Believe in You - Baritone Ukulele - Key of A, G]]></title>
+        <link><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></guid>
+        <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Francesca Battistelli - Heaven Everywhere - Baritone Ukulele - Key of G]]></title>
         <link><![CDATA[https://ukealong.com/song/francesca-battistelli-heaven-everywhere-baritone-ukulele/]]></link>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song Suspicious Minds performed by Elvis Presley. Chords used in the song: B7, Bm, C, D, D7, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/elvis-presley-suspicious-minds-2/]]></guid>
         <pubDate>Thu, 10 Oct 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Young The Giant - Superposition - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com/song/young-the-giant-superposition/]]></link>
-        <description><![CDATA[Play along video for the song Superposition performed by Young The Giant. Chords used in the song: Am, C, D, Em7, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/young-the-giant-superposition/]]></guid>
-        <pubDate>Wed, 09 Oct 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Train - Calling All Angels - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com/song/train-calling-all-angels/]]></link>
-        <description><![CDATA[Play along video for the song Calling All Angels performed by Train. Chords used in the song: Am, C, Dm, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/train-calling-all-angels/]]></guid>
-        <pubDate>Sun, 06 Oct 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

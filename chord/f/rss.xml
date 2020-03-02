@@ -3,11 +3,18 @@
 <channel><title>Uke Along Chord » F</title>
     <link>https://ukealong.com</link>
     <description>Chord » F</description>
-    <lastBuildDate>Mon, 02 Mar 2020 23:35:35 </lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2020 00:09:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-        <title><![CDATA[Free - All Right Now]]></title>
+        <title><![CDATA[Dua Lipa - Don't Start Now - Key of C]]></title>
+        <link><![CDATA[https://ukealong.com/song/dua-lipa-don-t-start-now/]]></link>
+        <description><![CDATA[Play along video for the song Don't Start Now performed by Dua Lipa. Chords used in the song: Am, C, Dm, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/dua-lipa-don-t-start-now/]]></guid>
+        <pubDate>Sun, 01 Mar 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Free - All Right Now - Key of C]]></title>
         <link><![CDATA[https://ukealong.com/song/free-all-right-now/]]></link>
         <description><![CDATA[Play along video for the song All Right Now performed by Free. Chords used in the song: C, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/free-all-right-now/]]></guid>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Ging Gang Gooli performed by Melinda Caroll. Chords used in the song: C, C7, F, G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/melinda-caroll-ging-gang-gooli-baritone-ukulele/]]></guid>
         <pubDate>Tue, 14 Jan 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Francesca Battistelli - Heaven Everywhere - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com/song/francesca-battistelli-heaven-everywhere/]]></link>
-        <description><![CDATA[Play along video for the song Heaven Everywhere performed by Francesca Battistelli. Chords used in the song: Am, Am7, C, C6, Cmaj7, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/francesca-battistelli-heaven-everywhere/]]></guid>
-        <pubDate>Wed, 25 Dec 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

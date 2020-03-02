@@ -3,36 +3,29 @@
 <channel><title>Uke Along Song</title>
     <link>https://ukealong.com</link>
     <description>Song</description>
-    <lastBuildDate>Mon, 02 Mar 2020 23:35:35 </lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2020 00:09:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-        <title><![CDATA[Roy Orbison - Oh, Pretty Woman. Ukulele tutorial]]></title>
-        <link><![CDATA[https://ukealong.com/song/roy-orbison-oh-pretty-woman-ukulele-tutorial/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/roy-orbison-oh-pretty-woman-ukulele-tutorial/]]></guid>
+        <title><![CDATA[Roy Orbison - Oh, Pretty Woman]]></title>
+        <link><![CDATA[https://ukealong.com/song/roy-orbison-oh-pretty-woman/]]></link>
+        <description><![CDATA[Play along video for the song Oh, Pretty Woman performed by Roy Orbison.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/roy-orbison-oh-pretty-woman/]]></guid>
         <pubDate>Mon, 02 Mar 2020 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Dua Lipa - Don't Start Now]]></title>
+        <title><![CDATA[Dua Lipa - Don't Start Now - Key of C]]></title>
         <link><![CDATA[https://ukealong.com/song/dua-lipa-don-t-start-now/]]></link>
-        <description><![CDATA[Play along video for the song Don't Start Now performed by Dua Lipa.]]></description>
+        <description><![CDATA[Play along video for the song Don't Start Now performed by Dua Lipa. Chords used in the song: Am, C, Dm, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/dua-lipa-don-t-start-now/]]></guid>
         <pubDate>Sun, 01 Mar 2020 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Free - All Right Now]]></title>
+        <title><![CDATA[Free - All Right Now - Key of C]]></title>
         <link><![CDATA[https://ukealong.com/song/free-all-right-now/]]></link>
         <description><![CDATA[Play along video for the song All Right Now performed by Free. Chords used in the song: C, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/free-all-right-now/]]></guid>
         <pubDate>Fri, 28 Feb 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Just the Way You Are Modern Band Play-A-Long]]></title>
-        <link><![CDATA[https://ukealong.com/song/just-the-way-you-are-modern-band-play-a-long/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/just-the-way-you-are-modern-band-play-a-long/]]></guid>
-        <pubDate>Thu, 27 Feb 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Nyan Cat. Ukulele tutorial]]></title>
@@ -49,14 +42,14 @@
         <pubDate>Wed, 26 Feb 2020 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Michael Bublé - I Believe in You]]></title>
+        <title><![CDATA[Michael Bublé - I Believe in You - Key of A, G]]></title>
         <link><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></link>
         <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></guid>
         <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Michael Bublé - I Believe in You - Baritone Ukulele]]></title>
+        <title><![CDATA[Michael Bublé - I Believe in You - Baritone Ukulele - Key of A, G]]></title>
         <link><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></link>
         <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></guid>
@@ -75,5 +68,12 @@
         <description><![CDATA[Play along video for the song Moskau performed by Dschinghis Khan.]]></description>
         <guid><![CDATA[https://ukealong.com/song/dschinghis-khan-moskau/]]></guid>
         <pubDate>Fri, 21 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA["Weird Al" Yankovic - Yoda]]></title>
+        <link><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda/]]></link>
+        <description><![CDATA[Play along video for the song Yoda performed by "Weird Al" Yankovic.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda/]]></guid>
+        <pubDate>Tue, 18 Feb 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

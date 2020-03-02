@@ -3,9 +3,37 @@
 <channel><title>Uke Along Key</title>
     <link>https://ukealong.com</link>
     <description>Key</description>
-    <lastBuildDate>Mon, 02 Mar 2020 23:35:35 </lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2020 00:09:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Dua Lipa - Don't Start Now - Key of C]]></title>
+        <link><![CDATA[https://ukealong.com/song/dua-lipa-don-t-start-now/]]></link>
+        <description><![CDATA[Play along video for the song Don't Start Now performed by Dua Lipa. Chords used in the song: Am, C, Dm, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/dua-lipa-don-t-start-now/]]></guid>
+        <pubDate>Sun, 01 Mar 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Free - All Right Now - Key of C]]></title>
+        <link><![CDATA[https://ukealong.com/song/free-all-right-now/]]></link>
+        <description><![CDATA[Play along video for the song All Right Now performed by Free. Chords used in the song: C, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/free-all-right-now/]]></guid>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Michael Bublé - I Believe in You - Key of A, G]]></title>
+        <link><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></link>
+        <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></guid>
+        <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Michael Bublé - I Believe in You - Baritone Ukulele - Key of A, G]]></title>
+        <link><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></guid>
+        <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Billie Eilish - No Time To Die - Key of Am]]></title>
         <link><![CDATA[https://ukealong.com/song/billie-eilish-no-time-to-die/]]></link>
@@ -47,33 +75,5 @@
         <description><![CDATA[Play along video for the song Ging Gang Gooli performed by Melinda Caroll. Chords used in the song: C, C7, F, G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/melinda-caroll-ging-gang-gooli-baritone-ukulele/]]></guid>
         <pubDate>Tue, 14 Jan 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Francesca Battistelli - Heaven Everywhere - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com/song/francesca-battistelli-heaven-everywhere/]]></link>
-        <description><![CDATA[Play along video for the song Heaven Everywhere performed by Francesca Battistelli. Chords used in the song: Am, Am7, C, C6, Cmaj7, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/francesca-battistelli-heaven-everywhere/]]></guid>
-        <pubDate>Wed, 25 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Francesca Battistelli - Heaven Everywhere - Baritone Ukulele - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com/song/francesca-battistelli-heaven-everywhere-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song Heaven Everywhere performed by Francesca Battistelli. Chords used in the song: C, D, Em, Em7, G, G6, Gmaj7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/francesca-battistelli-heaven-everywhere-baritone-ukulele/]]></guid>
-        <pubDate>Wed, 25 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Darlene Love - Christmas - Key of F]]></title>
-        <link><![CDATA[https://ukealong.com/song/darlene-love-christmas-2/]]></link>
-        <description><![CDATA[Play along video for the song Christmas performed by Darlene Love. Chords used in the song: Am, B♭, C7, Dm, F.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/darlene-love-christmas-2/]]></guid>
-        <pubDate>Mon, 23 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Darlene Love - Christmas - Key of D]]></title>
-        <link><![CDATA[https://ukealong.com/song/darlene-love-christmas/]]></link>
-        <description><![CDATA[Play along video for the song Christmas performed by Darlene Love. Chords used in the song: A7, Bm, D, F♯m, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/darlene-love-christmas/]]></guid>
-        <pubDate>Mon, 23 Dec 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

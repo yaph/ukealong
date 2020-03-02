@@ -3,9 +3,16 @@
 <channel><title>Uke Along Genre » Rock And Roll</title>
     <link>https://ukealong.com</link>
     <description>Genre » Rock And Roll</description>
-    <lastBuildDate>Mon, 02 Mar 2020 23:35:35 </lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2020 00:09:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Roy Orbison - Oh, Pretty Woman]]></title>
+        <link><![CDATA[https://ukealong.com/song/roy-orbison-oh-pretty-woman/]]></link>
+        <description><![CDATA[Play along video for the song Oh, Pretty Woman performed by Roy Orbison.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/roy-orbison-oh-pretty-woman/]]></guid>
+        <pubDate>Mon, 02 Mar 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Chuck Berry - Run Run Rudolph - Key of C]]></title>
         <link><![CDATA[https://ukealong.com/song/chuck-berry-run-run-rudolph/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Johnny B. Goode performed by Chuck Berry. Chords used in the song: C, F, G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/chuck-berry-johnny-b-goode/]]></guid>
         <pubDate>Fri, 21 Jul 2017 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Bill Haley and the Comets - Rock Around the Clock - Key of A]]></title>
-        <link><![CDATA[https://ukealong.com/song/bill-haley-and-the-comets-rock-around-the-clock/]]></link>
-        <description><![CDATA[Play along video for the song Rock Around the Clock performed by Bill Haley and the Comets. Chords used in the song: A, A7, D7, E7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/bill-haley-and-the-comets-rock-around-the-clock/]]></guid>
-        <pubDate>Tue, 28 Feb 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

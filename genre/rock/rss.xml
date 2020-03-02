@@ -3,9 +3,16 @@
 <channel><title>Uke Along Genre » Rock</title>
     <link>https://ukealong.com</link>
     <description>Genre » Rock</description>
-    <lastBuildDate>Mon, 02 Mar 2020 23:35:35 </lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2020 00:09:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Free - All Right Now - Key of C]]></title>
+        <link><![CDATA[https://ukealong.com/song/free-all-right-now/]]></link>
+        <description><![CDATA[Play along video for the song All Right Now performed by Free. Chords used in the song: C, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/free-all-right-now/]]></guid>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Queens Of The Stone Age - Go With The Flow]]></title>
         <link><![CDATA[https://ukealong.com/song/queens-of-the-stone-age-go-with-the-flow/]]></link>
@@ -67,13 +74,6 @@
         <link><![CDATA[https://ukealong.com/song/survivor-rocky-eye-of-the-tiger-baritone-ukulele/]]></link>
         <description><![CDATA[Play along video for the song 'Rocky" Eye Of The Tiger performed by Survivor. Chords used in the song: A, B♭, C, Dm, F, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/survivor-rocky-eye-of-the-tiger-baritone-ukulele/]]></guid>
-        <pubDate>Sat, 17 Aug 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Men at Work - Down Under - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com/song/men-at-work-down-under/]]></link>
-        <description><![CDATA[Play along video for the song Down Under performed by Men at Work. Chords used in the song: Am, C, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/men-at-work-down-under/]]></guid>
         <pubDate>Sat, 17 Aug 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>
