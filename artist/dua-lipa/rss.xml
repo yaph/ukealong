@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Uke Along Artist » Dua Lipa</title>
+    <link>https://ukealong.com</link>
+    <description>Artist » Dua Lipa</description>
+    <lastBuildDate>Mon, 02 Mar 2020 23:35:36 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Dua Lipa - Don't Start Now]]></title>
+        <link><![CDATA[https://ukealong.com/song/dua-lipa-don-t-start-now/]]></link>
+        <description><![CDATA[Play along video for the song Don't Start Now performed by Dua Lipa.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/dua-lipa-don-t-start-now/]]></guid>
+        <pubDate>Sun, 01 Mar 2020 00:00:00 </pubDate>
+    </item>
+</channel></rss>

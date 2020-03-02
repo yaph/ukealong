@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Uke Along Artist » Vitas</title>
+    <link>https://ukealong.com</link>
+    <description>Artist » Vitas</description>
+    <lastBuildDate>Mon, 02 Mar 2020 23:35:36 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Vitas - The 7th Element]]></title>
+        <link><![CDATA[https://ukealong.com/song/vitas-the-7th-element/]]></link>
+        <description><![CDATA[Play along video for the song The 7th Element performed by Vitas.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/vitas-the-7th-element/]]></guid>
+        <pubDate>Mon, 17 Feb 2020 00:00:00 </pubDate>
+    </item>
+</channel></rss>

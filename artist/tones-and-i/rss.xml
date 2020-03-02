@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Uke Along Artist » Tones And I</title>
+    <link>https://ukealong.com</link>
+    <description>Artist » Tones And I</description>
+    <lastBuildDate>Mon, 02 Mar 2020 23:35:35 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Tones and I - Dance Monkey]]></title>
+        <link><![CDATA[https://ukealong.com/song/tones-and-i-dance-monkey/]]></link>
+        <description><![CDATA[Play along video for the song Dance Monkey performed by Tones and I.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/tones-and-i-dance-monkey/]]></guid>
+        <pubDate>Wed, 29 Jan 2020 00:00:00 </pubDate>
+    </item>
+</channel></rss>

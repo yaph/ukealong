@@ -3,9 +3,30 @@
 <channel><title>Uke Along Chord » C</title>
     <link>https://ukealong.com</link>
     <description>Chord » C</description>
-    <lastBuildDate>Mon, 02 Mar 2020 22:00:10 </lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 23:35:35 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Free - All Right Now]]></title>
+        <link><![CDATA[https://ukealong.com/song/free-all-right-now/]]></link>
+        <description><![CDATA[Play along video for the song All Right Now performed by Free. Chords used in the song: C, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/free-all-right-now/]]></guid>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Michael Bublé - I Believe in You]]></title>
+        <link><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></link>
+        <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></guid>
+        <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Michael Bublé - I Believe in You - Baritone Ukulele]]></title>
+        <link><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></guid>
+        <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA["Weird Al" Yankovic - Yoda]]></title>
         <link><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda-2/]]></link>
@@ -54,26 +75,5 @@
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/pachelbels-canon-in-c-ukulele-play-along/]]></guid>
         <pubDate>Sun, 26 Jan 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Pachelbel’s Canon (in C) Baritone Ukulele Play Along - Baritone Ukulele]]></title>
-        <link><![CDATA[https://ukealong.com/song/pachelbels-canon-in-c-baritone-ukulele-play-along-baritone-ukulele/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/pachelbels-canon-in-c-baritone-ukulele-play-along-baritone-ukulele/]]></guid>
-        <pubDate>Sun, 26 Jan 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Cavetown - This Is Home]]></title>
-        <link><![CDATA[https://ukealong.com/song/cavetown-this-is-home/]]></link>
-        <description><![CDATA[Play along video for the song This Is Home performed by Cavetown. Chords used in the song: A, C, Cm, Cmaj7, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/cavetown-this-is-home/]]></guid>
-        <pubDate>Fri, 24 Jan 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Melinda Caroll - Ging Gang Gooli - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com/song/melinda-caroll-ging-gang-gooli/]]></link>
-        <description><![CDATA[Play along video for the song Ging Gang Gooli performed by Melinda Caroll. Chords used in the song: C, C7, F, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/melinda-caroll-ging-gang-gooli/]]></guid>
-        <pubDate>Tue, 14 Jan 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

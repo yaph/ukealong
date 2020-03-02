@@ -3,9 +3,16 @@
 <channel><title>Uke Along Artist » Smash Mouth</title>
     <link>https://ukealong.com</link>
     <description>Artist » Smash Mouth</description>
-    <lastBuildDate>Mon, 02 Mar 2020 22:00:10 </lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 23:35:35 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Smash Mouth - All Star]]></title>
+        <link><![CDATA[https://ukealong.com/song/smash-mouth-all-star/]]></link>
+        <description><![CDATA[Play along video for the song All Star performed by Smash Mouth.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/smash-mouth-all-star/]]></guid>
+        <pubDate>Wed, 17 Jul 2019 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Smash Mouth - I'm A Believer - Key of C]]></title>
         <link><![CDATA[https://ukealong.com/song/smash-mouth-i-m-a-believer/]]></link>
@@ -15,9 +22,9 @@
     </item>
     <item>
         <title><![CDATA[Smash Mouth - All Star - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com/song/smash-mouth-all-star/]]></link>
+        <link><![CDATA[https://ukealong.com/song/smash-mouth-all-star-2/]]></link>
         <description><![CDATA[Play along video for the song All Star performed by Smash Mouth. Chords used in the song: A7, Am, C, D, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/smash-mouth-all-star/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/smash-mouth-all-star-2/]]></guid>
         <pubDate>Sun, 16 Jul 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

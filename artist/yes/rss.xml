@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Uke Along Artist » Yes</title>
+    <link>https://ukealong.com</link>
+    <description>Artist » Yes</description>
+    <lastBuildDate>Mon, 02 Mar 2020 23:35:35 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Yes - Roundabout]]></title>
+        <link><![CDATA[https://ukealong.com/song/yes-roundabout/]]></link>
+        <description><![CDATA[Play along video for the song Roundabout performed by Yes.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/yes-roundabout/]]></guid>
+        <pubDate>Thu, 15 Nov 2018 00:00:00 </pubDate>
+    </item>
+</channel></rss>

@@ -3,9 +3,23 @@
 <channel><title>Uke Along Chord » Em</title>
     <link>https://ukealong.com</link>
     <description>Chord » Em</description>
-    <lastBuildDate>Mon, 02 Mar 2020 22:00:10 </lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 23:35:35 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Michael Bublé - I Believe in You]]></title>
+        <link><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></link>
+        <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></guid>
+        <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Michael Bublé - I Believe in You - Baritone Ukulele]]></title>
+        <link><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></guid>
+        <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Billie Eilish - No Time To Die - Key of Am]]></title>
         <link><![CDATA[https://ukealong.com/song/billie-eilish-no-time-to-die/]]></link>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song This Is Home performed by Cavetown. Chords used in the song: A, C, Cm, Cmaj7, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/cavetown-this-is-home/]]></guid>
         <pubDate>Fri, 24 Jan 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Francesca Battistelli - Heaven Everywhere - Baritone Ukulele - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com/song/francesca-battistelli-heaven-everywhere-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song Heaven Everywhere performed by Francesca Battistelli. Chords used in the song: C, D, Em, Em7, G, G6, Gmaj7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/francesca-battistelli-heaven-everywhere-baritone-ukulele/]]></guid>
-        <pubDate>Wed, 25 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Steven Curtis Chapman - I Want a Ukulele for Christmas - Baritone Ukulele]]></title>
-        <link><![CDATA[https://ukealong.com/song/steven-curtis-chapman-i-want-a-ukulele-for-christmas-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song I Want a Ukulele for Christmas performed by Steven Curtis Chapman. Chords used in the song: Am7, C, Cm, Cm6, C♯dim, D7, D7sus4, Dmaj7, E7, Em, Em6, G, G7, Gaug, Gmaj7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/steven-curtis-chapman-i-want-a-ukulele-for-christmas-baritone-ukulele/]]></guid>
-        <pubDate>Sat, 21 Dec 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

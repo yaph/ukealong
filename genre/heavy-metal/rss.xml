@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Heavy Metal</title>
     <link>https://ukealong.com</link>
     <description>Genre » Heavy Metal</description>
-    <lastBuildDate>Mon, 02 Mar 2020 22:00:10 </lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 23:35:35 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -33,6 +33,13 @@
         <description><![CDATA[Play along video for the song Iron Man performed by Black Sabbath.]]></description>
         <guid><![CDATA[https://ukealong.com/song/black-sabbath-iron-man/]]></guid>
         <pubDate>Thu, 05 Jul 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Slayer - Raining Blood]]></title>
+        <link><![CDATA[https://ukealong.com/song/slayer-raining-blood/]]></link>
+        <description><![CDATA[Play along video for the song Raining Blood performed by Slayer.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/slayer-raining-blood/]]></guid>
+        <pubDate>Mon, 04 Jun 2018 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Ozzy Osbourne - Crazy Train]]></title>

@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Movie</title>
     <link>https://ukealong.com</link>
     <description>Genre » Movie</description>
-    <lastBuildDate>Mon, 02 Mar 2020 22:00:10 </lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 23:35:35 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -26,6 +26,13 @@
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/darth-vader-s-theme-ukulele-tab-playalong/]]></guid>
         <pubDate>Sun, 26 Jan 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Star Wars - The Imperial March. Ukulele tutorial]]></title>
+        <link><![CDATA[https://ukealong.com/song/star-wars-the-imperial-march-ukulele-tutorial/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/star-wars-the-imperial-march-ukulele-tutorial/]]></guid>
+        <pubDate>Wed, 25 Dec 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Panic! At The Disco - Into The Unknown]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song SPIRIT performed by Beyoncé. Chords used in the song: Am, B7, C, D, Em, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/beyonce-spirit/]]></guid>
         <pubDate>Wed, 17 Jul 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Chihiro Otsuka - Baby Mine - Baritone Ukulele - Key of D]]></title>
-        <link><![CDATA[https://ukealong.com/song/chihiro-otsuka-baby-mine-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song Baby Mine performed by Chihiro Otsuka. Chords used in the song: A7, D, Dmaj7, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/chihiro-otsuka-baby-mine-baritone-ukulele/]]></guid>
-        <pubDate>Thu, 27 Jun 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

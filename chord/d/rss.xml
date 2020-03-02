@@ -3,9 +3,23 @@
 <channel><title>Uke Along Chord » D</title>
     <link>https://ukealong.com</link>
     <description>Chord » D</description>
-    <lastBuildDate>Mon, 02 Mar 2020 22:00:10 </lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 23:35:35 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Michael Bublé - I Believe in You]]></title>
+        <link><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></link>
+        <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></guid>
+        <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Michael Bublé - I Believe in You - Baritone Ukulele]]></title>
+        <link><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></guid>
+        <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA["Weird Al" Yankovic - Yoda]]></title>
         <link><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda-2/]]></link>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song Christmas performed by Darlene Love. Chords used in the song: A7, Bm, D, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/darlene-love-christmas/]]></guid>
         <pubDate>Mon, 23 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Darlene Love - Christmas - Baritone Ukulele]]></title>
-        <link><![CDATA[https://ukealong.com/song/darlene-love-christmas-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song Christmas performed by Darlene Love. Chords used in the song: A7, Bm, D, F♯m, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/darlene-love-christmas-baritone-ukulele/]]></guid>
-        <pubDate>Mon, 23 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Julie Andrews - My Favorite Things - Baritone Ukulele - Key of Dm, EM]]></title>
-        <link><![CDATA[https://ukealong.com/song/julie-andrews-my-favorite-things-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song My Favorite Things performed by Julie Andrews. Chords used in the song: A, A7, Am, B7, B♭, B♭maj7, C, C7, Cmaj7, D, D6, D7, Dm, E, Em, F, G, G7, Gm.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/julie-andrews-my-favorite-things-baritone-ukulele/]]></guid>
-        <pubDate>Fri, 20 Dec 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

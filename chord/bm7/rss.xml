@@ -3,9 +3,23 @@
 <channel><title>Uke Along Chord » Bm7</title>
     <link>https://ukealong.com</link>
     <description>Chord » Bm7</description>
-    <lastBuildDate>Mon, 02 Mar 2020 22:00:10 </lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 23:35:35 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Michael Bublé - I Believe in You]]></title>
+        <link><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></link>
+        <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></guid>
+        <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Michael Bublé - I Believe in You - Baritone Ukulele]]></title>
+        <link><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></guid>
+        <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Huey Lewis & The News - Stuck With You - Baritone Ukulele - Key of C, D]]></title>
         <link><![CDATA[https://ukealong.com/song/huey-lewis-the-news-stuck-with-you-baritone-ukulele/]]></link>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song Speechless performed by Naomi Scott. Chords used in the song: Am, B, Bm7, Bsus4, C, Cdim7, D, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/naomi-scott-speechless-baritone-ukulele/]]></guid>
         <pubDate>Sun, 02 Jun 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Shawn Mendes - If I Can't Have You - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com/song/shawn-mendes-if-i-can-t-have-you/]]></link>
-        <description><![CDATA[Play along video for the song If I Can't Have You performed by Shawn Mendes. Chords used in the song: Bm7, Em7, F♯m, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/shawn-mendes-if-i-can-t-have-you/]]></guid>
-        <pubDate>Sat, 11 May 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Alex Boye - Lemonade - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com/song/alex-boye-lemonade/]]></link>
-        <description><![CDATA[Play along video for the song Lemonade performed by Alex Boye. Chords used in the song: Am, B7, Bm7, C, Cm, D, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/alex-boye-lemonade/]]></guid>
-        <pubDate>Sat, 11 May 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

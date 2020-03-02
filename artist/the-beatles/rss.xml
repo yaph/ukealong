@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » The Beatles</title>
     <link>https://ukealong.com</link>
     <description>Artist » The Beatles</description>
-    <lastBuildDate>Mon, 02 Mar 2020 22:00:10 </lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 23:35:36 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,6 +12,13 @@
         <description><![CDATA[Play along video for the song I Saw Her Standing There performed by The Beatles. Chords used in the song: A7, B7, C, E7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-beatles-i-saw-her-standing-there/]]></guid>
         <pubDate>Wed, 29 Mar 2017 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Beatles - Yesterday]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-yesterday/]]></link>
+        <description><![CDATA[Play along video for the song Yesterday performed by The Beatles.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-yesterday/]]></guid>
+        <pubDate>Sun, 05 Feb 2017 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[The Beatles - Norwegian Wood - Key of D]]></title>

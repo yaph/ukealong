@@ -3,9 +3,23 @@
 <channel><title>Uke Along Chord » F♯M</title>
     <link>https://ukealong.com</link>
     <description>Chord » F♯M</description>
-    <lastBuildDate>Mon, 02 Mar 2020 22:00:10 </lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 23:35:35 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Michael Bublé - I Believe in You]]></title>
+        <link><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></link>
+        <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></guid>
+        <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Michael Bublé - I Believe in You - Baritone Ukulele]]></title>
+        <link><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></guid>
+        <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[ABBA - Mamma Mia]]></title>
         <link><![CDATA[https://ukealong.com/song/abba-mamma-mia/]]></link>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song Christmas performed by Darlene Love. Chords used in the song: A7, Bm, D, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/darlene-love-christmas-baritone-ukulele/]]></guid>
         <pubDate>Mon, 23 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Chris Rea - Driving Home for Christmas - Key of A]]></title>
-        <link><![CDATA[https://ukealong.com/song/chris-rea-driving-home-for-christmas/]]></link>
-        <description><![CDATA[Play along video for the song Driving Home for Christmas performed by Chris Rea. Chords used in the song: A, Bm, C♯m7, D, E7, Em, F♯m, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/chris-rea-driving-home-for-christmas/]]></guid>
-        <pubDate>Fri, 08 Nov 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Mamas & The Papas - Dream A Little Dream Of Me - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-mamas-the-papas-dream-a-little-dream-of-me/]]></link>
-        <description><![CDATA[Play along video for the song Dream A Little Dream Of Me performed by The Mamas & The Papas. Chords used in the song: A, A7, A♭, B7, Bm, C, E7, F, Fm, F♯m, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-mamas-the-papas-dream-a-little-dream-of-me/]]></guid>
-        <pubDate>Fri, 09 Aug 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>
