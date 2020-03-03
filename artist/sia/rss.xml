@@ -3,9 +3,16 @@
 <channel><title>Uke Along Artist » Sia</title>
     <link>https://ukealong.com</link>
     <description>Artist » Sia</description>
-    <lastBuildDate>Tue, 03 Mar 2020 00:09:07 </lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2020 00:19:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Sia - Cheap Thrills - Key of G]]></title>
+        <link><![CDATA[https://ukealong.com/song/sia-cheap-thrills/]]></link>
+        <description><![CDATA[Play along video for the song Cheap Thrills performed by Sia. Chords used in the song: C, D, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/sia-cheap-thrills/]]></guid>
+        <pubDate>Fri, 05 Apr 2019 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Sia - The Greatest - Key of C]]></title>
         <link><![CDATA[https://ukealong.com/song/sia-the-greatest/]]></link>
@@ -22,9 +29,9 @@
     </item>
     <item>
         <title><![CDATA[Sia - Cheap Thrills - Key of G]]></title>
-        <link><![CDATA[https://ukealong.com/song/sia-cheap-thrills/]]></link>
+        <link><![CDATA[https://ukealong.com/song/sia-cheap-thrills-2/]]></link>
         <description><![CDATA[Play along video for the song Cheap Thrills performed by Sia. Chords used in the song: C, D, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/sia-cheap-thrills/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/sia-cheap-thrills-2/]]></guid>
         <pubDate>Thu, 11 Aug 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>

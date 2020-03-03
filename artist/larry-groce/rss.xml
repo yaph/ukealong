@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Larry Groce</title>
     <link>https://ukealong.com</link>
     <description>Artist » Larry Groce</description>
-    <lastBuildDate>Tue, 03 Mar 2020 00:09:07 </lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2020 00:19:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -14,10 +14,17 @@
         <pubDate>Sat, 16 Jun 2018 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Larry Groce - Shoo, Fly, Don't Bother Me - Key of G]]></title>
+        <title><![CDATA[Larry Groce - Shoo, Fly, Don't Bother Me - Key of F]]></title>
         <link><![CDATA[https://ukealong.com/song/larry-groce-shoo-fly-don-t-bother-me/]]></link>
-        <description><![CDATA[Play along video for the song Shoo, Fly, Don't Bother Me performed by Larry Groce. Chords used in the song: D7, G.]]></description>
+        <description><![CDATA[Play along video for the song Shoo, Fly, Don't Bother Me performed by Larry Groce. Chords used in the song: C7, F.]]></description>
         <guid><![CDATA[https://ukealong.com/song/larry-groce-shoo-fly-don-t-bother-me/]]></guid>
+        <pubDate>Thu, 06 Jul 2017 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Larry Groce - Shoo, Fly, Don't Bother Me - Key of G]]></title>
+        <link><![CDATA[https://ukealong.com/song/larry-groce-shoo-fly-don-t-bother-me-2/]]></link>
+        <description><![CDATA[Play along video for the song Shoo, Fly, Don't Bother Me performed by Larry Groce. Chords used in the song: D7, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/larry-groce-shoo-fly-don-t-bother-me-2/]]></guid>
         <pubDate>Thu, 06 Jul 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Gm7</title>
     <link>https://ukealong.com</link>
     <description>Chord » Gm7</description>
-    <lastBuildDate>Tue, 03 Mar 2020 00:09:07 </lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2020 00:19:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -26,13 +26,6 @@
         <description><![CDATA[Play along video for the song Tie a Yellow Ribbon Round the Ole Oak Tree performed by Tony Orlando. Chords used in the song: A7, Am, B♭m, C7, Cm, D7, Dm, F, G7, Gm, Gm7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/tony-orlando-tie-a-yellow-ribbon-round-the-ole-oak-tree/]]></guid>
         <pubDate>Sat, 22 Jun 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Shotgun uke chords F Gm7 Dm C - Key of F]]></title>
-        <link><![CDATA[https://ukealong.com/song/shotgun-uke-chords-f-gm7-dm-c/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/shotgun-uke-chords-f-gm7-dm-c/]]></guid>
-        <pubDate>Tue, 18 Jun 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[The Allman Brothers Band - Midnight Rider - Key of D]]></title>
@@ -75,5 +68,12 @@
         <description><![CDATA[Play along video for the song Remember Me performed by Gael García Bernal. Chords used in the song: Am, A♭, B♭7, C, Cm, Dm7, E7, Em, Fm6, Gm7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/gael-garcia-bernal-remember-me/]]></guid>
         <pubDate>Fri, 01 Dec 2017 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Singing In The Rain Ukulele Play Along - Key of G, F, A]]></title>
+        <link><![CDATA[https://ukealong.com/song/singing-in-the-rain-ukulele-play-along/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/singing-in-the-rain-ukulele-play-along/]]></guid>
+        <pubDate>Sun, 06 Aug 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>
