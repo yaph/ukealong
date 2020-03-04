@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » The Kiboomers</title>
     <link>https://ukealong.com</link>
     <description>Artist » The Kiboomers</description>
-    <lastBuildDate>Wed, 04 Mar 2020 00:19:44 </lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2020 23:29:21 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,6 +12,13 @@
         <description><![CDATA[Play along video for the song Columbus Day performed by The Kiboomers. Chords used in the song: C, F.]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-kiboomers-columbus-day/]]></guid>
         <pubDate>Mon, 29 Jul 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Kiboomers - Saint Patrick's Day Song - Key of A]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-kiboomers-saint-patrick-s-day-song/]]></link>
+        <description><![CDATA[Play along video for the song Saint Patrick's Day Song performed by The Kiboomers. Chords used in the song: A, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-kiboomers-saint-patrick-s-day-song/]]></guid>
+        <pubDate>Sun, 17 Mar 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[The Kiboomers - Ten in the Bed / Roll Over - Key of C]]></title>

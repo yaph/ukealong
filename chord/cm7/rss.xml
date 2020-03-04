@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Cm7</title>
     <link>https://ukealong.com</link>
     <description>Chord » Cm7</description>
-    <lastBuildDate>Wed, 04 Mar 2020 00:19:44 </lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2020 23:29:20 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -47,5 +47,12 @@
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/ukulele-lady-ukulele-play-along-muppets-version/]]></guid>
         <pubDate>Wed, 14 Jun 2017 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Nothin' On You by B.o.B (Ukulele Play-Along!)]]></title>
+        <link><![CDATA[https://ukealong.com/song/nothin-on-you-by-b-o-b-ukulele-play-along/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/nothin-on-you-by-b-o-b-ukulele-play-along/]]></guid>
+        <pubDate>Sun, 28 Feb 2010 00:00:00 </pubDate>
     </item>
 </channel></rss>

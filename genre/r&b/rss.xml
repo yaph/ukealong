@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » R&B</title>
     <link>https://ukealong.com</link>
     <description>Genre » R&B</description>
-    <lastBuildDate>Wed, 04 Mar 2020 00:19:44 </lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2020 23:29:20 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -47,5 +47,12 @@
         <description><![CDATA[Play along video for the song Folsom Prison Blues performed by Johnny Cash. Chords used in the song: B♭, C7, F, F7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/johnny-cash-folsom-prison-blues-2/]]></guid>
         <pubDate>Tue, 06 Jun 2017 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Ben E King - Stand By Me - Key of G]]></title>
+        <link><![CDATA[https://ukealong.com/song/ben-e-king-stand-by-me/]]></link>
+        <description><![CDATA[Play along video for the song Stand By Me performed by Ben E King. Chords used in the song: C, D, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/ben-e-king-stand-by-me/]]></guid>
+        <pubDate>Sun, 31 Jan 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>

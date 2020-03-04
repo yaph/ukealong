@@ -3,7 +3,7 @@
 <channel><title>Uke Along RSS Feed</title>
     <link>https://ukealong.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Wed, 04 Mar 2020 00:19:44 </lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2020 23:29:21 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -21,11 +21,25 @@
         <pubDate>Mon, 02 Mar 2020 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Crazy - Willie Nelson/Patsy Cline (ukulele cover) || Cynthia Lin Play-Along]]></title>
+        <link><![CDATA[https://ukealong.com/song/crazy-willie-nelson-patsy-cline-ukulele-cover-cynthia-lin-play-along/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/crazy-willie-nelson-patsy-cline-ukulele-cover-cynthia-lin-play-along/]]></guid>
+        <pubDate>Sun, 01 Mar 2020 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Dua Lipa - Don't Start Now - Key of C]]></title>
         <link><![CDATA[https://ukealong.com/song/dua-lipa-don-t-start-now/]]></link>
         <description><![CDATA[Play along video for the song Don't Start Now performed by Dua Lipa. Chords used in the song: Am, C, Dm, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/dua-lipa-don-t-start-now/]]></guid>
         <pubDate>Sun, 01 Mar 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA["Something" (The Beatles) Ukulele Play-Along!]]></title>
+        <link><![CDATA[https://ukealong.com/song/something-the-beatles-ukulele-play-along/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/something-the-beatles-ukulele-play-along/]]></guid>
+        <pubDate>Sat, 29 Feb 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Free - All Right Now - Key of C]]></title>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></guid>
         <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The White Stripes - Seven Nation Army]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-white-stripes-seven-nation-army/]]></link>
-        <description><![CDATA[Play along video for the song Seven Nation Army performed by The White Stripes.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-white-stripes-seven-nation-army/]]></guid>
-        <pubDate>Mon, 24 Feb 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Dschinghis Khan - Moskau]]></title>
-        <link><![CDATA[https://ukealong.com/song/dschinghis-khan-moskau/]]></link>
-        <description><![CDATA[Play along video for the song Moskau performed by Dschinghis Khan.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/dschinghis-khan-moskau/]]></guid>
-        <pubDate>Fri, 21 Feb 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>
