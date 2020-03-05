@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » G7</title>
     <link>https://ukealong.com</link>
     <description>Chord » G7</description>
-    <lastBuildDate>Thu, 05 Mar 2020 20:38:25 </lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2020 23:35:57 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,13 @@
         <description><![CDATA[Play along video for the song Ging Gang Gooli performed by Melinda Caroll. Chords used in the song: C, C7, F, G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/melinda-caroll-ging-gang-gooli-baritone-ukulele/]]></guid>
         <pubDate>Tue, 14 Jan 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Baby It's Cold Outside (Ukulele Play Along) with Tiffany Cristina - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/baby-it-s-cold-outside-ukulele-play-along-with-tiffany-cristina/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/baby-it-s-cold-outside-ukulele-play-along-with-tiffany-cristina/]]></guid>
+        <pubDate>Fri, 27 Dec 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Steven Curtis Chapman - I Want a Ukulele for Christmas - Baritone Ukulele - ukeplayalongs]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/all-i-want-for-christmas-is-my-two-front-teeth-ukulele-play-along/]]></guid>
         <pubDate>Tue, 19 Nov 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Chuck Berry - Run Run Rudolph - Key of C - Ukulaliens - Ukulele Club]]></title>
-        <link><![CDATA[https://ukealong.com/song/chuck-berry-run-run-rudolph/]]></link>
-        <description><![CDATA[Play along video for the song Run Run Rudolph performed by Chuck Berry. Chords used in the song: C, F, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/chuck-berry-run-run-rudolph/]]></guid>
-        <pubDate>Thu, 07 Nov 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

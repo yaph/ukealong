@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » E</title>
     <link>https://ukealong.com</link>
     <description>Chord » E</description>
-    <lastBuildDate>Thu, 05 Mar 2020 20:38:25 </lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2020 23:35:58 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -56,6 +56,13 @@
         <pubDate>Tue, 03 Dec 2019 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Bobby McFerrin - Don't Worry, Be Happy - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/bobby-mcferrin-don-t-worry-be-happy/]]></link>
+        <description><![CDATA[Play along video for the song Don't Worry, Be Happy performed by Bobby McFerrin. Chords used in the song: B, C♯m, E.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bobby-mcferrin-don-t-worry-be-happy/]]></guid>
+        <pubDate>Sat, 09 Nov 2019 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Sheb Wooley - Purple People Eater - Key of D, Eb, E, F - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/sheb-wooley-purple-people-eater-2/]]></link>
         <description><![CDATA[Play along video for the song Purple People Eater performed by Sheb Wooley. Chords used in the song: A, A7, A♭, B7, B♭, B♭7, C7, D, E, E♭, F, G.]]></description>
@@ -68,12 +75,5 @@
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/purple-people-eater-baritone-ukulele-play-along-with-key-changes-baritone-ukulele/]]></guid>
         <pubDate>Tue, 22 Oct 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Stephanie Leavell - Shy Little Monster - Baritone Ukulele - Key of C - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/stephanie-leavell-shy-little-monster-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song Shy Little Monster performed by Stephanie Leavell. Chords used in the song: C, E, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/stephanie-leavell-shy-little-monster-baritone-ukulele/]]></guid>
-        <pubDate>Tue, 08 Oct 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

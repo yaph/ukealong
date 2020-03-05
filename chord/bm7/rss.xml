@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Bm7</title>
     <link>https://ukealong.com</link>
     <description>Chord » Bm7</description>
-    <lastBuildDate>Thu, 05 Mar 2020 20:38:25 </lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2020 23:35:58 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,20 @@
         <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></guid>
         <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Extreme - More Than Words - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/extreme-more-than-words/]]></link>
+        <description><![CDATA[Play along video for the song More Than Words performed by Extreme. Chords used in the song: Am7, Bm7, C, Cm, D, D7, Em, G, G/B, G7, G7/B.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/extreme-more-than-words/]]></guid>
+        <pubDate>Thu, 31 Oct 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Billy Joel - Just The Way You Are - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/billy-joel-just-the-way-you-are/]]></link>
+        <description><![CDATA[Play along video for the song Just The Way You Are performed by Billy Joel. Chords used in the song: A, A7, B, B7, Bm7, D, Dm, Dmaj7, E, Em, Esus4, F, F♯m, F♯m6, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/billy-joel-just-the-way-you-are/]]></guid>
+        <pubDate>Wed, 04 Sep 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Huey Lewis & The News - Stuck With You - Baritone Ukulele - Key of C, D - ukeplayalongs]]></title>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song How Do I Live performed by LeAnn Rimes. Chords used in the song: A, Asus, Bm7, C, Dm, Em7, F, F♯m, G, Gsus.]]></description>
         <guid><![CDATA[https://ukealong.com/song/leann-rimes-how-do-i-live/]]></guid>
         <pubDate>Tue, 25 Jun 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Naomi Scott - Speechless - Key of Em - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/naomi-scott-speechless/]]></link>
-        <description><![CDATA[Play along video for the song Speechless performed by Naomi Scott. Chords used in the song: Am, B, Bm7, Bsus4, C, D, D7, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/naomi-scott-speechless/]]></guid>
-        <pubDate>Sun, 02 Jun 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Naomi Scott - Speechless - Baritone Ukulele - Key of Em - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/naomi-scott-speechless-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song Speechless performed by Naomi Scott. Chords used in the song: Am, B, Bm7, Bsus4, C, Cdim7, D, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/naomi-scott-speechless-baritone-ukulele/]]></guid>
-        <pubDate>Sun, 02 Jun 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

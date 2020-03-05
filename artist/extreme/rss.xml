@@ -3,14 +3,21 @@
 <channel><title>Uke Along Artist » Extreme</title>
     <link>https://ukealong.com</link>
     <description>Artist » Extreme</description>
-    <lastBuildDate>Thu, 05 Mar 2020 20:38:26 </lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2020 23:35:58 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-        <title><![CDATA[Extreme - More Than Words - Key of G - ukeplayalongs]]></title>
+        <title><![CDATA[Extreme - More Than Words - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/extreme-more-than-words/]]></link>
-        <description><![CDATA[Play along video for the song More Than Words performed by Extreme. Chords used in the song: Am7, Bm, Bm7, C, Cadd9, D, D7, Em, Em7, G.]]></description>
+        <description><![CDATA[Play along video for the song More Than Words performed by Extreme. Chords used in the song: Am7, Bm7, C, Cm, D, D7, Em, G, G/B, G7, G7/B.]]></description>
         <guid><![CDATA[https://ukealong.com/song/extreme-more-than-words/]]></guid>
+        <pubDate>Thu, 31 Oct 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Extreme - More Than Words - Key of G - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/extreme-more-than-words-2/]]></link>
+        <description><![CDATA[Play along video for the song More Than Words performed by Extreme. Chords used in the song: Am7, Bm, Bm7, C, Cadd9, D, D7, Em, Em7, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/extreme-more-than-words-2/]]></guid>
         <pubDate>Mon, 17 Jul 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

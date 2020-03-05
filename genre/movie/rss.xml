@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Movie</title>
     <link>https://ukealong.com</link>
     <description>Genre » Movie</description>
-    <lastBuildDate>Thu, 05 Mar 2020 20:38:25 </lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2020 23:35:57 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -42,6 +42,13 @@
         <pubDate>Sun, 26 Jan 2020 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Baby It's Cold Outside (Ukulele Play Along) with Tiffany Cristina - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/baby-it-s-cold-outside-ukulele-play-along-with-tiffany-cristina/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/baby-it-s-cold-outside-ukulele-play-along-with-tiffany-cristina/]]></guid>
+        <pubDate>Fri, 27 Dec 2019 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Star Wars - The Imperial March. Ukulele tutorial - About Ukulele]]></title>
         <link><![CDATA[https://ukealong.com/song/star-wars-the-imperial-march-ukulele-tutorial/]]></link>
         <description><![CDATA[]]></description>
@@ -68,12 +75,5 @@
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/you-re-the-one-that-i-want-ukulele-play-along/]]></guid>
         <pubDate>Sun, 04 Aug 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Various Artists - The Window Cleaner - Key of C - Ukulaliens - Ukulele Club]]></title>
-        <link><![CDATA[https://ukealong.com/song/various-artists-the-window-cleaner/]]></link>
-        <description><![CDATA[Play along video for the song The Window Cleaner performed by Various Artists. Chords used in the song: A7, C, C7, Cdim7, D7, E7, F, G, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/various-artists-the-window-cleaner/]]></guid>
-        <pubDate>Thu, 01 Aug 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>
