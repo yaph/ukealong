@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Soul</title>
     <link>https://ukealong.com</link>
     <description>Genre » Soul</description>
-    <lastBuildDate>Wed, 04 Mar 2020 23:48:35 </lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2020 20:38:25 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -42,6 +42,13 @@
         <pubDate>Fri, 26 Jul 2019 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Bill Withers - Ain't No Sunshine - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/bill-withers-ain-t-no-sunshine/]]></link>
+        <description><![CDATA[Play along video for the song Ain't No Sunshine performed by Bill Withers. Chords used in the song: B♭, Cm, Fm, Gm7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bill-withers-ain-t-no-sunshine/]]></guid>
+        <pubDate>Sun, 03 Feb 2019 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Sam Cooke - A Change Is Gonna Come - Key of Bb - Andy Ramos]]></title>
         <link><![CDATA[https://ukealong.com/song/sam-cooke-a-change-is-gonna-come/]]></link>
         <description><![CDATA[Play along video for the song A Change Is Gonna Come performed by Sam Cooke. Chords used in the song: B♭, C7, Cm7, D7, E♭, F7, Gm7.]]></description>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Wonderful World performed by Sam Cooke. Chords used in the song: Am, C, D7, F, G, G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/sam-cooke-wonderful-world-2/]]></guid>
         <pubDate>Wed, 29 Nov 2017 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Sam Cooke - You Send Me - Key of G - Dr. A]]></title>
-        <link><![CDATA[https://ukealong.com/song/sam-cooke-you-send-me/]]></link>
-        <description><![CDATA[Play along video for the song You Send Me performed by Sam Cooke. Chords used in the song: A7, Am7, C, D, D7, E7, Em7, F7, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/sam-cooke-you-send-me/]]></guid>
-        <pubDate>Mon, 13 Feb 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Alicia Keys</title>
     <link>https://ukealong.com</link>
     <description>Artist » Alicia Keys</description>
-    <lastBuildDate>Wed, 04 Mar 2020 23:48:35 </lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2020 20:38:26 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,5 +12,12 @@
         <description><![CDATA[Play along video for the song Calma performed by Pedro Capó. Chords used in the song: A, Bm, D, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/pedro-capo-calma/]]></guid>
         <pubDate>Mon, 04 Feb 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Alicia Keys - Aint Got You - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/alicia-keys-aint-got-you/]]></link>
+        <description><![CDATA[Play along video for the song Aint Got You performed by Alicia Keys. Chords used in the song: Am, Bm, Cmaj7, D, Em, Gmaj7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/alicia-keys-aint-got-you/]]></guid>
+        <pubDate>Thu, 01 Jan 2009 00:00:00 </pubDate>
     </item>
 </channel></rss>

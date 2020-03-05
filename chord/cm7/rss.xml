@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Cm7</title>
     <link>https://ukealong.com</link>
     <description>Chord » Cm7</description>
-    <lastBuildDate>Wed, 04 Mar 2020 23:48:35 </lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2020 20:38:25 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -54,5 +54,12 @@
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/nothin-on-you-by-b-o-b-ukulele-play-along/]]></guid>
         <pubDate>Sun, 28 Feb 2010 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Eric Clapton - Change The World - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/eric-clapton-change-the-world/]]></link>
+        <description><![CDATA[Play along video for the song Change The World performed by Eric Clapton. Chords used in the song: A, A6, A7, B. Bm7, Cm7, C♯m7, E, E7, Esus4, F♯m, Gm, G♯, G♯m.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/eric-clapton-change-the-world/]]></guid>
+        <pubDate>Fri, 01 Jan 2010 00:00:00 </pubDate>
     </item>
 </channel></rss>
