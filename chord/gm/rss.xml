@@ -3,15 +3,22 @@
 <channel><title>Uke Along Chord » Gm</title>
     <link>https://ukealong.com</link>
     <description>Chord » Gm</description>
-    <lastBuildDate>Thu, 05 Mar 2020 23:35:57 </lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2020 17:00:09 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA["Weird Al" Yankovic - Yoda - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda-2/]]></link>
+        <link><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda/]]></link>
         <description><![CDATA[Play along video for the song Yoda performed by "Weird Al" Yankovic. Chords used in the song: A, A7, Bm, B♭, C, D, E7, F♯7, G, Gm.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda-2/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda/]]></guid>
         <pubDate>Tue, 18 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[How Far I'll Go (Moana ukulele cover) // Cynthia Lin Play-Along - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/how-far-i-ll-go-moana-ukulele-cover-cynthia-lin-play-along/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/how-far-i-ll-go-moana-ukulele-cover-cynthia-lin-play-along/]]></guid>
+        <pubDate>Wed, 01 Jan 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Baby It's Cold Outside (Ukulele Play Along) with Tiffany Cristina - Ukulele Cheats]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song I Can Hear Music performed by The Beach Boys. Chords used in the song: A, A7, D, D7, Em, F♯m, G, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-beach-boys-i-can-hear-music/]]></guid>
         <pubDate>Fri, 12 Jul 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Jack Johnson - Better Together - Key of F - Ukulaliens - Ukulele Club]]></title>
-        <link><![CDATA[https://ukealong.com/song/jack-johnson-better-together/]]></link>
-        <description><![CDATA[Play along video for the song Better Together performed by Jack Johnson. Chords used in the song: A, B♭, C, Dm, F, Gm.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/jack-johnson-better-together/]]></guid>
-        <pubDate>Thu, 11 Jul 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

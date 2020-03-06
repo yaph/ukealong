@@ -3,14 +3,14 @@
 <channel><title>Uke Along Chord » Bm</title>
     <link>https://ukealong.com</link>
     <description>Chord » Bm</description>
-    <lastBuildDate>Thu, 05 Mar 2020 23:35:57 </lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2020 17:00:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA["Weird Al" Yankovic - Yoda - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda-2/]]></link>
+        <link><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda/]]></link>
         <description><![CDATA[Play along video for the song Yoda performed by "Weird Al" Yankovic. Chords used in the song: A, A7, Bm, B♭, C, D, E7, F♯7, G, Gm.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda-2/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda/]]></guid>
         <pubDate>Tue, 18 Feb 2020 00:00:00 </pubDate>
     </item>
     <item>
@@ -42,6 +42,13 @@
         <pubDate>Fri, 17 Jan 2020 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[How Far I'll Go (Moana ukulele cover) // Cynthia Lin Play-Along - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/how-far-i-ll-go-moana-ukulele-cover-cynthia-lin-play-along/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/how-far-i-ll-go-moana-ukulele-cover-cynthia-lin-play-along/]]></guid>
+        <pubDate>Wed, 01 Jan 2020 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Darlene Love - Christmas - Key of D - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/darlene-love-christmas/]]></link>
         <description><![CDATA[Play along video for the song Christmas performed by Darlene Love. Chords used in the song: A7, Bm, D, F♯m, G.]]></description>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Shattered Dreams performed by Johnny Hates Jazz. Chords used in the song: A, Am, Bm, B♭, B♭m, C, C♯, D, Em, E♭, Fm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/johnny-hates-jazz-shattered-dreams/]]></guid>
         <pubDate>Thu, 19 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Panic! At The Disco - Into The Unknown - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/panic-at-the-disco-into-the-unknown/]]></link>
-        <description><![CDATA[Play along video for the song Into The Unknown performed by Panic! At The Disco. Chords used in the song: A, Bm, B♭, C, Cm, C♯m, D, Dm, Dm7, E, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/panic-at-the-disco-into-the-unknown/]]></guid>
-        <pubDate>Tue, 03 Dec 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

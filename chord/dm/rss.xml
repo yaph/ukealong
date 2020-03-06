@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Dm</title>
     <link>https://ukealong.com</link>
     <description>Chord » Dm</description>
-    <lastBuildDate>Thu, 05 Mar 2020 23:35:57 </lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2020 17:00:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,6 +12,13 @@
         <description><![CDATA[Play along video for the song Don't Start Now performed by Dua Lipa. Chords used in the song: Am, C, Dm, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/dua-lipa-don-t-start-now/]]></guid>
         <pubDate>Sun, 01 Mar 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[How Far I'll Go (Moana ukulele cover) // Cynthia Lin Play-Along - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/how-far-i-ll-go-moana-ukulele-cover-cynthia-lin-play-along/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/how-far-i-ll-go-moana-ukulele-cover-cynthia-lin-play-along/]]></guid>
+        <pubDate>Wed, 01 Jan 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Baby It's Cold Outside (Ukulele Play Along) with Tiffany Cristina - Ukulele Cheats]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Into The Unknown performed by Panic! At The Disco. Chords used in the song: A, Bm, B♭, C, Cm, C♯m, D, Dm, Dm7, E, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/panic-at-the-disco-into-the-unknown-baritone-ukulele/]]></guid>
         <pubDate>Tue, 03 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Grace VanderWaal - I Don't Like You - Baritone Ukulele - Key of Dm - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/grace-vanderwaal-i-don-t-like-you-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song I Don't Like You performed by Grace VanderWaal. Chords used in the song: A, Am, B♭, C, Dm.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/grace-vanderwaal-i-don-t-like-you-baritone-ukulele/]]></guid>
-        <pubDate>Fri, 29 Nov 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

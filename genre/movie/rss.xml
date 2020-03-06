@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Movie</title>
     <link>https://ukealong.com</link>
     <description>Genre » Movie</description>
-    <lastBuildDate>Thu, 05 Mar 2020 23:35:57 </lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2020 17:00:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -42,6 +42,13 @@
         <pubDate>Sun, 26 Jan 2020 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[How Far I'll Go (Moana ukulele cover) // Cynthia Lin Play-Along - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/how-far-i-ll-go-moana-ukulele-cover-cynthia-lin-play-along/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/how-far-i-ll-go-moana-ukulele-cover-cynthia-lin-play-along/]]></guid>
+        <pubDate>Wed, 01 Jan 2020 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Baby It's Cold Outside (Ukulele Play Along) with Tiffany Cristina - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/baby-it-s-cold-outside-ukulele-play-along-with-tiffany-cristina/]]></link>
         <description><![CDATA[]]></description>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Into The Unknown performed by Panic! At The Disco. Chords used in the song: A, Bm, B♭, C, Cm, C♯m, D, Dm, Dm7, E, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/panic-at-the-disco-into-the-unknown-baritone-ukulele/]]></guid>
         <pubDate>Tue, 03 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[You're The One That I Want - Ukulele Play Along - Key of C - Ukulaliens - Ukulele Club]]></title>
-        <link><![CDATA[https://ukealong.com/song/you-re-the-one-that-i-want-ukulele-play-along/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/you-re-the-one-that-i-want-ukulele-play-along/]]></guid>
-        <pubDate>Sun, 04 Aug 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

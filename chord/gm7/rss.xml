@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Gm7</title>
     <link>https://ukealong.com</link>
     <description>Chord » Gm7</description>
-    <lastBuildDate>Thu, 05 Mar 2020 23:35:58 </lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2020 17:00:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -26,6 +26,13 @@
         <description><![CDATA[Play along video for the song Tie a Yellow Ribbon Round the Ole Oak Tree performed by Tony Orlando. Chords used in the song: A7, Am, B♭m, C7, Cm, D7, Dm, F, G7, Gm, Gm7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/tony-orlando-tie-a-yellow-ribbon-round-the-ole-oak-tree/]]></guid>
         <pubDate>Sat, 22 Jun 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Beatles - Hey Jude - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-hey-jude/]]></link>
+        <description><![CDATA[Play along video for the song Hey Jude performed by The Beatles. Chords used in the song: Am, Am7, C, D, D6, D7, F, G, G7, Gm7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-hey-jude/]]></guid>
+        <pubDate>Fri, 24 May 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[The Allman Brothers Band - Midnight Rider - Key of D - DrJillReese]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Fire and Rain performed by James Taylor. Chords used in the song: B♭maj7, C, Csus2, Dm, F, G, Gm7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/james-taylor-fire-and-rain/]]></guid>
         <pubDate>Tue, 23 Jan 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Gael García Bernal - Remember Me - Key of C - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/gael-garcia-bernal-remember-me/]]></link>
-        <description><![CDATA[Play along video for the song Remember Me performed by Gael García Bernal. Chords used in the song: Am, A♭, B♭7, C, Cm, Dm7, E7, Em, Fm6, Gm7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/gael-garcia-bernal-remember-me/]]></guid>
-        <pubDate>Fri, 01 Dec 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

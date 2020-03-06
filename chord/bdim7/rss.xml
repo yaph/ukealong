@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Bdim7</title>
     <link>https://ukealong.com</link>
     <description>Chord » Bdim7</description>
-    <lastBuildDate>Thu, 05 Mar 2020 23:35:57 </lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2020 17:00:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -42,13 +42,6 @@
         <pubDate>Wed, 03 Jul 2019 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Between the Devil and the Deep Blue Sea Lyric Based Play Along - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/between-the-devil-and-the-deep-blue-sea-lyric-based-play-along/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/between-the-devil-and-the-deep-blue-sea-lyric-based-play-along/]]></guid>
-        <pubDate>Thu, 06 Jun 2019 00:00:00 </pubDate>
-    </item>
-    <item>
         <title><![CDATA[Connie Fisher - Do-Re-Mi - Key of C - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/connie-fisher-do-re-mi/]]></link>
         <description><![CDATA[Play along video for the song Do-Re-Mi performed by Connie Fisher. Chords used in the song: Am, Bdim7, C, C7, D7, Dm, E7, F, G7.]]></description>
@@ -75,5 +68,12 @@
         <description><![CDATA[Play along video for the song On Top of Old Smokey performed by The Weavers. Chords used in the song: Bdim7, C, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-weavers-on-top-of-old-smokey/]]></guid>
         <pubDate>Mon, 17 Jul 2017 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Ukulele Lady Ukulele Play Along (Muppets Version) - Key of F - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/ukulele-lady-ukulele-play-along-muppets-version/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/ukulele-lady-ukulele-play-along-muppets-version/]]></guid>
+        <pubDate>Wed, 14 Jun 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

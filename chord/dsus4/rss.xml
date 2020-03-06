@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Dsus4</title>
     <link>https://ukealong.com</link>
     <description>Chord » Dsus4</description>
-    <lastBuildDate>Thu, 05 Mar 2020 23:35:58 </lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2020 17:00:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -56,13 +56,6 @@
         <pubDate>Sat, 13 Apr 2019 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[P!nk - Just Give Me a Reason - Key of G - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/p-nk-just-give-me-a-reason/]]></link>
-        <description><![CDATA[Play along video for the song Just Give Me a Reason performed by P!nk. Chords used in the song: A, Bm, C, D, D7, Dsus4, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/p-nk-just-give-me-a-reason/]]></guid>
-        <pubDate>Thu, 11 Apr 2019 00:00:00 </pubDate>
-    </item>
-    <item>
         <title><![CDATA[The Romantics - What I Like About You - Key of G - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/the-romantics-what-i-like-about-you/]]></link>
         <description><![CDATA[Play along video for the song What I Like About You performed by The Romantics. Chords used in the song: A, C, D, Dsus4, F, G.]]></description>
@@ -75,5 +68,12 @@
         <description><![CDATA[Play along video for the song Crazy Little Thing Called Love performed by Queen. Chords used in the song: A, B♭, C, D, Dsus4, E7, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/queen-crazy-little-thing-called-love/]]></guid>
         <pubDate>Sat, 12 Jan 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Christina Perri - Jar of Hearts - Key of G - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/christina-perri-jar-of-hearts/]]></link>
+        <description><![CDATA[Play along video for the song Jar of Hearts performed by Christina Perri. Chords used in the song: A, Am, B7, C, Cm, D, Dsus4, Em, F♯dim7, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/christina-perri-jar-of-hearts/]]></guid>
+        <pubDate>Wed, 17 Jan 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

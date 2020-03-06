@@ -3,28 +3,21 @@
 <channel><title>Uke Along Artist » Børns</title>
     <link>https://ukealong.com</link>
     <description>Artist » Børns</description>
-    <lastBuildDate>Thu, 05 Mar 2020 23:35:58 </lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2020 17:00:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    <item>
-        <title><![CDATA[BØRNS - Electric Love - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/borns-electric-love/]]></link>
-        <description><![CDATA[Play along video for the song Electric Love performed by BØRNS. Chords used in the song: Am, C, D, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/borns-electric-love/]]></guid>
-        <pubDate>Thu, 13 Jun 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[BØRNS - Electric Love - Key of G - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/borns-electric-love-2/]]></link>
-        <description><![CDATA[Play along video for the song Electric Love performed by BØRNS. Chords used in the song: Am, C, D, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/borns-electric-love-2/]]></guid>
-        <pubDate>Tue, 11 Jun 2019 00:00:00 </pubDate>
-    </item>
     <item>
         <title><![CDATA[BØRNS - Electric Love - Baritone Ukulele - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/borns-electric-love-baritone-ukulele/]]></link>
         <description><![CDATA[Play along video for the song Electric Love performed by BØRNS. Chords used in the song: Am, C, D, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/borns-electric-love-baritone-ukulele/]]></guid>
+        <pubDate>Tue, 11 Jun 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[BØRNS - Electric Love - Key of G - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/borns-electric-love/]]></link>
+        <description><![CDATA[Play along video for the song Electric Love performed by BØRNS. Chords used in the song: Am, C, D, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/borns-electric-love/]]></guid>
         <pubDate>Tue, 11 Jun 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>
