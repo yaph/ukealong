@@ -3,20 +3,27 @@
 <channel><title>Uke Along Artist » Wham!</title>
     <link>https://ukealong.com</link>
     <description>Artist » Wham!</description>
-    <lastBuildDate>Fri, 06 Mar 2020 17:00:10 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 00:02:33 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-        <title><![CDATA[Wham! - Last Christmas - Key of C - ukeplayalongs]]></title>
+        <title><![CDATA[Wham! - Last Christmas - Key of C - Cynthia Lin Music]]></title>
         <link><![CDATA[https://ukealong.com/song/wham-last-christmas/]]></link>
-        <description><![CDATA[Play along video for the song Last Christmas performed by Wham!. Chords used in the song: Am, C, Dm, G7.]]></description>
+        <description><![CDATA[Play along video for the song Last Christmas performed by Wham!. Chords used in the song: Am, C, Dm, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/wham-last-christmas/]]></guid>
-        <pubDate>Mon, 11 Dec 2017 00:00:00 </pubDate>
+        <pubDate>Fri, 29 Nov 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Wham! - Last Christmas - Key of D - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/wham-last-christmas-2/]]></link>
+        <link><![CDATA[https://ukealong.com/song/wham-last-christmas-3/]]></link>
         <description><![CDATA[Play along video for the song Last Christmas performed by Wham!. Chords used in the song: A, Bm, D, Em.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/wham-last-christmas-3/]]></guid>
+        <pubDate>Mon, 11 Dec 2017 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Wham! - Last Christmas - Key of C - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/wham-last-christmas-2/]]></link>
+        <description><![CDATA[Play along video for the song Last Christmas performed by Wham!. Chords used in the song: Am, C, Dm, G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/wham-last-christmas-2/]]></guid>
         <pubDate>Mon, 11 Dec 2017 00:00:00 </pubDate>
     </item>

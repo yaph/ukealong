@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » G7</title>
     <link>https://ukealong.com</link>
     <description>Chord » G7</description>
-    <lastBuildDate>Fri, 06 Mar 2020 17:00:10 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 00:02:33 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -26,6 +26,13 @@
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/baby-it-s-cold-outside-ukulele-play-along-with-tiffany-cristina/]]></guid>
         <pubDate>Fri, 27 Dec 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Mele Kalikimaka - Fun, Easy Ukulele Play-Along!  Cynthia Lin & Ben Ahn - Key of C - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/mele-kalikimaka-fun-easy-ukulele-play-along-cynthia-lin-ben-ahn/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/mele-kalikimaka-fun-easy-ukulele-play-along-cynthia-lin-ben-ahn/]]></guid>
+        <pubDate>Sun, 22 Dec 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Steven Curtis Chapman - I Want a Ukulele for Christmas - Baritone Ukulele - ukeplayalongs]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song come out and play performed by Billie Eilish. Chords used in the song: Am, C, Cmaj7, Dm, Em, F, G, G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/billie-eilish-come-out-and-play/]]></guid>
         <pubDate>Sat, 23 Nov 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[All I want for Christmas is My Two Front Teeth Ukulele Play Along - Key of C - Playtheukewithme]]></title>
-        <link><![CDATA[https://ukealong.com/song/all-i-want-for-christmas-is-my-two-front-teeth-ukulele-play-along/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/all-i-want-for-christmas-is-my-two-front-teeth-ukulele-play-along/]]></guid>
-        <pubDate>Tue, 19 Nov 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

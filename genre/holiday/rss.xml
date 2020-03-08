@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Holiday</title>
     <link>https://ukealong.com</link>
     <description>Genre » Holiday</description>
-    <lastBuildDate>Fri, 06 Mar 2020 17:00:09 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 00:02:33 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -26,6 +26,13 @@
         <description><![CDATA[Play along video for the song Christmas performed by Darlene Love. Chords used in the song: A7, Bm, D, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/darlene-love-christmas-baritone-ukulele/]]></guid>
         <pubDate>Mon, 23 Dec 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Mele Kalikimaka - Fun, Easy Ukulele Play-Along!  Cynthia Lin & Ben Ahn - Key of C - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/mele-kalikimaka-fun-easy-ukulele-play-along-cynthia-lin-ben-ahn/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/mele-kalikimaka-fun-easy-ukulele-play-along-cynthia-lin-ben-ahn/]]></guid>
+        <pubDate>Sun, 22 Dec 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Steven Curtis Chapman - I Want a Ukulele for Christmas - Baritone Ukulele - ukeplayalongs]]></title>
@@ -67,13 +74,6 @@
         <link><![CDATA[https://ukealong.com/song/taylor-swift-christmas-tree-farm/]]></link>
         <description><![CDATA[Play along video for the song Christmas Tree Farm performed by Taylor Swift. Chords used in the song: Am, Bdim7, C, Cmaj7, D7, Dm, Em, F, Fmaj7, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/taylor-swift-christmas-tree-farm/]]></guid>
-        <pubDate>Tue, 10 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Taylor Swift - Christmas Tree Farm - Baritone Ukulele - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/taylor-swift-christmas-tree-farm-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song Christmas Tree Farm performed by Taylor Swift. Chords used in the song: Am, Bdim7, C, D7, Dm, Em, F, Fmaj7, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/taylor-swift-christmas-tree-farm-baritone-ukulele/]]></guid>
         <pubDate>Tue, 10 Dec 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

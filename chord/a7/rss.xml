@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » A7</title>
     <link>https://ukealong.com</link>
     <description>Chord » A7</description>
-    <lastBuildDate>Fri, 06 Mar 2020 17:00:09 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 00:02:33 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -33,6 +33,13 @@
         <description><![CDATA[Play along video for the song Christmas performed by Darlene Love. Chords used in the song: A7, Bm, D, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/darlene-love-christmas-baritone-ukulele/]]></guid>
         <pubDate>Mon, 23 Dec 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Mele Kalikimaka - Fun, Easy Ukulele Play-Along!  Cynthia Lin & Ben Ahn - Key of C - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/mele-kalikimaka-fun-easy-ukulele-play-along-cynthia-lin-ben-ahn/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/mele-kalikimaka-fun-easy-ukulele-play-along-cynthia-lin-ben-ahn/]]></guid>
+        <pubDate>Sun, 22 Dec 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Julie Andrews - My Favorite Things - Baritone Ukulele - Key of Dm, EM - ukeplayalongs]]></title>
@@ -67,13 +74,6 @@
         <link><![CDATA[https://ukealong.com/song/steven-universe-we-are-the-crystal-gems-baritone-ukulele/]]></link>
         <description><![CDATA[Play along video for the song We Are the Crystal Gems performed by Steven Universe. Chords used in the song: A7, Am, Am7, B7, B♭, B♭m, B♭m7, C, C7, Cm, Cmaj7, D7, Dm, E7, Em, F, G, Gm7, Gmaj7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/steven-universe-we-are-the-crystal-gems-baritone-ukulele/]]></guid>
-        <pubDate>Tue, 29 Oct 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Steven Universe - We Are the Crystal Gems - Key of F, G - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/steven-universe-we-are-the-crystal-gems/]]></link>
-        <description><![CDATA[Play along video for the song We Are the Crystal Gems performed by Steven Universe. Chords used in the song: A7, Am, Am7, B7, B♭, B♭m, B♭m7, C, C7, Cm, Cmaj7, D7, Dm, E7, Em, F, G, Gm7, Gmaj7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/steven-universe-we-are-the-crystal-gems/]]></guid>
         <pubDate>Tue, 29 Oct 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

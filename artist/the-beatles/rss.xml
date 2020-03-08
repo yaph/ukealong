@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » The Beatles</title>
     <link>https://ukealong.com</link>
     <description>Artist » The Beatles</description>
-    <lastBuildDate>Fri, 06 Mar 2020 17:00:10 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 00:02:33 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,13 @@
         <description><![CDATA[Play along video for the song Come Together performed by The Beatles. Chords used in the song: A, A7, Bm, Dm, G, G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-beatles-come-together/]]></guid>
         <pubDate>Wed, 10 Apr 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Beatles - Love Me Do - Key of G - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-love-me-do/]]></link>
+        <description><![CDATA[Play along video for the song Love Me Do performed by The Beatles. Chords used in the song: C, D, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-love-me-do/]]></guid>
+        <pubDate>Sun, 31 Mar 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[The Beatles - Let It Be - Key of C - Cynthia Lin Music]]></title>
