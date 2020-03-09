@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Simon & Garfunkel</title>
     <link>https://ukealong.com</link>
     <description>Artist » Simon & Garfunkel</description>
-    <lastBuildDate>Mon, 09 Mar 2020 15:00:05 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 23:48:52 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -40,6 +40,13 @@
         <description><![CDATA[Play along video for the song The Sound of Silence performed by Simon & Garfunkel. Chords used in the song: C, D, Em, Emadd9, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/simon-garfunkel-the-sound-of-silence/]]></guid>
         <pubDate>Mon, 04 Jun 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Simon & Garfunkel - The Boxer - Key of G - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/simon-garfunkel-the-boxer/]]></link>
+        <description><![CDATA[Play along video for the song The Boxer performed by Simon & Garfunkel. Chords used in the song: Bm, C, D, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/simon-garfunkel-the-boxer/]]></guid>
+        <pubDate>Mon, 02 Apr 2018 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Simon & Garfunkel - Cecilia - Key of C - ukeplayalongs]]></title>

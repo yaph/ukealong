@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Holiday</title>
     <link>https://ukealong.com</link>
     <description>Genre » Holiday</description>
-    <lastBuildDate>Mon, 09 Mar 2020 15:00:05 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 23:48:51 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -18,6 +18,13 @@
         <link><![CDATA[https://ukealong.com/song/darlene-love-christmas/]]></link>
         <description><![CDATA[Play along video for the song Christmas performed by Darlene Love. Chords used in the song: A7, Bm, D, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/darlene-love-christmas/]]></guid>
+        <pubDate>Mon, 23 Dec 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Brenda Lee - Rockin' Around The Christmas Tree - Key of G - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/brenda-lee-rockin-around-the-christmas-tree/]]></link>
+        <description><![CDATA[Play along video for the song Rockin' Around The Christmas Tree performed by Brenda Lee. Chords used in the song: A7, Bm7, C, D, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/brenda-lee-rockin-around-the-christmas-tree/]]></guid>
         <pubDate>Mon, 23 Dec 2019 00:00:00 </pubDate>
     </item>
     <item>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Let It Snow performed by Frank Sinatra.]]></description>
         <guid><![CDATA[https://ukealong.com/song/frank-sinatra-let-it-snow/]]></guid>
         <pubDate>Mon, 16 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Taylor Swift - Christmas Tree Farm - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/taylor-swift-christmas-tree-farm/]]></link>
-        <description><![CDATA[Play along video for the song Christmas Tree Farm performed by Taylor Swift. Chords used in the song: Am, Bdim7, C, Cmaj7, D7, Dm, Em, F, Fmaj7, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/taylor-swift-christmas-tree-farm/]]></guid>
-        <pubDate>Tue, 10 Dec 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

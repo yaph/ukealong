@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » A7</title>
     <link>https://ukealong.com</link>
     <description>Chord » A7</description>
-    <lastBuildDate>Mon, 09 Mar 2020 15:00:05 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 23:48:51 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -42,6 +42,13 @@
         <pubDate>Mon, 23 Dec 2019 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Brenda Lee - Rockin' Around The Christmas Tree - Key of G - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/brenda-lee-rockin-around-the-christmas-tree/]]></link>
+        <description><![CDATA[Play along video for the song Rockin' Around The Christmas Tree performed by Brenda Lee. Chords used in the song: A7, Bm7, C, D, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/brenda-lee-rockin-around-the-christmas-tree/]]></guid>
+        <pubDate>Mon, 23 Dec 2019 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Darlene Love - Christmas - Baritone Ukulele - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/darlene-love-christmas-baritone-ukulele/]]></link>
         <description><![CDATA[Play along video for the song Christmas performed by Darlene Love. Chords used in the song: A7, Bm, D, F♯m, G.]]></description>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song My Favorite Things performed by Julie Andrews. Chords used in the song: A, A7, Am, B7, B♭, B♭maj7, C, C7, Cmaj7, D, D6, D7, Dm, E, Em, F, G, G7, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/julie-andrews-my-favorite-things/]]></guid>
         <pubDate>Fri, 20 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Stan Freberg - Nuttin' for Christmas - Daniel Simmons]]></title>
-        <link><![CDATA[https://ukealong.com/song/stan-freberg-nuttin-for-christmas/]]></link>
-        <description><![CDATA[Play along video for the song Nuttin' for Christmas performed by Stan Freberg. Chords used in the song: A7, C, D7, Em7, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/stan-freberg-nuttin-for-christmas/]]></guid>
-        <pubDate>Wed, 27 Nov 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

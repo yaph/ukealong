@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » E7</title>
     <link>https://ukealong.com</link>
     <description>Chord » E7</description>
-    <lastBuildDate>Mon, 09 Mar 2020 15:00:05 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 23:48:52 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,13 @@
         <description><![CDATA[Play along video for the song Can't Take My Eyes Off You performed by Frankie Valli. Chords used in the song: A7, Am7, A♯, A♯7, A♯maj7, C7, Cm, Cm6, D7, D♯, D♯m, D♯m6, E7, Em7, G, G7, Gmaj7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/frankie-valli-can-t-take-my-eyes-off-you/]]></guid>
         <pubDate>Wed, 29 Jan 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Stars Fell on Alabama // Cynthia Lin Jazz Ukulele - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/stars-fell-on-alabama-cynthia-lin-jazz-ukulele/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/stars-fell-on-alabama-cynthia-lin-jazz-ukulele/]]></guid>
+        <pubDate>Sun, 26 Jan 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[John Denver - Take Me Home, Country Roads - Ukulaliens - Ukulele Club]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Have Yourself A Merry Little Christmas performed by Ella Fitzgerald. Chords used in the song: A7, Am, B7, Bm, C, D, D7, E7, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/ella-fitzgerald-have-yourself-a-merry-little-christmas/]]></guid>
         <pubDate>Thu, 14 Nov 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Chris Rea - Driving Home for Christmas - Key of A - Ukulaliens - Ukulele Club]]></title>
-        <link><![CDATA[https://ukealong.com/song/chris-rea-driving-home-for-christmas/]]></link>
-        <description><![CDATA[Play along video for the song Driving Home for Christmas performed by Chris Rea. Chords used in the song: A, Bm, C♯m7, D, E7, Em, F♯m, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/chris-rea-driving-home-for-christmas/]]></guid>
-        <pubDate>Fri, 08 Nov 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » F♯</title>
     <link>https://ukealong.com</link>
     <description>Chord » F♯</description>
-    <lastBuildDate>Mon, 09 Mar 2020 15:00:05 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 23:48:52 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -40,5 +40,12 @@
         <description><![CDATA[Play along video for the song Personal Jesus performed by Johnny Cash. Chords used in the song: Am7, C, D, Em, F, F♯, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/johnny-cash-personal-jesus/]]></guid>
         <pubDate>Thu, 30 Nov 2017 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Jack Johnson - Rodeo Clowns - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/jack-johnson-rodeo-clowns/]]></link>
+        <description><![CDATA[Play along video for the song Rodeo Clowns performed by Jack Johnson. Chords used in the song: A, C♯m, F♯, F♯m, G♯.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/jack-johnson-rodeo-clowns/]]></guid>
+        <pubDate>Thu, 01 Jul 2010 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » F♯7</title>
     <link>https://ukealong.com</link>
     <description>Chord » F♯7</description>
-    <lastBuildDate>Mon, 09 Mar 2020 15:00:05 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 23:48:52 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,13 @@
         <description><![CDATA[Play along video for the song Yoda performed by "Weird Al" Yankovic. Chords used in the song: A, A7, Bm, B♭, C, D, E7, F♯7, G, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda/]]></guid>
         <pubDate>Tue, 18 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Stars Fell on Alabama // Cynthia Lin Jazz Ukulele - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/stars-fell-on-alabama-cynthia-lin-jazz-ukulele/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/stars-fell-on-alabama-cynthia-lin-jazz-ukulele/]]></guid>
+        <pubDate>Sun, 26 Jan 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Between the Devil and the Deep Blue Sea Baritone Ukulele Play Along - Baritone Ukulele - ukeplayalongs]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Done for Me performed by Charlie Puth. Chords used in the song: A♭dim7, Bm7, C♯m7, F♯7, Gmaj7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/charlie-puth-done-for-me/]]></guid>
         <pubDate>Sun, 18 Mar 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Lea Salonga - A Whole New World - Key of D, F - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/lea-salonga-a-whole-new-world/]]></link>
-        <description><![CDATA[Play along video for the song A Whole New World performed by Lea Salonga. Chords used in the song: A, A7, Bm, B♭, B♭dim7, C, C7, D, Dm, E7, Edim7, Em, E♭, F, F♯7, G, G7, Gm.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/lea-salonga-a-whole-new-world/]]></guid>
-        <pubDate>Thu, 22 Feb 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

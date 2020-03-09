@@ -3,7 +3,7 @@
 <channel><title>Uke Along Key » G</title>
     <link>https://ukealong.com</link>
     <description>Key » G</description>
-    <lastBuildDate>Mon, 09 Mar 2020 15:00:05 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 23:48:52 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -26,6 +26,13 @@
         <description><![CDATA[Play along video for the song Heaven Everywhere performed by Francesca Battistelli. Chords used in the song: C, D, Em, Em7, G, G6, Gmaj7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/francesca-battistelli-heaven-everywhere-baritone-ukulele/]]></guid>
         <pubDate>Wed, 25 Dec 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Brenda Lee - Rockin' Around The Christmas Tree - Key of G - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/brenda-lee-rockin-around-the-christmas-tree/]]></link>
+        <description><![CDATA[Play along video for the song Rockin' Around The Christmas Tree performed by Brenda Lee. Chords used in the song: A7, Bm7, C, D, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/brenda-lee-rockin-around-the-christmas-tree/]]></guid>
+        <pubDate>Mon, 23 Dec 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Sara Bareilles - Love Is Christmas - Key of G - Daniel Simmons]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Santa Tell Me performed by Ariana Grande. Chords used in the song: A, B7, Bm, C, D, Em, G, G7, Gmaj7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/ariana-grande-santa-tell-me/]]></guid>
         <pubDate>Sat, 19 Oct 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Elvis Presley - Suspicious Minds - Key of G - Ukulaliens - Ukulele Club]]></title>
-        <link><![CDATA[https://ukealong.com/song/elvis-presley-suspicious-minds-2/]]></link>
-        <description><![CDATA[Play along video for the song Suspicious Minds performed by Elvis Presley. Chords used in the song: B7, Bm, C, D, D7, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/elvis-presley-suspicious-minds-2/]]></guid>
-        <pubDate>Thu, 10 Oct 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

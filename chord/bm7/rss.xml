@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Bm7</title>
     <link>https://ukealong.com</link>
     <description>Chord » Bm7</description>
-    <lastBuildDate>Mon, 09 Mar 2020 15:00:05 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 23:48:52 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,20 @@
         <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></guid>
         <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Stars Fell on Alabama // Cynthia Lin Jazz Ukulele - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/stars-fell-on-alabama-cynthia-lin-jazz-ukulele/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/stars-fell-on-alabama-cynthia-lin-jazz-ukulele/]]></guid>
+        <pubDate>Sun, 26 Jan 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Brenda Lee - Rockin' Around The Christmas Tree - Key of G - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/brenda-lee-rockin-around-the-christmas-tree/]]></link>
+        <description><![CDATA[Play along video for the song Rockin' Around The Christmas Tree performed by Brenda Lee. Chords used in the song: A7, Bm7, C, D, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/brenda-lee-rockin-around-the-christmas-tree/]]></guid>
+        <pubDate>Mon, 23 Dec 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Extreme - More Than Words - Ukulele Cheats]]></title>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song Sweet performed by Dave Matthews Band. Chords used in the song: A, Bm, Bm7, D, Dsus4, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/dave-matthews-band-sweet-2/]]></guid>
         <pubDate>Tue, 20 Aug 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Jason Mraz - I Won't Give Up - Key of D - Ukulaliens - Ukulele Club]]></title>
-        <link><![CDATA[https://ukealong.com/song/jason-mraz-i-won-t-give-up/]]></link>
-        <description><![CDATA[Play along video for the song I Won't Give Up performed by Jason Mraz. Chords used in the song: A, Bm7, C, C♯, D, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/jason-mraz-i-won-t-give-up/]]></guid>
-        <pubDate>Tue, 30 Jul 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[LeAnn Rimes - How Do I Live - Key of C - Daniel Simmons]]></title>
-        <link><![CDATA[https://ukealong.com/song/leann-rimes-how-do-i-live/]]></link>
-        <description><![CDATA[Play along video for the song How Do I Live performed by LeAnn Rimes. Chords used in the song: A, Asus, Bm7, C, Dm, Em7, F, F♯m, G, Gsus.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/leann-rimes-how-do-i-live/]]></guid>
-        <pubDate>Tue, 25 Jun 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

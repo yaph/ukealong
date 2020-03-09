@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » C♯M</title>
     <link>https://ukealong.com</link>
     <description>Chord » C♯M</description>
-    <lastBuildDate>Mon, 09 Mar 2020 15:00:05 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 23:48:52 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Stars Fell on Alabama // Cynthia Lin Jazz Ukulele - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/stars-fell-on-alabama-cynthia-lin-jazz-ukulele/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/stars-fell-on-alabama-cynthia-lin-jazz-ukulele/]]></guid>
+        <pubDate>Sun, 26 Jan 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Billie Eilish - everything i wanted - Cynthia Lin Music]]></title>
         <link><![CDATA[https://ukealong.com/song/billie-eilish-everything-i-wanted/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Always Keep a Ukulele in Your Trunk performed by Caspar Babypants. Chords used in the song: A, A7, B7, C♯m, D, Dm, E7, Em, F♯7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/caspar-babypants-always-keep-a-ukulele-in-your-trunk-2/]]></guid>
         <pubDate>Thu, 27 Dec 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Paul McCartney - Wonderful Christmas Time - Baritone Ukulele - Key of A - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/paul-mccartney-wonderful-christmas-time-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song Wonderful Christmas Time performed by Paul McCartney. Chords used in the song: A, Amaj7, Bm, C♯m, D, E, E7, F♯m7, F♯m7add4, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/paul-mccartney-wonderful-christmas-time-baritone-ukulele/]]></guid>
-        <pubDate>Sun, 18 Nov 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>
