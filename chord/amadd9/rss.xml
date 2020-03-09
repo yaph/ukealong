@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Amadd9</title>
     <link>https://ukealong.com</link>
     <description>Chord » Amadd9</description>
-    <lastBuildDate>Mon, 09 Mar 2020 00:02:33 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 15:00:05 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,5 +12,12 @@
         <description><![CDATA[Play along video for the song Don't stop the music performed by Jamie Cullum. Chords used in the song: Am, Amadd9, C6, Cmaj7, Em7, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/jamie-cullum-don-t-stop-the-music/]]></guid>
         <pubDate>Mon, 07 May 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Foo Fighters - The Pretender - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/foo-fighters-the-pretender/]]></link>
+        <description><![CDATA[Play along video for the song The Pretender performed by Foo Fighters. Chords used in the song: Am, Amadd9, D, E, F, F♯dim, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/foo-fighters-the-pretender/]]></guid>
+        <pubDate>Sat, 31 Mar 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

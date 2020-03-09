@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Lil Nas X</title>
     <link>https://ukealong.com</link>
     <description>Artist » Lil Nas X</description>
-    <lastBuildDate>Mon, 09 Mar 2020 00:02:33 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 15:00:05 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -14,17 +14,24 @@
         <pubDate>Tue, 17 Sep 2019 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Lil Nas X - Old Town Road - About Ukulele]]></title>
+        <title><![CDATA[Lil Nas X - Old Town Road - Cynthia Lin Music]]></title>
         <link><![CDATA[https://ukealong.com/song/lil-nas-x-old-town-road-2/]]></link>
-        <description><![CDATA[Play along video for the song Old Town Road performed by Lil Nas X.]]></description>
+        <description><![CDATA[Play along video for the song Old Town Road performed by Lil Nas X. Chords used in the song: A, C, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/lil-nas-x-old-town-road-2/]]></guid>
+        <pubDate>Sun, 14 Jul 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Lil Nas X - Old Town Road - About Ukulele]]></title>
+        <link><![CDATA[https://ukealong.com/song/lil-nas-x-old-town-road-3/]]></link>
+        <description><![CDATA[Play along video for the song Old Town Road performed by Lil Nas X.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/lil-nas-x-old-town-road-3/]]></guid>
         <pubDate>Fri, 14 Jun 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Lil Nas X - Old Town Road - Key of D - Playtheukewithme]]></title>
-        <link><![CDATA[https://ukealong.com/song/lil-nas-x-old-town-road-3/]]></link>
+        <link><![CDATA[https://ukealong.com/song/lil-nas-x-old-town-road-4/]]></link>
         <description><![CDATA[Play along video for the song Old Town Road performed by Lil Nas X. Chords used in the song: A, C, D, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/lil-nas-x-old-town-road-3/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/lil-nas-x-old-town-road-4/]]></guid>
         <pubDate>Wed, 08 May 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

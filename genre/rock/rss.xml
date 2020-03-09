@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Rock</title>
     <link>https://ukealong.com</link>
     <description>Genre » Rock</description>
-    <lastBuildDate>Mon, 09 Mar 2020 00:02:33 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 15:00:05 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -26,6 +26,13 @@
         <description><![CDATA[Play along video for the song Go With The Flow performed by Queens Of The Stone Age. Chords used in the song: Am, C, D, E.]]></description>
         <guid><![CDATA[https://ukealong.com/song/queens-of-the-stone-age-go-with-the-flow/]]></guid>
         <pubDate>Sat, 28 Dec 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Oasis - She's Electric - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/oasis-she-s-electric/]]></link>
+        <description><![CDATA[Play along video for the song She's Electric performed by Oasis. Chords used in the song: A, A♯, Bm, C, D, D7, Em, F♯, G, Gmaj7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/oasis-she-s-electric/]]></guid>
+        <pubDate>Mon, 23 Dec 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Queen - Killer Queen - About Ukulele]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Free Bird performed by Lynyrd Skynyrd. Chords used in the song: B♭, C, D, Em, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/lynyrd-skynyrd-free-bird/]]></guid>
         <pubDate>Sat, 24 Aug 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Survivor - 'Rocky" Eye Of The Tiger - Key of Dm - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/survivor-rocky-eye-of-the-tiger/]]></link>
-        <description><![CDATA[Play along video for the song 'Rocky" Eye Of The Tiger performed by Survivor. Chords used in the song: A, B♭, C, Dm, F, Gm.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/survivor-rocky-eye-of-the-tiger/]]></guid>
-        <pubDate>Sat, 17 Aug 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

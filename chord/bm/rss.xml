@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » Bm</title>
     <link>https://ukealong.com</link>
     <description>Chord » Bm</description>
-    <lastBuildDate>Mon, 09 Mar 2020 00:02:33 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 15:00:05 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Paul Anka - Put Your Head On My Shoulder - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/paul-anka-put-your-head-on-my-shoulder/]]></link>
+        <description><![CDATA[Play along video for the song Put Your Head On My Shoulder performed by Paul Anka. Chords used in the song: A7, Am, Bm, C, D, D7, D♯dim, Em, Em7, F♯7, G, G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/paul-anka-put-your-head-on-my-shoulder/]]></guid>
+        <pubDate>Mon, 24 Feb 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA["Weird Al" Yankovic - Yoda - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda/]]></link>
@@ -49,6 +56,13 @@
         <pubDate>Wed, 01 Jan 2020 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Oasis - She's Electric - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/oasis-she-s-electric/]]></link>
+        <description><![CDATA[Play along video for the song She's Electric performed by Oasis. Chords used in the song: A, A♯, Bm, C, D, D7, Em, F♯, G, Gmaj7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/oasis-she-s-electric/]]></guid>
+        <pubDate>Mon, 23 Dec 2019 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Darlene Love - Christmas - Key of D - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/darlene-love-christmas/]]></link>
         <description><![CDATA[Play along video for the song Christmas performed by Darlene Love. Chords used in the song: A7, Bm, D, F♯m, G.]]></description>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song Christmas performed by Darlene Love. Chords used in the song: A7, Bm, D, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/darlene-love-christmas-baritone-ukulele/]]></guid>
         <pubDate>Mon, 23 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Johnny Hates Jazz - Shattered Dreams - Baritone Ukulele - Key of Am, A#m - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/johnny-hates-jazz-shattered-dreams-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song Shattered Dreams performed by Johnny Hates Jazz. Chords used in the song: A, Am, Bm, B♭, B♭m, C, C♯, D, Em, E♭, Fm.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/johnny-hates-jazz-shattered-dreams-baritone-ukulele/]]></guid>
-        <pubDate>Thu, 19 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Johnny Hates Jazz - Shattered Dreams - Key of Am, A#m - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/johnny-hates-jazz-shattered-dreams/]]></link>
-        <description><![CDATA[Play along video for the song Shattered Dreams performed by Johnny Hates Jazz. Chords used in the song: A, Am, Bm, B♭, B♭m, C, C♯, D, Em, E♭, Fm.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/johnny-hates-jazz-shattered-dreams/]]></guid>
-        <pubDate>Thu, 19 Dec 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

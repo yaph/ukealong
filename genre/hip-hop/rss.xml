@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Hip Hop</title>
     <link>https://ukealong.com</link>
     <description>Genre » Hip Hop</description>
-    <lastBuildDate>Mon, 09 Mar 2020 00:02:33 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 15:00:05 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -33,6 +33,13 @@
         <description><![CDATA[Play along video for the song The Git Up performed by Blanco Brown. Chords used in the song: C, F.]]></description>
         <guid><![CDATA[https://ukealong.com/song/blanco-brown-the-git-up/]]></guid>
         <pubDate>Fri, 23 Aug 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Lil Nas X - Old Town Road - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/lil-nas-x-old-town-road-2/]]></link>
+        <description><![CDATA[Play along video for the song Old Town Road performed by Lil Nas X. Chords used in the song: A, C, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/lil-nas-x-old-town-road-2/]]></guid>
+        <pubDate>Sun, 14 Jul 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Silento - Watch Me - Key of Dm - Daniel Simmons]]></title>

@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » F♯7</title>
     <link>https://ukealong.com</link>
     <description>Chord » F♯7</description>
-    <lastBuildDate>Mon, 09 Mar 2020 00:02:33 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 15:00:05 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Paul Anka - Put Your Head On My Shoulder - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/paul-anka-put-your-head-on-my-shoulder/]]></link>
+        <description><![CDATA[Play along video for the song Put Your Head On My Shoulder performed by Paul Anka. Chords used in the song: A7, Am, Bm, C, D, D7, D♯dim, Em, Em7, F♯7, G, G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/paul-anka-put-your-head-on-my-shoulder/]]></guid>
+        <pubDate>Mon, 24 Feb 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA["Weird Al" Yankovic - Yoda - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda/]]></link>
@@ -49,6 +56,13 @@
         <pubDate>Tue, 27 Nov 2018 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Queen - Love Of My Life - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/queen-love-of-my-life/]]></link>
+        <description><![CDATA[Play along video for the song Love Of My Life performed by Queen. Chords used in the song: A, A13, A7, Asus4, B, Bm, Cdim, D, Dsus4, E, E7, Em, F♯7, F♯m, G, G6.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/queen-love-of-my-life/]]></guid>
+        <pubDate>Wed, 21 Nov 2018 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Charlie Puth - Done for Me - Key of Bm - Andy Ramos]]></title>
         <link><![CDATA[https://ukealong.com/song/charlie-puth-done-for-me/]]></link>
         <description><![CDATA[Play along video for the song Done for Me performed by Charlie Puth. Chords used in the song: A♭dim7, Bm7, C♯m7, F♯7, Gmaj7.]]></description>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song A Whole New World performed by Lea Salonga. Chords used in the song: A, A7, Bm, B♭, B♭dim7, C, C7, D, Dm, E7, Edim7, Em, E♭, F, F♯7, G, G7, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/lea-salonga-a-whole-new-world/]]></guid>
         <pubDate>Thu, 22 Feb 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[La La Land Cast - Another Day Of Sun - Key of G, G# - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/la-la-land-cast-another-day-of-sun/]]></link>
-        <description><![CDATA[Play along video for the song Another Day Of Sun performed by La La Land Cast. Chords used in the song: A, A7, A♯, B7, Bm, Cm, D, D♯, Em7, F♯7, F♯m, G, G7, Gm, G♯.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/la-la-land-cast-another-day-of-sun/]]></guid>
-        <pubDate>Thu, 22 Jun 2017 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Elvis Presley - Blue Hawaii - Key of A - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/elvis-presley-blue-hawaii-2/]]></link>
-        <description><![CDATA[Play along video for the song Blue Hawaii performed by Elvis Presley. Chords used in the song: A, A7, B7, Dm, E+, E7, F♯7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/elvis-presley-blue-hawaii-2/]]></guid>
-        <pubDate>Mon, 19 Jun 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

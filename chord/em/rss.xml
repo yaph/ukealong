@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Em</title>
     <link>https://ukealong.com</link>
     <description>Chord » Em</description>
-    <lastBuildDate>Mon, 09 Mar 2020 00:02:33 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 15:00:05 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,13 @@
         <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></guid>
         <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Paul Anka - Put Your Head On My Shoulder - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/paul-anka-put-your-head-on-my-shoulder/]]></link>
+        <description><![CDATA[Play along video for the song Put Your Head On My Shoulder performed by Paul Anka. Chords used in the song: A7, Am, Bm, C, D, D7, D♯dim, Em, Em7, F♯7, G, G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/paul-anka-put-your-head-on-my-shoulder/]]></guid>
+        <pubDate>Mon, 24 Feb 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Billie Eilish - No Time To Die - Key of Am - Ukulaliens - Ukulele Club]]></title>
@@ -67,13 +74,6 @@
         <link><![CDATA[https://ukealong.com/song/pachelbels-canon-in-c-ukulele-play-along/]]></link>
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/pachelbels-canon-in-c-ukulele-play-along/]]></guid>
-        <pubDate>Sun, 26 Jan 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Pachelbel’s Canon (in C) Baritone Ukulele Play Along - Baritone Ukulele - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/pachelbels-canon-in-c-baritone-ukulele-play-along-baritone-ukulele/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/pachelbels-canon-in-c-baritone-ukulele-play-along-baritone-ukulele/]]></guid>
         <pubDate>Sun, 26 Jan 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

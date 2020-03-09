@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Dsus4</title>
     <link>https://ukealong.com</link>
     <description>Chord » Dsus4</description>
-    <lastBuildDate>Mon, 09 Mar 2020 00:02:33 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 15:00:05 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,13 @@
         <description><![CDATA[Play along video for the song Sweet performed by Dave Matthews Band. Chords used in the song: A, Bm, Bm7, D, Dsus4, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/dave-matthews-band-sweet-2/]]></guid>
         <pubDate>Tue, 20 Aug 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Queen - I Want To Break Free - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/queen-i-want-to-break-free/]]></link>
+        <description><![CDATA[Play along video for the song I Want To Break Free performed by Queen. Chords used in the song: Am, C, Csus4, D, Dsus4, F, Fsus4, G, Gsus4.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/queen-i-want-to-break-free/]]></guid>
+        <pubDate>Wed, 31 Jul 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Andie Case - Complicated - Key of G - ukeplayalongs]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Crazy Little Thing Called Love performed by Queen. Chords used in the song: A, B♭, C, D, Dsus4, E7, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/queen-crazy-little-thing-called-love/]]></guid>
         <pubDate>Sat, 12 Jan 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Christina Perri - Jar of Hearts - Key of G - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/christina-perri-jar-of-hearts/]]></link>
-        <description><![CDATA[Play along video for the song Jar of Hearts performed by Christina Perri. Chords used in the song: A, Am, B7, C, Cm, D, Dsus4, Em, F♯dim7, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/christina-perri-jar-of-hearts/]]></guid>
-        <pubDate>Wed, 17 Jan 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

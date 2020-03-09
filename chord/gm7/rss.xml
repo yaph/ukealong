@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Gm7</title>
     <link>https://ukealong.com</link>
     <description>Chord » Gm7</description>
-    <lastBuildDate>Mon, 09 Mar 2020 00:02:33 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 15:00:05 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,13 @@
         <description><![CDATA[Play along video for the song We Are the Crystal Gems performed by Steven Universe. Chords used in the song: A7, Am, Am7, B7, B♭, B♭m, B♭m7, C, C7, Cm, Cmaj7, D7, Dm, E7, Em, F, G, Gm7, Gmaj7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/steven-universe-we-are-the-crystal-gems/]]></guid>
         <pubDate>Tue, 29 Oct 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Norah Jones - Don't Know Why - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/norah-jones-don-t-know-why/]]></link>
+        <description><![CDATA[Play along video for the song Don't Know Why performed by Norah Jones. Chords used in the song: A♯7, A♯maj7, C7, Daug, D♯, F, F6, F7, Gm7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/norah-jones-don-t-know-why/]]></guid>
+        <pubDate>Sat, 29 Jun 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Tony Orlando - Tie a Yellow Ribbon Round the Ole Oak Tree - Key of F - BruderMaister]]></title>
@@ -63,17 +70,10 @@
         <pubDate>Sun, 27 Jan 2019 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Michael Jackson - Thriller - Key of Dm - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/michael-jackson-thriller/]]></link>
-        <description><![CDATA[Play along video for the song Thriller performed by Michael Jackson. Chords used in the song: A7, Am7, B♭, B♭7, Dm, F, Fdim7, G, G7, Gm7, Gsus4.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/michael-jackson-thriller/]]></guid>
-        <pubDate>Sat, 27 Oct 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[James Taylor - Fire and Rain - Key of C - DrJillReese]]></title>
-        <link><![CDATA[https://ukealong.com/song/james-taylor-fire-and-rain/]]></link>
-        <description><![CDATA[Play along video for the song Fire and Rain performed by James Taylor. Chords used in the song: B♭maj7, C, Csus2, Dm, F, G, Gm7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/james-taylor-fire-and-rain/]]></guid>
-        <pubDate>Tue, 23 Jan 2018 00:00:00 </pubDate>
+        <title><![CDATA[Queen - We Are The Champions - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/queen-we-are-the-champions/]]></link>
+        <description><![CDATA[Play along video for the song We Are The Champions performed by Queen. Chords used in the song: Adim7, Am, A♯, A♯m6, C, Cm, Csus4, Dm, D♯, D♯add9, Edim7, F, F7, Fm, F♯dim7, Gm7, Gsus4, G♯.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/queen-we-are-the-champions/]]></guid>
+        <pubDate>Sat, 01 Dec 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

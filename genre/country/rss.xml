@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Country</title>
     <link>https://ukealong.com</link>
     <description>Genre » Country</description>
-    <lastBuildDate>Mon, 09 Mar 2020 00:02:33 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 15:00:05 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -49,6 +49,13 @@
         <pubDate>Sun, 11 Aug 2019 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Lil Nas X - Old Town Road - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/lil-nas-x-old-town-road-2/]]></link>
+        <description><![CDATA[Play along video for the song Old Town Road performed by Lil Nas X. Chords used in the song: A, C, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/lil-nas-x-old-town-road-2/]]></guid>
+        <pubDate>Sun, 14 Jul 2019 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Tim McGraw - Live Like You Were Dying - Key of G, A - Daniel Simmons]]></title>
         <link><![CDATA[https://ukealong.com/song/tim-mcgraw-live-like-you-were-dying/]]></link>
         <description><![CDATA[Play along video for the song Live Like You Were Dying performed by Tim McGraw. Chords used in the song: B7, C, D, Em, G.]]></description>
@@ -68,12 +75,5 @@
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/what-if-i-never-get-over-you-ukulele-play-along-key-c/]]></guid>
         <pubDate>Mon, 20 May 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Hank Williams - Jambalaya - Key of C - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/hank-williams-jambalaya/]]></link>
-        <description><![CDATA[Play along video for the song Jambalaya performed by Hank Williams. Chords used in the song: C, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/hank-williams-jambalaya/]]></guid>
-        <pubDate>Sun, 05 May 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Gsus4</title>
     <link>https://ukealong.com</link>
     <description>Chord » Gsus4</description>
-    <lastBuildDate>Mon, 09 Mar 2020 00:02:33 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 15:00:05 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -21,6 +21,13 @@
         <pubDate>Wed, 07 Aug 2019 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Queen - I Want To Break Free - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/queen-i-want-to-break-free/]]></link>
+        <description><![CDATA[Play along video for the song I Want To Break Free performed by Queen. Chords used in the song: Am, C, Csus4, D, Dsus4, F, Fsus4, G, Gsus4.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/queen-i-want-to-break-free/]]></guid>
+        <pubDate>Wed, 31 Jul 2019 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Ben Platt - Waving Through A Window - Baritone Ukulele - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/ben-platt-waving-through-a-window-baritone-ukulele/]]></link>
         <description><![CDATA[Play along video for the song Waving Through A Window performed by Ben Platt. Chords used in the song: Am, C, Dm, E7, F, Fadd9, G, Gsus4.]]></description>
@@ -33,6 +40,13 @@
         <description><![CDATA[Play along video for the song Waving Through A Window performed by Ben Platt. Chords used in the song: Am, C, Dm, E7, F, Fadd9, G, Gsus4.]]></description>
         <guid><![CDATA[https://ukealong.com/song/ben-platt-waving-through-a-window/]]></guid>
         <pubDate>Sat, 18 May 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Queen - We Are The Champions - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/queen-we-are-the-champions/]]></link>
+        <description><![CDATA[Play along video for the song We Are The Champions performed by Queen. Chords used in the song: Adim7, Am, A♯, A♯m6, C, Cm, Csus4, Dm, D♯, D♯add9, Edim7, F, F7, Fm, F♯dim7, Gm7, Gsus4, G♯.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/queen-we-are-the-champions/]]></guid>
+        <pubDate>Sat, 01 Dec 2018 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Michael Jackson - Thriller - Key of Dm - ukeplayalongs]]></title>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song Nothing More performed by The Alternate Routes. Chords used in the song: Am, C, F, G, G7, Gsus4.]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-alternate-routes-nothing-more/]]></guid>
         <pubDate>Sat, 05 May 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Rainbow Connection Ukulele Play Along - Key of G - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-rainbow-connection-ukulele-play-along/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-rainbow-connection-ukulele-play-along/]]></guid>
-        <pubDate>Mon, 26 Feb 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Ingrid Michaelson - You And I - Key of C - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/ingrid-michaelson-you-and-i/]]></link>
-        <description><![CDATA[Play along video for the song You And I performed by Ingrid Michaelson. Chords used in the song: Am, C, Csus4, D, E7, F, Fadd9, G, Gsus4.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/ingrid-michaelson-you-and-i/]]></guid>
-        <pubDate>Mon, 01 Jan 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

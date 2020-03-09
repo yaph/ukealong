@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » R&B</title>
     <link>https://ukealong.com</link>
     <description>Genre » R&B</description>
-    <lastBuildDate>Mon, 09 Mar 2020 00:02:33 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 15:00:05 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -61,5 +61,12 @@
         <description><![CDATA[Play along video for the song Stand By Me performed by Ben E King. Chords used in the song: C, D, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/ben-e-king-stand-by-me/]]></guid>
         <pubDate>Sun, 31 Jan 2016 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[B.o.B - Nothin' On You - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/b-o-b-nothin-on-you/]]></link>
+        <description><![CDATA[Play along video for the song Nothin' On You performed by B.o.B. Chords used in the song: Cm7, Dm, D♯maj7, F.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/b-o-b-nothin-on-you/]]></guid>
+        <pubDate>Sun, 28 Feb 2010 00:00:00 </pubDate>
     </item>
 </channel></rss>

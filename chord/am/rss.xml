@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Am</title>
     <link>https://ukealong.com</link>
     <description>Chord » Am</description>
-    <lastBuildDate>Mon, 09 Mar 2020 00:02:33 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 15:00:05 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -33,6 +33,13 @@
         <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></guid>
         <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Paul Anka - Put Your Head On My Shoulder - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/paul-anka-put-your-head-on-my-shoulder/]]></link>
+        <description><![CDATA[Play along video for the song Put Your Head On My Shoulder performed by Paul Anka. Chords used in the song: A7, Am, Bm, C, D, D7, D♯dim, Em, Em7, F♯7, G, G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/paul-anka-put-your-head-on-my-shoulder/]]></guid>
+        <pubDate>Mon, 24 Feb 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Meg Donnelly - Call to the Wild - Daniel Simmons]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Memories performed by Maroon 5. Chords used in the song: Am, C, Em, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/maroon-5-memories/]]></guid>
         <pubDate>Tue, 04 Feb 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[LeAnn Rimes - Raining Tacos - Key of C - Daniel Simmons]]></title>
-        <link><![CDATA[https://ukealong.com/song/leann-rimes-raining-tacos/]]></link>
-        <description><![CDATA[Play along video for the song Raining Tacos performed by LeAnn Rimes. Chords used in the song: Am, C, Em, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/leann-rimes-raining-tacos/]]></guid>
-        <pubDate>Sat, 01 Feb 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

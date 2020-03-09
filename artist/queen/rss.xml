@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Queen</title>
     <link>https://ukealong.com</link>
     <description>Artist » Queen</description>
-    <lastBuildDate>Mon, 09 Mar 2020 00:02:33 </lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 15:00:05 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -14,6 +14,13 @@
         <pubDate>Thu, 07 Nov 2019 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Queen - I Want To Break Free - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/queen-i-want-to-break-free/]]></link>
+        <description><![CDATA[Play along video for the song I Want To Break Free performed by Queen. Chords used in the song: Am, C, Csus4, D, Dsus4, F, Fsus4, G, Gsus4.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/queen-i-want-to-break-free/]]></guid>
+        <pubDate>Wed, 31 Jul 2019 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Queen - Crazy Little Thing Called Love - Key of A - Ukulaliens - Ukulele Club]]></title>
         <link><![CDATA[https://ukealong.com/song/queen-crazy-little-thing-called-love/]]></link>
         <description><![CDATA[Play along video for the song Crazy Little Thing Called Love performed by Queen. Chords used in the song: A, B♭, C, D, Dsus4, E7, F, G.]]></description>
@@ -21,10 +28,24 @@
         <pubDate>Sat, 12 Jan 2019 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Queen - We Are The Champions - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/queen-we-are-the-champions/]]></link>
+        <description><![CDATA[Play along video for the song We Are The Champions performed by Queen. Chords used in the song: Adim7, Am, A♯, A♯m6, C, Cm, Csus4, Dm, D♯, D♯add9, Edim7, F, F7, Fm, F♯dim7, Gm7, Gsus4, G♯.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/queen-we-are-the-champions/]]></guid>
+        <pubDate>Sat, 01 Dec 2018 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Queen - Another One Bites The Dust - About Ukulele]]></title>
         <link><![CDATA[https://ukealong.com/song/queen-another-one-bites-the-dust/]]></link>
         <description><![CDATA[Play along video for the song Another One Bites The Dust performed by Queen.]]></description>
         <guid><![CDATA[https://ukealong.com/song/queen-another-one-bites-the-dust/]]></guid>
         <pubDate>Fri, 23 Nov 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Queen - Love Of My Life - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/queen-love-of-my-life/]]></link>
+        <description><![CDATA[Play along video for the song Love Of My Life performed by Queen. Chords used in the song: A, A13, A7, Asus4, B, Bm, Cdim, D, Dsus4, E, E7, Em, F♯7, F♯m, G, G6.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/queen-love-of-my-life/]]></guid>
+        <pubDate>Wed, 21 Nov 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>
