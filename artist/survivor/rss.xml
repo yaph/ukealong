@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Survivor</title>
     <link>https://ukealong.com</link>
     <description>Artist » Survivor</description>
-    <lastBuildDate>Mon, 09 Mar 2020 23:48:52 </lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2020 15:26:45 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -26,12 +26,5 @@
         <description><![CDATA[Play along video for the song 'Rocky" Eye Of The Tiger performed by Survivor. Chords used in the song: Am, C, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/survivor-rocky-eye-of-the-tiger-2/]]></guid>
         <pubDate>Tue, 10 Apr 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Survivor - 'Rocky" Eye Of The Tiger - Key of Am - Sadie Pincus]]></title>
-        <link><![CDATA[https://ukealong.com/song/survivor-rocky-eye-of-the-tiger-3/]]></link>
-        <description><![CDATA[Play along video for the song 'Rocky" Eye Of The Tiger performed by Survivor. Chords used in the song: Am, C, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/survivor-rocky-eye-of-the-tiger-3/]]></guid>
-        <pubDate>Wed, 03 May 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>
