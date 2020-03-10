@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Taylor Swift</title>
     <link>https://ukealong.com</link>
     <description>Artist » Taylor Swift</description>
-    <lastBuildDate>Tue, 10 Mar 2020 15:26:45 </lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2020 00:36:18 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -51,7 +51,7 @@
     <item>
         <title><![CDATA[Taylor Swift - Shake It Off - Key of G - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/taylor-swift-shake-it-off/]]></link>
-        <description><![CDATA[Play along video for the song Shake It Off performed by Taylor Swift. Chords used in the song: Am, C, F, G.]]></description>
+        <description><![CDATA[Play along video for the song Shake It Off performed by Taylor Swift. Chords used in the song: Am, C, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/taylor-swift-shake-it-off/]]></guid>
         <pubDate>Thu, 11 Jan 2018 00:00:00 </pubDate>
     </item>
@@ -61,19 +61,5 @@
         <description><![CDATA[Play along video for the song 22 performed by Taylor Swift. Chords used in the song: C, D, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/taylor-swift-22/]]></guid>
         <pubDate>Sat, 30 Sep 2017 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Taylor Swift - Shake It Off - Key of G - DrJillReese]]></title>
-        <link><![CDATA[https://ukealong.com/song/taylor-swift-shake-it-off-2/]]></link>
-        <description><![CDATA[Play along video for the song Shake It Off performed by Taylor Swift. Chords used in the song: Am, C, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/taylor-swift-shake-it-off-2/]]></guid>
-        <pubDate>Sat, 16 Jan 2016 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Taylor Swift - Shake It Off - Key of C - DrJillReese]]></title>
-        <link><![CDATA[https://ukealong.com/song/taylor-swift-shake-it-off-3/]]></link>
-        <description><![CDATA[Play along video for the song Shake It Off performed by Taylor Swift. Chords used in the song: Am, C, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/taylor-swift-shake-it-off-3/]]></guid>
-        <pubDate>Sat, 01 Aug 2015 00:00:00 </pubDate>
     </item>
 </channel></rss>

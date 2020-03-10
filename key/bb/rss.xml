@@ -3,7 +3,7 @@
 <channel><title>Uke Along Key » Bb</title>
     <link>https://ukealong.com</link>
     <description>Key » Bb</description>
-    <lastBuildDate>Tue, 10 Mar 2020 15:26:45 </lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2020 00:36:18 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -11,6 +11,20 @@
         <link><![CDATA[https://ukealong.com/song/the-addams-family-ukulele-play-along/]]></link>
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-addams-family-ukulele-play-along/]]></guid>
+        <pubDate>Thu, 31 Oct 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Addams Family Bass Ukulele Play Along - Key of Bb - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-addams-family-bass-ukulele-play-along/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-addams-family-bass-ukulele-play-along/]]></guid>
+        <pubDate>Thu, 31 Oct 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Addams Family Baritone Ukulele Play Along - Baritone Ukulele - Key of Bb - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-addams-family-baritone-ukulele-play-along-baritone-ukulele/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-addams-family-baritone-ukulele-play-along-baritone-ukulele/]]></guid>
         <pubDate>Thu, 31 Oct 2019 00:00:00 </pubDate>
     </item>
     <item>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song Mr Blue Sky performed by Zoë Bestel. Chords used in the song: Am, A♭, B♭, C, Cm, D, E♭, E♭m, F, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/zoe-bestel-mr-blue-sky/]]></guid>
         <pubDate>Thu, 05 Apr 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Matt Maher - Lord, I Need You - Key of Bb - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/matt-maher-lord-i-need-you-3/]]></link>
-        <description><![CDATA[Play along video for the song Lord, I Need You performed by Matt Maher. Chords used in the song: B♭, E♭, E♭sus2, F, Gm.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/matt-maher-lord-i-need-you-3/]]></guid>
-        <pubDate>Sat, 13 Jan 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Matt Maher - Lord, I Need You - Key of Bb - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/matt-maher-lord-i-need-you/]]></link>
-        <description><![CDATA[Play along video for the song Lord, I Need You performed by Matt Maher. Chords used in the song: B♭, E♭, E♭sus2, F, Gm.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/matt-maher-lord-i-need-you/]]></guid>
-        <pubDate>Sat, 13 Jan 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

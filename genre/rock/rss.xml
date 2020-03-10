@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Rock</title>
     <link>https://ukealong.com</link>
     <description>Genre » Rock</description>
-    <lastBuildDate>Tue, 10 Mar 2020 15:26:45 </lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2020 00:36:18 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,6 +12,13 @@
         <description><![CDATA[Play along video for the song All Right Now performed by Free. Chords used in the song: C, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/free-all-right-now/]]></guid>
         <pubDate>Fri, 28 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The B-52's - Rock Lobster - About Ukulele]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-b-52-s-rock-lobster/]]></link>
+        <description><![CDATA[Play along video for the song Rock Lobster performed by The B-52's.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-b-52-s-rock-lobster/]]></guid>
+        <pubDate>Wed, 12 Feb 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Radiohead - Creep - Cynthia Lin Music]]></title>
@@ -67,13 +74,6 @@
         <link><![CDATA[https://ukealong.com/song/huey-lewis-the-news-stuck-with-you-baritone-ukulele/]]></link>
         <description><![CDATA[Play along video for the song Stuck With You performed by Huey Lewis & The News. Chords used in the song: A, Am, Am7, Bm7, C, D, Dm, Em, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/huey-lewis-the-news-stuck-with-you-baritone-ukulele/]]></guid>
-        <pubDate>Wed, 28 Aug 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Huey Lewis & The News - Stuck With You - Key of C, D - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/huey-lewis-the-news-stuck-with-you/]]></link>
-        <description><![CDATA[Play along video for the song Stuck With You performed by Huey Lewis & The News. Chords used in the song: A, Am, Am7, Bm7, C, D, Dm, Em, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/huey-lewis-the-news-stuck-with-you/]]></guid>
         <pubDate>Wed, 28 Aug 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>
