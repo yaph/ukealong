@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Gm7</title>
     <link>https://ukealong.com</link>
     <description>Chord » Gm7</description>
-    <lastBuildDate>Wed, 11 Mar 2020 00:36:18 </lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2020 14:08:15 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,13 @@
         <description><![CDATA[Play along video for the song We Are the Crystal Gems performed by Steven Universe. Chords used in the song: A7, Am, Am7, B7, B♭, B♭m, B♭m7, C, C7, Cm, Cmaj7, D7, Dm, E7, Em, F, G, Gm7, Gmaj7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/steven-universe-we-are-the-crystal-gems/]]></guid>
         <pubDate>Tue, 29 Oct 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Beatles - I Will - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-i-will/]]></link>
+        <description><![CDATA[Play along video for the song I Will performed by The Beatles. Chords used in the song: Am, A♯, A♯m, C7, C♯7, Dm, F, F7, Fdim, G7, Gm7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-i-will/]]></guid>
+        <pubDate>Wed, 10 Jul 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Norah Jones - Don't Know Why - Ukulele Cheats]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song A Change Is Gonna Come performed by Sam Cooke. Chords used in the song: B♭, C7, Cm7, D7, E♭, F7, Gm7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/sam-cooke-a-change-is-gonna-come/]]></guid>
         <pubDate>Sun, 27 Jan 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Queen - We Are The Champions - Ukulele Cheats]]></title>
-        <link><![CDATA[https://ukealong.com/song/queen-we-are-the-champions/]]></link>
-        <description><![CDATA[Play along video for the song We Are The Champions performed by Queen. Chords used in the song: Adim7, Am, A♯, A♯m6, C, Cm, Csus4, Dm, D♯, D♯add9, Edim7, F, F7, Fm, F♯dim7, Gm7, Gsus4, G♯.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/queen-we-are-the-champions/]]></guid>
-        <pubDate>Sat, 01 Dec 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,14 +3,21 @@
 <channel><title>Uke Along Artist » The Del Vikings</title>
     <link>https://ukealong.com</link>
     <description>Artist » The Del Vikings</description>
-    <lastBuildDate>Wed, 11 Mar 2020 00:36:18 </lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2020 14:08:15 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-        <title><![CDATA[The Del-Vikings - Come Go With Me - Baritone Ukulele - ukeplayalongs]]></title>
+        <title><![CDATA[The Del-Vikings - Come Go With Me - Baritone Ukulele - Key of G - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/the-del-vikings-come-go-with-me-baritone-ukulele/]]></link>
         <description><![CDATA[Play along video for the song Come Go With Me performed by The Del-Vikings. Chords used in the song: Am, C7, D7, Em, G, G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-del-vikings-come-go-with-me-baritone-ukulele/]]></guid>
+        <pubDate>Wed, 26 Jun 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Del-Vikings - Come Go With Me - Key of G - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-del-vikings-come-go-with-me/]]></link>
+        <description><![CDATA[Play along video for the song Come Go With Me performed by The Del-Vikings. Chords used in the song: Am, C7, D7, Em, G, G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-del-vikings-come-go-with-me/]]></guid>
         <pubDate>Wed, 26 Jun 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

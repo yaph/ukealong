@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » R&B</title>
     <link>https://ukealong.com</link>
     <description>Genre » R&B</description>
-    <lastBuildDate>Wed, 11 Mar 2020 00:36:18 </lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2020 14:08:15 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -26,6 +26,13 @@
         <description><![CDATA[Play along video for the song Butterflies performed by Queen Naija. Chords used in the song: Dmaj7, Em7, F♯m, Gmaj7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/queen-naija-butterflies/]]></guid>
         <pubDate>Sat, 04 May 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Commitments - Mustang Sally - Key of C - Ukulaliens - Ukulele Club]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-commitments-mustang-sally/]]></link>
+        <description><![CDATA[Play along video for the song Mustang Sally performed by The Commitments. Chords used in the song: C, F, G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-commitments-mustang-sally/]]></guid>
+        <pubDate>Fri, 12 Apr 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Stevie Wonder - Isn't She Lovely - Key of C - Daniel Simmons]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Folsom Prison Blues performed by Johnny Cash. Chords used in the song: B♭, C7, F, F7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/johnny-cash-folsom-prison-blues-2/]]></guid>
         <pubDate>Tue, 06 Jun 2017 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Ben E King - Stand By Me - Key of G - Dr. A]]></title>
-        <link><![CDATA[https://ukealong.com/song/ben-e-king-stand-by-me/]]></link>
-        <description><![CDATA[Play along video for the song Stand By Me performed by Ben E King. Chords used in the song: C, D, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/ben-e-king-stand-by-me/]]></guid>
-        <pubDate>Sun, 31 Jan 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>

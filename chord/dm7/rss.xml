@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Dm7</title>
     <link>https://ukealong.com</link>
     <description>Chord » Dm7</description>
-    <lastBuildDate>Wed, 11 Mar 2020 00:36:18 </lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2020 14:08:15 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -33,6 +33,13 @@
         <description><![CDATA[Play along video for the song The Flintstones performed by Toon Tunes. Chords used in the song: A7, Am7, C, D7, Dm, Dm7, E7, Em, F, Fm, G, G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/toon-tunes-the-flintstones-baritone-ukulele/]]></guid>
         <pubDate>Tue, 23 Jul 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Beatles - In My Life - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-in-my-life/]]></link>
+        <description><![CDATA[Play along video for the song In My Life performed by The Beatles. Chords used in the song: A, A7, B7, Bm, C, D, Dm, Dm7, E, F♯m.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-in-my-life/]]></guid>
+        <pubDate>Wed, 17 Jul 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Stevie Wonder - Isn't She Lovely - Ukulele Cheats]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song What A Wonderful World performed by Israel Kamakawiwo'ole. Chords used in the song: Am, Am7, C, Dm7, E7, Em, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/israel-kamakawiwo-ole-what-a-wonderful-world/]]></guid>
         <pubDate>Tue, 17 Jul 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Simon & Garfunkel - The 59th Street Bridge Song - Key of F - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/simon-garfunkel-the-59th-street-bridge-song/]]></link>
-        <description><![CDATA[Play along video for the song The 59th Street Bridge Song performed by Simon & Garfunkel. Chords used in the song: C, Dm7, F.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/simon-garfunkel-the-59th-street-bridge-song/]]></guid>
-        <pubDate>Fri, 29 Jun 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

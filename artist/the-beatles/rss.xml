@@ -3,9 +3,23 @@
 <channel><title>Uke Along Artist » The Beatles</title>
     <link>https://ukealong.com</link>
     <description>Artist » The Beatles</description>
-    <lastBuildDate>Wed, 11 Mar 2020 00:36:18 </lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2020 14:08:15 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[The Beatles - In My Life - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-in-my-life/]]></link>
+        <description><![CDATA[Play along video for the song In My Life performed by The Beatles. Chords used in the song: A, A7, B7, Bm, C, D, Dm, Dm7, E, F♯m.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-in-my-life/]]></guid>
+        <pubDate>Wed, 17 Jul 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Beatles - I Will - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-i-will/]]></link>
+        <description><![CDATA[Play along video for the song I Will performed by The Beatles. Chords used in the song: Am, A♯, A♯m, C7, C♯7, Dm, F, F7, Fdim, G7, Gm7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-i-will/]]></guid>
+        <pubDate>Wed, 10 Jul 2019 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[The Beatles - Hey Jude - Cynthia Lin Music]]></title>
         <link><![CDATA[https://ukealong.com/song/the-beatles-hey-jude/]]></link>
@@ -61,12 +75,5 @@
         <description><![CDATA[Play along video for the song Norwegian Wood performed by The Beatles. Chords used in the song: A, A7, C, D, Dm, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-beatles-norwegian-wood/]]></guid>
         <pubDate>Wed, 14 Dec 2016 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Beatles - Eight Days A Week - Key of C - DrJillReese]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-beatles-eight-days-a-week/]]></link>
-        <description><![CDATA[Play along video for the song Eight Days A Week performed by The Beatles. Chords used in the song: Am, C, D, D7, F, G, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-beatles-eight-days-a-week/]]></guid>
-        <pubDate>Fri, 12 Aug 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>
