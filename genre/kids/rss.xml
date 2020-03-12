@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Kids</title>
     <link>https://ukealong.com</link>
     <description>Genre » Kids</description>
-    <lastBuildDate>Wed, 11 Mar 2020 23:44:38 </lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2020 15:59:08 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,13 @@
         <description><![CDATA[Play along video for the song I Love Halloween performed by Stephanie Leavell. Chords used in the song: B7, C, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/stephanie-leavell-i-love-halloween/]]></guid>
         <pubDate>Tue, 15 Oct 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Krusty Krab Theme. Ukulele tutorial - About Ukulele]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-krusty-krab-theme-ukulele-tutorial/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-krusty-krab-theme-ukulele-tutorial/]]></guid>
+        <pubDate>Thu, 10 Oct 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Heads Shoulders Knees and Toes - Ukulele Play Along Video - Very Easy - Key of C - Ukulaliens - Ukulele Club]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Columbus Day performed by The Kiboomers. Chords used in the song: C, F.]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-kiboomers-columbus-day/]]></guid>
         <pubDate>Mon, 29 Jul 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Duck Song - Ukulele Play Along - No Lyrics - Key of C - Daniel Simmons]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-duck-song-ukulele-play-along-no-lyrics/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-duck-song-ukulele-play-along-no-lyrics/]]></guid>
-        <pubDate>Tue, 23 Apr 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>
