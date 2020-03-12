@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » The Kingsmen</title>
     <link>https://ukealong.com</link>
     <description>Artist » The Kingsmen</description>
-    <lastBuildDate>Thu, 12 Mar 2020 15:59:08 </lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2020 00:47:47 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -11,6 +11,13 @@
         <link><![CDATA[https://ukealong.com/song/the-kingsmen-louie-louie/]]></link>
         <description><![CDATA[Play along video for the song Louie Louie performed by The Kingsmen. Chords used in the song: C, Dm, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-kingsmen-louie-louie/]]></guid>
+        <pubDate>Mon, 23 Apr 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Kingsmen - Louie Louie - Key of A - Andy Ramos]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-kingsmen-louie-louie-2/]]></link>
+        <description><![CDATA[Play along video for the song Louie Louie performed by The Kingsmen. Chords used in the song: A, D, Em.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-kingsmen-louie-louie-2/]]></guid>
         <pubDate>Mon, 23 Apr 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>
