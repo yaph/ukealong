@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » G</title>
     <link>https://ukealong.com</link>
     <description>Chord » G</description>
-    <lastBuildDate>Fri, 13 Mar 2020 23:37:24 </lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2020 01:10:48 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -42,6 +42,13 @@
         <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[The White Stripes - Seven Nation Army - Kris The Uke Chick Gilbert]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-white-stripes-seven-nation-army/]]></link>
+        <description><![CDATA[Play along video for the song Seven Nation Army performed by The White Stripes. Chords used in the song: A, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-white-stripes-seven-nation-army/]]></guid>
+        <pubDate>Mon, 24 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Paul Anka - Put Your Head On My Shoulder - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/paul-anka-put-your-head-on-my-shoulder/]]></link>
         <description><![CDATA[Play along video for the song Put Your Head On My Shoulder performed by Paul Anka. Chords used in the song: A7, Am, Bm, C, D, D7, D♯dim, Em, Em7, F♯7, G, G7.]]></description>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Dreams performed by Fleetwood Mac. Chords used in the song: Am, F, Fmaj7, G, G6.]]></description>
         <guid><![CDATA[https://ukealong.com/song/fleetwood-mac-dreams/]]></guid>
         <pubDate>Mon, 10 Feb 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Maroon 5 - Memories - Baritone Ukulele - Key of C - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/maroon-5-memories-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song Memories performed by Maroon 5. Chords used in the song: Am, C, Em, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/maroon-5-memories-baritone-ukulele/]]></guid>
-        <pubDate>Tue, 04 Feb 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

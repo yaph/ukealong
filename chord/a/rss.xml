@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » A</title>
     <link>https://ukealong.com</link>
     <description>Chord » A</description>
-    <lastBuildDate>Fri, 13 Mar 2020 23:37:25 </lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2020 01:10:48 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,13 @@
         <description><![CDATA[Play along video for the song I Believe in You performed by Michael Bublé. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></guid>
         <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The White Stripes - Seven Nation Army - Kris The Uke Chick Gilbert]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-white-stripes-seven-nation-army/]]></link>
+        <description><![CDATA[Play along video for the song Seven Nation Army performed by The White Stripes. Chords used in the song: A, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-white-stripes-seven-nation-army/]]></guid>
+        <pubDate>Mon, 24 Feb 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA["Weird Al" Yankovic - Yoda - ukeplayalongs]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Take Me Home, Country Roads performed by John Denver. Chords used in the song: A, D, E7, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/john-denver-take-me-home-country-roads/]]></guid>
         <pubDate>Wed, 22 Jan 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Rihanna - Diamonds - Ukeledu Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/rihanna-diamonds/]]></link>
-        <description><![CDATA[Play along video for the song Diamonds performed by Rihanna. Chords used in the song: A, Bm, F♯m, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/rihanna-diamonds/]]></guid>
-        <pubDate>Fri, 17 Jan 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>
