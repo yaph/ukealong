@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Harry Belafonte</title>
     <link>https://ukealong.com</link>
     <description>Artist » Harry Belafonte</description>
-    <lastBuildDate>Mon, 16 Mar 2020 20:29:25 </lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2020 00:48:37 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -26,5 +26,12 @@
         <description><![CDATA[Play along video for the song Day O performed by Harry Belafonte. Chords used in the song: C7, F.]]></description>
         <guid><![CDATA[https://ukealong.com/song/harry-belafonte-day-o/]]></guid>
         <pubDate>Sat, 13 Aug 2016 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Harry Belafonte - Turn the World Around - Key of G - DrJillReese]]></title>
+        <link><![CDATA[https://ukealong.com/song/harry-belafonte-turn-the-world-around/]]></link>
+        <description><![CDATA[Play along video for the song Turn the World Around performed by Harry Belafonte. Chords used in the song: C, D, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/harry-belafonte-turn-the-world-around/]]></guid>
+        <pubDate>Sat, 25 Jun 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>
