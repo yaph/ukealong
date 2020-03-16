@@ -3,7 +3,7 @@
 <channel><title>Uke Along Key » C</title>
     <link>https://ukealong.com</link>
     <description>Key » C</description>
-    <lastBuildDate>Sun, 15 Mar 2020 01:10:48 </lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2020 20:29:25 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -63,17 +63,17 @@
         <pubDate>Tue, 14 Jan 2020 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Bob Marley - Three Little Birds - Key of C - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/bob-marley-three-little-birds/]]></link>
+        <description><![CDATA[Play along video for the song Three Little Birds performed by Bob Marley. Chords used in the song: C, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bob-marley-three-little-birds/]]></guid>
+        <pubDate>Sun, 05 Jan 2020 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Francesca Battistelli - Heaven Everywhere - Key of C - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/francesca-battistelli-heaven-everywhere/]]></link>
         <description><![CDATA[Play along video for the song Heaven Everywhere performed by Francesca Battistelli. Chords used in the song: Am, Am7, C, C6, Cmaj7, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/francesca-battistelli-heaven-everywhere/]]></guid>
         <pubDate>Wed, 25 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Mele Kalikimaka - Fun, Easy Ukulele Play-Along!  Cynthia Lin & Ben Ahn - Key of C - Cynthia Lin Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/mele-kalikimaka-fun-easy-ukulele-play-along-cynthia-lin-ben-ahn/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/mele-kalikimaka-fun-easy-ukulele-play-along-cynthia-lin-ben-ahn/]]></guid>
-        <pubDate>Sun, 22 Dec 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Gsus4</title>
     <link>https://ukealong.com</link>
     <description>Chord » Gsus4</description>
-    <lastBuildDate>Sun, 15 Mar 2020 01:10:48 </lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2020 20:29:25 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -49,6 +49,13 @@
         <pubDate>Sat, 01 Dec 2018 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Michael Jackson - Thriller - Baritone Ukulele - Key of Dm - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/michael-jackson-thriller-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song Thriller performed by Michael Jackson. Chords used in the song: A7, Am7, B♭, B♭7, Dm, F, Fdim7, G, G7, Gm7, Gsus4.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/michael-jackson-thriller-baritone-ukulele/]]></guid>
+        <pubDate>Sat, 27 Oct 2018 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Michael Jackson - Thriller - Key of Dm - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/michael-jackson-thriller/]]></link>
         <description><![CDATA[Play along video for the song Thriller performed by Michael Jackson. Chords used in the song: A7, Am7, B♭, B♭7, Dm, F, Fdim7, G, G7, Gm7, Gsus4.]]></description>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Amar Pelos Dois performed by Salvador Sobral. Chords used in the song: A7, Am, B♭, C, C7, Cm, D7, Dm, F, F7, G, Gm, Gsus4.]]></description>
         <guid><![CDATA[https://ukealong.com/song/salvador-sobral-amar-pelos-dois/]]></guid>
         <pubDate>Sat, 12 May 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Alternate Routes - Nothing More - Key of C - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-alternate-routes-nothing-more/]]></link>
-        <description><![CDATA[Play along video for the song Nothing More performed by The Alternate Routes. Chords used in the song: Am, C, F, G, G7, Gsus4.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-alternate-routes-nothing-more/]]></guid>
-        <pubDate>Sat, 05 May 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>
