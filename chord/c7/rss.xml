@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » C7</title>
     <link>https://ukealong.com</link>
     <description>Chord » C7</description>
-    <lastBuildDate>Thu, 19 Mar 2020 13:46:52 </lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2020 15:23:49 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Patsy Cline - Crazy - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/patsy-cline-crazy/]]></link>
+        <description><![CDATA[Play along video for the song Crazy performed by Patsy Cline. Chords used in the song: A7, C, C7, Cmaj7, C♯dim7, D7, D7♭9, Dm, Em7, F, G7, G7+5.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/patsy-cline-crazy/]]></guid>
+        <pubDate>Sun, 01 Mar 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Frankie Valli - Can't Take My Eyes Off You - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/frankie-valli-can-t-take-my-eyes-off-you/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Love Me Two Times performed by The Doors. Chords used in the song: A, A7, B7, C7, D, E5, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-doors-love-me-two-times/]]></guid>
         <pubDate>Tue, 19 Nov 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Steven Universe - We Are the Crystal Gems - Baritone Ukulele - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/steven-universe-we-are-the-crystal-gems-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song We Are the Crystal Gems performed by Steven Universe. Chords used in the song: A7, Am, Am7, B7, B♭, B♭m, B♭m7, C, C7, Cm, Cmaj7, D7, Dm, E7, Em, F, G, Gm7, Gmaj7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/steven-universe-we-are-the-crystal-gems-baritone-ukulele/]]></guid>
-        <pubDate>Tue, 29 Oct 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

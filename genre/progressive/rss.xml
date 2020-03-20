@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Uke Along Genre » Progressive</title>
+    <link>https://ukealong.com</link>
+    <description>Genre » Progressive</description>
+    <lastBuildDate>Fri, 20 Mar 2020 15:23:49 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Yes - Roundabout - About Ukulele]]></title>
+        <link><![CDATA[https://ukealong.com/song/yes-roundabout/]]></link>
+        <description><![CDATA[Play along video for the song Roundabout performed by Yes.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/yes-roundabout/]]></guid>
+        <pubDate>Thu, 15 Nov 2018 00:00:00 </pubDate>
+    </item>
+</channel></rss>

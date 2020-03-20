@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Elton John</title>
     <link>https://ukealong.com</link>
     <description>Artist » Elton John</description>
-    <lastBuildDate>Thu, 19 Mar 2020 13:46:52 </lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2020 15:23:49 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,6 +12,13 @@
         <description><![CDATA[Play along video for the song Rocket Man performed by Elton John. Chords used in the song: Am7, C, D, Dm, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/elton-john-rocket-man/]]></guid>
         <pubDate>Fri, 04 Oct 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Elton John - Your Song - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/elton-john-your-song/]]></link>
+        <description><![CDATA[Play along video for the song Your Song performed by Elton John. Chords used in the song: Am, Am/F♯, Am7, C, Dm, E7, Em7, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/elton-john-your-song/]]></guid>
+        <pubDate>Sun, 07 Jul 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Elton John - Crocodile Rock - Key of G - Ukulaliens - Ukulele Club]]></title>

@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Rock</title>
     <link>https://ukealong.com</link>
     <description>Genre » Rock</description>
-    <lastBuildDate>Thu, 19 Mar 2020 13:46:52 </lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2020 15:23:49 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -56,6 +56,13 @@
         <pubDate>Thu, 07 Nov 2019 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Radiohead - Creep - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/radiohead-creep-2/]]></link>
+        <description><![CDATA[Play along video for the song Creep performed by Radiohead. Chords used in the song: B, C, Cm, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/radiohead-creep-2/]]></guid>
+        <pubDate>Sun, 03 Nov 2019 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Rammstein - Ausländer - About Ukulele]]></title>
         <link><![CDATA[https://ukealong.com/song/rammstein-auslander/]]></link>
         <description><![CDATA[Play along video for the song Ausländer performed by Rammstein.]]></description>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song I Only Want You performed by Eagles Of Death Metal. Chords used in the song: Am, C.]]></description>
         <guid><![CDATA[https://ukealong.com/song/eagles-of-death-metal-i-only-want-you/]]></guid>
         <pubDate>Thu, 19 Sep 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Stigmata - September - About Ukulele]]></title>
-        <link><![CDATA[https://ukealong.com/song/stigmata-september/]]></link>
-        <description><![CDATA[Play along video for the song September performed by Stigmata.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/stigmata-september/]]></guid>
-        <pubDate>Tue, 17 Sep 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

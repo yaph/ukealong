@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Taylor Swift</title>
     <link>https://ukealong.com</link>
     <description>Artist » Taylor Swift</description>
-    <lastBuildDate>Thu, 19 Mar 2020 13:46:52 </lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2020 15:23:49 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -33,6 +33,13 @@
         <description><![CDATA[Play along video for the song Lover performed by Taylor Swift. Chords used in the song: Am, C, D, Em, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/taylor-swift-lover-baritone-ukulele/]]></guid>
         <pubDate>Sun, 01 Sep 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Taylor Swift - You Need to Calm Down - Key of G - Grace Doebler]]></title>
+        <link><![CDATA[https://ukealong.com/song/taylor-swift-you-need-to-calm-down/]]></link>
+        <description><![CDATA[Play along video for the song You Need to Calm Down performed by Taylor Swift. Chords used in the song: A, D, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/taylor-swift-you-need-to-calm-down/]]></guid>
+        <pubDate>Tue, 16 Jul 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Taylor Swift - ME! - Key of C - Andy Ramos]]></title>

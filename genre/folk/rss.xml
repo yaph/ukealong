@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Folk</title>
     <link>https://ukealong.com</link>
     <description>Genre » Folk</description>
-    <lastBuildDate>Thu, 19 Mar 2020 13:46:52 </lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2020 15:23:49 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -35,10 +35,17 @@
         <pubDate>Wed, 23 Oct 2019 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[You Gotta Sing Ukulele Play Along - Key of Am - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/you-gotta-sing-ukulele-play-along/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/you-gotta-sing-ukulele-play-along/]]></guid>
+        <title><![CDATA[Nancy Cassidy - You Gotta Sing - Baritone Ukulele - Key of Am - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/nancy-cassidy-you-gotta-sing-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song You Gotta Sing performed by Nancy Cassidy. Chords used in the song: Am, Dm, E7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/nancy-cassidy-you-gotta-sing-baritone-ukulele/]]></guid>
+        <pubDate>Tue, 01 Oct 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Nancy Cassidy - You Gotta Sing - Key of Am - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/nancy-cassidy-you-gotta-sing/]]></link>
+        <description><![CDATA[Play along video for the song You Gotta Sing performed by Nancy Cassidy. Chords used in the song: Am, Dm, E7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/nancy-cassidy-you-gotta-sing/]]></guid>
         <pubDate>Tue, 01 Oct 2019 00:00:00 </pubDate>
     </item>
     <item>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Scarborough Fair / Canticle performed by Simon & Garfunkel. Chords used in the song: A, D, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/simon-garfunkel-scarborough-fair-canticle-baritone-ukulele/]]></guid>
         <pubDate>Tue, 13 Aug 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Ka’au Crater Boys - Guava Jam - Key of C - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/kaau-crater-boys-guava-jam/]]></link>
-        <description><![CDATA[Play along video for the song Guava Jam performed by Ka’au Crater Boys. Chords used in the song: A♭, C, C7, D7, F, G7, Gsus4.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/kaau-crater-boys-guava-jam/]]></guid>
-        <pubDate>Wed, 07 Aug 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

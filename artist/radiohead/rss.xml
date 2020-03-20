@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Radiohead</title>
     <link>https://ukealong.com</link>
     <description>Artist » Radiohead</description>
-    <lastBuildDate>Thu, 19 Mar 2020 13:46:52 </lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2020 15:23:49 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -14,10 +14,17 @@
         <pubDate>Sat, 11 Jan 2020 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Radiohead - Creep - Ukeledu Music]]></title>
+        <title><![CDATA[Radiohead - Creep - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/radiohead-creep-2/]]></link>
         <description><![CDATA[Play along video for the song Creep performed by Radiohead. Chords used in the song: B, C, Cm, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/radiohead-creep-2/]]></guid>
+        <pubDate>Sun, 03 Nov 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Radiohead - Creep - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/radiohead-creep-3/]]></link>
+        <description><![CDATA[Play along video for the song Creep performed by Radiohead. Chords used in the song: B, C, Cm, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/radiohead-creep-3/]]></guid>
         <pubDate>Thu, 28 Jun 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

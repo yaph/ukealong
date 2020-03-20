@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » B</title>
     <link>https://ukealong.com</link>
     <description>Chord » B</description>
-    <lastBuildDate>Thu, 19 Mar 2020 13:46:52 </lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2020 15:23:49 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -26,6 +26,13 @@
         <description><![CDATA[Play along video for the song Don't Worry, Be Happy performed by Bobby McFerrin. Chords used in the song: B, C♯m, E.]]></description>
         <guid><![CDATA[https://ukealong.com/song/bobby-mcferrin-don-t-worry-be-happy/]]></guid>
         <pubDate>Sat, 09 Nov 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Radiohead - Creep - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/radiohead-creep-2/]]></link>
+        <description><![CDATA[Play along video for the song Creep performed by Radiohead. Chords used in the song: B, C, Cm, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/radiohead-creep-2/]]></guid>
+        <pubDate>Sun, 03 Nov 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Billy Joel - Just The Way You Are - Ukulele Cheats]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Speechless performed by Naomi Scott. Chords used in the song: Am, B, Bm7, Bsus4, C, Cdim7, D, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/naomi-scott-speechless-baritone-ukulele/]]></guid>
         <pubDate>Sun, 02 Jun 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Metallica - Nothing Else Matters - Key of Em - Ukeledu Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/metallica-nothing-else-matters/]]></link>
-        <description><![CDATA[Play along video for the song Nothing Else Matters performed by Metallica. Chords used in the song: A, B, C, D, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/metallica-nothing-else-matters/]]></guid>
-        <pubDate>Sun, 05 May 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Gsus4</title>
     <link>https://ukealong.com</link>
     <description>Chord » Gsus4</description>
-    <lastBuildDate>Thu, 19 Mar 2020 13:46:52 </lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2020 15:23:49 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -26,6 +26,13 @@
         <description><![CDATA[Play along video for the song I Want To Break Free performed by Queen. Chords used in the song: Am, C, Csus4, D, Dsus4, F, Fsus4, G, Gsus4.]]></description>
         <guid><![CDATA[https://ukealong.com/song/queen-i-want-to-break-free/]]></guid>
         <pubDate>Wed, 31 Jul 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Carole King - You've Got A Friend - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/carole-king-you-ve-got-a-friend/]]></link>
+        <description><![CDATA[Play along video for the song You've Got A Friend performed by Carole King. Chords used in the song: A7, Am, B7, Bm7, C, Cmaj7, D7, Em, F, F♯m, G, Gsus4.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/carole-king-you-ve-got-a-friend/]]></guid>
+        <pubDate>Sun, 16 Jun 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Ben Platt - Waving Through A Window - Baritone Ukulele - ukeplayalongs]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Riptide performed by Vance Joy. Chords used in the song: Am, C, F, F9, G, Gsus4.]]></description>
         <guid><![CDATA[https://ukealong.com/song/vance-joy-riptide-2/]]></guid>
         <pubDate>Wed, 20 Jun 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Salvador Sobral - Amar Pelos Dois - Ukeledu Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/salvador-sobral-amar-pelos-dois/]]></link>
-        <description><![CDATA[Play along video for the song Amar Pelos Dois performed by Salvador Sobral. Chords used in the song: A7, Am, B♭, C, C7, Cm, D7, Dm, F, F7, G, Gm, Gsus4.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/salvador-sobral-amar-pelos-dois/]]></guid>
-        <pubDate>Sat, 12 May 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>
