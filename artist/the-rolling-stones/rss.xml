@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » The Rolling Stones</title>
     <link>https://ukealong.com</link>
     <description>Artist » The Rolling Stones</description>
-    <lastBuildDate>Fri, 20 Mar 2020 15:23:49 </lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2020 23:54:09 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -33,5 +33,12 @@
         <description><![CDATA[Play along video for the song Paint It Black performed by The Rolling Stones. Chords used in the song: A, B7, D, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-rolling-stones-paint-it-black/]]></guid>
         <pubDate>Wed, 04 Jul 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Rolling Stones - (I Can't Get No) Satisfaction - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-rolling-stones-i-can-t-get-no-satisfaction-2/]]></link>
+        <description><![CDATA[Play along video for the song (I Can't Get No) Satisfaction performed by The Rolling Stones. Chords used in the song: A, Am7, B7, D, E.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-rolling-stones-i-can-t-get-no-satisfaction-2/]]></guid>
+        <pubDate>Wed, 30 Apr 2014 00:00:00 </pubDate>
     </item>
 </channel></rss>

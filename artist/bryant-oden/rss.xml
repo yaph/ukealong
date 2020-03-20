@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Bryant Oden</title>
     <link>https://ukealong.com</link>
     <description>Artist » Bryant Oden</description>
-    <lastBuildDate>Fri, 20 Mar 2020 15:23:49 </lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2020 23:54:09 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -40,5 +40,19 @@
         <description><![CDATA[Play along video for the song I Love U...kuleles performed by Bryant Oden. Chords used in the song: A, D, E.]]></description>
         <guid><![CDATA[https://ukealong.com/song/bryant-oden-i-love-u-kuleles-baritone-ukulele/]]></guid>
         <pubDate>Sun, 21 Oct 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Bryant Oden - Zombies Just Want to Be Loved - Baritone Ukulele - Key of C - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/bryant-oden-zombies-just-want-to-be-loved-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song Zombies Just Want to Be Loved performed by Bryant Oden. Chords used in the song: C, C7, F, G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bryant-oden-zombies-just-want-to-be-loved-baritone-ukulele/]]></guid>
+        <pubDate>Sat, 20 Oct 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Bryant Oden - Zombies Just Want to Be Loved - Key of C - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/bryant-oden-zombies-just-want-to-be-loved/]]></link>
+        <description><![CDATA[Play along video for the song Zombies Just Want to Be Loved performed by Bryant Oden. Chords used in the song: C, C7, F, G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bryant-oden-zombies-just-want-to-be-loved/]]></guid>
+        <pubDate>Sat, 20 Oct 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>
