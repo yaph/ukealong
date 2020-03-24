@@ -3,9 +3,16 @@
 <channel><title>Uke Along Genre » Latin</title>
     <link>https://ukealong.com</link>
     <description>Genre » Latin</description>
-    <lastBuildDate>Sat, 21 Mar 2020 22:37:38 </lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2020 22:47:13 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Santana - Black Magic Woman - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/santana-black-magic-woman/]]></link>
+        <description><![CDATA[Play along video for the song Black Magic Woman by Santana from the channel Ukulele Underground. Chords used in the song: A7, Dm, Gm.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/santana-black-magic-woman/]]></guid>
+        <pubDate>Thu, 31 Oct 2019 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[J Balvin & Willy William - Mi Gente - Key of Dm - Daniel Simmons]]></title>
         <link><![CDATA[https://ukealong.com/song/j-balvin-willy-william-mi-gente/]]></link>
@@ -63,17 +70,10 @@
         <pubDate>Fri, 03 May 2019 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Anitta - Ugly [Spanish Version] - Key of G - Andy Ramos]]></title>
-        <link><![CDATA[https://ukealong.com/song/anitta-ugly-spanish-version/]]></link>
-        <description><![CDATA[Play along video for the song Ugly [Spanish Version] by Anitta from the channel Andy Ramos. Chords used in the song: C, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/anitta-ugly-spanish-version/]]></guid>
+        <title><![CDATA[Anitta - Fea - Key of G - Andy Ramos]]></title>
+        <link><![CDATA[https://ukealong.com/song/anitta-fea/]]></link>
+        <description><![CDATA[Play along video for the song Fea by Anitta from the channel Andy Ramos. Chords used in the song: C, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/anitta-fea/]]></guid>
         <pubDate>Fri, 26 Apr 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Selena - Baila Esta Cumbia - Key of G - Andy Ramos]]></title>
-        <link><![CDATA[https://ukealong.com/song/selena-baila-esta-cumbia/]]></link>
-        <description><![CDATA[Play along video for the song Baila Esta Cumbia by Selena from the channel Andy Ramos. Chords used in the song: C, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/selena-baila-esta-cumbia/]]></guid>
-        <pubDate>Fri, 15 Mar 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Tv</title>
     <link>https://ukealong.com</link>
     <description>Genre » Tv</description>
-    <lastBuildDate>Sat, 21 Mar 2020 22:37:38 </lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2020 22:47:13 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -21,6 +21,13 @@
         <pubDate>Thu, 14 Nov 2019 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[The Addams Family Baritone Ukulele Play Along - Key of Bb - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-addams-family-baritone-ukulele-play-along/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-addams-family-baritone-ukulele-play-along/]]></guid>
+        <pubDate>Thu, 31 Oct 2019 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[The Addams Family Ukulele Play Along - Key of Bb - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/the-addams-family-ukulele-play-along/]]></link>
         <description><![CDATA[]]></description>
@@ -32,13 +39,6 @@
         <link><![CDATA[https://ukealong.com/song/the-addams-family-bass-ukulele-play-along/]]></link>
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-addams-family-bass-ukulele-play-along/]]></guid>
-        <pubDate>Thu, 31 Oct 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Addams Family Baritone Ukulele Play Along - Baritone Ukulele - Key of Bb - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-addams-family-baritone-ukulele-play-along-baritone-ukulele/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-addams-family-baritone-ukulele-play-along-baritone-ukulele/]]></guid>
         <pubDate>Thu, 31 Oct 2019 00:00:00 </pubDate>
     </item>
     <item>
@@ -63,17 +63,17 @@
         <pubDate>Thu, 10 Oct 2019 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Scooby Doo Theme Song Baritone Ukulele Play Along - Key of A - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/scooby-doo-theme-song-baritone-ukulele-play-along/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/scooby-doo-theme-song-baritone-ukulele-play-along/]]></guid>
+        <pubDate>Tue, 17 Sep 2019 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Scooby Doo Theme Song Ukulele Play Along (In A) - Key of A - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/scooby-doo-theme-song-ukulele-play-along-in-a/]]></link>
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/scooby-doo-theme-song-ukulele-play-along-in-a/]]></guid>
-        <pubDate>Tue, 17 Sep 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Scooby Doo Theme Song Ukulele Play Along (In G) - Key of G - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/scooby-doo-theme-song-ukulele-play-along-in-g/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/scooby-doo-theme-song-ukulele-play-along-in-g/]]></guid>
         <pubDate>Tue, 17 Sep 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

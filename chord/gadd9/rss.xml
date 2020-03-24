@@ -3,21 +3,21 @@
 <channel><title>Uke Along Chord » Gadd9</title>
     <link>https://ukealong.com</link>
     <description>Chord » Gadd9</description>
-    <lastBuildDate>Sat, 21 Mar 2020 22:37:38 </lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2020 22:47:13 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    <item>
-        <title><![CDATA[Shadow’s Lullaby Baritone Ukulele Play Along (In G) - Baritone Ukulele - Key of G - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/shadows-lullaby-baritone-ukulele-play-along-in-g-baritone-ukulele/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/shadows-lullaby-baritone-ukulele-play-along-in-g-baritone-ukulele/]]></guid>
-        <pubDate>Tue, 25 Jun 2019 00:00:00 </pubDate>
-    </item>
     <item>
         <title><![CDATA[Shadow’s Lullaby Ukulele Play Along (In G) - Key of G - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/shadows-lullaby-ukulele-play-along-in-g/]]></link>
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/shadows-lullaby-ukulele-play-along-in-g/]]></guid>
+        <pubDate>Tue, 25 Jun 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Shadow’s Lullaby Baritone Ukulele Play Along (In G) - Key of G - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/shadows-lullaby-baritone-ukulele-play-along-in-g/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/shadows-lullaby-baritone-ukulele-play-along-in-g/]]></guid>
         <pubDate>Tue, 25 Jun 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>
