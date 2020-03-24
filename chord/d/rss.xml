@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » D</title>
     <link>https://ukealong.com</link>
     <description>Chord » D</description>
-    <lastBuildDate>Tue, 24 Mar 2020 22:52:21 </lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2020 23:13:22 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Panic! At The Disco - Death of a Bachelor - Ukulaliens - Ukulele Club]]></title>
+        <link><![CDATA[https://ukealong.com/song/panic-at-the-disco-death-of-a-bachelor/]]></link>
+        <description><![CDATA[Play along video for the song Death of a Bachelor by Panic! At The Disco from the channel Ukulaliens - Ukulele Club. Chords used in the song: Am, C, D, Dm, F, Fm, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/panic-at-the-disco-death-of-a-bachelor/]]></guid>
+        <pubDate>Fri, 06 Mar 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Michael Bublé - I Believe in You - Key of A, G - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Take Me Home, Country Roads by John Denver from the channel Ukulaliens - Ukulele Club. Chords used in the song: A, D, E7, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/john-denver-take-me-home-country-roads/]]></guid>
         <pubDate>Wed, 22 Jan 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[How Far I'll Go (Moana ukulele cover) // Cynthia Lin Play-Along - Cynthia Lin Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/how-far-i-ll-go-moana-ukulele-cover-cynthia-lin-play-along/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/how-far-i-ll-go-moana-ukulele-cover-cynthia-lin-play-along/]]></guid>
-        <pubDate>Wed, 01 Jan 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

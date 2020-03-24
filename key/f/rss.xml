@@ -3,7 +3,7 @@
 <channel><title>Uke Along Key » F</title>
     <link>https://ukealong.com</link>
     <description>Key » F</description>
-    <lastBuildDate>Tue, 24 Mar 2020 22:52:21 </lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2020 23:13:22 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -25,6 +25,13 @@
         <link><![CDATA[https://ukealong.com/song/sheb-wooley-purple-people-eater-2/]]></link>
         <description><![CDATA[Play along video for the song Purple People Eater by Sheb Wooley from the channel ukeplayalongs. Chords used in the song: A, A7, A♭, B7, B♭, B♭7, C7, D, E, E♭, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/sheb-wooley-purple-people-eater-2/]]></guid>
+        <pubDate>Tue, 22 Oct 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Sheb Wooley - Purple People Eater - Baritone Ukulele - Key of D, Eb, E, F - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/sheb-wooley-purple-people-eater-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song Purple People Eater by Sheb Wooley from the channel ukeplayalongs. Chords used in the song: A, A7, A♭, B7, B♭, B♭7, C7, D, E, E♭, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/sheb-wooley-purple-people-eater-baritone-ukulele/]]></guid>
         <pubDate>Tue, 22 Oct 2019 00:00:00 </pubDate>
     </item>
     <item>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Columbus Day by The Kiboomers from the channel Daniel Simmons. Chords used in the song: C, F.]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-kiboomers-columbus-day/]]></guid>
         <pubDate>Mon, 29 Jul 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Sonny & Cher - The Beat Goes On - Key of F - Andy Ramos]]></title>
-        <link><![CDATA[https://ukealong.com/song/sonny-cher-the-beat-goes-on/]]></link>
-        <description><![CDATA[Play along video for the song The Beat Goes On by Sonny & Cher from the channel Andy Ramos. Chords used in the song: F.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/sonny-cher-the-beat-goes-on/]]></guid>
-        <pubDate>Sat, 20 Jul 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>
