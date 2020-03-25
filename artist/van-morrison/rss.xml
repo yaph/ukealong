@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Van Morrison</title>
     <link>https://ukealong.com</link>
     <description>Artist » Van Morrison</description>
-    <lastBuildDate>Tue, 24 Mar 2020 23:27:33 </lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2020 22:37:43 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,5 +19,12 @@
         <description><![CDATA[Play along video for the song Brown Eyed Girl by Van Morrison from the channel ukeplayalongs. Chords used in the song: C, D, D7, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/van-morrison-brown-eyed-girl-2/]]></guid>
         <pubDate>Tue, 08 Aug 2017 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Van Morrison - Brown Eyed Girl - Key of C - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/van-morrison-brown-eyed-girl-3/]]></link>
+        <description><![CDATA[Play along video for the song Brown Eyed Girl by Van Morrison from the channel Ukulele Underground. Chords used in the song: C, Dm, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/van-morrison-brown-eyed-girl-3/]]></guid>
+        <pubDate>Thu, 29 May 2014 00:00:00 </pubDate>
     </item>
 </channel></rss>

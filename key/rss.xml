@@ -3,9 +3,23 @@
 <channel><title>Uke Along Key</title>
     <link>https://ukealong.com</link>
     <description>Key</description>
-    <lastBuildDate>Tue, 24 Mar 2020 23:27:32 </lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2020 22:37:42 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Judy Garland - Over The Rainbow - Baritone Ukulele - Key of G - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/judy-garland-over-the-rainbow-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song Over The Rainbow by Judy Garland from the channel ukeplayalongs. Chords used in the song: A7, Am7, Bm, C, Cm, D7, E7, Em7, G, G7, Gdim7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/judy-garland-over-the-rainbow-baritone-ukulele/]]></guid>
+        <pubDate>Tue, 24 Mar 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Judy Garland - Over The Rainbow - Key of G - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/judy-garland-over-the-rainbow/]]></link>
+        <description><![CDATA[Play along video for the song Over The Rainbow by Judy Garland from the channel ukeplayalongs. Chords used in the song: A7, Am7, Bm, C, Cm, D7, E7, Em7, G, G7, Gdim7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/judy-garland-over-the-rainbow/]]></guid>
+        <pubDate>Tue, 24 Mar 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Why Don't We - Chills - Key of C - Andy Ramos]]></title>
         <link><![CDATA[https://ukealong.com/song/why-don-t-we-chills/]]></link>
@@ -42,6 +56,13 @@
         <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA["Weird Al" Yankovic - Yoda - Key of G - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda/]]></link>
+        <description><![CDATA[Play along video for the song Yoda by "Weird Al" Yankovic from the channel ukeplayalongs. Chords used in the song: A, A7, Bm, B♭, C, D, E7, F♯7, G, Gm.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda/]]></guid>
+        <pubDate>Tue, 18 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Billie Eilish - No Time To Die - Key of Am - Ukulaliens - Ukulele Club]]></title>
         <link><![CDATA[https://ukealong.com/song/billie-eilish-no-time-to-die/]]></link>
         <description><![CDATA[Play along video for the song No Time To Die by Billie Eilish from the channel Ukulaliens - Ukulele Club. Chords used in the song: A, Am, B7, Cmaj7, Em.]]></description>
@@ -54,26 +75,5 @@
         <description><![CDATA[Play along video for the song Memories by Maroon 5 from the channel ukeplayalongs. Chords used in the song: Am, C, Em, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/maroon-5-memories-baritone-ukulele/]]></guid>
         <pubDate>Tue, 04 Feb 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Maroon 5 - Memories - Key of C - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/maroon-5-memories/]]></link>
-        <description><![CDATA[Play along video for the song Memories by Maroon 5 from the channel ukeplayalongs. Chords used in the song: Am, C, Em, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/maroon-5-memories/]]></guid>
-        <pubDate>Tue, 04 Feb 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[LeAnn Rimes - Raining Tacos - Key of C - Daniel Simmons]]></title>
-        <link><![CDATA[https://ukealong.com/song/leann-rimes-raining-tacos/]]></link>
-        <description><![CDATA[Play along video for the song Raining Tacos by LeAnn Rimes from the channel Daniel Simmons. Chords used in the song: Am, C, Em, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/leann-rimes-raining-tacos/]]></guid>
-        <pubDate>Sat, 01 Feb 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Melinda Caroll - Ging Gang Gooli - Key of C - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/melinda-caroll-ging-gang-gooli/]]></link>
-        <description><![CDATA[Play along video for the song Ging Gang Gooli by Melinda Caroll from the channel ukeplayalongs. Chords used in the song: C, C7, F, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/melinda-caroll-ging-gang-gooli/]]></guid>
-        <pubDate>Tue, 14 Jan 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

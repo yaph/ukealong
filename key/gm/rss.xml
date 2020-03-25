@@ -3,7 +3,7 @@
 <channel><title>Uke Along Key » Gm</title>
     <link>https://ukealong.com</link>
     <description>Key » Gm</description>
-    <lastBuildDate>Tue, 24 Mar 2020 23:27:33 </lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2020 22:37:42 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -26,5 +26,12 @@
         <description><![CDATA[Play along video for the song Happy Together by The Turtles from the channel ukeplayalongs. Chords used in the song: B♭, D, Dm, E♭, F, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-turtles-happy-together/]]></guid>
         <pubDate>Mon, 19 Jun 2017 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Bob Marley - I Shot The Sheriff - Key of Gm - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/bob-marley-i-shot-the-sheriff/]]></link>
+        <description><![CDATA[Play along video for the song I Shot The Sheriff by Bob Marley from the channel Ukulele Underground. Chords used in the song: Cm7, Dm7, Gm.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bob-marley-i-shot-the-sheriff/]]></guid>
+        <pubDate>Sun, 01 Apr 2012 00:00:00 </pubDate>
     </item>
 </channel></rss>
