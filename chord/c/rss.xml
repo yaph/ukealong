@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » C</title>
     <link>https://ukealong.com</link>
     <description>Chord » C</description>
-    <lastBuildDate>Thu, 26 Mar 2020 22:43:30 </lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 00:01:37 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,13 @@
         <description><![CDATA[Play along video for the song Over The Rainbow by Judy Garland from the channel ukeplayalongs. Chords used in the song: A7, Am7, Bm, C, Cm, D7, E7, Em7, G, G7, Gdim7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/judy-garland-over-the-rainbow/]]></guid>
         <pubDate>Tue, 24 Mar 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Israel Kamakawiwo'ole - What A Wonderful World - Kevin Way]]></title>
+        <link><![CDATA[https://ukealong.com/song/israel-kamakawiwo-ole-what-a-wonderful-world/]]></link>
+        <description><![CDATA[Play along video for the song What A Wonderful World by Israel Kamakawiwo'ole from the channel Kevin Way. Chords used in the song: Am, C, E7, Em, F, F9, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/israel-kamakawiwo-ole-what-a-wonderful-world/]]></guid>
+        <pubDate>Tue, 10 Mar 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Panic! At The Disco - Death of a Bachelor - Ukulaliens - Ukulele Club]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song I Believe in You by Michael Bublé from the channel ukeplayalongs. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></guid>
         <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Paul Anka - Put Your Head On My Shoulder - Ukulele Cheats]]></title>
-        <link><![CDATA[https://ukealong.com/song/paul-anka-put-your-head-on-my-shoulder/]]></link>
-        <description><![CDATA[Play along video for the song Put Your Head On My Shoulder by Paul Anka from the channel Ukulele Cheats. Chords used in the song: A7, Am, Bm, C, D, D7, D♯dim, Em, Em7, F♯7, G, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/paul-anka-put-your-head-on-my-shoulder/]]></guid>
-        <pubDate>Mon, 24 Feb 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

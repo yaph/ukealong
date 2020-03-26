@@ -3,9 +3,16 @@
 <channel><title>Uke Along Artist » The Beatles</title>
     <link>https://ukealong.com</link>
     <description>Artist » The Beatles</description>
-    <lastBuildDate>Thu, 26 Mar 2020 22:43:30 </lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 00:01:37 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[The Beatles - Something - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-something/]]></link>
+        <description><![CDATA[Play along video for the song Something by The Beatles from the channel Ukulele Underground.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-something/]]></guid>
+        <pubDate>Sat, 29 Feb 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[The Beatles - In My Life - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/the-beatles-in-my-life/]]></link>
@@ -49,6 +56,13 @@
         <pubDate>Sun, 31 Mar 2019 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[The Beatles - Blackbird - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-blackbird/]]></link>
+        <description><![CDATA[Play along video for the song Blackbird by The Beatles from the channel Ukulele Cheats.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-blackbird/]]></guid>
+        <pubDate>Wed, 12 Dec 2018 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[The Beatles - Let It Be - Key of C - Cynthia Lin Music]]></title>
         <link><![CDATA[https://ukealong.com/song/the-beatles-let-it-be/]]></link>
         <description><![CDATA[Play along video for the song Let It Be by The Beatles from the channel Cynthia Lin Music. Chords used in the song: Am, B♭, C, Dm, F, G.]]></description>
@@ -56,24 +70,10 @@
         <pubDate>Wed, 29 Aug 2018 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[The Beatles - I Saw Her Standing There - Key of E - Kevin Way]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-beatles-i-saw-her-standing-there/]]></link>
-        <description><![CDATA[Play along video for the song I Saw Her Standing There by The Beatles from the channel Kevin Way. Chords used in the song: A7, B7, C, E7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-beatles-i-saw-her-standing-there/]]></guid>
-        <pubDate>Wed, 29 Mar 2017 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Beatles - Yesterday - About Ukulele]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-beatles-yesterday/]]></link>
-        <description><![CDATA[Play along video for the song Yesterday by The Beatles from the channel About Ukulele.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-beatles-yesterday/]]></guid>
-        <pubDate>Sun, 05 Feb 2017 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Beatles - Norwegian Wood - Key of D - DrJillReese]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-beatles-norwegian-wood/]]></link>
-        <description><![CDATA[Play along video for the song Norwegian Wood by The Beatles from the channel DrJillReese. Chords used in the song: A, A7, C, D, Dm, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-beatles-norwegian-wood/]]></guid>
-        <pubDate>Wed, 14 Dec 2016 00:00:00 </pubDate>
+        <title><![CDATA[The Beatles - All My Loving - Key of D - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-all-my-loving/]]></link>
+        <description><![CDATA[Play along video for the song All My Loving by The Beatles from the channel ukeplayalongs. Chords used in the song: A7, A♯aug, Bm, C, D, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-all-my-loving/]]></guid>
+        <pubDate>Mon, 12 Jun 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

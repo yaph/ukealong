@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Josh Wilson</title>
     <link>https://ukealong.com</link>
     <description>Artist » Josh Wilson</description>
-    <lastBuildDate>Thu, 26 Mar 2020 22:43:30 </lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 00:01:37 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,5 +12,12 @@
         <description><![CDATA[Play along video for the song Borrow by Josh Wilson from the channel Daniel Simmons. Chords used in the song: C, Dm, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/josh-wilson-borrow/]]></guid>
         <pubDate>Thu, 18 Apr 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Josh Wilson - Angels We Have Heard on High - Key of G - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/josh-wilson-angels-we-have-heard-on-high/]]></link>
+        <description><![CDATA[Play along video for the song Angels We Have Heard on High by Josh Wilson from the channel ukeplayalongs. Chords used in the song: Am, C, D, D7, E7, Em/C, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/josh-wilson-angels-we-have-heard-on-high/]]></guid>
+        <pubDate>Sat, 09 Dec 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

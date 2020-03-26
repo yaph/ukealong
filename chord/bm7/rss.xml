@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Bm7</title>
     <link>https://ukealong.com</link>
     <description>Chord » Bm7</description>
-    <lastBuildDate>Thu, 26 Mar 2020 22:43:30 </lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 00:01:37 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -33,6 +33,13 @@
         <description><![CDATA[Play along video for the song Rockin' Around The Christmas Tree by Brenda Lee from the channel Cynthia Lin Music. Chords used in the song: A7, Bm7, C, D, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/brenda-lee-rockin-around-the-christmas-tree/]]></guid>
         <pubDate>Mon, 23 Dec 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA["Sleigh Ride" Ukulele Play-Along! - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/sleigh-ride-ukulele-play-along/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/sleigh-ride-ukulele-play-along/]]></guid>
+        <pubDate>Sat, 30 Nov 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Extreme - More Than Words - Ukulele Cheats]]></title>
@@ -67,13 +74,6 @@
         <link><![CDATA[https://ukealong.com/song/dave-matthews-band-sweet-baritone-ukulele/]]></link>
         <description><![CDATA[Play along video for the song Sweet by Dave Matthews Band from the channel ukeplayalongs. Chords used in the song: A, Bm, Bm7, D, Dsus4, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/dave-matthews-band-sweet-baritone-ukulele/]]></guid>
-        <pubDate>Tue, 20 Aug 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Dave Matthews Band - Sweet - Key of D - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/dave-matthews-band-sweet-2/]]></link>
-        <description><![CDATA[Play along video for the song Sweet by Dave Matthews Band from the channel ukeplayalongs. Chords used in the song: A, Bm, Bm7, D, Dsus4, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/dave-matthews-band-sweet-2/]]></guid>
         <pubDate>Tue, 20 Aug 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

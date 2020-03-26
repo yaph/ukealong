@@ -3,9 +3,16 @@
 <channel><title>Uke Along Artist » Sara Bareilles</title>
     <link>https://ukealong.com</link>
     <description>Artist » Sara Bareilles</description>
-    <lastBuildDate>Thu, 26 Mar 2020 22:43:31 </lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 00:01:37 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Sara Bareilles - Brave - Kris The Uke Chick Gilbert]]></title>
+        <link><![CDATA[https://ukealong.com/song/sara-bareilles-brave/]]></link>
+        <description><![CDATA[Play along video for the song Brave by Sara Bareilles from the channel Kris The Uke Chick Gilbert.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/sara-bareilles-brave/]]></guid>
+        <pubDate>Wed, 12 Feb 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Sara Bareilles - Love Is Christmas - Key of G - Daniel Simmons]]></title>
         <link><![CDATA[https://ukealong.com/song/sara-bareilles-love-is-christmas/]]></link>
@@ -15,9 +22,9 @@
     </item>
     <item>
         <title><![CDATA[Sara Bareilles - Brave - Key of C - Andy Ramos]]></title>
-        <link><![CDATA[https://ukealong.com/song/sara-bareilles-brave/]]></link>
+        <link><![CDATA[https://ukealong.com/song/sara-bareilles-brave-2/]]></link>
         <description><![CDATA[Play along video for the song Brave by Sara Bareilles from the channel Andy Ramos. Chords used in the song: Am, C, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/sara-bareilles-brave/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/sara-bareilles-brave-2/]]></guid>
         <pubDate>Tue, 10 Apr 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Gm</title>
     <link>https://ukealong.com</link>
     <description>Chord » Gm</description>
-    <lastBuildDate>Thu, 26 Mar 2020 22:43:30 </lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 00:01:37 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -42,6 +42,13 @@
         <pubDate>Fri, 20 Dec 2019 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA["Sleigh Ride" Ukulele Play-Along! - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/sleigh-ride-ukulele-play-along/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/sleigh-ride-ukulele-play-along/]]></guid>
+        <pubDate>Sat, 30 Nov 2019 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Jack Johnson - Better Together - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/jack-johnson-better-together/]]></link>
         <description><![CDATA[Play along video for the song Better Together by Jack Johnson from the channel Ukulele Cheats. Chords used in the song: Am, A♯, C, Dm, F, Gm.]]></description>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song I'm Still Standing by Taron Egerton from the channel ukeplayalongs. Chords used in the song: Am, A♭, B♭, C, Cm, Fm, G, G7, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/taron-egerton-i-m-still-standing/]]></guid>
         <pubDate>Sun, 18 Aug 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Survivor - 'Rocky" Eye Of The Tiger - Key of Dm - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/survivor-rocky-eye-of-the-tiger/]]></link>
-        <description><![CDATA[Play along video for the song 'Rocky" Eye Of The Tiger by Survivor from the channel ukeplayalongs. Chords used in the song: A, B♭, C, Dm, F, Gm.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/survivor-rocky-eye-of-the-tiger/]]></guid>
-        <pubDate>Sat, 17 Aug 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

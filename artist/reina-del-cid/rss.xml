@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Reina Del Cid</title>
     <link>https://ukealong.com</link>
     <description>Artist » Reina Del Cid</description>
-    <lastBuildDate>Thu, 26 Mar 2020 22:43:30 </lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 00:01:37 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,5 +12,12 @@
         <description><![CDATA[Play along video for the song Run Rudolph Run by Reina del Cid from the channel ukeplayalongs. Chords used in the song: C, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/reina-del-cid-run-rudolph-run/]]></guid>
         <pubDate>Tue, 28 Nov 2017 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Reina del Cid - Run, Run, Rudolph - Key of C - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/reina-del-cid-run-run-rudolph/]]></link>
+        <description><![CDATA[Play along video for the song Run, Run, Rudolph by Reina del Cid from the channel ukeplayalongs. Chords used in the song: C7, F7, G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/reina-del-cid-run-run-rudolph/]]></guid>
+        <pubDate>Sat, 25 Nov 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » F</title>
     <link>https://ukealong.com</link>
     <description>Chord » F</description>
-    <lastBuildDate>Thu, 26 Mar 2020 22:43:30 </lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 00:01:37 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Israel Kamakawiwo'ole - What A Wonderful World - Kevin Way]]></title>
+        <link><![CDATA[https://ukealong.com/song/israel-kamakawiwo-ole-what-a-wonderful-world/]]></link>
+        <description><![CDATA[Play along video for the song What A Wonderful World by Israel Kamakawiwo'ole from the channel Kevin Way. Chords used in the song: Am, C, E7, Em, F, F9, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/israel-kamakawiwo-ole-what-a-wonderful-world/]]></guid>
+        <pubDate>Tue, 10 Mar 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Panic! At The Disco - Death of a Bachelor - Ukulaliens - Ukulele Club]]></title>
         <link><![CDATA[https://ukealong.com/song/panic-at-the-disco-death-of-a-bachelor/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Memories by Maroon 5 from the channel ukeplayalongs. Chords used in the song: Am, C, Em, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/maroon-5-memories/]]></guid>
         <pubDate>Tue, 04 Feb 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[LeAnn Rimes - Raining Tacos - Key of C - Daniel Simmons]]></title>
-        <link><![CDATA[https://ukealong.com/song/leann-rimes-raining-tacos/]]></link>
-        <description><![CDATA[Play along video for the song Raining Tacos by LeAnn Rimes from the channel Daniel Simmons. Chords used in the song: Am, C, Em, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/leann-rimes-raining-tacos/]]></guid>
-        <pubDate>Sat, 01 Feb 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>
