@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Weezer</title>
     <link>https://ukealong.com</link>
     <description>Artist » Weezer</description>
-    <lastBuildDate>Wed, 25 Mar 2020 22:46:15 </lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2020 22:43:31 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,5 +12,12 @@
         <description><![CDATA[Play along video for the song You Might Think by Weezer from the channel Andy Ramos. Chords used in the song: A, Bm, C, D, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/weezer-you-might-think/]]></guid>
         <pubDate>Thu, 10 May 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Weezer - Island In The Sun - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/weezer-island-in-the-sun/]]></link>
+        <description><![CDATA[Play along video for the song Island In The Sun by Weezer from the channel Ukulele Underground. Chords used in the song: A7, Am, C, D, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/weezer-island-in-the-sun/]]></guid>
+        <pubDate>Sat, 28 Feb 2009 00:00:00 </pubDate>
     </item>
 </channel></rss>
