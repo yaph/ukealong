@@ -3,9 +3,16 @@
 <channel><title>Uke Along Genre » Rock</title>
     <link>https://ukealong.com</link>
     <description>Genre » Rock</description>
-    <lastBuildDate>Fri, 27 Mar 2020 00:01:37 </lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 22:58:35 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[The Beatles - Something - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-something/]]></link>
+        <description><![CDATA[Play along video for the song Something by The Beatles from the channel Ukulele Underground. Chords used in the song: A, A7, Am, Am7, Amaj7, Ammaj7, Bdim7, C, C7, Cmaj7, D, D7, E♭, F, F♯m, G, G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-something/]]></guid>
+        <pubDate>Sat, 29 Feb 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Free - All Right Now - Key of C - Ukulaliens - Ukulele Club]]></title>
         <link><![CDATA[https://ukealong.com/song/free-all-right-now/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Ausländer by Rammstein from the channel About Ukulele.]]></description>
         <guid><![CDATA[https://ukealong.com/song/rammstein-auslander/]]></guid>
         <pubDate>Mon, 30 Sep 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Eagles Of Death Metal - I Only Want You - Key of Am - Daniel Simmons]]></title>
-        <link><![CDATA[https://ukealong.com/song/eagles-of-death-metal-i-only-want-you/]]></link>
-        <description><![CDATA[Play along video for the song I Only Want You by Eagles Of Death Metal from the channel Daniel Simmons. Chords used in the song: Am, C.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/eagles-of-death-metal-i-only-want-you/]]></guid>
-        <pubDate>Thu, 19 Sep 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Cmaj7</title>
     <link>https://ukealong.com</link>
     <description>Chord » Cmaj7</description>
-    <lastBuildDate>Fri, 27 Mar 2020 00:01:37 </lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 22:58:35 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,6 +12,13 @@
         <description><![CDATA[Play along video for the song Crazy by Patsy Cline from the channel Cynthia Lin Music. Chords used in the song: A7, C, C7, Cmaj7, C♯dim7, D7, D7♭9, Dm, Em7, F, G7, G7+5.]]></description>
         <guid><![CDATA[https://ukealong.com/song/patsy-cline-crazy/]]></guid>
         <pubDate>Sun, 01 Mar 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Beatles - Something - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-something/]]></link>
+        <description><![CDATA[Play along video for the song Something by The Beatles from the channel Ukulele Underground. Chords used in the song: A, A7, Am, Am7, Amaj7, Ammaj7, Bdim7, C, C7, Cmaj7, D, D7, E♭, F, F♯m, G, G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-something/]]></guid>
+        <pubDate>Sat, 29 Feb 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Billie Eilish - No Time To Die - Key of Am - Ukulaliens - Ukulele Club]]></title>
@@ -33,6 +40,13 @@
         <description><![CDATA[Play along video for the song This Is Home by Cavetown from the channel Ukulaliens - Ukulele Club. Chords used in the song: A, C, Cm, Cmaj7, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/cavetown-this-is-home/]]></guid>
         <pubDate>Fri, 24 Jan 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Dennis Kamakahi - Wahine ‘Ilikea - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/dennis-kamakahi-wahine-ilikea/]]></link>
+        <description><![CDATA[Play along video for the song Wahine ‘Ilikea by Dennis Kamakahi from the channel Ukulele Underground. Chords used in the song: Am, Bm7, Cmaj7, D, G7, Gmaj7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/dennis-kamakahi-wahine-ilikea/]]></guid>
+        <pubDate>Tue, 31 Dec 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Francesca Battistelli - Heaven Everywhere - Key of C - ukeplayalongs]]></title>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song My Favorite Things by Julie Andrews from the channel ukeplayalongs. Chords used in the song: A, A7, Am, B7, B♭, B♭maj7, C, C7, Cmaj7, D, D6, D7, Dm, E, Em, F, G, G7, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/julie-andrews-my-favorite-things-baritone-ukulele/]]></guid>
         <pubDate>Fri, 20 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Julie Andrews - My Favorite Things - Key of Dm, EM - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/julie-andrews-my-favorite-things/]]></link>
-        <description><![CDATA[Play along video for the song My Favorite Things by Julie Andrews from the channel ukeplayalongs. Chords used in the song: A, A7, Am, B7, B♭, B♭maj7, C, C7, Cmaj7, D, D6, D7, Dm, E, Em, F, G, G7, Gm.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/julie-andrews-my-favorite-things/]]></guid>
-        <pubDate>Fri, 20 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Taylor Swift - Christmas Tree Farm - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/taylor-swift-christmas-tree-farm/]]></link>
-        <description><![CDATA[Play along video for the song Christmas Tree Farm by Taylor Swift from the channel ukeplayalongs. Chords used in the song: Am, Bdim7, C, Cmaj7, D7, Dm, Em, F, Fmaj7, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/taylor-swift-christmas-tree-farm/]]></guid>
-        <pubDate>Tue, 10 Dec 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

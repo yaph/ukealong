@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Uke Along Key » F#</title>
+    <link>https://ukealong.com</link>
+    <description>Key » F#</description>
+    <lastBuildDate>Fri, 27 Mar 2020 22:58:36 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Chris Stapleton - Tennessee Whiskey - Key of F# - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/chris-stapleton-tennessee-whiskey/]]></link>
+        <description><![CDATA[Play along video for the song Tennessee Whiskey by Chris Stapleton from the channel Ukulele Underground. Chords used in the song: B, C♯7, F♯, G♯m.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/chris-stapleton-tennessee-whiskey/]]></guid>
+        <pubDate>Fri, 01 Mar 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Mad Caddies - She - Key of F# - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/mad-caddies-she/]]></link>
+        <description><![CDATA[Play along video for the song She by Mad Caddies from the channel Ukulele Underground. Chords used in the song: B, C♯, F♯.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/mad-caddies-she/]]></guid>
+        <pubDate>Thu, 01 Nov 2018 00:00:00 </pubDate>
+    </item>
+</channel></rss>

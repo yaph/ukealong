@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Wham!</title>
     <link>https://ukealong.com</link>
     <description>Artist » Wham!</description>
-    <lastBuildDate>Fri, 27 Mar 2020 00:01:37 </lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 22:58:36 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -26,5 +26,12 @@
         <description><![CDATA[Play along video for the song Last Christmas by Wham! from the channel ukeplayalongs. Chords used in the song: Am, C, Dm, G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/wham-last-christmas-2/]]></guid>
         <pubDate>Mon, 11 Dec 2017 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Wham! - Last Christmas - Key of D - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/wham-last-christmas-4/]]></link>
+        <description><![CDATA[Play along video for the song Last Christmas by Wham! from the channel Ukulele Underground. Chords used in the song: A, Bm7, D, Em.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/wham-last-christmas-4/]]></guid>
+        <pubDate>Fri, 01 Dec 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

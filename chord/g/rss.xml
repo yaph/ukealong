@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » G</title>
     <link>https://ukealong.com</link>
     <description>Chord » G</description>
-    <lastBuildDate>Fri, 27 Mar 2020 00:01:37 </lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 22:58:35 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -49,6 +49,13 @@
         <pubDate>Sun, 01 Mar 2020 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[The Beatles - Something - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-something/]]></link>
+        <description><![CDATA[Play along video for the song Something by The Beatles from the channel Ukulele Underground. Chords used in the song: A, A7, Am, Am7, Amaj7, Ammaj7, Bdim7, C, C7, Cmaj7, D, D7, E♭, F, F♯m, G, G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-something/]]></guid>
+        <pubDate>Sat, 29 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Free - All Right Now - Key of C - Ukulaliens - Ukulele Club]]></title>
         <link><![CDATA[https://ukealong.com/song/free-all-right-now/]]></link>
         <description><![CDATA[Play along video for the song All Right Now by Free from the channel Ukulaliens - Ukulele Club. Chords used in the song: C, F, G.]]></description>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song I Believe in You by Michael Bublé from the channel ukeplayalongs. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></guid>
         <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The White Stripes - Seven Nation Army - Kris The Uke Chick Gilbert]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-white-stripes-seven-nation-army/]]></link>
-        <description><![CDATA[Play along video for the song Seven Nation Army by The White Stripes from the channel Kris The Uke Chick Gilbert. Chords used in the song: A, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-white-stripes-seven-nation-army/]]></guid>
-        <pubDate>Mon, 24 Feb 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

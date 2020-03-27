@@ -3,14 +3,21 @@
 <channel><title>Uke Along Artist » Dennis Kamakahi</title>
     <link>https://ukealong.com</link>
     <description>Artist » Dennis Kamakahi</description>
-    <lastBuildDate>Fri, 27 Mar 2020 00:01:37 </lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 22:58:36 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Dennis Kamakahi - Wahine ‘Ilikea - Ukulele Underground]]></title>
         <link><![CDATA[https://ukealong.com/song/dennis-kamakahi-wahine-ilikea/]]></link>
-        <description><![CDATA[Play along video for the song Wahine ‘Ilikea by Dennis Kamakahi from the channel Ukulele Underground.]]></description>
+        <description><![CDATA[Play along video for the song Wahine ‘Ilikea by Dennis Kamakahi from the channel Ukulele Underground. Chords used in the song: Am, Bm7, Cmaj7, D, G7, Gmaj7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/dennis-kamakahi-wahine-ilikea/]]></guid>
         <pubDate>Tue, 31 Dec 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Dennis Kamakahi - Koke’e - Key of D - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/dennis-kamakahi-kokee/]]></link>
+        <description><![CDATA[Play along video for the song Koke’e by Dennis Kamakahi from the channel Ukulele Underground. Chords used in the song: A, D, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/dennis-kamakahi-kokee/]]></guid>
+        <pubDate>Tue, 01 May 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » E♭</title>
     <link>https://ukealong.com</link>
     <description>Chord » E♭</description>
-    <lastBuildDate>Fri, 27 Mar 2020 00:01:37 </lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 22:58:35 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,6 +12,13 @@
         <description><![CDATA[Play along video for the song She Will Be Loved by Maroon 5 from the channel Ukulaliens - Ukulele Club. Chords used in the song: A♭, B♭, Cm, E♭.]]></description>
         <guid><![CDATA[https://ukealong.com/song/maroon-5-she-will-be-loved/]]></guid>
         <pubDate>Fri, 20 Mar 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Beatles - Something - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-something/]]></link>
+        <description><![CDATA[Play along video for the song Something by The Beatles from the channel Ukulele Underground. Chords used in the song: A, A7, Am, Am7, Amaj7, Ammaj7, Bdim7, C, C7, Cmaj7, D, D7, E♭, F, F♯m, G, G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-something/]]></guid>
+        <pubDate>Sat, 29 Feb 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Johnny Hates Jazz - Shattered Dreams - Baritone Ukulele - Key of Am, A#m - ukeplayalongs]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/magalovania-undertale-ukulele-play-along-slow-version/]]></guid>
         <pubDate>Wed, 17 Apr 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Doobie Brothers - Listen to the Music - Key of F - DrJillReese]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-doobie-brothers-listen-to-the-music/]]></link>
-        <description><![CDATA[Play along video for the song Listen to the Music by The Doobie Brothers from the channel DrJillReese. Chords used in the song: B♭, C, Dm, E♭, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-doobie-brothers-listen-to-the-music/]]></guid>
-        <pubDate>Sun, 14 Apr 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

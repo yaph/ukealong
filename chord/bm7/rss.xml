@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Bm7</title>
     <link>https://ukealong.com</link>
     <description>Chord » Bm7</description>
-    <lastBuildDate>Fri, 27 Mar 2020 00:01:37 </lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 22:58:36 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -26,6 +26,13 @@
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/stars-fell-on-alabama-cynthia-lin-jazz-ukulele/]]></guid>
         <pubDate>Sun, 26 Jan 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Dennis Kamakahi - Wahine ‘Ilikea - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/dennis-kamakahi-wahine-ilikea/]]></link>
+        <description><![CDATA[Play along video for the song Wahine ‘Ilikea by Dennis Kamakahi from the channel Ukulele Underground. Chords used in the song: Am, Bm7, Cmaj7, D, G7, Gmaj7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/dennis-kamakahi-wahine-ilikea/]]></guid>
+        <pubDate>Tue, 31 Dec 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Brenda Lee - Rockin' Around The Christmas Tree - Key of G - Cynthia Lin Music]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Stuck With You by Huey Lewis & The News from the channel ukeplayalongs. Chords used in the song: A, Am, Am7, Bm7, C, D, Dm, Em, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/huey-lewis-the-news-stuck-with-you/]]></guid>
         <pubDate>Wed, 28 Aug 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Dave Matthews Band - Sweet - Baritone Ukulele - Key of D - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/dave-matthews-band-sweet-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song Sweet by Dave Matthews Band from the channel ukeplayalongs. Chords used in the song: A, Bm, Bm7, D, Dsus4, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/dave-matthews-band-sweet-baritone-ukulele/]]></guid>
-        <pubDate>Tue, 20 Aug 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

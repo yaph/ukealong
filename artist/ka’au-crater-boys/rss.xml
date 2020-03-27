@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Ka’Au Crater Boys</title>
     <link>https://ukealong.com</link>
     <description>Artist » Ka’Au Crater Boys</description>
-    <lastBuildDate>Fri, 27 Mar 2020 00:01:37 </lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 22:58:36 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,5 +19,12 @@
         <description><![CDATA[Play along video for the song Guava Jam by Ka’au Crater Boys from the channel ukeplayalongs. Chords used in the song: A♭, C, C7, D7, F, G7, Gsus4.]]></description>
         <guid><![CDATA[https://ukealong.com/song/kaau-crater-boys-guava-jam-baritone-ukulele/]]></guid>
         <pubDate>Wed, 07 Aug 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Ka’au Crater Boys - Tropical Hawaiian Day - Key of F - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/kaau-crater-boys-tropical-hawaiian-day/]]></link>
+        <description><![CDATA[Play along video for the song Tropical Hawaiian Day by Ka’au Crater Boys from the channel Ukulele Underground. Chords used in the song: B♭, C7, F.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/kaau-crater-boys-tropical-hawaiian-day/]]></guid>
+        <pubDate>Fri, 01 Sep 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>
