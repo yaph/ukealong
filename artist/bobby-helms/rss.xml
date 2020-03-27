@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Bobby Helms</title>
     <link>https://ukealong.com</link>
     <description>Artist » Bobby Helms</description>
-    <lastBuildDate>Fri, 27 Mar 2020 22:58:36 </lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 23:48:54 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,5 +12,12 @@
         <description><![CDATA[Play along video for the song Jingle Bell Rock by Bobby Helms from the channel ukeplayalongs. Chords used in the song: A7, C, C6, C7, Cdim7, Cmaj7, C♯dim7, D7, Dm, F, Fm, G7, Gaug.]]></description>
         <guid><![CDATA[https://ukealong.com/song/bobby-helms-jingle-bell-rock/]]></guid>
         <pubDate>Thu, 29 Jun 2017 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Bobby Helms - Jingle Bell Rock - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/bobby-helms-jingle-bell-rock-2/]]></link>
+        <description><![CDATA[Play along video for the song Jingle Bell Rock by Bobby Helms from the channel Ukulele Underground.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bobby-helms-jingle-bell-rock-2/]]></guid>
+        <pubDate>Mon, 30 Nov 2015 00:00:00 </pubDate>
     </item>
 </channel></rss>

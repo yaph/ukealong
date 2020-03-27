@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Bob Marley</title>
     <link>https://ukealong.com</link>
     <description>Artist » Bob Marley</description>
-    <lastBuildDate>Fri, 27 Mar 2020 22:58:36 </lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 23:48:54 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,6 +12,13 @@
         <description><![CDATA[Play along video for the song Three Little Birds by Bob Marley from the channel Cynthia Lin Music. Chords used in the song: C, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/bob-marley-three-little-birds/]]></guid>
         <pubDate>Sun, 05 Jan 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Bob Marley - Waiting In Vain - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/bob-marley-waiting-in-vain/]]></link>
+        <description><![CDATA[Play along video for the song Waiting In Vain by Bob Marley from the channel Ukulele Underground.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bob-marley-waiting-in-vain/]]></guid>
+        <pubDate>Sat, 01 Apr 2017 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Bob Marley - Three Little Birds - Key of C - Dr. A]]></title>

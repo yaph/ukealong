@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Bob Dylan</title>
     <link>https://ukealong.com</link>
     <description>Artist » Bob Dylan</description>
-    <lastBuildDate>Fri, 27 Mar 2020 22:58:36 </lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 23:48:54 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,5 +19,12 @@
         <description><![CDATA[Play along video for the song Knocking on Heaven’s Door by Bob Dylan from the channel DrJillReese. Chords used in the song: Am7, C, D, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/bob-dylan-knocking-on-heavens-door/]]></guid>
         <pubDate>Fri, 18 Nov 2016 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Bob Dylan - Knockin' on Heaven's Door - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/bob-dylan-knockin-on-heaven-s-door/]]></link>
+        <description><![CDATA[Play along video for the song Knockin' on Heaven's Door by Bob Dylan from the channel Ukulele Underground.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bob-dylan-knockin-on-heaven-s-door/]]></guid>
+        <pubDate>Thu, 30 Jun 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>

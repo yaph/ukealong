@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Amy Winehouse</title>
     <link>https://ukealong.com</link>
     <description>Artist » Amy Winehouse</description>
-    <lastBuildDate>Fri, 27 Mar 2020 22:58:35 </lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 23:48:54 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -26,5 +26,12 @@
         <description><![CDATA[Play along video for the song Back to Black by Amy Winehouse from the channel BruderMaister. Chords used in the song: A, A7, B♭, Dm, F, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/amy-winehouse-back-to-black/]]></guid>
         <pubDate>Sun, 01 Jul 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Amy Winehouse - Valerie - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/amy-winehouse-valerie-2/]]></link>
+        <description><![CDATA[Play along video for the song Valerie by Amy Winehouse from the channel Ukulele Underground.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/amy-winehouse-valerie-2/]]></guid>
+        <pubDate>Fri, 30 Sep 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>
