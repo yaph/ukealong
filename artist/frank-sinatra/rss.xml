@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Frank Sinatra</title>
     <link>https://ukealong.com</link>
     <description>Artist » Frank Sinatra</description>
-    <lastBuildDate>Fri, 27 Mar 2020 23:48:54 </lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 22:07:30 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,5 +12,12 @@
         <description><![CDATA[Play along video for the song Let It Snow by Frank Sinatra from the channel About Ukulele.]]></description>
         <guid><![CDATA[https://ukealong.com/song/frank-sinatra-let-it-snow/]]></guid>
         <pubDate>Mon, 16 Dec 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Frank Sinatra - Fly Me To The Moon - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/frank-sinatra-fly-me-to-the-moon/]]></link>
+        <description><![CDATA[Play along video for the song Fly Me To The Moon by Frank Sinatra from the channel Ukulele Underground.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/frank-sinatra-fly-me-to-the-moon/]]></guid>
+        <pubDate>Wed, 31 Dec 2014 00:00:00 </pubDate>
     </item>
 </channel></rss>

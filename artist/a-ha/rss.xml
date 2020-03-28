@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » A Ha</title>
     <link>https://ukealong.com</link>
     <description>Artist » A Ha</description>
-    <lastBuildDate>Fri, 27 Mar 2020 23:48:54 </lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 22:07:30 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,5 +19,12 @@
         <description><![CDATA[Play along video for the song Take on Me by A-ha from the channel Kevin Way. Chords used in the song: Am, Bm, C, D, Em, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/a-ha-take-on-me-2/]]></guid>
         <pubDate>Thu, 22 Mar 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[A-Ha - Take On Me - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/a-ha-take-on-me-3/]]></link>
+        <description><![CDATA[Play along video for the song Take On Me by A-Ha from the channel Ukulele Underground.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/a-ha-take-on-me-3/]]></guid>
+        <pubDate>Sat, 01 Oct 2011 00:00:00 </pubDate>
     </item>
 </channel></rss>

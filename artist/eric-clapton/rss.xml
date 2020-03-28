@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Eric Clapton</title>
     <link>https://ukealong.com</link>
     <description>Artist » Eric Clapton</description>
-    <lastBuildDate>Fri, 27 Mar 2020 23:48:54 </lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 22:07:30 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,6 +12,13 @@
         <description><![CDATA[Play along video for the song Tears in Heaven by Eric Clapton from the channel Daniel Simmons. Chords used in the song: A, B♭, C, C7, Cm, D, Dm, F, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/eric-clapton-tears-in-heaven/]]></guid>
         <pubDate>Sat, 29 Jun 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Eric Clapton - Layla - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/eric-clapton-layla/]]></link>
+        <description><![CDATA[Play along video for the song Layla by Eric Clapton from the channel Ukulele Underground.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/eric-clapton-layla/]]></guid>
+        <pubDate>Sun, 31 May 2015 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Eric Clapton - Tears In Heaven - Ukulele Underground]]></title>

@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » The Wanted</title>
     <link>https://ukealong.com</link>
     <description>Artist » The Wanted</description>
-    <lastBuildDate>Fri, 27 Mar 2020 23:48:54 </lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 22:07:30 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,5 +12,12 @@
         <description><![CDATA[Play along video for the song Could This Be Love by The Wanted from the channel Andy Ramos. Chords used in the song: B♭, C, Dm, F.]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-wanted-could-this-be-love/]]></guid>
         <pubDate>Thu, 07 Jun 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Wanted - Glad You Came - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-wanted-glad-you-came/]]></link>
+        <description><![CDATA[Play along video for the song Glad You Came by The Wanted from the channel Ukulele Underground.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-wanted-glad-you-came/]]></guid>
+        <pubDate>Fri, 01 Jun 2012 00:00:00 </pubDate>
     </item>
 </channel></rss>

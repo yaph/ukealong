@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Bob Marley</title>
     <link>https://ukealong.com</link>
     <description>Artist » Bob Marley</description>
-    <lastBuildDate>Fri, 27 Mar 2020 23:48:54 </lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 22:07:30 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -28,10 +28,24 @@
         <pubDate>Sat, 15 Oct 2016 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Bob Marley - No Woman, No Cry - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/bob-marley-no-woman-no-cry/]]></link>
+        <description><![CDATA[Play along video for the song No Woman, No Cry by Bob Marley from the channel Ukulele Underground.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bob-marley-no-woman-no-cry/]]></guid>
+        <pubDate>Tue, 30 Jun 2015 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Bob Marley - I Shot The Sheriff - Key of Gm - Ukulele Underground]]></title>
         <link><![CDATA[https://ukealong.com/song/bob-marley-i-shot-the-sheriff/]]></link>
         <description><![CDATA[Play along video for the song I Shot The Sheriff by Bob Marley from the channel Ukulele Underground. Chords used in the song: Cm7, Dm7, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/bob-marley-i-shot-the-sheriff/]]></guid>
         <pubDate>Sun, 01 Apr 2012 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Bob Marley - Guava Jelly - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/bob-marley-guava-jelly/]]></link>
+        <description><![CDATA[Play along video for the song Guava Jelly by Bob Marley from the channel Ukulele Underground.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bob-marley-guava-jelly/]]></guid>
+        <pubDate>Sat, 31 Oct 2009 00:00:00 </pubDate>
     </item>
 </channel></rss>

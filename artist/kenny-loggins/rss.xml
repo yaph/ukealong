@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Kenny Loggins</title>
     <link>https://ukealong.com</link>
     <description>Artist » Kenny Loggins</description>
-    <lastBuildDate>Fri, 27 Mar 2020 23:48:54 </lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 22:07:30 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,5 +12,12 @@
         <description><![CDATA[Play along video for the song Danger Zone by Kenny Loggins from the channel Daniel Simmons. Chords used in the song: C, Dm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/kenny-loggins-danger-zone/]]></guid>
         <pubDate>Sun, 31 Mar 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Kenny Loggins - Danny's Song - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/kenny-loggins-danny-s-song/]]></link>
+        <description><![CDATA[Play along video for the song Danny's Song by Kenny Loggins from the channel Ukulele Underground.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/kenny-loggins-danny-s-song/]]></guid>
+        <pubDate>Sat, 28 Feb 2015 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Shawn Mendes</title>
     <link>https://ukealong.com</link>
     <description>Artist » Shawn Mendes</description>
-    <lastBuildDate>Fri, 27 Mar 2020 23:48:54 </lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 22:07:30 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -68,5 +68,12 @@
         <description><![CDATA[Play along video for the song Stitches by Shawn Mendes from the channel Linse Sullivan. Chords used in the song: Am, C, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/shawn-mendes-stitches-2/]]></guid>
         <pubDate>Sat, 20 May 2017 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Shawn Mendes - Stitches - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/shawn-mendes-stitches-3/]]></link>
+        <description><![CDATA[Play along video for the song Stitches by Shawn Mendes from the channel Ukulele Underground.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/shawn-mendes-stitches-3/]]></guid>
+        <pubDate>Fri, 31 Jul 2015 00:00:00 </pubDate>
     </item>
 </channel></rss>

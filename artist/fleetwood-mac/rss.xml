@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Fleetwood Mac</title>
     <link>https://ukealong.com</link>
     <description>Artist » Fleetwood Mac</description>
-    <lastBuildDate>Fri, 27 Mar 2020 23:48:54 </lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 22:07:31 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,5 +12,12 @@
         <description><![CDATA[Play along video for the song Dreams by Fleetwood Mac from the channel Ukulele Cheats. Chords used in the song: Am, F, Fmaj7, G, G6.]]></description>
         <guid><![CDATA[https://ukealong.com/song/fleetwood-mac-dreams/]]></guid>
         <pubDate>Mon, 10 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Fleetwood Mac - Landslide - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/fleetwood-mac-landslide/]]></link>
+        <description><![CDATA[Play along video for the song Landslide by Fleetwood Mac from the channel Ukulele Underground.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/fleetwood-mac-landslide/]]></guid>
+        <pubDate>Fri, 01 Mar 2013 00:00:00 </pubDate>
     </item>
 </channel></rss>

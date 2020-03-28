@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Santana</title>
     <link>https://ukealong.com</link>
     <description>Artist » Santana</description>
-    <lastBuildDate>Fri, 27 Mar 2020 23:48:54 </lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 22:07:30 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -33,5 +33,12 @@
         <description><![CDATA[Play along video for the song Oye Como Va by Santana from the channel DrJillReese. Chords used in the song: Am, D.]]></description>
         <guid><![CDATA[https://ukealong.com/song/santana-oye-como-va/]]></guid>
         <pubDate>Fri, 29 Jul 2016 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Santana - Oye Como Va - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/santana-oye-como-va-2/]]></link>
+        <description><![CDATA[Play along video for the song Oye Como Va by Santana from the channel Ukulele Underground.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/santana-oye-como-va-2/]]></guid>
+        <pubDate>Fri, 31 Oct 2014 00:00:00 </pubDate>
     </item>
 </channel></rss>

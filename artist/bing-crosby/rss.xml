@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Bing Crosby</title>
     <link>https://ukealong.com</link>
     <description>Artist » Bing Crosby</description>
-    <lastBuildDate>Fri, 27 Mar 2020 23:48:54 </lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 22:07:30 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,5 +12,12 @@
         <description><![CDATA[Play along video for the song Mele Kalikimaka by Bing Crosby & The Andrews Sisters from the channel DrJillReese. Chords used in the song: A7, C, D7, Dm, F, G, G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/bing-crosby-the-andrews-sisters-mele-kalikimaka/]]></guid>
         <pubDate>Sat, 09 Jan 2016 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Bing Crosby - White Christmas - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/bing-crosby-white-christmas/]]></link>
+        <description><![CDATA[Play along video for the song White Christmas by Bing Crosby from the channel Ukulele Underground.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bing-crosby-white-christmas/]]></guid>
+        <pubDate>Sat, 01 Dec 2012 00:00:00 </pubDate>
     </item>
 </channel></rss>

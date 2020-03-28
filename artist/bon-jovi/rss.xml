@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Bon Jovi</title>
     <link>https://ukealong.com</link>
     <description>Artist » Bon Jovi</description>
-    <lastBuildDate>Fri, 27 Mar 2020 23:48:54 </lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 22:07:30 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,5 +19,12 @@
         <description><![CDATA[Play along video for the song It's My Life by Bon Jovi from the channel ukeplayalongs. Chords used in the song: A7, B♭, C, Dm, F, G, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/bon-jovi-it-s-my-life/]]></guid>
         <pubDate>Sat, 20 Jan 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Bon Jovi - Wanted Dead or Alive - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/bon-jovi-wanted-dead-or-alive/]]></link>
+        <description><![CDATA[Play along video for the song Wanted Dead or Alive by Bon Jovi from the channel Ukulele Underground.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bon-jovi-wanted-dead-or-alive/]]></guid>
+        <pubDate>Tue, 02 Apr 2013 00:00:00 </pubDate>
     </item>
 </channel></rss>

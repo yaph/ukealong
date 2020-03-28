@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Nat King Cole</title>
     <link>https://ukealong.com</link>
     <description>Artist » Nat King Cole</description>
-    <lastBuildDate>Fri, 27 Mar 2020 23:48:54 </lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 22:07:30 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,5 +12,12 @@
         <description><![CDATA[Play along video for the song L-O-V-E by Nat King Cole from the channel Ukulele Underground.]]></description>
         <guid><![CDATA[https://ukealong.com/song/nat-king-cole-l-o-v-e/]]></guid>
         <pubDate>Sun, 31 Jan 2016 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Nat King Cole - The Christmas Song - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/nat-king-cole-the-christmas-song/]]></link>
+        <description><![CDATA[Play along video for the song The Christmas Song by Nat King Cole from the channel Ukulele Underground.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/nat-king-cole-the-christmas-song/]]></guid>
+        <pubDate>Sun, 30 Nov 2014 00:00:00 </pubDate>
     </item>
 </channel></rss>

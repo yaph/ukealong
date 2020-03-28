@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » American Authors</title>
     <link>https://ukealong.com</link>
     <description>Artist » American Authors</description>
-    <lastBuildDate>Fri, 27 Mar 2020 23:48:54 </lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 22:07:30 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -26,5 +26,12 @@
         <description><![CDATA[Play along video for the song Luck by American Authors from the channel Fredonia Ukulele Club. Chords used in the song: Am, C, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/american-authors-luck/]]></guid>
         <pubDate>Sun, 01 Oct 2017 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[American Authors - Best Day of My Life - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/american-authors-best-day-of-my-life-3/]]></link>
+        <description><![CDATA[Play along video for the song Best Day of My Life by American Authors from the channel Ukulele Underground.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/american-authors-best-day-of-my-life-3/]]></guid>
+        <pubDate>Mon, 30 Jun 2014 00:00:00 </pubDate>
     </item>
 </channel></rss>
