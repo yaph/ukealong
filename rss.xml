@@ -3,9 +3,16 @@
 <channel><title>Uke Along RSS Feed</title>
     <link>https://ukealong.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Mon, 30 Mar 2020 16:50:39 </lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2020 00:11:32 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Recommended Online Resources for Ukulele Fans & Players]]></title>
+        <link><![CDATA[https://ukealong.com/resources/]]></link>
+        <description><![CDATA[This page lists my personal recommendations for ukulele fans & players grouped into several sections in alphabetical order.]]></description>
+        <guid><![CDATA[https://ukealong.com/resources/]]></guid>
+        <pubDate>Tue, 31 Mar 2020 00:10:46 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Judy Garland - Over The Rainbow - Baritone Ukulele - Key of G - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/judy-garland-over-the-rainbow-baritone-ukulele/]]></link>
@@ -67,13 +74,6 @@
         <link><![CDATA[https://ukealong.com/song/timmy-trumpet-savage-freaks/]]></link>
         <description><![CDATA[Play along video for the song Freaks by Timmy Trumpet & Savage from the channel About Ukulele.]]></description>
         <guid><![CDATA[https://ukealong.com/song/timmy-trumpet-savage-freaks/]]></guid>
-        <pubDate>Tue, 10 Mar 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Israel Kamakawiwo'ole - What A Wonderful World - Kevin Way]]></title>
-        <link><![CDATA[https://ukealong.com/song/israel-kamakawiwo-ole-what-a-wonderful-world/]]></link>
-        <description><![CDATA[Play along video for the song What A Wonderful World by Israel Kamakawiwo'ole from the channel Kevin Way. Chords used in the song: Am, C, E7, Em, F, F9, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/israel-kamakawiwo-ole-what-a-wonderful-world/]]></guid>
         <pubDate>Tue, 10 Mar 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>
