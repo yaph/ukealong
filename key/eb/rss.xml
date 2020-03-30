@@ -3,7 +3,7 @@
 <channel><title>Uke Along Key » Eb</title>
     <link>https://ukealong.com</link>
     <description>Key » Eb</description>
-    <lastBuildDate>Sat, 28 Mar 2020 22:07:30 </lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2020 16:50:38 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -33,5 +33,12 @@
         <description><![CDATA[Play along video for the song Dancing In the Moonlight by King Harvest from the channel Ukulele Underground. Chords used in the song: B♭, Cm7, E♭, Fm, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/king-harvest-dancing-in-the-moonlight/]]></guid>
         <pubDate>Thu, 01 Mar 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Amy Winehouse - Valerie - Key of Eb - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/amy-winehouse-valerie-2/]]></link>
+        <description><![CDATA[Play along video for the song Valerie by Amy Winehouse from the channel Ukulele Underground. Chords used in the song: A♭, B♭, E♭, Fm, Gm.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/amy-winehouse-valerie-2/]]></guid>
+        <pubDate>Fri, 30 Sep 2016 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » E♭M</title>
     <link>https://ukealong.com</link>
     <description>Chord » E♭M</description>
-    <lastBuildDate>Sat, 28 Mar 2020 22:07:31 </lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2020 16:50:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -26,5 +26,12 @@
         <description><![CDATA[Play along video for the song Mr Blue Sky by Zoë Bestel from the channel ukeplayalongs. Chords used in the song: Am, A♭, B♭, C, Cm, D, E♭, E♭m, F, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/zoe-bestel-mr-blue-sky/]]></guid>
         <pubDate>Thu, 05 Apr 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Aldrine Guerrero - Ice Cream - Key of Bb - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/aldrine-guerrero-ice-cream/]]></link>
+        <description><![CDATA[Play along video for the song Ice Cream by Aldrine Guerrero from the channel Ukulele Underground. Chords used in the song: Bmin7, B♭, Cm7, E♭, E♭m, F, Gm.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/aldrine-guerrero-ice-cream/]]></guid>
+        <pubDate>Sat, 03 Mar 2012 00:00:00 </pubDate>
     </item>
 </channel></rss>
