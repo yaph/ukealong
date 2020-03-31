@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Raggae</title>
     <link>https://ukealong.com</link>
     <description>Genre » Raggae</description>
-    <lastBuildDate>Tue, 31 Mar 2020 00:11:31 </lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2020 16:08:37 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -47,5 +47,12 @@
         <description><![CDATA[Play along video for the song I Shot The Sheriff by Bob Marley from the channel Ukulele Underground. Chords used in the song: Cm7, Dm7, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/bob-marley-i-shot-the-sheriff/]]></guid>
         <pubDate>Sun, 01 Apr 2012 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Bob Marley - Guava Jelly - Key of A - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/bob-marley-guava-jelly/]]></link>
+        <description><![CDATA[Play along video for the song Guava Jelly by Bob Marley from the channel Ukulele Underground. Chords used in the song: C, D, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bob-marley-guava-jelly/]]></guid>
+        <pubDate>Sat, 31 Oct 2009 00:00:00 </pubDate>
     </item>
 </channel></rss>
