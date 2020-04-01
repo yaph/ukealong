@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Aldrine Guerrero</title>
     <link>https://ukealong.com</link>
     <description>Artist » Aldrine Guerrero</description>
-    <lastBuildDate>Tue, 31 Mar 2020 16:08:38 </lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 17:04:48 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,5 +19,12 @@
         <description><![CDATA[Play along video for the song Ice Cream by Aldrine Guerrero from the channel Ukulele Underground. Chords used in the song: Bmin7, B♭, Cm7, E♭, E♭m, F, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/aldrine-guerrero-ice-cream/]]></guid>
         <pubDate>Sat, 03 Mar 2012 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Aldrine Guerrero - Space Suits - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/aldrine-guerrero-space-suits/]]></link>
+        <description><![CDATA[Play along video for the song Space Suits by Aldrine Guerrero from the channel Ukulele Underground.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/aldrine-guerrero-space-suits/]]></guid>
+        <pubDate>Mon, 01 Nov 2010 00:00:00 </pubDate>
     </item>
 </channel></rss>
