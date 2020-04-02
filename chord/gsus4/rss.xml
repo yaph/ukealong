@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » Gsus4</title>
     <link>https://ukealong.com</link>
     <description>Chord » Gsus4</description>
-    <lastBuildDate>Wed, 01 Apr 2020 17:04:47 </lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2020 16:33:46 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Billie Eilish - Bad Guy - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/billie-eilish-bad-guy/]]></link>
+        <description><![CDATA[Play along video for the song Bad Guy by Billie Eilish from the channel Ukeledu Music. Chords used in the song: Cm, D7, Gm, Gsus4.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/billie-eilish-bad-guy/]]></guid>
+        <pubDate>Thu, 26 Mar 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Ka’au Crater Boys - Guava Jam - Key of C - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/kaau-crater-boys-guava-jam/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Thriller by Michael Jackson from the channel ukeplayalongs. Chords used in the song: A7, Am7, B♭, B♭7, Dm, F, Fdim7, G, G7, Gm7, Gsus4.]]></description>
         <guid><![CDATA[https://ukealong.com/song/michael-jackson-thriller/]]></guid>
         <pubDate>Sat, 27 Oct 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Vance Joy - Riptide - Key of Am - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/vance-joy-riptide-2/]]></link>
-        <description><![CDATA[Play along video for the song Riptide by Vance Joy from the channel ukeplayalongs. Chords used in the song: Am, C, F, F9, G, Gsus4.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/vance-joy-riptide-2/]]></guid>
-        <pubDate>Wed, 20 Jun 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

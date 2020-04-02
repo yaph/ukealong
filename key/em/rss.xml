@@ -3,9 +3,16 @@
 <channel><title>Uke Along Key » Em</title>
     <link>https://ukealong.com</link>
     <description>Key » Em</description>
-    <lastBuildDate>Wed, 01 Apr 2020 17:04:47 </lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2020 16:33:46 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[John Legend - All Of Me - Key of Em - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/john-legend-all-of-me/]]></link>
+        <description><![CDATA[Play along video for the song All Of Me by John Legend from the channel Ukeledu Music. Chords used in the song: Am, C, D, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/john-legend-all-of-me/]]></guid>
+        <pubDate>Fri, 27 Mar 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Julie Andrews - My Favorite Things - Baritone Ukulele - Key of Dm, EM - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/julie-andrews-my-favorite-things-baritone-ukulele/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Speechless by Naomi Scott from the channel ukeplayalongs. Chords used in the song: Am, B, Bm7, Bsus4, C, Cdim7, D, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/naomi-scott-speechless-baritone-ukulele/]]></guid>
         <pubDate>Sun, 02 Jun 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Oasis - Wonderwall - Key of Em - Ukeledu Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/oasis-wonderwall/]]></link>
-        <description><![CDATA[Play along video for the song Wonderwall by Oasis from the channel Ukeledu Music. Chords used in the song: A7, Cadd9, D, Dsus4, Em7, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/oasis-wonderwall/]]></guid>
-        <pubDate>Sun, 05 May 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

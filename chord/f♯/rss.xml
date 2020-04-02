@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » F♯</title>
     <link>https://ukealong.com</link>
     <description>Chord » F♯</description>
-    <lastBuildDate>Wed, 01 Apr 2020 17:04:47 </lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2020 16:33:46 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[The Beatles - Fool On The Hill - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-fool-on-the-hill/]]></link>
+        <description><![CDATA[Play along video for the song Fool On The Hill by The Beatles from the channel Ukulele Cheats. Chords used in the song: A♯, A♯6, A♯m, A♯m7, Cm, Cm7, F7, F♯, Gm, G♯7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-fool-on-the-hill/]]></guid>
+        <pubDate>Thu, 26 Mar 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Oasis - She's Electric - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/oasis-she-s-electric/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Drift Away by Dobie Gray from the channel Ukulele Underground. Chords used in the song: B, C♯m7, E, F♯.]]></description>
         <guid><![CDATA[https://ukealong.com/song/dobie-gray-drift-away/]]></guid>
         <pubDate>Sun, 01 Jul 2012 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Eric Clapton - Tears In Heaven - Ukulele Underground]]></title>
-        <link><![CDATA[https://ukealong.com/song/eric-clapton-tears-in-heaven-2/]]></link>
-        <description><![CDATA[Play along video for the song Tears In Heaven by Eric Clapton from the channel Ukulele Underground. Chords used in the song: A, Am, Bm7, C, C♯7, D, E, E7, Em, F♯, F♯m, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/eric-clapton-tears-in-heaven-2/]]></guid>
-        <pubDate>Fri, 31 Dec 2010 00:00:00 </pubDate>
     </item>
 </channel></rss>

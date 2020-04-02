@@ -3,9 +3,16 @@
 <channel><title>Uke Along Artist » The Beatles</title>
     <link>https://ukealong.com</link>
     <description>Artist » The Beatles</description>
-    <lastBuildDate>Wed, 01 Apr 2020 17:04:47 </lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2020 16:33:46 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[The Beatles - Fool On The Hill - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-fool-on-the-hill/]]></link>
+        <description><![CDATA[Play along video for the song Fool On The Hill by The Beatles from the channel Ukulele Cheats. Chords used in the song: A♯, A♯6, A♯m, A♯m7, Cm, Cm7, F7, F♯, Gm, G♯7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-fool-on-the-hill/]]></guid>
+        <pubDate>Thu, 26 Mar 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[The Beatles - Something - Ukulele Underground]]></title>
         <link><![CDATA[https://ukealong.com/song/the-beatles-something/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Let It Be by The Beatles from the channel Cynthia Lin Music. Chords used in the song: Am, B♭, C, Dm, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-beatles-let-it-be/]]></guid>
         <pubDate>Wed, 29 Aug 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Beatles - Lucy in the Sky with Diamonds - Key of A - Ukulele Underground]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-beatles-lucy-in-the-sky-with-diamonds/]]></link>
-        <description><![CDATA[Play along video for the song Lucy in the Sky with Diamonds by The Beatles from the channel Ukulele Underground. Chords used in the song: A, A7, B♭, C, D, Dm, F, F♯m, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-beatles-lucy-in-the-sky-with-diamonds/]]></guid>
-        <pubDate>Tue, 01 Aug 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>
