@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » D</title>
     <link>https://ukealong.com</link>
     <description>Chord » D</description>
-    <lastBuildDate>Thu, 02 Apr 2020 21:46:18 </lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 15:38:33 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Jackie Wilson - Higher And Higher - Key of D - Ukulaliens - Ukulele Club]]></title>
+        <link><![CDATA[https://ukealong.com/song/jackie-wilson-higher-and-higher/]]></link>
+        <description><![CDATA[Play along video for the song Higher And Higher by Jackie Wilson from the channel Ukulaliens - Ukulele Club. Chords used in the song: D, G, G6.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/jackie-wilson-higher-and-higher/]]></guid>
+        <pubDate>Tue, 31 Mar 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Kenny Rogers - The Gambler - Key of D - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/kenny-rogers-the-gambler/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Put Your Head On My Shoulder by Paul Anka from the channel Ukulele Cheats. Chords used in the song: A7, Am, Bm, C, D, D7, D♯dim, Em, Em7, F♯7, G, G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/paul-anka-put-your-head-on-my-shoulder/]]></guid>
         <pubDate>Mon, 24 Feb 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA["Weird Al" Yankovic - Yoda - Key of G - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda/]]></link>
-        <description><![CDATA[Play along video for the song Yoda by "Weird Al" Yankovic from the channel ukeplayalongs. Chords used in the song: A, A7, Bm, B♭, C, D, E7, F♯7, G, Gm.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda/]]></guid>
-        <pubDate>Tue, 18 Feb 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

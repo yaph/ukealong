@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » E7</title>
     <link>https://ukealong.com</link>
     <description>Chord » E7</description>
-    <lastBuildDate>Thu, 02 Apr 2020 21:46:18 </lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 15:38:33 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Gnarls Barkley - Crazy - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/gnarls-barkley-crazy/]]></link>
+        <description><![CDATA[Play along video for the song Crazy by Gnarls Barkley from the channel Ukeledu Music. Chords used in the song: Am, Cmaj7, E7, F.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/gnarls-barkley-crazy/]]></guid>
+        <pubDate>Wed, 01 Apr 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Judy Garland - Over The Rainbow - Baritone Ukulele - Key of G - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/judy-garland-over-the-rainbow-baritone-ukulele/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song I Want a Ukulele for Christmas by Steven Curtis Chapman from the channel ukeplayalongs. Chords used in the song: Am7, C, Cm, Cm6, C♯dim, D7, D7sus4, Dmaj7, E7, Em, Em6, G, G7, Gaug, Gmaj7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/steven-curtis-chapman-i-want-a-ukulele-for-christmas/]]></guid>
         <pubDate>Sat, 21 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Rockin Roary - All I Want For Christmas - Key of C - Ukulaliens - Ukulele Club]]></title>
-        <link><![CDATA[https://ukealong.com/song/rockin-roary-all-i-want-for-christmas/]]></link>
-        <description><![CDATA[Play along video for the song All I Want For Christmas by Rockin Roary from the channel Ukulaliens - Ukulele Club. Chords used in the song: Am, C, D7, E7, F, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/rockin-roary-all-i-want-for-christmas/]]></guid>
-        <pubDate>Thu, 05 Dec 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

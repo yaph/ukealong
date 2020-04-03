@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » Fm</title>
     <link>https://ukealong.com</link>
     <description>Chord » Fm</description>
-    <lastBuildDate>Thu, 02 Apr 2020 21:46:18 </lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 15:38:33 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[The Beatles - Across The Universe - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-across-the-universe/]]></link>
+        <description><![CDATA[Play along video for the song Across The Universe by The Beatles from the channel Ukulele Cheats. Chords used in the song: A, C, Dm, Em, F, Fm, G, G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-across-the-universe/]]></guid>
+        <pubDate>Wed, 01 Apr 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Andy Williams - Can't Take My Eyes Off You - Ukulaliens - Ukulele Club]]></title>
         <link><![CDATA[https://ukealong.com/song/andy-williams-can-t-take-my-eyes-off-you/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song I'm Still Standing by Taron Egerton from the channel ukeplayalongs. Chords used in the song: Am, A♭, B♭, C, Cm, Fm, G, G7, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/taron-egerton-i-m-still-standing/]]></guid>
         <pubDate>Sun, 18 Aug 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Scarlett Johansson & Joaquin Phoenix - The Moon Song - Key of C - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/scarlett-johansson-joaquin-phoenix-the-moon-song/]]></link>
-        <description><![CDATA[Play along video for the song The Moon Song by Scarlett Johansson & Joaquin Phoenix from the channel ukeplayalongs. Chords used in the song: C, Dm, F, Fm, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/scarlett-johansson-joaquin-phoenix-the-moon-song/]]></guid>
-        <pubDate>Sun, 11 Aug 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

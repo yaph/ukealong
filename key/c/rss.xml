@@ -3,9 +3,16 @@
 <channel><title>Uke Along Key » C</title>
     <link>https://ukealong.com</link>
     <description>Key » C</description>
-    <lastBuildDate>Thu, 02 Apr 2020 21:46:18 </lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 15:38:33 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Jason Mraz - I'm Yours - Key of C - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/jason-mraz-i-m-yours/]]></link>
+        <description><![CDATA[Play along video for the song I'm Yours by Jason Mraz from the channel Ukeledu Music. Chords used in the song: Am, C, F, F♯dim, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/jason-mraz-i-m-yours/]]></guid>
+        <pubDate>Mon, 30 Mar 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Why Don't We - Chills - Key of C - Andy Ramos]]></title>
         <link><![CDATA[https://ukealong.com/song/why-don-t-we-chills/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Three Little Birds by Bob Marley from the channel Cynthia Lin Music. Chords used in the song: C, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/bob-marley-three-little-birds/]]></guid>
         <pubDate>Sun, 05 Jan 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Francesca Battistelli - Heaven Everywhere - Key of C - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/francesca-battistelli-heaven-everywhere/]]></link>
-        <description><![CDATA[Play along video for the song Heaven Everywhere by Francesca Battistelli from the channel ukeplayalongs. Chords used in the song: Am, Am7, C, C6, Cmaj7, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/francesca-battistelli-heaven-everywhere/]]></guid>
-        <pubDate>Wed, 25 Dec 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

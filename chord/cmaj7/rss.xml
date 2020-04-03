@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » Cmaj7</title>
     <link>https://ukealong.com</link>
     <description>Chord » Cmaj7</description>
-    <lastBuildDate>Thu, 02 Apr 2020 21:46:18 </lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 15:38:33 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Gnarls Barkley - Crazy - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/gnarls-barkley-crazy/]]></link>
+        <description><![CDATA[Play along video for the song Crazy by Gnarls Barkley from the channel Ukeledu Music. Chords used in the song: Am, Cmaj7, E7, F.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/gnarls-barkley-crazy/]]></guid>
+        <pubDate>Wed, 01 Apr 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Andy Williams - Can't Take My Eyes Off You - Ukulaliens - Ukulele Club]]></title>
         <link><![CDATA[https://ukealong.com/song/andy-williams-can-t-take-my-eyes-off-you/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Circles by Post Malone from the channel Daniel Simmons. Chords used in the song: C, Cmaj7, F, Fm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/post-malone-circles-baritone-ukulele/]]></guid>
         <pubDate>Mon, 23 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Post Malone - Circles - Daniel Simmons]]></title>
-        <link><![CDATA[https://ukealong.com/song/post-malone-circles/]]></link>
-        <description><![CDATA[Play along video for the song Circles by Post Malone from the channel Daniel Simmons. Chords used in the song: C, Cmaj7, F, Fm.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/post-malone-circles/]]></guid>
-        <pubDate>Sat, 21 Dec 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,7 +3,7 @@
 <channel><title>Uke Along Key</title>
     <link>https://ukealong.com</link>
     <description>Key</description>
-    <lastBuildDate>Thu, 02 Apr 2020 21:46:18 </lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 15:38:33 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,27 @@
         <description><![CDATA[Play along video for the song When She Loved Me by Sarah McLachlan from the channel ukeplayalongs. Chords used in the song: A, A7, Am, A♭m, B♭, B♭7, B♭m, B♭m6, C, C7, Cm, Csus4, Dm, Em7♭5, E♭, E♭m, F7, Fm6, G7, Gdim7, Gm7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/sarah-mclachlan-when-she-loved-me/]]></guid>
         <pubDate>Tue, 31 Mar 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Jackie Wilson - Higher And Higher - Key of D - Ukulaliens - Ukulele Club]]></title>
+        <link><![CDATA[https://ukealong.com/song/jackie-wilson-higher-and-higher/]]></link>
+        <description><![CDATA[Play along video for the song Higher And Higher by Jackie Wilson from the channel Ukulaliens - Ukulele Club. Chords used in the song: D, G, G6.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/jackie-wilson-higher-and-higher/]]></guid>
+        <pubDate>Tue, 31 Mar 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Jason Mraz - I'm Yours - Key of C - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/jason-mraz-i-m-yours/]]></link>
+        <description><![CDATA[Play along video for the song I'm Yours by Jason Mraz from the channel Ukeledu Music. Chords used in the song: Am, C, F, F♯dim, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/jason-mraz-i-m-yours/]]></guid>
+        <pubDate>Mon, 30 Mar 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Ashe - Moral Of The Story - Key of A# - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/ashe-moral-of-the-story/]]></link>
+        <description><![CDATA[Play along video for the song Moral Of The Story by Ashe from the channel Ukulele Cheats. Chords used in the song: A♯, Cm, Cm7, D7, D♯maj7, F6, F7, Gm, Gm6, Gm7, G♯.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/ashe-moral-of-the-story/]]></guid>
+        <pubDate>Sun, 29 Mar 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Kenny Rogers - The Gambler - Key of D - ukeplayalongs]]></title>
@@ -54,26 +75,5 @@
         <description><![CDATA[Play along video for the song Over The Rainbow by Judy Garland from the channel ukeplayalongs. Chords used in the song: A7, Am7, Bm, C, Cm, D7, E7, Em7, G, G7, Gdim7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/judy-garland-over-the-rainbow/]]></guid>
         <pubDate>Tue, 24 Mar 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Why Don't We - Chills - Key of C - Andy Ramos]]></title>
-        <link><![CDATA[https://ukealong.com/song/why-don-t-we-chills/]]></link>
-        <description><![CDATA[Play along video for the song Chills by Why Don't We from the channel Andy Ramos. Chords used in the song: Am, C, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/why-don-t-we-chills/]]></guid>
-        <pubDate>Mon, 02 Mar 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Dua Lipa - Don't Start Now - Key of C - Andy Ramos]]></title>
-        <link><![CDATA[https://ukealong.com/song/dua-lipa-don-t-start-now/]]></link>
-        <description><![CDATA[Play along video for the song Don't Start Now by Dua Lipa from the channel Andy Ramos. Chords used in the song: Am, C, Dm, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/dua-lipa-don-t-start-now/]]></guid>
-        <pubDate>Sun, 01 Mar 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Free - All Right Now - Key of C - Ukulaliens - Ukulele Club]]></title>
-        <link><![CDATA[https://ukealong.com/song/free-all-right-now/]]></link>
-        <description><![CDATA[Play along video for the song All Right Now by Free from the channel Ukulaliens - Ukulele Club. Chords used in the song: C, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/free-all-right-now/]]></guid>
-        <pubDate>Fri, 28 Feb 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

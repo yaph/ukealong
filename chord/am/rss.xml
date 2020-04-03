@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » Am</title>
     <link>https://ukealong.com</link>
     <description>Chord » Am</description>
-    <lastBuildDate>Thu, 02 Apr 2020 21:46:18 </lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 15:38:33 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Gnarls Barkley - Crazy - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/gnarls-barkley-crazy/]]></link>
+        <description><![CDATA[Play along video for the song Crazy by Gnarls Barkley from the channel Ukeledu Music. Chords used in the song: Am, Cmaj7, E7, F.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/gnarls-barkley-crazy/]]></guid>
+        <pubDate>Wed, 01 Apr 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Sarah McLachlan - When She Loved Me - Baritone Ukulele - Key of F - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/sarah-mclachlan-when-she-loved-me-baritone-ukulele/]]></link>
@@ -19,6 +26,13 @@
         <description><![CDATA[Play along video for the song When She Loved Me by Sarah McLachlan from the channel ukeplayalongs. Chords used in the song: A, A7, Am, A♭m, B♭, B♭7, B♭m, B♭m6, C, C7, Cm, Csus4, Dm, Em7♭5, E♭, E♭m, F7, Fm6, G7, Gdim7, Gm7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/sarah-mclachlan-when-she-loved-me/]]></guid>
         <pubDate>Tue, 31 Mar 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Jason Mraz - I'm Yours - Key of C - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/jason-mraz-i-m-yours/]]></link>
+        <description><![CDATA[Play along video for the song I'm Yours by Jason Mraz from the channel Ukeledu Music. Chords used in the song: Am, C, F, F♯dim, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/jason-mraz-i-m-yours/]]></guid>
+        <pubDate>Mon, 30 Mar 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[John Legend - All Of Me - Key of Em - Ukeledu Music]]></title>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song Don't Start Now by Dua Lipa from the channel Andy Ramos. Chords used in the song: Am, C, Dm, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/dua-lipa-don-t-start-now/]]></guid>
         <pubDate>Sun, 01 Mar 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Beatles - Something - Ukulele Underground]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-beatles-something/]]></link>
-        <description><![CDATA[Play along video for the song Something by The Beatles from the channel Ukulele Underground. Chords used in the song: A, A7, Am, Am7, Amaj7, Ammaj7, Bdim7, C, C7, Cmaj7, D, D7, E♭, F, F♯m, G, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-beatles-something/]]></guid>
-        <pubDate>Sat, 29 Feb 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Michael Bublé - I Believe in You - Key of A, G - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></link>
-        <description><![CDATA[Play along video for the song I Believe in You by Michael Bublé from the channel ukeplayalongs. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></guid>
-        <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

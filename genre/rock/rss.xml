@@ -3,9 +3,16 @@
 <channel><title>Uke Along Genre » Rock</title>
     <link>https://ukealong.com</link>
     <description>Genre » Rock</description>
-    <lastBuildDate>Thu, 02 Apr 2020 21:46:18 </lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 15:38:33 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[The Beatles - Across The Universe - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-across-the-universe/]]></link>
+        <description><![CDATA[Play along video for the song Across The Universe by The Beatles from the channel Ukulele Cheats. Chords used in the song: A, C, Dm, Em, F, Fm, G, G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-across-the-universe/]]></guid>
+        <pubDate>Wed, 01 Apr 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[The Beatles - Fool On The Hill - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/the-beatles-fool-on-the-hill/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Killer Queen by Queen from the channel About Ukulele.]]></description>
         <guid><![CDATA[https://ukealong.com/song/queen-killer-queen/]]></guid>
         <pubDate>Thu, 07 Nov 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Radiohead - Creep - Ukulele Cheats]]></title>
-        <link><![CDATA[https://ukealong.com/song/radiohead-creep-2/]]></link>
-        <description><![CDATA[Play along video for the song Creep by Radiohead from the channel Ukulele Cheats. Chords used in the song: B, C, Cm, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/radiohead-creep-2/]]></guid>
-        <pubDate>Sun, 03 Nov 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,9 +3,23 @@
 <channel><title>Uke Along Genre » Soul</title>
     <link>https://ukealong.com</link>
     <description>Genre » Soul</description>
-    <lastBuildDate>Thu, 02 Apr 2020 21:46:18 </lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 15:38:33 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Gnarls Barkley - Crazy - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/gnarls-barkley-crazy/]]></link>
+        <description><![CDATA[Play along video for the song Crazy by Gnarls Barkley from the channel Ukeledu Music. Chords used in the song: Am, Cmaj7, E7, F.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/gnarls-barkley-crazy/]]></guid>
+        <pubDate>Wed, 01 Apr 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Jackie Wilson - Higher And Higher - Key of D - Ukulaliens - Ukulele Club]]></title>
+        <link><![CDATA[https://ukealong.com/song/jackie-wilson-higher-and-higher/]]></link>
+        <description><![CDATA[Play along video for the song Higher And Higher by Jackie Wilson from the channel Ukulaliens - Ukulele Club. Chords used in the song: D, G, G6.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/jackie-wilson-higher-and-higher/]]></guid>
+        <pubDate>Tue, 31 Mar 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Percy Sledge - When a Man Loves a Woman - Baritone Ukulele - Key of C - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/percy-sledge-when-a-man-loves-a-woman-baritone-ukulele/]]></link>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song Rehab by Amy Winehouse from the channel Ukeledu Music. Chords used in the song: Am, A♭, C, Em, F, G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/amy-winehouse-rehab/]]></guid>
         <pubDate>Thu, 27 Dec 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Otis Redding - Sittin' On The Dock Of The Bay - Key of G - Ukeledu Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/otis-redding-sittin-on-the-dock-of-the-bay-2/]]></link>
-        <description><![CDATA[Play along video for the song Sittin' On The Dock Of The Bay by Otis Redding from the channel Ukeledu Music. Chords used in the song: A, B7, C, D, E, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/otis-redding-sittin-on-the-dock-of-the-bay-2/]]></guid>
-        <pubDate>Thu, 05 Apr 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Sam Cooke - Wonderful World - Key of C - Ukulaliens - Ukulele Club]]></title>
-        <link><![CDATA[https://ukealong.com/song/sam-cooke-wonderful-world-2/]]></link>
-        <description><![CDATA[Play along video for the song Wonderful World by Sam Cooke from the channel Ukulaliens - Ukulele Club. Chords used in the song: Am, C, D7, F, G, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/sam-cooke-wonderful-world-2/]]></guid>
-        <pubDate>Wed, 29 Nov 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>
