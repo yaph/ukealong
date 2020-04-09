@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » C♯M7</title>
     <link>https://ukealong.com</link>
     <description>Chord » C♯M7</description>
-    <lastBuildDate>Fri, 03 Apr 2020 15:38:33 </lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2020 22:55:37 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -56,6 +56,13 @@
         <pubDate>Sun, 18 Mar 2018 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Eric Clapton - Layla - Key of F - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/eric-clapton-layla/]]></link>
+        <description><![CDATA[Play along video for the song Layla by Eric Clapton from the channel Ukulele Underground. Chords used in the song: A, Am, B, B♭, C, C♯m7, D, Dm, E, F♯m, G♯.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/eric-clapton-layla/]]></guid>
+        <pubDate>Sun, 31 May 2015 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Dobie Gray - Drift Away - Key of B - Ukulele Underground]]></title>
         <link><![CDATA[https://ukealong.com/song/dobie-gray-drift-away/]]></link>
         <description><![CDATA[Play along video for the song Drift Away by Dobie Gray from the channel Ukulele Underground. Chords used in the song: B, C♯m7, E, F♯.]]></description>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Every Teardrop is a Waterfall by Coldplay from the channel Ukulele Underground. Chords used in the song: A, C♯m7, D, E, F♯m.]]></description>
         <guid><![CDATA[https://ukealong.com/song/coldplay-every-teardrop-is-a-waterfall/]]></guid>
         <pubDate>Sun, 31 Jul 2011 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Eric Clapton - Change The World - Ukulele Underground]]></title>
-        <link><![CDATA[https://ukealong.com/song/eric-clapton-change-the-world/]]></link>
-        <description><![CDATA[Play along video for the song Change The World by Eric Clapton from the channel Ukulele Underground. Chords used in the song: A, A6, A7, B. Bm7, Cm7, C♯m7, E, E7, Esus4, F♯m, Gm, G♯, G♯m.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/eric-clapton-change-the-world/]]></guid>
-        <pubDate>Fri, 01 Jan 2010 00:00:00 </pubDate>
     </item>
 </channel></rss>

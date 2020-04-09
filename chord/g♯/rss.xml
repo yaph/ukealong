@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » G♯</title>
     <link>https://ukealong.com</link>
     <description>Chord » G♯</description>
-    <lastBuildDate>Fri, 03 Apr 2020 15:38:33 </lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2020 22:55:37 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -49,6 +49,20 @@
         <pubDate>Thu, 22 Jun 2017 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Eric Clapton - Layla - Key of F - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/eric-clapton-layla/]]></link>
+        <description><![CDATA[Play along video for the song Layla by Eric Clapton from the channel Ukulele Underground. Chords used in the song: A, Am, B, B♭, C, C♯m7, D, Dm, E, F♯m, G♯.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/eric-clapton-layla/]]></guid>
+        <pubDate>Sun, 31 May 2015 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Eric Hutchinson - Watching You Watch Him - Key of G# - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/eric-hutchinson-watching-you-watch-him/]]></link>
+        <description><![CDATA[Play along video for the song Watching You Watch Him by Eric Hutchinson from the channel Ukulele Underground. Chords used in the song: A♯7, A♯m7, C7, Cm, C♯, D♯, Fm, G♯.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/eric-hutchinson-watching-you-watch-him/]]></guid>
+        <pubDate>Tue, 01 Apr 2014 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Madison - It's Gonna Be Ok - Ukulele Underground]]></title>
         <link><![CDATA[https://ukealong.com/song/madison-it-s-gonna-be-ok/]]></link>
         <description><![CDATA[Play along video for the song It's Gonna Be Ok by Madison from the channel Ukulele Underground. Chords used in the song: C7, C♯, E♭, Fm, G♯.]]></description>
@@ -61,12 +75,5 @@
         <description><![CDATA[Play along video for the song Rodeo Clowns by Jack Johnson from the channel Ukulele Underground. Chords used in the song: A, C♯m, F♯, F♯m, G♯.]]></description>
         <guid><![CDATA[https://ukealong.com/song/jack-johnson-rodeo-clowns/]]></guid>
         <pubDate>Thu, 01 Jul 2010 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Eric Clapton - Change The World - Ukulele Underground]]></title>
-        <link><![CDATA[https://ukealong.com/song/eric-clapton-change-the-world/]]></link>
-        <description><![CDATA[Play along video for the song Change The World by Eric Clapton from the channel Ukulele Underground. Chords used in the song: A, A6, A7, B. Bm7, Cm7, C♯m7, E, E7, Esus4, F♯m, Gm, G♯, G♯m.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/eric-clapton-change-the-world/]]></guid>
-        <pubDate>Fri, 01 Jan 2010 00:00:00 </pubDate>
     </item>
 </channel></rss>

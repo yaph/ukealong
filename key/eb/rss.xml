@@ -3,7 +3,7 @@
 <channel><title>Uke Along Key » Eb</title>
     <link>https://ukealong.com</link>
     <description>Key » Eb</description>
-    <lastBuildDate>Fri, 03 Apr 2020 15:38:33 </lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2020 22:55:37 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -40,5 +40,12 @@
         <description><![CDATA[Play along video for the song Valerie by Amy Winehouse from the channel Ukulele Underground. Chords used in the song: A♭, B♭, E♭, Fm, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/amy-winehouse-valerie-2/]]></guid>
         <pubDate>Fri, 30 Sep 2016 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Fleetwood Mac - Landslide - Key of Eb - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/fleetwood-mac-landslide/]]></link>
+        <description><![CDATA[Play along video for the song Landslide by Fleetwood Mac from the channel Ukulele Underground. Chords used in the song: B♭, Cm, E♭, F, Gm.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/fleetwood-mac-landslide/]]></guid>
+        <pubDate>Fri, 01 Mar 2013 00:00:00 </pubDate>
     </item>
 </channel></rss>
