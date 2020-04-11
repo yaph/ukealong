@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » B♭Maj7</title>
     <link>https://ukealong.com</link>
     <description>Chord » B♭Maj7</description>
-    <lastBuildDate>Thu, 09 Apr 2020 22:55:37 </lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2020 21:29:41 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -40,5 +40,12 @@
         <description><![CDATA[Play along video for the song Fire and Rain by James Taylor from the channel DrJillReese. Chords used in the song: B♭maj7, C, Csus2, Dm, F, G, Gm7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/james-taylor-fire-and-rain/]]></guid>
         <pubDate>Tue, 23 Jan 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Weezer - Say It Ain't So - Key of Eb - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/weezer-say-it-ain-t-so/]]></link>
+        <description><![CDATA[Play along video for the song Say It Ain't So by Weezer from the channel Ukulele Underground. Chords used in the song: A♭, B♭, B♭maj7, Cm7, D♭, E♭, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/weezer-say-it-ain-t-so/]]></guid>
+        <pubDate>Sat, 30 Aug 2014 00:00:00 </pubDate>
     </item>
 </channel></rss>
