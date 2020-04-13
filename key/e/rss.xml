@@ -3,9 +3,16 @@
 <channel><title>Uke Along Key » E</title>
     <link>https://ukealong.com</link>
     <description>Key » E</description>
-    <lastBuildDate>Sat, 11 Apr 2020 21:29:41 </lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 16:57:11 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA["Weird Al" Yankovic - Yoda - Baritone Ukulele - Key of E - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song Yoda by "Weird Al" Yankovic from the channel ukeplayalongs. Chords used in the song: A, AB7, Am, B, B7, C, C♯m, D, E, F♯7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda-baritone-ukulele/]]></guid>
+        <pubDate>Tue, 18 Feb 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Sheb Wooley - Purple People Eater - Key of D, Eb, E, F - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/sheb-wooley-purple-people-eater-2/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Have It All by Jason Mraz from the channel Ukulele Underground. Chords used in the song: A, B, C♯m7, E.]]></description>
         <guid><![CDATA[https://ukealong.com/song/jason-mraz-have-it-all-3/]]></guid>
         <pubDate>Fri, 01 Jun 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Portugal. The Man - Feel It Still - Key of E - Ukulele Underground]]></title>
-        <link><![CDATA[https://ukealong.com/song/portugal-the-man-feel-it-still-3/]]></link>
-        <description><![CDATA[Play along video for the song Feel It Still by Portugal. The Man from the channel Ukulele Underground. Chords used in the song: A, C♯m7, E, F♯m.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/portugal-the-man-feel-it-still-3/]]></guid>
-        <pubDate>Sun, 01 Apr 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

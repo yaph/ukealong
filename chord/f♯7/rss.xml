@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » F♯7</title>
     <link>https://ukealong.com</link>
     <description>Chord » F♯7</description>
-    <lastBuildDate>Sat, 11 Apr 2020 21:29:41 </lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 16:57:11 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -18,6 +18,13 @@
         <link><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda/]]></link>
         <description><![CDATA[Play along video for the song Yoda by "Weird Al" Yankovic from the channel ukeplayalongs. Chords used in the song: A, A7, Bm, B♭, C, D, E7, F♯7, G, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda/]]></guid>
+        <pubDate>Tue, 18 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA["Weird Al" Yankovic - Yoda - Baritone Ukulele - Key of E - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song Yoda by "Weird Al" Yankovic from the channel ukeplayalongs. Chords used in the song: A, AB7, Am, B, B7, C, C♯m, D, E, F♯7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda-baritone-ukulele/]]></guid>
         <pubDate>Tue, 18 Feb 2020 00:00:00 </pubDate>
     </item>
     <item>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Believe by Josh Groban from the channel ukeplayalongs. Chords used in the song: A, A7, Asus4, Bm, C♯, D, Em, F♯7, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/josh-groban-believe/]]></guid>
         <pubDate>Tue, 27 Nov 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Queen - Love Of My Life - Ukulele Cheats]]></title>
-        <link><![CDATA[https://ukealong.com/song/queen-love-of-my-life/]]></link>
-        <description><![CDATA[Play along video for the song Love Of My Life by Queen from the channel Ukulele Cheats. Chords used in the song: A, A13, A7, Asus4, B, Bm, Cdim, D, Dsus4, E, E7, Em, F♯7, F♯m, G, G6.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/queen-love-of-my-life/]]></guid>
-        <pubDate>Wed, 21 Nov 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » E</title>
     <link>https://ukealong.com</link>
     <description>Chord » E</description>
-    <lastBuildDate>Sat, 11 Apr 2020 21:29:41 </lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 16:57:11 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,13 @@
         <description><![CDATA[Play along video for the song I Believe in You by Michael Bublé from the channel ukeplayalongs. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you-baritone-ukulele/]]></guid>
         <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA["Weird Al" Yankovic - Yoda - Baritone Ukulele - Key of E - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song Yoda by "Weird Al" Yankovic from the channel ukeplayalongs. Chords used in the song: A, AB7, Am, B, B7, C, C♯m, D, E, F♯7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda-baritone-ukulele/]]></guid>
+        <pubDate>Tue, 18 Feb 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Queens Of The Stone Age - Go With The Flow - Ukeledu Music]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Don't Worry, Be Happy by Bobby McFerrin from the channel Ukulele Cheats. Chords used in the song: B, C♯m, E.]]></description>
         <guid><![CDATA[https://ukealong.com/song/bobby-mcferrin-don-t-worry-be-happy/]]></guid>
         <pubDate>Sat, 09 Nov 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Sheb Wooley - Purple People Eater - Key of D, Eb, E, F - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/sheb-wooley-purple-people-eater-2/]]></link>
-        <description><![CDATA[Play along video for the song Purple People Eater by Sheb Wooley from the channel ukeplayalongs. Chords used in the song: A, A7, A♭, B7, B♭, B♭7, C7, D, E, E♭, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/sheb-wooley-purple-people-eater-2/]]></guid>
-        <pubDate>Tue, 22 Oct 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

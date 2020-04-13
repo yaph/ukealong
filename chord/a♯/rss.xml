@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » A♯</title>
     <link>https://ukealong.com</link>
     <description>Chord » A♯</description>
-    <lastBuildDate>Sat, 11 Apr 2020 21:29:41 </lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 16:57:11 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,13 @@
         <description><![CDATA[Play along video for the song Fool On The Hill by The Beatles from the channel Ukulele Cheats. Chords used in the song: A♯, A♯6, A♯m, A♯m7, Cm, Cm7, F7, F♯, Gm, G♯7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-beatles-fool-on-the-hill/]]></guid>
         <pubDate>Thu, 26 Mar 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[4 Non Blondes - What's Up? - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/4-non-blondes-what-s-up/]]></link>
+        <description><![CDATA[Play along video for the song What's Up? by 4 Non Blondes from the channel Ukulele Cheats. Chords used in the song: A♯, F, Gm.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/4-non-blondes-what-s-up/]]></guid>
+        <pubDate>Mon, 09 Mar 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Frankie Valli - Can't Take My Eyes Off You - Ukulele Cheats]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song We Are The Champions by Queen from the channel Ukulele Cheats. Chords used in the song: Adim7, Am, A♯, A♯m6, C, Cm, Csus4, Dm, D♯, D♯add9, Edim7, F, F7, Fm, F♯dim7, Gm7, Gsus4, G♯.]]></description>
         <guid><![CDATA[https://ukealong.com/song/queen-we-are-the-champions/]]></guid>
         <pubDate>Sat, 01 Dec 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[La La Land Cast - Another Day Of Sun - Key of G, G# - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/la-la-land-cast-another-day-of-sun/]]></link>
-        <description><![CDATA[Play along video for the song Another Day Of Sun by La La Land Cast from the channel ukeplayalongs. Chords used in the song: A, A7, A♯, B7, Bm, Cm, D, D♯, Em7, F♯7, F♯m, G, G7, Gm, G♯.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/la-la-land-cast-another-day-of-sun/]]></guid>
-        <pubDate>Thu, 22 Jun 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

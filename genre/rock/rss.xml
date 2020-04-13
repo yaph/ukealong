@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Rock</title>
     <link>https://ukealong.com</link>
     <description>Genre » Rock</description>
-    <lastBuildDate>Sat, 11 Apr 2020 21:29:41 </lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 16:57:11 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -21,6 +21,13 @@
         <pubDate>Thu, 26 Mar 2020 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[4 Non Blondes - What's Up? - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/4-non-blondes-what-s-up/]]></link>
+        <description><![CDATA[Play along video for the song What's Up? by 4 Non Blondes from the channel Ukulele Cheats. Chords used in the song: A♯, F, Gm.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/4-non-blondes-what-s-up/]]></guid>
+        <pubDate>Mon, 09 Mar 2020 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[The Beatles - Something - Ukulele Underground]]></title>
         <link><![CDATA[https://ukealong.com/song/the-beatles-something/]]></link>
         <description><![CDATA[Play along video for the song Something by The Beatles from the channel Ukulele Underground. Chords used in the song: A, A7, Am, Am7, Amaj7, Ammaj7, Bdim7, C, C7, Cmaj7, D, D7, E♭, F, F♯m, G, G7.]]></description>
@@ -33,6 +40,20 @@
         <description><![CDATA[Play along video for the song All Right Now by Free from the channel Ukulaliens - Ukulele Club. Chords used in the song: C, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/free-all-right-now/]]></guid>
         <pubDate>Fri, 28 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA["Weird Al" Yankovic - Yoda - Key of G - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda/]]></link>
+        <description><![CDATA[Play along video for the song Yoda by "Weird Al" Yankovic from the channel ukeplayalongs. Chords used in the song: A, A7, Bm, B♭, C, D, E7, F♯7, G, Gm.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda/]]></guid>
+        <pubDate>Tue, 18 Feb 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA["Weird Al" Yankovic - Yoda - Baritone Ukulele - Key of E - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song Yoda by "Weird Al" Yankovic from the channel ukeplayalongs. Chords used in the song: A, AB7, Am, B, B7, C, C♯m, D, E, F♯7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda-baritone-ukulele/]]></guid>
+        <pubDate>Tue, 18 Feb 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[The B-52's - Rock Lobster - About Ukulele]]></title>
@@ -54,26 +75,5 @@
         <description><![CDATA[Play along video for the song Go With The Flow by Queens Of The Stone Age from the channel Ukeledu Music. Chords used in the song: Am, C, D, E.]]></description>
         <guid><![CDATA[https://ukealong.com/song/queens-of-the-stone-age-go-with-the-flow/]]></guid>
         <pubDate>Sat, 28 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Oasis - She's Electric - Ukulele Cheats]]></title>
-        <link><![CDATA[https://ukealong.com/song/oasis-she-s-electric/]]></link>
-        <description><![CDATA[Play along video for the song She's Electric by Oasis from the channel Ukulele Cheats. Chords used in the song: A, A♯, Bm, C, D, D7, Em, F♯, G, Gmaj7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/oasis-she-s-electric/]]></guid>
-        <pubDate>Mon, 23 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Doors - Love Me Two Times - Ukulele Cheats]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-doors-love-me-two-times/]]></link>
-        <description><![CDATA[Play along video for the song Love Me Two Times by The Doors from the channel Ukulele Cheats. Chords used in the song: A, A7, B7, C7, D, E5, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-doors-love-me-two-times/]]></guid>
-        <pubDate>Tue, 19 Nov 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Queen - Killer Queen - About Ukulele]]></title>
-        <link><![CDATA[https://ukealong.com/song/queen-killer-queen/]]></link>
-        <description><![CDATA[Play along video for the song Killer Queen by Queen from the channel About Ukulele.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/queen-killer-queen/]]></guid>
-        <pubDate>Thu, 07 Nov 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

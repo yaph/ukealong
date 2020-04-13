@@ -3,7 +3,7 @@
 <channel><title>Uke Along Key » C</title>
     <link>https://ukealong.com</link>
     <description>Key » C</description>
-    <lastBuildDate>Sat, 11 Apr 2020 21:29:40 </lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 16:57:11 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,6 +12,13 @@
         <description><![CDATA[Play along video for the song I'm Yours by Jason Mraz from the channel Ukeledu Music. Chords used in the song: Am, C, F, F♯dim, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/jason-mraz-i-m-yours/]]></guid>
         <pubDate>Mon, 30 Mar 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Cat Stevens - If You Want To Sing Out - Key of C - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/cat-stevens-if-you-want-to-sing-out/]]></link>
+        <description><![CDATA[Play along video for the song If You Want To Sing Out by Cat Stevens from the channel Ukulele Cheats. Chords used in the song: Am, C, Dm, Em, F, G, G6.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/cat-stevens-if-you-want-to-sing-out/]]></guid>
+        <pubDate>Fri, 20 Mar 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Why Don't We - Chills - Key of C - Andy Ramos]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Ging Gang Gooli by Melinda Caroll from the channel ukeplayalongs. Chords used in the song: C, C7, F, G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/melinda-caroll-ging-gang-gooli-baritone-ukulele/]]></guid>
         <pubDate>Tue, 14 Jan 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Bob Marley - Three Little Birds - Key of C - Cynthia Lin Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/bob-marley-three-little-birds/]]></link>
-        <description><![CDATA[Play along video for the song Three Little Birds by Bob Marley from the channel Cynthia Lin Music. Chords used in the song: C, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/bob-marley-three-little-birds/]]></guid>
-        <pubDate>Sun, 05 Jan 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

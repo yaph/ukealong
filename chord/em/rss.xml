@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Em</title>
     <link>https://ukealong.com</link>
     <description>Chord » Em</description>
-    <lastBuildDate>Sat, 11 Apr 2020 21:29:40 </lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 16:57:10 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,13 @@
         <description><![CDATA[Play along video for the song All Of Me by John Legend from the channel Ukeledu Music. Chords used in the song: Am, C, D, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/john-legend-all-of-me/]]></guid>
         <pubDate>Fri, 27 Mar 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Cat Stevens - If You Want To Sing Out - Key of C - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/cat-stevens-if-you-want-to-sing-out/]]></link>
+        <description><![CDATA[Play along video for the song If You Want To Sing Out by Cat Stevens from the channel Ukulele Cheats. Chords used in the song: Am, C, Dm, Em, F, G, G6.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/cat-stevens-if-you-want-to-sing-out/]]></guid>
+        <pubDate>Fri, 20 Mar 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Israel Kamakawiwo'ole - What A Wonderful World - Kevin Way]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Memories by Maroon 5 from the channel ukeplayalongs. Chords used in the song: Am, C, Em, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/maroon-5-memories/]]></guid>
         <pubDate>Tue, 04 Feb 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[ABBA - Mamma Mia - Ukulaliens - Ukulele Club]]></title>
-        <link><![CDATA[https://ukealong.com/song/abba-mamma-mia/]]></link>
-        <description><![CDATA[Play along video for the song Mamma Mia by ABBA from the channel Ukulaliens - Ukulele Club. Chords used in the song: A, Bm, C, D, Em, F♯m, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/abba-mamma-mia/]]></guid>
-        <pubDate>Sun, 02 Feb 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>
