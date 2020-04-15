@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » B♭Maj7</title>
     <link>https://ukealong.com</link>
     <description>Chord » B♭Maj7</description>
-    <lastBuildDate>Mon, 13 Apr 2020 16:57:11 </lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2020 13:05:42 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -47,5 +47,12 @@
         <description><![CDATA[Play along video for the song Say It Ain't So by Weezer from the channel Ukulele Underground. Chords used in the song: A♭, B♭, B♭maj7, Cm7, D♭, E♭, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/weezer-say-it-ain-t-so/]]></guid>
         <pubDate>Sat, 30 Aug 2014 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Todd Rundgren - I Saw The Light - Key of Bb - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/todd-rundgren-i-saw-the-light/]]></link>
+        <description><![CDATA[Play along video for the song I Saw The Light by Todd Rundgren from the channel Ukulele Underground. Chords used in the song: B♭maj7, C7, Cm7, F7, Gm7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/todd-rundgren-i-saw-the-light/]]></guid>
+        <pubDate>Thu, 01 Nov 2012 00:00:00 </pubDate>
     </item>
 </channel></rss>

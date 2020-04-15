@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Bm</title>
     <link>https://ukealong.com</link>
     <description>Chord » Bm</description>
-    <lastBuildDate>Mon, 13 Apr 2020 16:57:11 </lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2020 13:05:41 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,13 @@
         <description><![CDATA[Play along video for the song Over The Rainbow by Judy Garland from the channel ukeplayalongs. Chords used in the song: A7, Am7, Bm, C, Cm, D7, E7, Em7, G, G7, Gdim7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/judy-garland-over-the-rainbow/]]></guid>
         <pubDate>Tue, 24 Mar 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[George Harrison - My Sweet Lord - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/george-harrison-my-sweet-lord/]]></link>
+        <description><![CDATA[Play along video for the song My Sweet Lord by George Harrison from the channel Ukulele Cheats. Chords used in the song: A, B, B7, Bm, C♯7, D, D7, E, Em, F♯dim7, F♯m, G♯dim7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/george-harrison-my-sweet-lord/]]></guid>
+        <pubDate>Fri, 06 Mar 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Paul Anka - Put Your Head On My Shoulder - Ukulele Cheats]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/how-far-i-ll-go-moana-ukulele-cover-cynthia-lin-play-along/]]></guid>
         <pubDate>Wed, 01 Jan 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Oasis - She's Electric - Ukulele Cheats]]></title>
-        <link><![CDATA[https://ukealong.com/song/oasis-she-s-electric/]]></link>
-        <description><![CDATA[Play along video for the song She's Electric by Oasis from the channel Ukulele Cheats. Chords used in the song: A, A♯, Bm, C, D, D7, Em, F♯, G, Gmaj7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/oasis-she-s-electric/]]></guid>
-        <pubDate>Mon, 23 Dec 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

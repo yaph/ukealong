@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » B</title>
     <link>https://ukealong.com</link>
     <description>Chord » B</description>
-    <lastBuildDate>Mon, 13 Apr 2020 16:57:11 </lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2020 13:05:42 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[George Harrison - My Sweet Lord - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/george-harrison-my-sweet-lord/]]></link>
+        <description><![CDATA[Play along video for the song My Sweet Lord by George Harrison from the channel Ukulele Cheats. Chords used in the song: A, B, B7, Bm, C♯7, D, D7, E, Em, F♯dim7, F♯m, G♯dim7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/george-harrison-my-sweet-lord/]]></guid>
+        <pubDate>Fri, 06 Mar 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA["Weird Al" Yankovic - Yoda - Baritone Ukulele - Key of E - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda-baritone-ukulele/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Beneath the Rose by Micah P. Hinson from the channel BruderMaister. Chords used in the song: B, C, D, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/micah-p-hinson-beneath-the-rose/]]></guid>
         <pubDate>Sat, 08 Jun 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Naomi Scott - Speechless - Key of Em - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/naomi-scott-speechless/]]></link>
-        <description><![CDATA[Play along video for the song Speechless by Naomi Scott from the channel ukeplayalongs. Chords used in the song: Am, B, Bm7, Bsus4, C, D, D7, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/naomi-scott-speechless/]]></guid>
-        <pubDate>Sun, 02 Jun 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

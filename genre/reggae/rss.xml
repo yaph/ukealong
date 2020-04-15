@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Reggae</title>
     <link>https://ukealong.com</link>
     <description>Genre » Reggae</description>
-    <lastBuildDate>Mon, 13 Apr 2020 16:57:11 </lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2020 13:05:42 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -54,5 +54,12 @@
         <description><![CDATA[Play along video for the song No Woman, No Cry by Bob Marley from the channel Ukulele Underground.]]></description>
         <guid><![CDATA[https://ukealong.com/song/bob-marley-no-woman-no-cry/]]></guid>
         <pubDate>Tue, 30 Jun 2015 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Green - Love I - Key of G - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-green-love-i/]]></link>
+        <description><![CDATA[Play along video for the song Love I by The Green from the channel Ukulele Underground. Chords used in the song: C, D, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-green-love-i/]]></guid>
+        <pubDate>Wed, 01 Jun 2011 00:00:00 </pubDate>
     </item>
 </channel></rss>
