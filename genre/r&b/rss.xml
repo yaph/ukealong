@@ -3,9 +3,16 @@
 <channel><title>Uke Along Genre » R&B</title>
     <link>https://ukealong.com</link>
     <description>Genre » R&B</description>
-    <lastBuildDate>Wed, 15 Apr 2020 13:05:42 </lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2020 23:17:04 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Bill Withers - Lovely Day - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/bill-withers-lovely-day/]]></link>
+        <description><![CDATA[Play along video for the song Lovely Day by Bill Withers from the channel Ukulele Cheats. Chords used in the song: A♯m7, A♯maj7, Cm, C♯m7, C♯maj7, Dm, D♯, F.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bill-withers-lovely-day/]]></guid>
+        <pubDate>Sat, 11 Apr 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Otis Redding - Sittin' on the Dock of the Bay - Cynthia Lin Music]]></title>
         <link><![CDATA[https://ukealong.com/song/otis-redding-sittin-on-the-dock-of-the-bay/]]></link>
@@ -57,9 +64,9 @@
     </item>
     <item>
         <title><![CDATA[Bill Withers - Lovely Day - Key of F - Andy Ramos]]></title>
-        <link><![CDATA[https://ukealong.com/song/bill-withers-lovely-day/]]></link>
+        <link><![CDATA[https://ukealong.com/song/bill-withers-lovely-day-2/]]></link>
         <description><![CDATA[Play along video for the song Lovely Day by Bill Withers from the channel Andy Ramos. Chords used in the song: B♭m7, B♭maj7, Cm7, C♯maj7, Dm7, E♭, F.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/bill-withers-lovely-day/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/bill-withers-lovely-day-2/]]></guid>
         <pubDate>Mon, 28 Jan 2019 00:00:00 </pubDate>
     </item>
     <item>
@@ -67,13 +74,6 @@
         <link><![CDATA[https://ukealong.com/song/gene-chandler-duke-of-earl/]]></link>
         <description><![CDATA[Play along video for the song Duke Of Earl by Gene Chandler from the channel ukeplayalongs. Chords used in the song: C, D, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/gene-chandler-duke-of-earl/]]></guid>
-        <pubDate>Sun, 13 Jan 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Gene Chandler - Duke Of Earl - Key of F - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/gene-chandler-duke-of-earl-2/]]></link>
-        <description><![CDATA[Play along video for the song Duke Of Earl by Gene Chandler from the channel ukeplayalongs. Chords used in the song: B♭, C, Dm, F.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/gene-chandler-duke-of-earl-2/]]></guid>
         <pubDate>Sun, 13 Jan 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

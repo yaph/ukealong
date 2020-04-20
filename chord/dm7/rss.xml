@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » Dm7</title>
     <link>https://ukealong.com</link>
     <description>Chord » Dm7</description>
-    <lastBuildDate>Wed, 15 Apr 2020 13:05:42 </lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2020 23:17:04 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Grace VanderWaal - Today and Tomorrow - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/grace-vanderwaal-today-and-tomorrow/]]></link>
+        <description><![CDATA[Play along video for the song Today and Tomorrow by Grace VanderWaal from the channel ukeplayalongs. Chords used in the song: Am7, C, Cmaj7, Dm, Dm7, Dmadd11, F, FMaj7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/grace-vanderwaal-today-and-tomorrow/]]></guid>
+        <pubDate>Thu, 09 Apr 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Panic! At The Disco - Into The Unknown - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/panic-at-the-disco-into-the-unknown/]]></link>
@@ -57,9 +64,9 @@
     </item>
     <item>
         <title><![CDATA[Bill Withers - Lovely Day - Key of F - Andy Ramos]]></title>
-        <link><![CDATA[https://ukealong.com/song/bill-withers-lovely-day/]]></link>
+        <link><![CDATA[https://ukealong.com/song/bill-withers-lovely-day-2/]]></link>
         <description><![CDATA[Play along video for the song Lovely Day by Bill Withers from the channel Andy Ramos. Chords used in the song: B♭m7, B♭maj7, Cm7, C♯maj7, Dm7, E♭, F.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/bill-withers-lovely-day/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/bill-withers-lovely-day-2/]]></guid>
         <pubDate>Mon, 28 Jan 2019 00:00:00 </pubDate>
     </item>
     <item>
@@ -68,12 +75,5 @@
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/have-yourself-a-merry-little-christmas-ukulele-play-along/]]></guid>
         <pubDate>Sat, 01 Dec 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Thurl Ravenscroft - You're A Mean One, Mr. Grinch - Key of Am - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/thurl-ravenscroft-you-re-a-mean-one-mr-grinch/]]></link>
-        <description><![CDATA[Play along video for the song You're A Mean One, Mr. Grinch by Thurl Ravenscroft from the channel ukeplayalongs. Chords used in the song: Am, B7, C, D, Dm, Dm7, E7, F7, F♯dim, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/thurl-ravenscroft-you-re-a-mean-one-mr-grinch/]]></guid>
-        <pubDate>Sun, 25 Nov 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

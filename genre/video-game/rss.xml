@@ -3,9 +3,16 @@
 <channel><title>Uke Along Genre » Video Game</title>
     <link>https://ukealong.com</link>
     <description>Genre » Video Game</description>
-    <lastBuildDate>Wed, 15 Apr 2020 13:05:42 </lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2020 23:17:04 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Basshunter - Dota. Ukulele tutorial - About Ukulele]]></title>
+        <link><![CDATA[https://ukealong.com/song/basshunter-dota-ukulele-tutorial/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/basshunter-dota-ukulele-tutorial/]]></guid>
+        <pubDate>Mon, 06 Apr 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Angry Birds. Ukulele tutorial - About Ukulele]]></title>
         <link><![CDATA[https://ukealong.com/song/angry-birds-ukulele-tutorial/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Megalovania by Undertale from the channel About Ukulele.]]></description>
         <guid><![CDATA[https://ukealong.com/song/undertale-megalovania/]]></guid>
         <pubDate>Sun, 19 May 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Super Mario Bros. Ukulele tutorial - About Ukulele]]></title>
-        <link><![CDATA[https://ukealong.com/song/super-mario-bros-ukulele-tutorial/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/super-mario-bros-ukulele-tutorial/]]></guid>
-        <pubDate>Sat, 20 Apr 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

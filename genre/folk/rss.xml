@@ -3,9 +3,16 @@
 <channel><title>Uke Along Genre » Folk</title>
     <link>https://ukealong.com</link>
     <description>Genre » Folk</description>
-    <lastBuildDate>Wed, 15 Apr 2020 13:05:42 </lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2020 23:17:04 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Bella Ciao (Ukulele Fingerstyle Play Along) Tabs On Screen - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/bella-ciao-ukulele-fingerstyle-play-along-tabs-on-screen/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bella-ciao-ukulele-fingerstyle-play-along-tabs-on-screen/]]></guid>
+        <pubDate>Sat, 18 Apr 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Melinda Caroll - Ging Gang Gooli - Key of C - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/melinda-caroll-ging-gang-gooli/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/he-s-got-the-whole-world-in-his-hands-ukulele-play-along-video-very-easy/]]></guid>
         <pubDate>Fri, 27 Sep 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Sudha - Wendeyaho - Key of C - Daniel Simmons]]></title>
-        <link><![CDATA[https://ukealong.com/song/sudha-wendeyaho/]]></link>
-        <description><![CDATA[Play along video for the song Wendeyaho by Sudha from the channel Daniel Simmons. Chords used in the song: C, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/sudha-wendeyaho/]]></guid>
-        <pubDate>Thu, 05 Sep 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

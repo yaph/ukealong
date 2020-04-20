@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » Cmaj7</title>
     <link>https://ukealong.com</link>
     <description>Chord » Cmaj7</description>
-    <lastBuildDate>Wed, 15 Apr 2020 13:05:42 </lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2020 23:17:04 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Grace VanderWaal - Today and Tomorrow - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/grace-vanderwaal-today-and-tomorrow/]]></link>
+        <description><![CDATA[Play along video for the song Today and Tomorrow by Grace VanderWaal from the channel ukeplayalongs. Chords used in the song: Am7, C, Cmaj7, Dm, Dm7, Dmadd11, F, FMaj7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/grace-vanderwaal-today-and-tomorrow/]]></guid>
+        <pubDate>Thu, 09 Apr 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Gnarls Barkley - Crazy - Ukeledu Music]]></title>
         <link><![CDATA[https://ukealong.com/song/gnarls-barkley-crazy/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Heaven Everywhere by Francesca Battistelli from the channel ukeplayalongs. Chords used in the song: Am, Am7, C, C6, Cmaj7, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/francesca-battistelli-heaven-everywhere/]]></guid>
         <pubDate>Wed, 25 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Post Malone - Circles - Baritone Ukulele - Daniel Simmons]]></title>
-        <link><![CDATA[https://ukealong.com/song/post-malone-circles-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song Circles by Post Malone from the channel Daniel Simmons. Chords used in the song: C, Cmaj7, F, Fm.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/post-malone-circles-baritone-ukulele/]]></guid>
-        <pubDate>Mon, 23 Dec 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

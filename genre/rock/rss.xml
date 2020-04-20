@@ -3,9 +3,16 @@
 <channel><title>Uke Along Genre » Rock</title>
     <link>https://ukealong.com</link>
     <description>Genre » Rock</description>
-    <lastBuildDate>Wed, 15 Apr 2020 13:05:42 </lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2020 23:17:04 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[The Beatles - I Want To Hold Your Hand - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-i-want-to-hold-your-hand/]]></link>
+        <description><![CDATA[Play along video for the song I Want To Hold Your Hand by The Beatles from the channel Ukulele Cheats. Chords used in the song: Am, B7, C, C♯, D, D7, Dm, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-i-want-to-hold-your-hand/]]></guid>
+        <pubDate>Wed, 15 Apr 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[The Beatles - Across The Universe - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/the-beatles-across-the-universe/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Yoda by "Weird Al" Yankovic from the channel ukeplayalongs. Chords used in the song: A, AB7, Am, B, B7, C, C♯m, D, E, F♯7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/weird-al-yankovic-yoda-baritone-ukulele/]]></guid>
         <pubDate>Tue, 18 Feb 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The B-52's - Rock Lobster - About Ukulele]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-b-52-s-rock-lobster/]]></link>
-        <description><![CDATA[Play along video for the song Rock Lobster by The B-52's from the channel About Ukulele.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-b-52-s-rock-lobster/]]></guid>
-        <pubDate>Wed, 12 Feb 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>
