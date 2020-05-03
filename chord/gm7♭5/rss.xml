@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Gm7♭5</title>
     <link>https://ukealong.com</link>
     <description>Chord » Gm7♭5</description>
-    <lastBuildDate>Mon, 20 Apr 2020 23:17:05 </lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2020 00:24:02 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,5 +12,12 @@
         <description><![CDATA[Play along video for the song Christmas Time Is Here by Vince Guaraldi Trio from the channel ukeplayalongs. Chords used in the song: A7♯5, Am7, A♭m7, Bm7♭5, C6, C7♯5, Cmaj7, D7, Fmaj7, Gm, Gm7, Gm7♭5.]]></description>
         <guid><![CDATA[https://ukealong.com/song/vince-guaraldi-trio-christmas-time-is-here/]]></guid>
         <pubDate>Thu, 20 Jul 2017 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Instrumental - One Note Samba - Key of C - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/instrumental-one-note-samba/]]></link>
+        <description><![CDATA[Play along video for the song One Note Samba by Instrumental from the channel Ukulele Underground. Chords used in the song: B♭add2, C6, C7sus4, C9, F, F7♯5, Gm7, Gm7♭5, G♯7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/instrumental-one-note-samba/]]></guid>
+        <pubDate>Thu, 31 Jul 2014 00:00:00 </pubDate>
     </item>
 </channel></rss>

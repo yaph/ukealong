@@ -1,6 +1,8 @@
-# info on bots at http://www.botreports.com/
-
 Sitemap: /sitemap.xml
+
+User-agent: *
+Disallow: /noindex/
+Disallow: /info/*
 
 # 80legs
 User-agent: 008

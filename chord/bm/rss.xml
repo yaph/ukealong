@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Bm</title>
     <link>https://ukealong.com</link>
     <description>Chord » Bm</description>
-    <lastBuildDate>Mon, 20 Apr 2020 23:17:04 </lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2020 00:24:02 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,13 @@
         <description><![CDATA[Play along video for the song Over The Rainbow by Judy Garland from the channel ukeplayalongs. Chords used in the song: A7, Am7, Bm, C, Cm, D7, E7, Em7, G, G7, Gdim7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/judy-garland-over-the-rainbow/]]></guid>
         <pubDate>Tue, 24 Mar 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Billie Eilish - everything i wanted - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/billie-eilish-everything-i-wanted/]]></link>
+        <description><![CDATA[Play along video for the song everything i wanted by Billie Eilish from the channel Ukulele Cheats. Chords used in the song: B7, Bm, C, Cmaj7, D.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/billie-eilish-everything-i-wanted/]]></guid>
+        <pubDate>Sun, 22 Mar 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[George Harrison - My Sweet Lord - Ukulele Cheats]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Diamonds by Rihanna from the channel Ukeledu Music. Chords used in the song: A, Bm, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/rihanna-diamonds/]]></guid>
         <pubDate>Fri, 17 Jan 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[How Far I'll Go (Moana ukulele cover) // Cynthia Lin Play-Along - Cynthia Lin Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/how-far-i-ll-go-moana-ukulele-cover-cynthia-lin-play-along/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/how-far-i-ll-go-moana-ukulele-cover-cynthia-lin-play-along/]]></guid>
-        <pubDate>Wed, 01 Jan 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>
