@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Pop</title>
     <link>https://ukealong.com</link>
     <description>Genre » Pop</description>
-    <lastBuildDate>Wed, 06 May 2020 00:09:10 </lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2020 19:42:21 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,13 @@
         <description><![CDATA[Play along video for the song Space Unicorn by Parry Gripp & Brianne Drouhard from the channel ukeplayalongs. Chords used in the song: Am, C, E7, Em, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/parry-gripp-brianne-drouhard-space-unicorn/]]></guid>
         <pubDate>Sat, 18 Apr 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Maroon 5 - Girls Like You - Key of F - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/maroon-5-girls-like-you/]]></link>
+        <description><![CDATA[Play along video for the song Girls Like You by Maroon 5 from the channel Ukulele Underground. Chords used in the song: B♭, C, Dm, F.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/maroon-5-girls-like-you/]]></guid>
+        <pubDate>Tue, 31 Mar 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Jason Mraz - I'm Yours - Key of C - Ukeledu Music]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song If You Want To Sing Out by Cat Stevens from the channel Ukulele Cheats. Chords used in the song: Am, C, Dm, Em, F, G, G6.]]></description>
         <guid><![CDATA[https://ukealong.com/song/cat-stevens-if-you-want-to-sing-out/]]></guid>
         <pubDate>Fri, 20 Mar 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Little Big - Uno - About Ukulele]]></title>
-        <link><![CDATA[https://ukealong.com/song/little-big-uno/]]></link>
-        <description><![CDATA[Play along video for the song Uno by Little Big from the channel About Ukulele.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/little-big-uno/]]></guid>
-        <pubDate>Tue, 17 Mar 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

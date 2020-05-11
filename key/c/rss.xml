@@ -3,7 +3,7 @@
 <channel><title>Uke Along Key » C</title>
     <link>https://ukealong.com</link>
     <description>Key » C</description>
-    <lastBuildDate>Wed, 06 May 2020 00:09:10 </lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2020 19:42:21 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -33,6 +33,13 @@
         <description><![CDATA[Play along video for the song If You Want To Sing Out by Cat Stevens from the channel Ukulele Cheats. Chords used in the song: Am, C, Dm, Em, F, G, G6.]]></description>
         <guid><![CDATA[https://ukealong.com/song/cat-stevens-if-you-want-to-sing-out/]]></guid>
         <pubDate>Fri, 20 Mar 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Smokey Robinson & The Miracles - Mickey's Monkey - Key of C - Andy Ramos]]></title>
+        <link><![CDATA[https://ukealong.com/song/smokey-robinson-the-miracles-mickey-s-monkey/]]></link>
+        <description><![CDATA[Play along video for the song Mickey's Monkey by Smokey Robinson & The Miracles from the channel Andy Ramos. Chords used in the song: C, F.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/smokey-robinson-the-miracles-mickey-s-monkey/]]></guid>
+        <pubDate>Tue, 03 Mar 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Why Don't We - Chills - Key of C - Andy Ramos]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Memories by Maroon 5 from the channel ukeplayalongs. Chords used in the song: Am, C, Em, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/maroon-5-memories/]]></guid>
         <pubDate>Tue, 04 Feb 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[LeAnn Rimes - Raining Tacos - Key of C - Daniel Simmons]]></title>
-        <link><![CDATA[https://ukealong.com/song/leann-rimes-raining-tacos/]]></link>
-        <description><![CDATA[Play along video for the song Raining Tacos by LeAnn Rimes from the channel Daniel Simmons. Chords used in the song: Am, C, Em, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/leann-rimes-raining-tacos/]]></guid>
-        <pubDate>Sat, 01 Feb 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

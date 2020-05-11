@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » B♭</title>
     <link>https://ukealong.com</link>
     <description>Chord » B♭</description>
-    <lastBuildDate>Wed, 06 May 2020 00:09:10 </lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2020 19:42:21 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -18,6 +18,13 @@
         <link><![CDATA[https://ukealong.com/song/sarah-mclachlan-when-she-loved-me/]]></link>
         <description><![CDATA[Play along video for the song When She Loved Me by Sarah McLachlan from the channel ukeplayalongs. Chords used in the song: A, A7, Am, A♭m, B♭, B♭7, B♭m, B♭m6, C, C7, Cm, Csus4, Dm, Em7♭5, E♭, E♭m, F7, Fm6, G7, Gdim7, Gm7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/sarah-mclachlan-when-she-loved-me/]]></guid>
+        <pubDate>Tue, 31 Mar 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Maroon 5 - Girls Like You - Key of F - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/maroon-5-girls-like-you/]]></link>
+        <description><![CDATA[Play along video for the song Girls Like You by Maroon 5 from the channel Ukulele Underground. Chords used in the song: B♭, C, Dm, F.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/maroon-5-girls-like-you/]]></guid>
         <pubDate>Tue, 31 Mar 2020 00:00:00 </pubDate>
     </item>
     <item>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song My Favorite Things by Julie Andrews from the channel ukeplayalongs. Chords used in the song: A, A7, Am, B7, B♭, B♭maj7, C, C7, Cmaj7, D, D6, D7, Dm, E, Em, F, G, G7, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/julie-andrews-my-favorite-things/]]></guid>
         <pubDate>Fri, 20 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Johnny Hates Jazz - Shattered Dreams - Baritone Ukulele - Key of Am, A#m - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/johnny-hates-jazz-shattered-dreams-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song Shattered Dreams by Johnny Hates Jazz from the channel ukeplayalongs. Chords used in the song: A, Am, Bm, B♭, B♭m, C, C♯, D, Em, E♭, Fm.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/johnny-hates-jazz-shattered-dreams-baritone-ukulele/]]></guid>
-        <pubDate>Thu, 19 Dec 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

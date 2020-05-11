@@ -3,9 +3,16 @@
 <channel><title>Uke Along RSS Feed</title>
     <link>https://ukealong.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Wed, 06 May 2020 00:09:11 </lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2020 19:42:21 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Jim Croce - Bad, Bad Leroy Brown - Key of G - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/jim-croce-bad-bad-leroy-brown/]]></link>
+        <description><![CDATA[Play along video for the song Bad, Bad Leroy Brown by Jim Croce from the channel Ukulele Underground. Chords used in the song: A7, B7, C, D7, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/jim-croce-bad-bad-leroy-brown/]]></guid>
+        <pubDate>Thu, 30 Apr 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Parry Gripp & Brianne Drouhard - Space Unicorn - Baritone Ukulele - Key of C - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/parry-gripp-brianne-drouhard-space-unicorn-baritone-ukulele/]]></link>
@@ -67,13 +74,6 @@
         <link><![CDATA[https://ukealong.com/song/powfu-beabadoobee-death-bed/]]></link>
         <description><![CDATA[Play along video for the song death bed by Powfu & Beabadoobee from the channel Ukulaliens - Ukulele Club. Chords used in the song: C, Em, F, Fm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/powfu-beabadoobee-death-bed/]]></guid>
-        <pubDate>Mon, 06 Apr 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Basshunter - Dota. Ukulele tutorial - About Ukulele]]></title>
-        <link><![CDATA[https://ukealong.com/song/basshunter-dota-ukulele-tutorial/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/basshunter-dota-ukulele-tutorial/]]></guid>
         <pubDate>Mon, 06 Apr 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>
