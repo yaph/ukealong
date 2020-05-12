@@ -3,9 +3,23 @@
 <channel><title>Uke Along Genre » Movie</title>
     <link>https://ukealong.com</link>
     <description>Genre » Movie</description>
-    <lastBuildDate>Mon, 11 May 2020 19:42:21 </lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2020 14:20:16 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Garfunkel and Oates - Everything Is Awesome - Baritone Ukulele - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/garfunkel-and-oates-everything-is-awesome-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song Everything Is Awesome by Garfunkel and Oates from the channel ukeplayalongs. Chords used in the song: A, Am, B♭, B♭sus4, C, Csus4, D, Dm, E, Em, F, Fsus4, F♯m, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/garfunkel-and-oates-everything-is-awesome-baritone-ukulele/]]></guid>
+        <pubDate>Tue, 14 Apr 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Garfunkel and Oates - Everything Is Awesome - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/garfunkel-and-oates-everything-is-awesome/]]></link>
+        <description><![CDATA[Play along video for the song Everything Is Awesome by Garfunkel and Oates from the channel ukeplayalongs. Chords used in the song: A, Am, B♭, B♭sus4, C, Csus4, D, Dm, E, Em, F, Fsus4, F♯m, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/garfunkel-and-oates-everything-is-awesome/]]></guid>
+        <pubDate>Tue, 14 Apr 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Sarah McLachlan - When She Loved Me - Baritone Ukulele - Key of F - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/sarah-mclachlan-when-she-loved-me-baritone-ukulele/]]></link>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song All Is Found by Kacey Musgraves from the channel Cynthia Lin Music. Chords used in the song: Am, B♭, C, D, Em, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/kacey-musgraves-all-is-found/]]></guid>
         <pubDate>Sat, 01 Feb 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Christopher Cross - Arthur Theme - Ukulele Underground]]></title>
-        <link><![CDATA[https://ukealong.com/song/christopher-cross-arthur-theme/]]></link>
-        <description><![CDATA[Play along video for the song Arthur Theme by Christopher Cross from the channel Ukulele Underground. Chords used in the song: B♭, C, F.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/christopher-cross-arthur-theme/]]></guid>
-        <pubDate>Fri, 31 Jan 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Darth Vader's Theme - Ukulele TAB playalong - Daniel Simmons]]></title>
-        <link><![CDATA[https://ukealong.com/song/darth-vader-s-theme-ukulele-tab-playalong/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/darth-vader-s-theme-ukulele-tab-playalong/]]></guid>
-        <pubDate>Sun, 26 Jan 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

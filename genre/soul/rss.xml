@@ -3,9 +3,16 @@
 <channel><title>Uke Along Genre » Soul</title>
     <link>https://ukealong.com</link>
     <description>Genre » Soul</description>
-    <lastBuildDate>Mon, 11 May 2020 19:42:21 </lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2020 14:20:16 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Otis Redding - (Sittin' On) the Dock of the Bay - Key of G - Ukulaliens - Ukulele Club]]></title>
+        <link><![CDATA[https://ukealong.com/song/otis-redding-sittin-on-the-dock-of-the-bay/]]></link>
+        <description><![CDATA[Play along video for the song (Sittin' On) the Dock of the Bay by Otis Redding from the channel Ukulaliens - Ukulele Club. Chords used in the song: A, B7, C, D, E7, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/otis-redding-sittin-on-the-dock-of-the-bay/]]></guid>
+        <pubDate>Wed, 22 Apr 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Gnarls Barkley - Crazy - Ukeledu Music]]></title>
         <link><![CDATA[https://ukealong.com/song/gnarls-barkley-crazy/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song A Change Is Gonna Come by Sam Cooke from the channel Andy Ramos. Chords used in the song: B♭, C7, Cm7, D7, E♭, F7, Gm7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/sam-cooke-a-change-is-gonna-come/]]></guid>
         <pubDate>Sun, 27 Jan 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Amy Winehouse - Rehab - Ukeledu Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/amy-winehouse-rehab/]]></link>
-        <description><![CDATA[Play along video for the song Rehab by Amy Winehouse from the channel Ukeledu Music. Chords used in the song: Am, A♭, C, Em, F, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/amy-winehouse-rehab/]]></guid>
-        <pubDate>Thu, 27 Dec 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

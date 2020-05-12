@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » E7</title>
     <link>https://ukealong.com</link>
     <description>Chord » E7</description>
-    <lastBuildDate>Mon, 11 May 2020 19:42:21 </lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2020 14:20:16 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Otis Redding - (Sittin' On) the Dock of the Bay - Key of G - Ukulaliens - Ukulele Club]]></title>
+        <link><![CDATA[https://ukealong.com/song/otis-redding-sittin-on-the-dock-of-the-bay/]]></link>
+        <description><![CDATA[Play along video for the song (Sittin' On) the Dock of the Bay by Otis Redding from the channel Ukulaliens - Ukulele Club. Chords used in the song: A, B7, C, D, E7, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/otis-redding-sittin-on-the-dock-of-the-bay/]]></guid>
+        <pubDate>Wed, 22 Apr 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Parry Gripp & Brianne Drouhard - Space Unicorn - Baritone Ukulele - Key of C - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/parry-gripp-brianne-drouhard-space-unicorn-baritone-ukulele/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/stars-fell-on-alabama-cynthia-lin-jazz-ukulele/]]></guid>
         <pubDate>Sun, 26 Jan 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[John Denver - Take Me Home, Country Roads - Ukulaliens - Ukulele Club]]></title>
-        <link><![CDATA[https://ukealong.com/song/john-denver-take-me-home-country-roads/]]></link>
-        <description><![CDATA[Play along video for the song Take Me Home, Country Roads by John Denver from the channel Ukulaliens - Ukulele Club. Chords used in the song: A, D, E7, F♯m, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/john-denver-take-me-home-country-roads/]]></guid>
-        <pubDate>Wed, 22 Jan 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>
