@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » A7</title>
     <link>https://ukealong.com</link>
     <description>Chord » A7</description>
-    <lastBuildDate>Tue, 12 May 2020 22:12:59 </lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2020 14:33:45 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Stevie Wonder - Isn't She Lovely - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/stevie-wonder-isn-t-she-lovely/]]></link>
+        <description><![CDATA[Play along video for the song Isn't She Lovely by Stevie Wonder from the channel Ukulele Cheats. Chords used in the song: A, A7, A♯maj7, C7, Dm7, F, G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/stevie-wonder-isn-t-she-lovely/]]></guid>
+        <pubDate>Thu, 30 Apr 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Jim Croce - Bad, Bad Leroy Brown - Key of G - Ukulele Underground]]></title>
         <link><![CDATA[https://ukealong.com/song/jim-croce-bad-bad-leroy-brown/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Something by The Beatles from the channel Ukulele Underground. Chords used in the song: A, A7, Am, Am7, Amaj7, Ammaj7, Bdim7, C, C7, Cmaj7, D, D7, E♭, F, F♯m, G, G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-beatles-something/]]></guid>
         <pubDate>Sat, 29 Feb 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Paul Anka - Put Your Head On My Shoulder - Ukulele Cheats]]></title>
-        <link><![CDATA[https://ukealong.com/song/paul-anka-put-your-head-on-my-shoulder/]]></link>
-        <description><![CDATA[Play along video for the song Put Your Head On My Shoulder by Paul Anka from the channel Ukulele Cheats. Chords used in the song: A7, Am, Bm, C, D, D7, D♯dim, Em, Em7, F♯7, G, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/paul-anka-put-your-head-on-my-shoulder/]]></guid>
-        <pubDate>Mon, 24 Feb 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

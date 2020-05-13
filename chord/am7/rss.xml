@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » Am7</title>
     <link>https://ukealong.com</link>
     <description>Chord » Am7</description>
-    <lastBuildDate>Tue, 12 May 2020 22:13:00 </lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2020 14:33:45 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Charlie Chaplin - Smile - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/charlie-chaplin-smile/]]></link>
+        <description><![CDATA[Play along video for the song Smile by Charlie Chaplin from the channel Ukulele Cheats. Chords used in the song: Am7, A♯, C, C6, Cmaj7, Ddim, Dm, Dm7, D♯dim, Edim, Fm, Fm6 G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/charlie-chaplin-smile/]]></guid>
+        <pubDate>Sun, 03 May 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Grace VanderWaal - Today and Tomorrow - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/grace-vanderwaal-today-and-tomorrow/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Heaven Everywhere by Francesca Battistelli from the channel ukeplayalongs. Chords used in the song: Am, Am7, C, C6, Cmaj7, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/francesca-battistelli-heaven-everywhere/]]></guid>
         <pubDate>Wed, 25 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Steven Curtis Chapman - I Want a Ukulele for Christmas - Baritone Ukulele - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/steven-curtis-chapman-i-want-a-ukulele-for-christmas-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song I Want a Ukulele for Christmas by Steven Curtis Chapman from the channel ukeplayalongs. Chords used in the song: Am7, C, Cm, Cm6, C♯dim, D7, D7sus4, Dmaj7, E7, Em, Em6, G, G7, Gaug, Gmaj7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/steven-curtis-chapman-i-want-a-ukulele-for-christmas-baritone-ukulele/]]></guid>
-        <pubDate>Sat, 21 Dec 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

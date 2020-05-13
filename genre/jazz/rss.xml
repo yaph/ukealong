@@ -3,9 +3,16 @@
 <channel><title>Uke Along Genre » Jazz</title>
     <link>https://ukealong.com</link>
     <description>Genre » Jazz</description>
-    <lastBuildDate>Tue, 12 May 2020 22:13:00 </lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2020 14:33:45 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Charlie Chaplin - Smile - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/charlie-chaplin-smile/]]></link>
+        <description><![CDATA[Play along video for the song Smile by Charlie Chaplin from the channel Ukulele Cheats. Chords used in the song: Am7, A♯, C, C6, Cmaj7, Ddim, Dm, Dm7, D♯dim, Edim, Fm, Fm6 G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/charlie-chaplin-smile/]]></guid>
+        <pubDate>Sun, 03 May 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Louis Armstrong - What A Wonderful World - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/louis-armstrong-what-a-wonderful-world/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Sway by Michael Bublé from the channel ukeplayalongs. Chords used in the song: A7, B♭, C, Dm, F.]]></description>
         <guid><![CDATA[https://ukealong.com/song/michael-buble-sway/]]></guid>
         <pubDate>Thu, 24 Aug 2017 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Louis Armstrong - What A Wonderful World - Key of F - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/louis-armstrong-what-a-wonderful-world-2/]]></link>
-        <description><![CDATA[Play along video for the song What A Wonderful World by Louis Armstrong from the channel ukeplayalongs. Chords used in the song: A7, Am, Am7, B♭, C7, C♯, D7, Dm, F, Faug, F♯dim7, Gm7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/louis-armstrong-what-a-wonderful-world-2/]]></guid>
-        <pubDate>Thu, 13 Jul 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

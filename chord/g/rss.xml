@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » G</title>
     <link>https://ukealong.com</link>
     <description>Chord » G</description>
-    <lastBuildDate>Tue, 12 May 2020 22:13:00 </lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2020 14:33:45 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -42,6 +42,13 @@
         <pubDate>Thu, 30 Apr 2020 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[John Lennon - Imagine - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/john-lennon-imagine/]]></link>
+        <description><![CDATA[Play along video for the song Imagine by John Lennon from the channel Ukulele Cheats. Chords used in the song: Am, C, Cmaj7, Dm7, E7, F, G, G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/john-lennon-imagine/]]></guid>
+        <pubDate>Tue, 28 Apr 2020 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Otis Redding - (Sittin' On) the Dock of the Bay - Key of G - Ukulaliens - Ukulele Club]]></title>
         <link><![CDATA[https://ukealong.com/song/otis-redding-sittin-on-the-dock-of-the-bay/]]></link>
         <description><![CDATA[Play along video for the song (Sittin' On) the Dock of the Bay by Otis Redding from the channel Ukulaliens - Ukulele Club. Chords used in the song: A, B7, C, D, E7, F, G.]]></description>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song I Want To Hold Your Hand by The Beatles from the channel Ukulele Cheats. Chords used in the song: Am, B7, C, C♯, D, D7, Dm, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-beatles-i-want-to-hold-your-hand/]]></guid>
         <pubDate>Wed, 15 Apr 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Garfunkel and Oates - Everything Is Awesome - Baritone Ukulele - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/garfunkel-and-oates-everything-is-awesome-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song Everything Is Awesome by Garfunkel and Oates from the channel ukeplayalongs. Chords used in the song: A, Am, B♭, B♭sus4, C, Csus4, D, Dm, E, Em, F, Fsus4, F♯m, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/garfunkel-and-oates-everything-is-awesome-baritone-ukulele/]]></guid>
-        <pubDate>Tue, 14 Apr 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>
