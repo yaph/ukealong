@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » A</title>
     <link>https://ukealong.com</link>
     <description>Chord » A</description>
-    <lastBuildDate>Wed, 13 May 2020 14:33:45 </lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2020 21:17:29 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -26,6 +26,13 @@
         <description><![CDATA[Play along video for the song Isn't She Lovely by Stevie Wonder from the channel Ukulele Cheats. Chords used in the song: A, A7, A♯maj7, C7, Dm7, F, G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/stevie-wonder-isn-t-she-lovely/]]></guid>
         <pubDate>Thu, 30 Apr 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Twenty One Pilots - Level of Concern - Ukulaliens - Ukulele Club]]></title>
+        <link><![CDATA[https://ukealong.com/song/twenty-one-pilots-level-of-concern/]]></link>
+        <description><![CDATA[Play along video for the song Level of Concern by Twenty One Pilots from the channel Ukulaliens - Ukulele Club. Chords used in the song: A, Am, Am7, C, Cmaj7, D, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/twenty-one-pilots-level-of-concern/]]></guid>
+        <pubDate>Mon, 27 Apr 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[The Turtles - Happy Together - Ukulele Cheats]]></title>
@@ -67,13 +74,6 @@
         <link><![CDATA[https://ukealong.com/song/sarah-mclachlan-when-she-loved-me-baritone-ukulele/]]></link>
         <description><![CDATA[Play along video for the song When She Loved Me by Sarah McLachlan from the channel ukeplayalongs. Chords used in the song: A, A7, Am, A♭m, B♭, B♭7, B♭m, B♭m6, C, C7, Cm, Csus4, Dm, Em7♭5, E♭, E♭m, F7, Fm6, G7, Gdim7, Gm7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/sarah-mclachlan-when-she-loved-me-baritone-ukulele/]]></guid>
-        <pubDate>Tue, 31 Mar 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Sarah McLachlan - When She Loved Me - Key of F - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/sarah-mclachlan-when-she-loved-me/]]></link>
-        <description><![CDATA[Play along video for the song When She Loved Me by Sarah McLachlan from the channel ukeplayalongs. Chords used in the song: A, A7, Am, A♭m, B♭, B♭7, B♭m, B♭m6, C, C7, Cm, Csus4, Dm, Em7♭5, E♭, E♭m, F7, Fm6, G7, Gdim7, Gm7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/sarah-mclachlan-when-she-loved-me/]]></guid>
         <pubDate>Tue, 31 Mar 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

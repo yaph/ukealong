@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » E♭</title>
     <link>https://ukealong.com</link>
     <description>Chord » E♭</description>
-    <lastBuildDate>Wed, 13 May 2020 14:33:45 </lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2020 21:17:29 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Frank Sinatra - That's Life - Ukulaliens - Ukulele Club]]></title>
+        <link><![CDATA[https://ukealong.com/song/frank-sinatra-that-s-life/]]></link>
+        <description><![CDATA[Play along video for the song That's Life by Frank Sinatra from the channel Ukulaliens - Ukulele Club. Chords used in the song: A7, Am7, A♭, B7, B♭7, C, C7, D, E, Em, Em7, E♭, Fm, G, G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/frank-sinatra-that-s-life/]]></guid>
+        <pubDate>Fri, 08 May 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Sarah McLachlan - When She Loved Me - Baritone Ukulele - Key of F - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/sarah-mclachlan-when-she-loved-me-baritone-ukulele/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Island Style by John Cruz from the channel Ukulele Underground. Chords used in the song: B♭, B♭7, E♭, F.]]></description>
         <guid><![CDATA[https://ukealong.com/song/john-cruz-island-style/]]></guid>
         <pubDate>Sat, 31 Aug 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Fools Garden - Lemon Tree - BruderMaister]]></title>
-        <link><![CDATA[https://ukealong.com/song/fools-garden-lemon-tree/]]></link>
-        <description><![CDATA[Play along video for the song Lemon Tree by Fools Garden from the channel BruderMaister. Chords used in the song: A♭, B♭, B♭m, C, Cm, D♭, E♭, Fm.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/fools-garden-lemon-tree/]]></guid>
-        <pubDate>Tue, 16 Jul 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

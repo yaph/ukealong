@@ -3,9 +3,16 @@
 <channel><title>Uke Along Genre » Hip Hop</title>
     <link>https://ukealong.com</link>
     <description>Genre » Hip Hop</description>
-    <lastBuildDate>Wed, 13 May 2020 14:33:45 </lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2020 21:17:29 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[MC Hammer - U Can't Touch This - About Ukulele]]></title>
+        <link><![CDATA[https://ukealong.com/song/mc-hammer-u-can-t-touch-this/]]></link>
+        <description><![CDATA[Play along video for the song U Can't Touch This by MC Hammer from the channel About Ukulele.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/mc-hammer-u-can-t-touch-this/]]></guid>
+        <pubDate>Sun, 17 May 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Powfu & Beabadoobee - death bed - Ukulaliens - Ukulele Club]]></title>
         <link><![CDATA[https://ukealong.com/song/powfu-beabadoobee-death-bed/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song See You Again - Universal Pictures Film Music by Wiz Khalifa from the channel Andy Ramos. Chords used in the song: Am, C, Dm, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/wiz-khalifa-see-you-again-universal-pictures-film-music-2/]]></guid>
         <pubDate>Thu, 07 Feb 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[3 Hip-Hop Songs For Ukulele (With Tabs) - About Ukulele]]></title>
-        <link><![CDATA[https://ukealong.com/song/3-hip-hop-songs-for-ukulele-with-tabs/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/3-hip-hop-songs-for-ukulele-with-tabs/]]></guid>
-        <pubDate>Thu, 28 Jun 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

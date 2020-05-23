@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » B♭</title>
     <link>https://ukealong.com</link>
     <description>Chord » B♭</description>
-    <lastBuildDate>Wed, 13 May 2020 14:33:45 </lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2020 21:17:29 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,13 @@
         <description><![CDATA[Play along video for the song Everything Is Awesome by Garfunkel and Oates from the channel ukeplayalongs. Chords used in the song: A, Am, B♭, B♭sus4, C, Csus4, D, Dm, E, Em, F, Fsus4, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/garfunkel-and-oates-everything-is-awesome/]]></guid>
         <pubDate>Tue, 14 Apr 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[James Bay - Hold Back The River - Key of Dm - Ukulaliens - Ukulele Club]]></title>
+        <link><![CDATA[https://ukealong.com/song/james-bay-hold-back-the-river/]]></link>
+        <description><![CDATA[Play along video for the song Hold Back The River by James Bay from the channel Ukulaliens - Ukulele Club. Chords used in the song: B♭, C, Dm, F, Gm.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/james-bay-hold-back-the-river/]]></guid>
+        <pubDate>Mon, 13 Apr 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Sarah McLachlan - When She Loved Me - Baritone Ukulele - Key of F - ukeplayalongs]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Arthur Theme by Christopher Cross from the channel Ukulele Underground. Chords used in the song: B♭, C, F.]]></description>
         <guid><![CDATA[https://ukealong.com/song/christopher-cross-arthur-theme/]]></guid>
         <pubDate>Fri, 31 Jan 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Darlene Love - Christmas - Key of F - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/darlene-love-christmas-2/]]></link>
-        <description><![CDATA[Play along video for the song Christmas by Darlene Love from the channel ukeplayalongs. Chords used in the song: Am, B♭, C7, Dm, F.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/darlene-love-christmas-2/]]></guid>
-        <pubDate>Mon, 23 Dec 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>
