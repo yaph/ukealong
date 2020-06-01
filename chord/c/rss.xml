@@ -3,9 +3,23 @@
 <channel><title>Uke Along Chord » C</title>
     <link>https://ukealong.com</link>
     <description>Chord » C</description>
-    <lastBuildDate>Sat, 23 May 2020 23:35:28 </lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 11:21:51 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Little Richard - Tutti Frutti - Baritone Ukulele - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/little-richard-tutti-frutti-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song Tutti Frutti by Little Richard from the channel ukeplayalongs. Chords used in the song: B♭, C, F.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/little-richard-tutti-frutti-baritone-ukulele/]]></guid>
+        <pubDate>Tue, 26 May 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Little Richard - Tutti Frutti - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/little-richard-tutti-frutti/]]></link>
+        <description><![CDATA[Play along video for the song Tutti Frutti by Little Richard from the channel ukeplayalongs. Chords used in the song: B♭, C, F.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/little-richard-tutti-frutti/]]></guid>
+        <pubDate>Tue, 26 May 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Frank Sinatra - That's Life - Ukulaliens - Ukulele Club]]></title>
         <link><![CDATA[https://ukealong.com/song/frank-sinatra-that-s-life/]]></link>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song (Sittin' On) the Dock of the Bay by Otis Redding from the channel Ukulaliens - Ukulele Club. Chords used in the song: A, B7, C, D, E7, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/otis-redding-sittin-on-the-dock-of-the-bay/]]></guid>
         <pubDate>Wed, 22 Apr 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Parry Gripp & Brianne Drouhard - Space Unicorn - Baritone Ukulele - Key of C - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/parry-gripp-brianne-drouhard-space-unicorn-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song Space Unicorn by Parry Gripp & Brianne Drouhard from the channel ukeplayalongs. Chords used in the song: Am, C, E7, Em, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/parry-gripp-brianne-drouhard-space-unicorn-baritone-ukulele/]]></guid>
-        <pubDate>Sat, 18 Apr 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Bella Ciao (Ukulele Fingerstyle Play Along) Tabs On Screen - Ukulele Cheats]]></title>
-        <link><![CDATA[https://ukealong.com/song/bella-ciao-ukulele-fingerstyle-play-along-tabs-on-screen/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/bella-ciao-ukulele-fingerstyle-play-along-tabs-on-screen/]]></guid>
-        <pubDate>Sat, 18 Apr 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,9 +3,23 @@
 <channel><title>Uke Along Genre » Rock And Roll</title>
     <link>https://ukealong.com</link>
     <description>Genre » Rock And Roll</description>
-    <lastBuildDate>Sat, 23 May 2020 23:35:28 </lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 11:21:52 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Little Richard - Tutti Frutti - Baritone Ukulele - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/little-richard-tutti-frutti-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song Tutti Frutti by Little Richard from the channel ukeplayalongs. Chords used in the song: B♭, C, F.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/little-richard-tutti-frutti-baritone-ukulele/]]></guid>
+        <pubDate>Tue, 26 May 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Little Richard - Tutti Frutti - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/little-richard-tutti-frutti/]]></link>
+        <description><![CDATA[Play along video for the song Tutti Frutti by Little Richard from the channel ukeplayalongs. Chords used in the song: B♭, C, F.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/little-richard-tutti-frutti/]]></guid>
+        <pubDate>Tue, 26 May 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Roy Orbison - Oh, Pretty Woman - About Ukulele]]></title>
         <link><![CDATA[https://ukealong.com/song/roy-orbison-oh-pretty-woman/]]></link>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song Sweet Little Sixteen by Chuck Berry from the channel ukeplayalongs. Chords used in the song: A7, D, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/chuck-berry-sweet-little-sixteen-baritone-ukulele/]]></guid>
         <pubDate>Sun, 05 May 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Roy Orbison - Dream Baby - Key of F - Andy Ramos]]></title>
-        <link><![CDATA[https://ukealong.com/song/roy-orbison-dream-baby/]]></link>
-        <description><![CDATA[Play along video for the song Dream Baby by Roy Orbison from the channel Andy Ramos. Chords used in the song: C7, F.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/roy-orbison-dream-baby/]]></guid>
-        <pubDate>Thu, 25 Apr 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Queen - Crazy Little Thing Called Love - Key of A - Ukulaliens - Ukulele Club]]></title>
-        <link><![CDATA[https://ukealong.com/song/queen-crazy-little-thing-called-love/]]></link>
-        <description><![CDATA[Play along video for the song Crazy Little Thing Called Love by Queen from the channel Ukulaliens - Ukulele Club. Chords used in the song: A, B♭, C, D, Dsus4, E7, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/queen-crazy-little-thing-called-love/]]></guid>
-        <pubDate>Sat, 12 Jan 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>
