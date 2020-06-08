@@ -3,9 +3,23 @@
 <channel><title>Uke Along Artist » Ed Sheeran</title>
     <link>https://ukealong.com</link>
     <description>Artist » Ed Sheeran</description>
-    <lastBuildDate>Mon, 01 Jun 2020 11:21:52 </lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2020 21:42:33 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Ed Sheeran - Happier - Baritone Ukulele - Key of C - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/ed-sheeran-happier-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song Happier by Ed Sheeran from the channel ukeplayalongs. Chords used in the song: Am, C, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/ed-sheeran-happier-baritone-ukulele/]]></guid>
+        <pubDate>Wed, 20 May 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Ed Sheeran - Happier - Key of C - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/ed-sheeran-happier/]]></link>
+        <description><![CDATA[Play along video for the song Happier by Ed Sheeran from the channel ukeplayalongs. Chords used in the song: Am, C, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/ed-sheeran-happier/]]></guid>
+        <pubDate>Wed, 20 May 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Ed Sheeran & Khalid - Beautiful People - Key of C - Kris The Uke Chick Gilbert]]></title>
         <link><![CDATA[https://ukealong.com/song/ed-sheeran-khalid-beautiful-people/]]></link>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song The A Team by Ed Sheeran from the channel Ukulaliens - Ukulele Club. Chords used in the song: A, Bm7, D, E, F♯m.]]></description>
         <guid><![CDATA[https://ukealong.com/song/ed-sheeran-the-a-team/]]></guid>
         <pubDate>Sun, 09 Sep 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Ed Sheeran - Perfect - Key of G - Kevin Way]]></title>
-        <link><![CDATA[https://ukealong.com/song/ed-sheeran-perfect/]]></link>
-        <description><![CDATA[Play along video for the song Perfect by Ed Sheeran from the channel Kevin Way. Chords used in the song: C, D, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/ed-sheeran-perfect/]]></guid>
-        <pubDate>Sun, 15 Apr 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Ed Sheeran - Photograph - Key of F - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/ed-sheeran-photograph/]]></link>
-        <description><![CDATA[Play along video for the song Photograph by Ed Sheeran from the channel ukeplayalongs. Chords used in the song: B♭, C, Dm, F.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/ed-sheeran-photograph/]]></guid>
-        <pubDate>Fri, 05 Jan 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>
