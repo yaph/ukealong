@@ -3,9 +3,16 @@
 <channel><title>Uke Along Genre » Musical</title>
     <link>https://ukealong.com</link>
     <description>Genre » Musical</description>
-    <lastBuildDate>Mon, 08 Jun 2020 21:42:33 </lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 23:13:13 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Israel Kamakawiwo'ole - Somewhere Over The Rainbow - Key of C - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/israel-kamakawiwo-ole-somewhere-over-the-rainbow/]]></link>
+        <description><![CDATA[Play along video for the song Somewhere Over The Rainbow by Israel Kamakawiwo'ole from the channel Ukeledu Music. Chords used in the song: Am, C, Cmaj7, E7, Em, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/israel-kamakawiwo-ole-somewhere-over-the-rainbow/]]></guid>
+        <pubDate>Fri, 01 May 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Julie Andrews - My Favorite Things - Baritone Ukulele - Keys of Dm, Em - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/julie-andrews-my-favorite-things-baritone-ukulele/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song A Million Dreams by Ziv Zaifman & Hugh Jackman & Michelle Williams from the channel ukeplayalongs. Chords used in the song: A7, Am, B7, C, Cadd9, D, D7, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/ziv-zaifman-hugh-jackman-michelle-williams-a-million-dreams/]]></guid>
         <pubDate>Wed, 06 Jun 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Jonathan Groff & Original Broadway Cast of Hamilton - You'll Be Back - Key of G - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/jonathan-groff-original-broadway-cast-of-hamilton-you-ll-be-back/]]></link>
-        <description><![CDATA[Play along video for the song You'll Be Back by Jonathan Groff & Original Broadway Cast of Hamilton from the channel ukeplayalongs. Chords used in the song: Am7, Am7/D, C, Cm, Cmaj7, D, D7, Em, G, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/jonathan-groff-original-broadway-cast-of-hamilton-you-ll-be-back/]]></guid>
-        <pubDate>Sat, 19 May 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

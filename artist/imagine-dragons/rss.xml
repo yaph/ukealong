@@ -3,9 +3,16 @@
 <channel><title>Uke Along Artist » Imagine Dragons</title>
     <link>https://ukealong.com</link>
     <description>Artist » Imagine Dragons</description>
-    <lastBuildDate>Mon, 08 Jun 2020 21:42:33 </lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 23:13:13 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Imagine Dragons - Believer - Key of Am - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/imagine-dragons-believer/]]></link>
+        <description><![CDATA[Play along video for the song Believer by Imagine Dragons from the channel Ukeledu Music. Chords used in the song: Am, E7, F.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/imagine-dragons-believer/]]></guid>
+        <pubDate>Wed, 15 Apr 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Imagine Dragons - Bad Liar - Baritone Ukulele - Key of D - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/imagine-dragons-bad-liar-baritone-ukulele/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Thunder by Imagine Dragons from the channel ukeplayalongs. Chords used in the song: Am, C, Dm, Em, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/imagine-dragons-thunder/]]></guid>
         <pubDate>Fri, 16 Feb 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Imagine Dragons - Radioactive - Key of Am - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/imagine-dragons-radioactive/]]></link>
-        <description><![CDATA[Play along video for the song Radioactive by Imagine Dragons from the channel ukeplayalongs. Chords used in the song: Am, C, D, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/imagine-dragons-radioactive/]]></guid>
-        <pubDate>Tue, 30 Jan 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

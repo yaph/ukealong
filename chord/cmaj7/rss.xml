@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Cmaj7</title>
     <link>https://ukealong.com</link>
     <description>Chord » Cmaj7</description>
-    <lastBuildDate>Mon, 08 Jun 2020 21:42:33 </lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 23:13:13 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,6 +12,13 @@
         <description><![CDATA[Play along video for the song Smile by Charlie Chaplin from the channel Ukulele Cheats. Chords used in the song: Am7, A♯, C, C6, Cmaj7, Ddim, Dm, Dm7, D♯dim, Edim, Fm, Fm6 G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/charlie-chaplin-smile/]]></guid>
         <pubDate>Sun, 03 May 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Israel Kamakawiwo'ole - Somewhere Over The Rainbow - Key of C - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/israel-kamakawiwo-ole-somewhere-over-the-rainbow/]]></link>
+        <description><![CDATA[Play along video for the song Somewhere Over The Rainbow by Israel Kamakawiwo'ole from the channel Ukeledu Music. Chords used in the song: Am, C, Cmaj7, E7, Em, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/israel-kamakawiwo-ole-somewhere-over-the-rainbow/]]></guid>
+        <pubDate>Fri, 01 May 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[John Lennon - Imagine - Ukulele Cheats]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Crazy by Patsy Cline from the channel Cynthia Lin Music. Chords used in the song: A7, C, C7, Cmaj7, C♯dim7, D7, D7♭9, Dm, Em7, F, G7, G7+5.]]></description>
         <guid><![CDATA[https://ukealong.com/song/patsy-cline-crazy/]]></guid>
         <pubDate>Sun, 01 Mar 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Beatles - Something - Ukulele Underground]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-beatles-something/]]></link>
-        <description><![CDATA[Play along video for the song Something by The Beatles from the channel Ukulele Underground. Chords used in the song: A, A7, Am, Am7, Amaj7, Ammaj7, Bdim7, C, C7, Cmaj7, D, D7, E♭, F, F♯m, G, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-beatles-something/]]></guid>
-        <pubDate>Sat, 29 Feb 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,7 +3,7 @@
 <channel><title>Uke Along Key » C</title>
     <link>https://ukealong.com</link>
     <description>Key » C</description>
-    <lastBuildDate>Mon, 08 Jun 2020 21:42:33 </lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 23:13:13 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -33,6 +33,13 @@
         <description><![CDATA[Play along video for the song You Are My Sunshine by The Hound & The Fox from the channel ukeplayalongs. Chords used in the song: Am, C, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-hound-the-fox-you-are-my-sunshine-2/]]></guid>
         <pubDate>Tue, 05 May 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Israel Kamakawiwo'ole - Somewhere Over The Rainbow - Key of C - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/israel-kamakawiwo-ole-somewhere-over-the-rainbow/]]></link>
+        <description><![CDATA[Play along video for the song Somewhere Over The Rainbow by Israel Kamakawiwo'ole from the channel Ukeledu Music. Chords used in the song: Am, C, Cmaj7, E7, Em, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/israel-kamakawiwo-ole-somewhere-over-the-rainbow/]]></guid>
+        <pubDate>Fri, 01 May 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Parry Gripp & Brianne Drouhard - Space Unicorn - Baritone Ukulele - Key of C - ukeplayalongs]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Mickey's Monkey by Smokey Robinson & The Miracles from the channel Andy Ramos. Chords used in the song: C, F.]]></description>
         <guid><![CDATA[https://ukealong.com/song/smokey-robinson-the-miracles-mickey-s-monkey/]]></guid>
         <pubDate>Tue, 03 Mar 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Why Don't We - Chills - Key of C - Andy Ramos]]></title>
-        <link><![CDATA[https://ukealong.com/song/why-don-t-we-chills/]]></link>
-        <description><![CDATA[Play along video for the song Chills by Why Don't We from the channel Andy Ramos. Chords used in the song: Am, C, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/why-don-t-we-chills/]]></guid>
-        <pubDate>Mon, 02 Mar 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

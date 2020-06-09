@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » E7</title>
     <link>https://ukealong.com</link>
     <description>Chord » E7</description>
-    <lastBuildDate>Mon, 08 Jun 2020 21:42:33 </lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 23:13:13 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,13 @@
         <description><![CDATA[Play along video for the song everything i wanted by Billie Eilish from the channel ukeplayalongs. Chords used in the song: E7, Em, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/billie-eilish-everything-i-wanted/]]></guid>
         <pubDate>Tue, 12 May 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Israel Kamakawiwo'ole - Somewhere Over The Rainbow - Key of C - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/israel-kamakawiwo-ole-somewhere-over-the-rainbow/]]></link>
+        <description><![CDATA[Play along video for the song Somewhere Over The Rainbow by Israel Kamakawiwo'ole from the channel Ukeledu Music. Chords used in the song: Am, C, Cmaj7, E7, Em, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/israel-kamakawiwo-ole-somewhere-over-the-rainbow/]]></guid>
+        <pubDate>Fri, 01 May 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[John Lennon - Imagine - Ukulele Cheats]]></title>
@@ -49,6 +56,13 @@
         <pubDate>Sat, 18 Apr 2020 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Imagine Dragons - Believer - Key of Am - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/imagine-dragons-believer/]]></link>
+        <description><![CDATA[Play along video for the song Believer by Imagine Dragons from the channel Ukeledu Music. Chords used in the song: Am, E7, F.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/imagine-dragons-believer/]]></guid>
+        <pubDate>Wed, 15 Apr 2020 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[John Lennon - Imagine - Ukeledu Music]]></title>
         <link><![CDATA[https://ukealong.com/song/john-lennon-imagine-2/]]></link>
         <description><![CDATA[Play along video for the song Imagine by John Lennon from the channel Ukeledu Music. Chords used in the song: Am, C, Cmaj7, Dm, E7, F, G, G7.]]></description>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song Crazy by Gnarls Barkley from the channel Ukeledu Music. Chords used in the song: Am, Cmaj7, E7, F.]]></description>
         <guid><![CDATA[https://ukealong.com/song/gnarls-barkley-crazy/]]></guid>
         <pubDate>Wed, 01 Apr 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Judy Garland - Over The Rainbow - Baritone Ukulele - Key of G - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/judy-garland-over-the-rainbow-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song Over The Rainbow by Judy Garland from the channel ukeplayalongs. Chords used in the song: A7, Am7, Bm, C, Cm, D7, E7, Em7, G, G7, Gdim7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/judy-garland-over-the-rainbow-baritone-ukulele/]]></guid>
-        <pubDate>Tue, 24 Mar 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Judy Garland - Over The Rainbow - Key of G - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/judy-garland-over-the-rainbow/]]></link>
-        <description><![CDATA[Play along video for the song Over The Rainbow by Judy Garland from the channel ukeplayalongs. Chords used in the song: A7, Am7, Bm, C, Cm, D7, E7, Em7, G, G7, Gdim7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/judy-garland-over-the-rainbow/]]></guid>
-        <pubDate>Tue, 24 Mar 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

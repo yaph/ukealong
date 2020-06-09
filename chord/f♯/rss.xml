@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » F♯</title>
     <link>https://ukealong.com</link>
     <description>Chord » F♯</description>
-    <lastBuildDate>Mon, 08 Jun 2020 21:42:33 </lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 23:13:13 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Radiohead - Karma Police - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/radiohead-karma-police/]]></link>
+        <description><![CDATA[Play along video for the song Karma Police by Radiohead from the channel Ukeledu Music. Chords used in the song: Am, Bm, C, D, E, Em, F, F♯, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/radiohead-karma-police/]]></guid>
+        <pubDate>Fri, 24 Apr 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[The Turtles - Happy Together - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/the-turtles-happy-together/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Your Man by Josh Turner from the channel Ukulele Underground. Chords used in the song: A♯m7, B, C♯7, F♯, G♯m.]]></description>
         <guid><![CDATA[https://ukealong.com/song/josh-turner-your-man/]]></guid>
         <pubDate>Mon, 01 Jan 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Johnny Cash - Personal Jesus - Key of Em - BruderMaister]]></title>
-        <link><![CDATA[https://ukealong.com/song/johnny-cash-personal-jesus/]]></link>
-        <description><![CDATA[Play along video for the song Personal Jesus by Johnny Cash from the channel BruderMaister. Chords used in the song: Am7, C, D, Em, F, F♯, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/johnny-cash-personal-jesus/]]></guid>
-        <pubDate>Thu, 30 Nov 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>
