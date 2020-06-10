@@ -3,7 +3,7 @@
 <channel><title>Uke Along Key</title>
     <link>https://ukealong.com</link>
     <description>Key</description>
-    <lastBuildDate>Wed, 10 Jun 2020 21:24:32 </lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 23:18:47 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -26,6 +26,20 @@
         <description><![CDATA[Play along video for the song Stuck with U by Ariana Grande & Justin Bieber from the channel ukeplayalongs. Chords used in the song: B7, Bm, C, Cm, D, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/ariana-grande-justin-bieber-stuck-with-u-baritone-ukulele/]]></guid>
         <pubDate>Wed, 03 Jun 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Pure Heart - How Can I Get Over - Key of A - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/pure-heart-how-can-i-get-over/]]></link>
+        <description><![CDATA[Play along video for the song How Can I Get Over by Pure Heart from the channel Ukulele Underground. Chords used in the song: A, Bm7, D.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/pure-heart-how-can-i-get-over/]]></guid>
+        <pubDate>Mon, 01 Jun 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Bob Dylan - Knockin' On Heaven's Door - Key of G - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/bob-dylan-knockin-on-heaven-s-door/]]></link>
+        <description><![CDATA[Play along video for the song Knockin' On Heaven's Door by Bob Dylan from the channel Ukulele Cheats. Chords used in the song: Am, C, D, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bob-dylan-knockin-on-heaven-s-door/]]></guid>
+        <pubDate>Sun, 31 May 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Tiffany - I Think We're Alone Now - Key of G - Ukulaliens - Ukulele Club]]></title>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song everything i wanted by Billie Eilish from the channel ukeplayalongs. Chords used in the song: C♯7, C♯m, D, E.]]></description>
         <guid><![CDATA[https://ukealong.com/song/billie-eilish-everything-i-wanted-baritone-ukulele/]]></guid>
         <pubDate>Tue, 12 May 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Billie Eilish - everything i wanted - Key of F - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/billie-eilish-everything-i-wanted/]]></link>
-        <description><![CDATA[Play along video for the song everything i wanted by Billie Eilish from the channel ukeplayalongs. Chords used in the song: E7, Em, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/billie-eilish-everything-i-wanted/]]></guid>
-        <pubDate>Tue, 12 May 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Hound & The Fox - You Are My Sunshine - Key of D - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-hound-the-fox-you-are-my-sunshine/]]></link>
-        <description><![CDATA[Play along video for the song You Are My Sunshine by The Hound & The Fox from the channel ukeplayalongs. Chords used in the song: A, Bm, D, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-hound-the-fox-you-are-my-sunshine/]]></guid>
-        <pubDate>Tue, 05 May 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

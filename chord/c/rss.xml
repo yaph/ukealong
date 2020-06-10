@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » C</title>
     <link>https://ukealong.com</link>
     <description>Chord » C</description>
-    <lastBuildDate>Wed, 10 Jun 2020 21:24:32 </lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 23:18:47 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -26,6 +26,13 @@
         <description><![CDATA[Play along video for the song Stuck with U by Ariana Grande & Justin Bieber from the channel ukeplayalongs. Chords used in the song: B7, Bm, C, Cm, D, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/ariana-grande-justin-bieber-stuck-with-u-baritone-ukulele/]]></guid>
         <pubDate>Wed, 03 Jun 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Bob Dylan - Knockin' On Heaven's Door - Key of G - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/bob-dylan-knockin-on-heaven-s-door/]]></link>
+        <description><![CDATA[Play along video for the song Knockin' On Heaven's Door by Bob Dylan from the channel Ukulele Cheats. Chords used in the song: Am, C, D, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bob-dylan-knockin-on-heaven-s-door/]]></guid>
+        <pubDate>Sun, 31 May 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Little Richard - Tutti Frutti - Baritone Ukulele - ukeplayalongs]]></title>
@@ -63,17 +70,10 @@
         <pubDate>Wed, 20 May 2020 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[Frank Sinatra - That's Life - Ukulaliens - Ukulele Club]]></title>
-        <link><![CDATA[https://ukealong.com/song/frank-sinatra-that-s-life/]]></link>
-        <description><![CDATA[Play along video for the song That's Life by Frank Sinatra from the channel Ukulaliens - Ukulele Club. Chords used in the song: A7, Am7, A♭, B7, B♭7, C, C7, D, E, Em, Em7, E♭, Fm, G, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/frank-sinatra-that-s-life/]]></guid>
-        <pubDate>Fri, 08 May 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Hound & The Fox - You Are My Sunshine - Baritone Ukulele - Key of C - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-hound-the-fox-you-are-my-sunshine-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song You Are My Sunshine by The Hound & The Fox from the channel ukeplayalongs. Chords used in the song: Am, C, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-hound-the-fox-you-are-my-sunshine-baritone-ukulele/]]></guid>
-        <pubDate>Tue, 05 May 2020 00:00:00 </pubDate>
+        <title><![CDATA[The Beatles - Yesterday - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-yesterday/]]></link>
+        <description><![CDATA[Play along video for the song Yesterday by The Beatles from the channel Ukulele Cheats. Chords used in the song: A, A7, A♯, C, Dm, Em, F, G, Gm6.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-yesterday/]]></guid>
+        <pubDate>Sun, 10 May 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

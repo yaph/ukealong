@@ -3,9 +3,23 @@
 <channel><title>Uke Along Chord » A♯</title>
     <link>https://ukealong.com</link>
     <description>Chord » A♯</description>
-    <lastBuildDate>Wed, 10 Jun 2020 21:24:32 </lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 23:18:47 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[The Beatles - Yesterday - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-yesterday/]]></link>
+        <description><![CDATA[Play along video for the song Yesterday by The Beatles from the channel Ukulele Cheats. Chords used in the song: A, A7, A♯, C, Dm, Em, F, G, Gm6.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-yesterday/]]></guid>
+        <pubDate>Sun, 10 May 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Audrey Hepburn - Moon River - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/audrey-hepburn-moon-river/]]></link>
+        <description><![CDATA[Play along video for the song Moon River by Audrey Hepburn from the channel Ukulele Cheats. Chords used in the song: A7, Am7, A♯, A♯m6, B7, Bm, Bm6, C7, C♯7, D, D7, Dm, Dm6, D♯, E7, Em, Em6, Em7, F, F7, F♯7, F♯m7, G, G7, Gm, Gm6.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/audrey-hepburn-moon-river/]]></guid>
+        <pubDate>Thu, 07 May 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Charlie Chaplin - Smile - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/charlie-chaplin-smile/]]></link>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song Killing Me Softly by Roberta Flack from the channel Ukulele Cheats. Chords used in the song: A, Am, A♯, C, Dm, E7, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/roberta-flack-killing-me-softly/]]></guid>
         <pubDate>Thu, 28 Nov 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Jack Johnson - Better Together - Ukulele Cheats]]></title>
-        <link><![CDATA[https://ukealong.com/song/jack-johnson-better-together/]]></link>
-        <description><![CDATA[Play along video for the song Better Together by Jack Johnson from the channel Ukulele Cheats. Chords used in the song: Am, A♯, C, Dm, F, Gm.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/jack-johnson-better-together/]]></guid>
-        <pubDate>Fri, 15 Nov 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Beatles - I Will - Ukulele Cheats]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-beatles-i-will/]]></link>
-        <description><![CDATA[Play along video for the song I Will by The Beatles from the channel Ukulele Cheats. Chords used in the song: Am, A♯, A♯m, C7, C♯7, Dm, F, F7, Fdim, G7, Gm7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-beatles-i-will/]]></guid>
-        <pubDate>Wed, 10 Jul 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

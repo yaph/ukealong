@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » E7</title>
     <link>https://ukealong.com</link>
     <description>Chord » E7</description>
-    <lastBuildDate>Wed, 10 Jun 2020 21:24:32 </lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 23:18:47 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,20 @@
         <description><![CDATA[Play along video for the song everything i wanted by Billie Eilish from the channel ukeplayalongs. Chords used in the song: E7, Em, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/billie-eilish-everything-i-wanted/]]></guid>
         <pubDate>Tue, 12 May 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Audrey Hepburn - Moon River - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/audrey-hepburn-moon-river/]]></link>
+        <description><![CDATA[Play along video for the song Moon River by Audrey Hepburn from the channel Ukulele Cheats. Chords used in the song: A7, Am7, A♯, A♯m6, B7, Bm, Bm6, C7, C♯7, D, D7, Dm, Dm6, D♯, E7, Em, Em6, Em7, F, F7, F♯7, F♯m7, G, G7, Gm, Gm6.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/audrey-hepburn-moon-river/]]></guid>
+        <pubDate>Thu, 07 May 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Dulce Pontes - Lela - Key of Am - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/dulce-pontes-lela/]]></link>
+        <description><![CDATA[Play along video for the song Lela by Dulce Pontes from the channel Ukeledu Music. Chords used in the song: A7, Am, Amadd9, B, Cmaj7, Dm, E7, F, G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/dulce-pontes-lela/]]></guid>
+        <pubDate>Sun, 03 May 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Israel Kamakawiwo'ole - Somewhere Over The Rainbow - Key of C - Ukeledu Music]]></title>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song Believer by Imagine Dragons from the channel Ukeledu Music. Chords used in the song: Am, E7, F.]]></description>
         <guid><![CDATA[https://ukealong.com/song/imagine-dragons-believer/]]></guid>
         <pubDate>Wed, 15 Apr 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[John Lennon - Imagine - Ukeledu Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/john-lennon-imagine-2/]]></link>
-        <description><![CDATA[Play along video for the song Imagine by John Lennon from the channel Ukeledu Music. Chords used in the song: Am, C, Cmaj7, Dm, E7, F, G, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/john-lennon-imagine-2/]]></guid>
-        <pubDate>Fri, 10 Apr 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Gnarls Barkley - Crazy - Ukeledu Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/gnarls-barkley-crazy/]]></link>
-        <description><![CDATA[Play along video for the song Crazy by Gnarls Barkley from the channel Ukeledu Music. Chords used in the song: Am, Cmaj7, E7, F.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/gnarls-barkley-crazy/]]></guid>
-        <pubDate>Wed, 01 Apr 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,9 +3,16 @@
 <channel><title>Uke Along Key » A</title>
     <link>https://ukealong.com</link>
     <description>Key » A</description>
-    <lastBuildDate>Wed, 10 Jun 2020 21:24:32 </lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 23:18:47 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Pure Heart - How Can I Get Over - Key of A - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/pure-heart-how-can-i-get-over/]]></link>
+        <description><![CDATA[Play along video for the song How Can I Get Over by Pure Heart from the channel Ukulele Underground. Chords used in the song: A, Bm7, D.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/pure-heart-how-can-i-get-over/]]></guid>
+        <pubDate>Mon, 01 Jun 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Michael Bublé - I Believe in You - Keys of A, G - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Between the Devil and the Deep Blue Sea by George Harrison from the channel ukeplayalongs. Chords used in the song: A, Bdim7, Bm, B♭, B♭m, C7, Caug, C♯7, Dm, Dm7, E7, E♭, F, F7, F♯m, G, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/george-harrison-between-the-devil-and-the-deep-blue-sea/]]></guid>
         <pubDate>Wed, 03 Jul 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Buddy Holly & The Crickets - Oh Boy! - Key of A - Ukulaliens - Ukulele Club]]></title>
-        <link><![CDATA[https://ukealong.com/song/buddy-holly-the-crickets-oh-boy/]]></link>
-        <description><![CDATA[Play along video for the song Oh Boy! by Buddy Holly & The Crickets from the channel Ukulaliens - Ukulele Club. Chords used in the song: A, D, E7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/buddy-holly-the-crickets-oh-boy/]]></guid>
-        <pubDate>Fri, 31 May 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,9 +3,16 @@
 <channel><title>Uke Along Artist » The Beatles</title>
     <link>https://ukealong.com</link>
     <description>Artist » The Beatles</description>
-    <lastBuildDate>Wed, 10 Jun 2020 21:24:32 </lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 23:18:47 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[The Beatles - Yesterday - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-yesterday/]]></link>
+        <description><![CDATA[Play along video for the song Yesterday by The Beatles from the channel Ukulele Cheats. Chords used in the song: A, A7, A♯, C, Dm, Em, F, G, Gm6.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-yesterday/]]></guid>
+        <pubDate>Sun, 10 May 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[The Beatles - I Want To Hold Your Hand - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/the-beatles-i-want-to-hold-your-hand/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Oh! Darling by The Beatles from the channel Cynthia Lin Music. Chords used in the song: A, A7, B7, Bm, B♭7, D, E, E7, Eaug, F7, F♯m.]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-beatles-oh-darling/]]></guid>
         <pubDate>Sun, 07 Apr 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Beatles - Love Me Do - Key of G - Cynthia Lin Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-beatles-love-me-do/]]></link>
-        <description><![CDATA[Play along video for the song Love Me Do by The Beatles from the channel Cynthia Lin Music. Chords used in the song: C, D, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-beatles-love-me-do/]]></guid>
-        <pubDate>Sun, 31 Mar 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

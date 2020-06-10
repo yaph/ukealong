@@ -3,9 +3,16 @@
 <channel><title>Uke Along Genre » Folk</title>
     <link>https://ukealong.com</link>
     <description>Genre » Folk</description>
-    <lastBuildDate>Wed, 10 Jun 2020 21:24:32 </lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 23:18:47 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Bob Dylan - Knockin' On Heaven's Door - Key of G - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/bob-dylan-knockin-on-heaven-s-door/]]></link>
+        <description><![CDATA[Play along video for the song Knockin' On Heaven's Door by Bob Dylan from the channel Ukulele Cheats. Chords used in the song: Am, C, D, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bob-dylan-knockin-on-heaven-s-door/]]></guid>
+        <pubDate>Sun, 31 May 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[The Hound & The Fox - You Are My Sunshine - Key of D - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/the-hound-the-fox-you-are-my-sunshine/]]></link>
@@ -67,13 +74,6 @@
         <link><![CDATA[https://ukealong.com/song/mary-chapin-carpenter-thanksgiving-song-baritone-ukulele/]]></link>
         <description><![CDATA[Play along video for the song Thanksgiving Song by Mary Chapin Carpenter from the channel Daniel Simmons. Chords used in the song: Am, C, D, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/mary-chapin-carpenter-thanksgiving-song-baritone-ukulele/]]></guid>
-        <pubDate>Wed, 23 Oct 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Mary Chapin Carpenter - Thanksgiving Song - Key of G - Daniel Simmons]]></title>
-        <link><![CDATA[https://ukealong.com/song/mary-chapin-carpenter-thanksgiving-song/]]></link>
-        <description><![CDATA[Play along video for the song Thanksgiving Song by Mary Chapin Carpenter from the channel Daniel Simmons. Chords used in the song: Am, C, D, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/mary-chapin-carpenter-thanksgiving-song/]]></guid>
         <pubDate>Wed, 23 Oct 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

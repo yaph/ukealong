@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Cmaj7</title>
     <link>https://ukealong.com</link>
     <description>Chord » Cmaj7</description>
-    <lastBuildDate>Wed, 10 Jun 2020 21:24:32 </lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 23:18:47 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -11,6 +11,13 @@
         <link><![CDATA[https://ukealong.com/song/charlie-chaplin-smile/]]></link>
         <description><![CDATA[Play along video for the song Smile by Charlie Chaplin from the channel Ukulele Cheats. Chords used in the song: Am7, A♯, C, C6, Cmaj7, Ddim, Dm, Dm7, D♯dim, Edim, Fm, Fm6 G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/charlie-chaplin-smile/]]></guid>
+        <pubDate>Sun, 03 May 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Dulce Pontes - Lela - Key of Am - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/dulce-pontes-lela/]]></link>
+        <description><![CDATA[Play along video for the song Lela by Dulce Pontes from the channel Ukeledu Music. Chords used in the song: A7, Am, Amadd9, B, Cmaj7, Dm, E7, F, G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/dulce-pontes-lela/]]></guid>
         <pubDate>Sun, 03 May 2020 00:00:00 </pubDate>
     </item>
     <item>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song everything i wanted by Billie Eilish from the channel Ukulele Cheats. Chords used in the song: B7, Bm, C, Cmaj7, D.]]></description>
         <guid><![CDATA[https://ukealong.com/song/billie-eilish-everything-i-wanted-2/]]></guid>
         <pubDate>Sun, 22 Mar 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Patsy Cline - Crazy - Cynthia Lin Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/patsy-cline-crazy/]]></link>
-        <description><![CDATA[Play along video for the song Crazy by Patsy Cline from the channel Cynthia Lin Music. Chords used in the song: A7, C, C7, Cmaj7, C♯dim7, D7, D7♭9, Dm, Em7, F, G7, G7+5.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/patsy-cline-crazy/]]></guid>
-        <pubDate>Sun, 01 Mar 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

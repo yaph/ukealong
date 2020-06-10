@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Rock</title>
     <link>https://ukealong.com</link>
     <description>Genre » Rock</description>
-    <lastBuildDate>Wed, 10 Jun 2020 21:24:32 </lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 23:18:47 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,6 +12,20 @@
         <description><![CDATA[Play along video for the song Island In The Sun by Weezer from the channel Ukulaliens - Ukulele Club. Chords used in the song: Am, C, D, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/weezer-island-in-the-sun/]]></guid>
         <pubDate>Sun, 07 Jun 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Bob Dylan - Knockin' On Heaven's Door - Key of G - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/bob-dylan-knockin-on-heaven-s-door/]]></link>
+        <description><![CDATA[Play along video for the song Knockin' On Heaven's Door by Bob Dylan from the channel Ukulele Cheats. Chords used in the song: Am, C, D, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bob-dylan-knockin-on-heaven-s-door/]]></guid>
+        <pubDate>Sun, 31 May 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Nirvana - Nirvana - Heart Shaped Box - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/nirvana-nirvana-heart-shaped-box/]]></link>
+        <description><![CDATA[Play along video for the song Nirvana - Heart Shaped Box by Nirvana from the channel Ukeledu Music. Chords used in the song: Am, D, F, F♯dim.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/nirvana-nirvana-heart-shaped-box/]]></guid>
+        <pubDate>Fri, 08 May 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Radiohead - Karma Police - Ukeledu Music]]></title>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song What's Up? by 4 Non Blondes from the channel Ukulele Cheats. Chords used in the song: A♯, F, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/4-non-blondes-what-s-up/]]></guid>
         <pubDate>Mon, 09 Mar 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[George Harrison - My Sweet Lord - Ukulele Cheats]]></title>
-        <link><![CDATA[https://ukealong.com/song/george-harrison-my-sweet-lord/]]></link>
-        <description><![CDATA[Play along video for the song My Sweet Lord by George Harrison from the channel Ukulele Cheats. Chords used in the song: A, B, B7, Bm, C♯7, D, D7, E, Em, F♯dim7, F♯m, G♯dim7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/george-harrison-my-sweet-lord/]]></guid>
-        <pubDate>Fri, 06 Mar 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Beatles - Something - Ukulele Underground]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-beatles-something/]]></link>
-        <description><![CDATA[Play along video for the song Something by The Beatles from the channel Ukulele Underground. Chords used in the song: A, A7, Am, Am7, Amaj7, Ammaj7, Bdim7, C, C7, Cmaj7, D, D7, E♭, F, F♯m, G, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-beatles-something/]]></guid>
-        <pubDate>Sat, 29 Feb 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>
