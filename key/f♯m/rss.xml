@@ -3,14 +3,14 @@
 <channel><title>Uke Along Key » F♯M</title>
     <link>https://ukealong.com</link>
     <description>Key » F♯M</description>
-    <lastBuildDate>Wed, 10 Jun 2020 23:18:47 </lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 23:46:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Michael Jackson - Billie Jean - Key of F#m - Kevin Way]]></title>
-        <link><![CDATA[https://ukealong.com/song/michael-jackson-billie-jean/]]></link>
+        <link><![CDATA[http://localhost:8080/song/michael-jackson-billie-jean/]]></link>
         <description><![CDATA[Play along video for the song Billie Jean by Michael Jackson from the channel Kevin Way. Chords used in the song: A, Bm, C♯7, D, F♯m, G♯m.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/michael-jackson-billie-jean/]]></guid>
+        <guid><![CDATA[http://localhost:8080/song/michael-jackson-billie-jean/]]></guid>
         <pubDate>Tue, 13 Mar 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>
