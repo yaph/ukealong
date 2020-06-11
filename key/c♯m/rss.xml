@@ -3,21 +3,21 @@
 <channel><title>Uke Along Key » C♯M</title>
     <link>https://ukealong.com</link>
     <description>Key » C♯M</description>
-    <lastBuildDate>Wed, 10 Jun 2020 23:46:40 </lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 14:35:23 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Anthony Hamilton & Elayna Boynton - Freedom - Key of C#m - BruderMaister]]></title>
-        <link><![CDATA[http://localhost:8080/song/anthony-hamilton-elayna-boynton-freedom/]]></link>
+        <link><![CDATA[https://ukealong.com/song/anthony-hamilton-elayna-boynton-freedom/]]></link>
         <description><![CDATA[Play along video for the song Freedom by Anthony Hamilton & Elayna Boynton from the channel BruderMaister. Chords used in the song: A, B, C♯m, E, F♯, G♯.]]></description>
-        <guid><![CDATA[http://localhost:8080/song/anthony-hamilton-elayna-boynton-freedom/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/anthony-hamilton-elayna-boynton-freedom/]]></guid>
         <pubDate>Wed, 20 Feb 2019 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Ed Sheeran - Shape of You - Key of C#m - Ukeledu Music]]></title>
-        <link><![CDATA[http://localhost:8080/song/ed-sheeran-shape-of-you-2/]]></link>
+        <link><![CDATA[https://ukealong.com/song/ed-sheeran-shape-of-you-2/]]></link>
         <description><![CDATA[Play along video for the song Shape of You by Ed Sheeran from the channel Ukeledu Music. Chords used in the song: A, B, C♯m, F♯m.]]></description>
-        <guid><![CDATA[http://localhost:8080/song/ed-sheeran-shape-of-you-2/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/ed-sheeran-shape-of-you-2/]]></guid>
         <pubDate>Mon, 18 Feb 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

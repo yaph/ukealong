@@ -3,9 +3,16 @@
 <channel><title>Uke Along Artist » The Beatles</title>
     <link>https://ukealong.com</link>
     <description>Artist » The Beatles</description>
-    <lastBuildDate>Wed, 10 Jun 2020 23:46:32 </lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 14:35:23 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[The Beatles - I Should Have Known Better - Key of C - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-i-should-have-known-better/]]></link>
+        <description><![CDATA[Play along video for the song I Should Have Known Better by The Beatles from the channel Ukulele Cheats. Chords used in the song: Am, C, C7, E7, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-i-should-have-known-better/]]></guid>
+        <pubDate>Sun, 17 May 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[The Beatles - Yesterday - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/the-beatles-yesterday/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Come Together by The Beatles from the channel Cynthia Lin Music. Chords used in the song: A, A7, Bm, Dm, G, G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-beatles-come-together/]]></guid>
         <pubDate>Wed, 10 Apr 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Beatles - Oh! Darling - Cynthia Lin Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-beatles-oh-darling/]]></link>
-        <description><![CDATA[Play along video for the song Oh! Darling by The Beatles from the channel Cynthia Lin Music. Chords used in the song: A, A7, B7, Bm, B♭7, D, E, E7, Eaug, F7, F♯m.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-beatles-oh-darling/]]></guid>
-        <pubDate>Sun, 07 Apr 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>
