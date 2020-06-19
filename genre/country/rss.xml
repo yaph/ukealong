@@ -3,9 +3,16 @@
 <channel><title>Uke Along Genre » Country</title>
     <link>https://ukealong.com</link>
     <description>Genre » Country</description>
-    <lastBuildDate>Mon, 15 Jun 2020 11:33:08 </lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2020 14:43:11 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Johnny Cash - Ring Of Fire - Key of G - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/johnny-cash-ring-of-fire/]]></link>
+        <description><![CDATA[Play along video for the song Ring Of Fire by Johnny Cash from the channel Ukulele Cheats. Chords used in the song: C, D, D7, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/johnny-cash-ring-of-fire/]]></guid>
+        <pubDate>Wed, 17 Jun 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Kenny Rogers - The Gambler - Key of D - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/kenny-rogers-the-gambler/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Live Like You Were Dying by Tim McGraw from the channel Daniel Simmons. Chords used in the song: B7, C, D, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/tim-mcgraw-live-like-you-were-dying/]]></guid>
         <pubDate>Thu, 04 Jul 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[LeAnn Rimes - How Do I Live - Key of C - Daniel Simmons]]></title>
-        <link><![CDATA[https://ukealong.com/song/leann-rimes-how-do-i-live/]]></link>
-        <description><![CDATA[Play along video for the song How Do I Live by LeAnn Rimes from the channel Daniel Simmons. Chords used in the song: A, Asus, Bm7, C, Dm, Em7, F, F♯m, G, Gsus.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/leann-rimes-how-do-i-live/]]></guid>
-        <pubDate>Tue, 25 Jun 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

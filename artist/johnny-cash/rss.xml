@@ -3,14 +3,21 @@
 <channel><title>Uke Along Artist » Johnny Cash</title>
     <link>https://ukealong.com</link>
     <description>Artist » Johnny Cash</description>
-    <lastBuildDate>Mon, 15 Jun 2020 11:33:08 </lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2020 14:43:11 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-        <title><![CDATA[Johnny Cash - Ring of Fire - Key of G - Kevin Way]]></title>
+        <title><![CDATA[Johnny Cash - Ring Of Fire - Key of G - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/johnny-cash-ring-of-fire/]]></link>
-        <description><![CDATA[Play along video for the song Ring of Fire by Johnny Cash from the channel Kevin Way. Chords used in the song: C, D, G.]]></description>
+        <description><![CDATA[Play along video for the song Ring Of Fire by Johnny Cash from the channel Ukulele Cheats. Chords used in the song: C, D, D7, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/johnny-cash-ring-of-fire/]]></guid>
+        <pubDate>Wed, 17 Jun 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Johnny Cash - Ring of Fire - Key of G - Kevin Way]]></title>
+        <link><![CDATA[https://ukealong.com/song/johnny-cash-ring-of-fire-2/]]></link>
+        <description><![CDATA[Play along video for the song Ring of Fire by Johnny Cash from the channel Kevin Way. Chords used in the song: C, D, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/johnny-cash-ring-of-fire-2/]]></guid>
         <pubDate>Tue, 12 Feb 2019 00:00:00 </pubDate>
     </item>
     <item>
@@ -29,9 +36,9 @@
     </item>
     <item>
         <title><![CDATA[Johnny Cash - Ring of Fire - Key of G - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/johnny-cash-ring-of-fire-2/]]></link>
+        <link><![CDATA[https://ukealong.com/song/johnny-cash-ring-of-fire-3/]]></link>
         <description><![CDATA[Play along video for the song Ring of Fire by Johnny Cash from the channel ukeplayalongs. Chords used in the song: C, D7, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/johnny-cash-ring-of-fire-2/]]></guid>
+        <guid><![CDATA[https://ukealong.com/song/johnny-cash-ring-of-fire-3/]]></guid>
         <pubDate>Sun, 04 Mar 2018 00:00:00 </pubDate>
     </item>
     <item>
@@ -67,13 +74,6 @@
         <link><![CDATA[https://ukealong.com/song/johnny-cash-ain-t-no-grave/]]></link>
         <description><![CDATA[Play along video for the song Ain't No Grave by Johnny Cash from the channel BruderMaister. Chords used in the song: Am, Dm, Dsus2, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/johnny-cash-ain-t-no-grave/]]></guid>
-        <pubDate>Mon, 06 Nov 2017 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Johnny Cash - I See A Darkness - Key of Bb - BruderMaister]]></title>
-        <link><![CDATA[https://ukealong.com/song/johnny-cash-i-see-a-darkness/]]></link>
-        <description><![CDATA[Play along video for the song I See A Darkness by Johnny Cash from the channel BruderMaister. Chords used in the song: Am, B♭, C, Dm, F, Fsus2.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/johnny-cash-i-see-a-darkness/]]></guid>
         <pubDate>Mon, 06 Nov 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,9 +3,16 @@
 <channel><title>Uke Along Key » G</title>
     <link>https://ukealong.com</link>
     <description>Key » G</description>
-    <lastBuildDate>Mon, 15 Jun 2020 11:33:08 </lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2020 14:43:11 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Johnny Cash - Ring Of Fire - Key of G - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/johnny-cash-ring-of-fire/]]></link>
+        <description><![CDATA[Play along video for the song Ring Of Fire by Johnny Cash from the channel Ukulele Cheats. Chords used in the song: C, D, D7, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/johnny-cash-ring-of-fire/]]></guid>
+        <pubDate>Wed, 17 Jun 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Ariana Grande & Justin Bieber - Stuck with U - Key of G - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/ariana-grande-justin-bieber-stuck-with-u/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Over The Rainbow by Judy Garland from the channel ukeplayalongs. Chords used in the song: A7, Am7, Bm, C, Cm, D7, E7, Em7, G, G7, Gdim7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/judy-garland-over-the-rainbow/]]></guid>
         <pubDate>Tue, 24 Mar 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Michael Bublé - I Believe in You - Keys of A, G - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></link>
-        <description><![CDATA[Play along video for the song I Believe in You by Michael Bublé from the channel ukeplayalongs. Chords used in the song: A, Am, Bm7, C, Cm, Csus2, D, E, Em, F♯m, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/michael-buble-i-believe-in-you/]]></guid>
-        <pubDate>Tue, 25 Feb 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>
