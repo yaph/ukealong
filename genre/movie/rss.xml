@@ -3,9 +3,16 @@
 <channel><title>Uke Along Genre » Movie</title>
     <link>https://ukealong.com</link>
     <description>Genre » Movie</description>
-    <lastBuildDate>Thu, 25 Jun 2020 23:44:32 </lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2020 21:05:14 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Can't Stop Singing -Teen Beach Movie - Ukulele Play Along - Ukulaliens - Ukulele Club]]></title>
+        <link><![CDATA[https://ukealong.com/song/can-t-stop-singing-teen-beach-movie-ukulele-play-along/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/can-t-stop-singing-teen-beach-movie-ukulele-play-along/]]></guid>
+        <pubDate>Mon, 22 Jun 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Ryan Gosling & Emma Stone - City Of Stars - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/ryan-gosling-emma-stone-city-of-stars/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/sherlock-theme-ukulele-tutorial/]]></guid>
         <pubDate>Mon, 23 Mar 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Lady Gaga & Bradley Cooper - Shallow - Kris The Uke Chick Gilbert]]></title>
-        <link><![CDATA[https://ukealong.com/song/lady-gaga-bradley-cooper-shallow/]]></link>
-        <description><![CDATA[Play along video for the song Shallow by Lady Gaga & Bradley Cooper from the channel Kris The Uke Chick Gilbert. Chords used in the song: A, Am, Bm, C, D, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/lady-gaga-bradley-cooper-shallow/]]></guid>
-        <pubDate>Wed, 26 Feb 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

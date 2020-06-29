@@ -3,9 +3,16 @@
 <channel><title>Uke Along Genre » Rock</title>
     <link>https://ukealong.com</link>
     <description>Genre » Rock</description>
-    <lastBuildDate>Thu, 25 Jun 2020 23:44:32 </lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2020 21:05:14 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Jimi Hendrix - Hey Joe - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/jimi-hendrix-hey-joe/]]></link>
+        <description><![CDATA[Play along video for the song Hey Joe by Jimi Hendrix from the channel Ukulele Cheats. Chords used in the song: A, C, D, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/jimi-hendrix-hey-joe/]]></guid>
+        <pubDate>Sat, 27 Jun 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Sting - Shape Of My Heart - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/sting-shape-of-my-heart/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song The Sound Of Silence by Simon and Garfunkel from the channel Ukulele Cheats. Chords used in the song: C, D, Em, Esus2, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/simon-and-garfunkel-the-sound-of-silence/]]></guid>
         <pubDate>Wed, 13 May 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Nirvana - Nirvana - Heart Shaped Box - Ukeledu Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/nirvana-nirvana-heart-shaped-box/]]></link>
-        <description><![CDATA[Play along video for the song Nirvana - Heart Shaped Box by Nirvana from the channel Ukeledu Music. Chords used in the song: Am, D, F, F♯dim.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/nirvana-nirvana-heart-shaped-box/]]></guid>
-        <pubDate>Fri, 08 May 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

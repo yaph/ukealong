@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » Cmaj7</title>
     <link>https://ukealong.com</link>
     <description>Chord » Cmaj7</description>
-    <lastBuildDate>Thu, 25 Jun 2020 23:44:32 </lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2020 21:05:14 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Can't Stop Singing -Teen Beach Movie - Ukulele Play Along - Ukulaliens - Ukulele Club]]></title>
+        <link><![CDATA[https://ukealong.com/song/can-t-stop-singing-teen-beach-movie-ukulele-play-along/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/can-t-stop-singing-teen-beach-movie-ukulele-play-along/]]></guid>
+        <pubDate>Mon, 22 Jun 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Red Hot Chili Peppers - Otherside - Key of Am - Ukeledu Music]]></title>
         <link><![CDATA[https://ukealong.com/song/red-hot-chili-peppers-otherside/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Today and Tomorrow by Grace VanderWaal from the channel ukeplayalongs. Chords used in the song: Am7, C, Cmaj7, Dm, Dm7, Dmadd11, F, Fmaj7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/grace-vanderwaal-today-and-tomorrow/]]></guid>
         <pubDate>Thu, 09 Apr 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Gnarls Barkley - Crazy - Ukeledu Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/gnarls-barkley-crazy/]]></link>
-        <description><![CDATA[Play along video for the song Crazy by Gnarls Barkley from the channel Ukeledu Music. Chords used in the song: Am, Cmaj7, E7, F.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/gnarls-barkley-crazy/]]></guid>
-        <pubDate>Wed, 01 Apr 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>
