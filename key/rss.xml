@@ -3,9 +3,30 @@
 <channel><title>Uke Along Key</title>
     <link>https://ukealong.com</link>
     <description>Key</description>
-    <lastBuildDate>Mon, 29 Jun 2020 21:05:14 </lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2020 13:06:14 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Marcia Griffiths - Electric Boogie - Key of C - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/marcia-griffiths-electric-boogie/]]></link>
+        <description><![CDATA[Play along video for the song Electric Boogie by Marcia Griffiths from the channel Ukulele Underground. Chords used in the song: C, Dm.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/marcia-griffiths-electric-boogie/]]></guid>
+        <pubDate>Wed, 01 Jul 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Sly and the Family Stone - Everyday People - Key of G - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/sly-and-the-family-stone-everyday-people/]]></link>
+        <description><![CDATA[Play along video for the song Everyday People by Sly and the Family Stone from the channel ukeplayalongs. Chords used in the song: C, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/sly-and-the-family-stone-everyday-people/]]></guid>
+        <pubDate>Tue, 30 Jun 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Sly and the Family Stone - Everyday People - Baritone Ukulele - Key of G - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/sly-and-the-family-stone-everyday-people-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song Everyday People by Sly and the Family Stone from the channel ukeplayalongs. Chords used in the song: C, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/sly-and-the-family-stone-everyday-people-baritone-ukulele/]]></guid>
+        <pubDate>Tue, 30 Jun 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Anna Clendening - Invisible - Key of F - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/anna-clendening-invisible/]]></link>
@@ -54,26 +75,5 @@
         <description><![CDATA[Play along video for the song Ring Of Fire by Johnny Cash from the channel Ukulele Cheats. Chords used in the song: C, D, D7, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/johnny-cash-ring-of-fire/]]></guid>
         <pubDate>Wed, 17 Jun 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Billie Eilish - bad guy - Baritone Ukulele - Key of Am - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/billie-eilish-bad-guy-baritone-ukulele-2/]]></link>
-        <description><![CDATA[Play along video for the song bad guy by Billie Eilish from the channel ukeplayalongs. Chords used in the song: Am, Dm, E7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/billie-eilish-bad-guy-baritone-ukulele-2/]]></guid>
-        <pubDate>Wed, 17 Jun 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Billie Eilish - bad guy - Baritone Ukulele - Key of Gm - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/billie-eilish-bad-guy-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song bad guy by Billie Eilish from the channel ukeplayalongs. Chords used in the song: Cm, D7, Gm.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/billie-eilish-bad-guy-baritone-ukulele/]]></guid>
-        <pubDate>Wed, 17 Jun 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Impressions - People get ready - Baritone Ukulele - Key of D - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-impressions-people-get-ready-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song People get ready by The Impressions from the channel ukeplayalongs. Chords used in the song: Bm, D, Em, F♯m, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-impressions-people-get-ready-baritone-ukulele/]]></guid>
-        <pubDate>Tue, 09 Jun 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

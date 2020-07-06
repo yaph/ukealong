@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » Dm</title>
     <link>https://ukealong.com</link>
     <description>Chord » Dm</description>
-    <lastBuildDate>Mon, 29 Jun 2020 21:05:14 </lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2020 13:06:14 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Marcia Griffiths - Electric Boogie - Key of C - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/marcia-griffiths-electric-boogie/]]></link>
+        <description><![CDATA[Play along video for the song Electric Boogie by Marcia Griffiths from the channel Ukulele Underground. Chords used in the song: C, Dm.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/marcia-griffiths-electric-boogie/]]></guid>
+        <pubDate>Wed, 01 Jul 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Anna Clendening - Invisible - Key of F - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/anna-clendening-invisible/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Smile by Charlie Chaplin from the channel Ukulele Cheats. Chords used in the song: Am7, A♯7, C, C6, Cmaj7, Ddim, Dm, Dm7, D♯dim, Edim7, Fm, Fm6, G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/charlie-chaplin-smile/]]></guid>
         <pubDate>Fri, 22 May 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Beatles - Yesterday - Ukulele Cheats]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-beatles-yesterday/]]></link>
-        <description><![CDATA[Play along video for the song Yesterday by The Beatles from the channel Ukulele Cheats. Chords used in the song: A, A7, A♯, C, Dm, Em, F, G, Gm6.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-beatles-yesterday/]]></guid>
-        <pubDate>Sun, 10 May 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

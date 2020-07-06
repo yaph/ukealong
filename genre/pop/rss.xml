@@ -3,9 +3,16 @@
 <channel><title>Uke Along Genre » Pop</title>
     <link>https://ukealong.com</link>
     <description>Genre » Pop</description>
-    <lastBuildDate>Mon, 29 Jun 2020 21:05:14 </lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2020 13:06:14 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Marcia Griffiths - Electric Boogie - Key of C - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/marcia-griffiths-electric-boogie/]]></link>
+        <description><![CDATA[Play along video for the song Electric Boogie by Marcia Griffiths from the channel Ukulele Underground. Chords used in the song: C, Dm.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/marcia-griffiths-electric-boogie/]]></guid>
+        <pubDate>Wed, 01 Jul 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Anna Clendening - Invisible - Key of F - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/anna-clendening-invisible/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song bad guy by Billie Eilish from the channel ukeplayalongs. Chords used in the song: Cm, D7, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/billie-eilish-bad-guy-baritone-ukulele/]]></guid>
         <pubDate>Wed, 17 Jun 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Sting - Shape Of My Heart - Ukulele Cheats]]></title>
-        <link><![CDATA[https://ukealong.com/song/sting-shape-of-my-heart/]]></link>
-        <description><![CDATA[Play along video for the song Shape Of My Heart by Sting from the channel Ukulele Cheats. Chords used in the song: Am, Am7, B, C, D, Em, F♯, F♯7, F♯m, F♯m7, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/sting-shape-of-my-heart/]]></guid>
-        <pubDate>Thu, 11 Jun 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>
