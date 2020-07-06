@@ -3,7 +3,7 @@
 <channel><title>Uke Along Key » E♭</title>
     <link>https://ukealong.com</link>
     <description>Key » E♭</description>
-    <lastBuildDate>Mon, 06 Jul 2020 13:06:15 </lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2020 13:58:51 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -54,5 +54,12 @@
         <description><![CDATA[Play along video for the song Landslide by Fleetwood Mac from the channel Ukulele Underground. Chords used in the song: B♭, Cm, E♭, F, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/fleetwood-mac-landslide/]]></guid>
         <pubDate>Fri, 01 Mar 2013 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Wanted - Glad You Came - Key of Eb - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-wanted-glad-you-came/]]></link>
+        <description><![CDATA[Play along video for the song Glad You Came by The Wanted from the channel Ukulele Underground. Chords used in the song: B♭, E♭, F, Gm.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-wanted-glad-you-came/]]></guid>
+        <pubDate>Fri, 01 Jun 2012 00:00:00 </pubDate>
     </item>
 </channel></rss>
