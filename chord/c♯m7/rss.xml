@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » C♯M7</title>
     <link>https://ukealong.com</link>
     <description>Chord » C♯M7</description>
-    <lastBuildDate>Mon, 06 Jul 2020 13:58:51 </lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2020 22:55:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[The Turtles - Happy Together - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-turtles-happy-together/]]></link>
+        <description><![CDATA[Play along video for the song Happy Together by The Turtles from the channel Ukulele Cheats. Chords used in the song: A, C♯, C♯m7, D, E, F♯, F♯m.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-turtles-happy-together/]]></guid>
+        <pubDate>Wed, 22 Apr 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Bill Withers - Lovely Day - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/bill-withers-lovely-day/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Layla by Eric Clapton from the channel Ukulele Underground. Chords used in the song: A, Am, B, B♭, C, C♯m7, D, Dm, E, F♯m, G♯.]]></description>
         <guid><![CDATA[https://ukealong.com/song/eric-clapton-layla/]]></guid>
         <pubDate>Sun, 31 May 2015 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Sammy J - Wishing On Your Love - Key of A - Ukulele Underground]]></title>
-        <link><![CDATA[https://ukealong.com/song/sammy-j-wishing-on-your-love/]]></link>
-        <description><![CDATA[Play along video for the song Wishing On Your Love by Sammy J from the channel Ukulele Underground. Chords used in the song: A, Bm7, C♯m7, E7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/sammy-j-wishing-on-your-love/]]></guid>
-        <pubDate>Sat, 31 Aug 2013 00:00:00 </pubDate>
     </item>
 </channel></rss>
