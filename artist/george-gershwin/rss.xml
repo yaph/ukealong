@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Uke Along Artist » George Gershwin</title>
+    <link>https://ukealong.com</link>
+    <description>Artist » George Gershwin</description>
+    <lastBuildDate>Thu, 09 Jul 2020 14:01:44 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[George Gershwin - Summertime - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/george-gershwin-summertime/]]></link>
+        <description><![CDATA[Play along video for the song Summertime by George Gershwin from the channel Ukeledu Music. Chords used in the song: Am, Am9, C, Dm, E7, F.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/george-gershwin-summertime/]]></guid>
+        <pubDate>Sun, 05 Apr 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[George Gershwin - Summertime - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/george-gershwin-summertime-2/]]></link>
+        <description><![CDATA[Play along video for the song Summertime by George Gershwin from the channel Cynthia Lin Music. Chords used in the song: Am, Am9, B7♭9, C, D7, Dm7, E7, E♭dim7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/george-gershwin-summertime-2/]]></guid>
+        <pubDate>Thu, 04 Oct 2018 00:00:00 </pubDate>
+    </item>
+</channel></rss>

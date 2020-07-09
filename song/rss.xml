@@ -3,9 +3,30 @@
 <channel><title>Uke Along Song</title>
     <link>https://ukealong.com</link>
     <description>Song</description>
-    <lastBuildDate>Thu, 09 Jul 2020 11:55:31 </lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2020 14:01:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Ritchie Valens - La Bamba - Key of C - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/ritchie-valens-la-bamba/]]></link>
+        <description><![CDATA[Play along video for the song La Bamba by Ritchie Valens from the channel Ukeledu Music. Chords used in the song: C, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/ritchie-valens-la-bamba/]]></guid>
+        <pubDate>Wed, 08 Jul 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Penguins - Earth Angel - Key of G - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-penguins-earth-angel/]]></link>
+        <description><![CDATA[Play along video for the song Earth Angel by The Penguins from the channel ukeplayalongs. Chords used in the song: A7, C, D7, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-penguins-earth-angel/]]></guid>
+        <pubDate>Tue, 07 Jul 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Penguins - Earth Angel - Baritone Ukulele - Key of G - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-penguins-earth-angel-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song Earth Angel by The Penguins from the channel ukeplayalongs. Chords used in the song: A7, C, D7, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-penguins-earth-angel-baritone-ukulele/]]></guid>
+        <pubDate>Tue, 07 Jul 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Bill Withers & Grover Washington Jr. - Just The Two Of Us - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/bill-withers-grover-washington-jr-just-the-two-of-us/]]></link>
@@ -54,26 +75,5 @@
         <description><![CDATA[Play along video for the song Invisible by Anna Clendening from the channel ukeplayalongs. Chords used in the song: B♭, C, Dm, F.]]></description>
         <guid><![CDATA[https://ukealong.com/song/anna-clendening-invisible/]]></guid>
         <pubDate>Tue, 23 Jun 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Anna Clendening - Invisible - Baritone Ukulele - Key of G - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/anna-clendening-invisible-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song Invisible by Anna Clendening from the channel ukeplayalongs. Chords used in the song: C, D, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/anna-clendening-invisible-baritone-ukulele/]]></guid>
-        <pubDate>Tue, 23 Jun 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Anna Clendening - Invisible - Key of G - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/anna-clendening-invisible-2/]]></link>
-        <description><![CDATA[Play along video for the song Invisible by Anna Clendening from the channel ukeplayalongs. Chords used in the song: C, D, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/anna-clendening-invisible-2/]]></guid>
-        <pubDate>Tue, 23 Jun 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Can't Stop Singing -Teen Beach Movie - Ukulele Play Along - Ukulaliens - Ukulele Club]]></title>
-        <link><![CDATA[https://ukealong.com/song/can-t-stop-singing-teen-beach-movie-ukulele-play-along/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[https://ukealong.com/song/can-t-stop-singing-teen-beach-movie-ukulele-play-along/]]></guid>
-        <pubDate>Mon, 22 Jun 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

@@ -3,9 +3,23 @@
 <channel><title>Uke Along Chord » D7</title>
     <link>https://ukealong.com</link>
     <description>Chord » D7</description>
-    <lastBuildDate>Thu, 09 Jul 2020 11:55:32 </lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2020 14:01:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[The Penguins - Earth Angel - Key of G - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-penguins-earth-angel/]]></link>
+        <description><![CDATA[Play along video for the song Earth Angel by The Penguins from the channel ukeplayalongs. Chords used in the song: A7, C, D7, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-penguins-earth-angel/]]></guid>
+        <pubDate>Tue, 07 Jul 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Penguins - Earth Angel - Baritone Ukulele - Key of G - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-penguins-earth-angel-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song Earth Angel by The Penguins from the channel ukeplayalongs. Chords used in the song: A7, C, D7, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-penguins-earth-angel-baritone-ukulele/]]></guid>
+        <pubDate>Tue, 07 Jul 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Frank Sinatra - Strangers In The Night - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/frank-sinatra-strangers-in-the-night/]]></link>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song I Want To Hold Your Hand by The Beatles from the channel Ukulele Cheats. Chords used in the song: Am, B7, C, C♯, D, D7, Dm, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-beatles-i-want-to-hold-your-hand/]]></guid>
         <pubDate>Wed, 15 Apr 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Ashe - Moral Of The Story - Key of A# - Ukulele Cheats]]></title>
-        <link><![CDATA[https://ukealong.com/song/ashe-moral-of-the-story/]]></link>
-        <description><![CDATA[Play along video for the song Moral Of The Story by Ashe from the channel Ukulele Cheats. Chords used in the song: A♯, Cm, Cm7, D7, D♯maj7, F6, F7, Gm, Gm6, Gm7, G♯.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/ashe-moral-of-the-story/]]></guid>
-        <pubDate>Sun, 29 Mar 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Billie Eilish - bad guy - Key of Gm - Ukeledu Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/billie-eilish-bad-guy-3/]]></link>
-        <description><![CDATA[Play along video for the song bad guy by Billie Eilish from the channel Ukeledu Music. Chords used in the song: Cm, D7, Gm, Gsus4.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/billie-eilish-bad-guy-3/]]></guid>
-        <pubDate>Thu, 26 Mar 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

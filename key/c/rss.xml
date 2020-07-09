@@ -3,9 +3,16 @@
 <channel><title>Uke Along Key » C</title>
     <link>https://ukealong.com</link>
     <description>Key » C</description>
-    <lastBuildDate>Thu, 09 Jul 2020 11:55:32 </lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2020 14:01:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Ritchie Valens - La Bamba - Key of C - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/ritchie-valens-la-bamba/]]></link>
+        <description><![CDATA[Play along video for the song La Bamba by Ritchie Valens from the channel Ukeledu Music. Chords used in the song: C, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/ritchie-valens-la-bamba/]]></guid>
+        <pubDate>Wed, 08 Jul 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Marcia Griffiths - Electric Boogie - Key of C - Ukulele Underground]]></title>
         <link><![CDATA[https://ukealong.com/song/marcia-griffiths-electric-boogie/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Somewhere Over The Rainbow by Israel Kamakawiwo'ole from the channel Ukeledu Music. Chords used in the song: Am, C, Cmaj7, E7, Em, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/israel-kamakawiwo-ole-somewhere-over-the-rainbow/]]></guid>
         <pubDate>Fri, 01 May 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Parry Gripp & Brianne Drouhard - Space Unicorn - Baritone Ukulele - Key of C - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/parry-gripp-brianne-drouhard-space-unicorn-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song Space Unicorn by Parry Gripp & Brianne Drouhard from the channel ukeplayalongs. Chords used in the song: Am, C, E7, Em, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/parry-gripp-brianne-drouhard-space-unicorn-baritone-ukulele/]]></guid>
-        <pubDate>Sat, 18 Apr 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

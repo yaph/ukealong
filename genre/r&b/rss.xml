@@ -3,9 +3,23 @@
 <channel><title>Uke Along Genre » R&B</title>
     <link>https://ukealong.com</link>
     <description>Genre » R&B</description>
-    <lastBuildDate>Thu, 09 Jul 2020 11:55:32 </lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2020 14:01:44 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[The Penguins - Earth Angel - Key of G - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-penguins-earth-angel/]]></link>
+        <description><![CDATA[Play along video for the song Earth Angel by The Penguins from the channel ukeplayalongs. Chords used in the song: A7, C, D7, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-penguins-earth-angel/]]></guid>
+        <pubDate>Tue, 07 Jul 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Penguins - Earth Angel - Baritone Ukulele - Key of G - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-penguins-earth-angel-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song Earth Angel by The Penguins from the channel ukeplayalongs. Chords used in the song: A7, C, D7, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-penguins-earth-angel-baritone-ukulele/]]></guid>
+        <pubDate>Tue, 07 Jul 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Bill Withers & Grover Washington Jr. - Just The Two Of Us - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/bill-withers-grover-washington-jr-just-the-two-of-us/]]></link>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song Why Can't We Be Friends? by War from the channel ukeplayalongs. Chords used in the song: Am, B♭, C, C7, E7, Em, F, G, G7, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/war-why-can-t-we-be-friends/]]></guid>
         <pubDate>Sat, 06 Apr 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[War - Why Can't We Be Friends? - Baritone Ukulele - Key of F - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/war-why-can-t-we-be-friends-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song Why Can't We Be Friends? by War from the channel ukeplayalongs. Chords used in the song: Am, B♭, C, C7, E7, Em, F, G, G7, Gm.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/war-why-can-t-we-be-friends-baritone-ukulele/]]></guid>
-        <pubDate>Sat, 06 Apr 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Bill Withers - Lovely Day - Key of F - Andy Ramos]]></title>
-        <link><![CDATA[https://ukealong.com/song/bill-withers-lovely-day-2/]]></link>
-        <description><![CDATA[Play along video for the song Lovely Day by Bill Withers from the channel Andy Ramos. Chords used in the song: B♭m7, B♭maj7, Cm7, C♯maj7, Dm7, E♭, F.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/bill-withers-lovely-day-2/]]></guid>
-        <pubDate>Mon, 28 Jan 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>
