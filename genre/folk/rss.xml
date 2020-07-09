@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Folk</title>
     <link>https://ukealong.com</link>
     <description>Genre » Folk</description>
-    <lastBuildDate>Wed, 08 Jul 2020 23:32:35 </lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2020 11:46:04 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -56,6 +56,13 @@
         <pubDate>Sat, 18 Apr 2020 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Bella Ciao UKULELE TUTORIAL W/ LYRICS - Key of Am - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/bella-ciao-ukulele-tutorial-w-lyrics/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bella-ciao-ukulele-tutorial-w-lyrics/]]></guid>
+        <pubDate>Fri, 17 Apr 2020 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Melinda Caroll - Ging Gang Gooli - Key of C - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/melinda-caroll-ging-gang-gooli/]]></link>
         <description><![CDATA[Play along video for the song Ging Gang Gooli by Melinda Caroll from the channel ukeplayalongs. Chords used in the song: C, C7, F, G7.]]></description>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Ging Gang Gooli by Melinda Caroll from the channel ukeplayalongs. Chords used in the song: C, C7, F, G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/melinda-caroll-ging-gang-gooli-baritone-ukulele/]]></guid>
         <pubDate>Tue, 14 Jan 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Dennis Kamakahi - Wahine ‘Ilikea - Ukulele Underground]]></title>
-        <link><![CDATA[https://ukealong.com/song/dennis-kamakahi-wahine-ilikea/]]></link>
-        <description><![CDATA[Play along video for the song Wahine ‘Ilikea by Dennis Kamakahi from the channel Ukulele Underground. Chords used in the song: Am, Bm7, Cmaj7, D, G7, Gmaj7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/dennis-kamakahi-wahine-ilikea/]]></guid>
-        <pubDate>Tue, 31 Dec 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

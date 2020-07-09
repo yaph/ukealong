@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Hard Rock</title>
     <link>https://ukealong.com</link>
     <description>Genre » Hard Rock</description>
-    <lastBuildDate>Wed, 08 Jul 2020 23:32:35 </lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2020 11:46:04 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,5 +12,12 @@
         <description><![CDATA[Play along video for the song Gay Bar by Electric Six from the channel About Ukulele.]]></description>
         <guid><![CDATA[https://ukealong.com/song/electric-six-gay-bar/]]></guid>
         <pubDate>Tue, 16 Jun 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Devin Townsend Project - Suprcrush - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/devin-townsend-project-suprcrush/]]></link>
+        <description><![CDATA[Play along video for the song Suprcrush by Devin Townsend Project from the channel Ukeledu Music. Chords used in the song: B, B5, Bsus4, B♭, C♯, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/devin-townsend-project-suprcrush/]]></guid>
+        <pubDate>Tue, 22 Jan 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>
