@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » C♯M</title>
     <link>https://ukealong.com</link>
     <description>Chord » C♯M</description>
-    <lastBuildDate>Thu, 09 Jul 2020 21:08:05 </lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2020 13:50:02 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,6 +12,13 @@
         <description><![CDATA[Play along video for the song everything i wanted by Billie Eilish from the channel ukeplayalongs. Chords used in the song: C♯7, C♯m, D, E.]]></description>
         <guid><![CDATA[https://ukealong.com/song/billie-eilish-everything-i-wanted-baritone-ukulele/]]></guid>
         <pubDate>Tue, 12 May 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Tones & I - Dance Monkey - Cynthia Lin Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/tones-i-dance-monkey/]]></link>
+        <description><![CDATA[Play along video for the song Dance Monkey by Tones & I from the channel Cynthia Lin Music. Chords used in the song: C♯m, D6, E6, F♯m.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/tones-i-dance-monkey/]]></guid>
+        <pubDate>Sun, 29 Mar 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA["Weird Al" Yankovic - Yoda - Baritone Ukulele - Key of E - ukeplayalongs]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Freedom by Anthony Hamilton & Elayna Boynton from the channel BruderMaister. Chords used in the song: A, B, C♯m, E, F♯, G♯.]]></description>
         <guid><![CDATA[https://ukealong.com/song/anthony-hamilton-elayna-boynton-freedom/]]></guid>
         <pubDate>Wed, 20 Feb 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Ed Sheeran - Shape of You - Key of C#m - Ukeledu Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/ed-sheeran-shape-of-you-2/]]></link>
-        <description><![CDATA[Play along video for the song Shape of You by Ed Sheeran from the channel Ukeledu Music. Chords used in the song: A, B, C♯m, F♯m.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/ed-sheeran-shape-of-you-2/]]></guid>
-        <pubDate>Mon, 18 Feb 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>
