@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » G7</title>
     <link>https://ukealong.com</link>
     <description>Chord » G7</description>
-    <lastBuildDate>Sat, 11 Jul 2020 13:50:02 </lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2020 12:13:00 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[The Beatles - I Will - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-i-will/]]></link>
+        <description><![CDATA[Play along video for the song I Will by The Beatles from the channel Ukulele Cheats. Chords used in the song: Am, A♯, A♯m, C, C7, C♯, Dm, F, F7, Fdim, G, G7, Gm, Gm7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-i-will/]]></guid>
+        <pubDate>Thu, 09 Jul 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Bill Withers & Grover Washington Jr. - Just The Two Of Us - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/bill-withers-grover-washington-jr-just-the-two-of-us/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Quarantine Birthday Song by Cynthia Lin from the channel Cynthia Lin Music. Chords used in the song: Am, C, F, G7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/cynthia-lin-quarantine-birthday-song/]]></guid>
         <pubDate>Sun, 19 Apr 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[John Lennon - Imagine - Ukeledu Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/john-lennon-imagine-2/]]></link>
-        <description><![CDATA[Play along video for the song Imagine by John Lennon from the channel Ukeledu Music. Chords used in the song: Am, C, Cmaj7, Dm, E7, F, G, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/john-lennon-imagine-2/]]></guid>
-        <pubDate>Fri, 10 Apr 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

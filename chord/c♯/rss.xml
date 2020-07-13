@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » C♯</title>
     <link>https://ukealong.com</link>
     <description>Chord » C♯</description>
-    <lastBuildDate>Sat, 11 Jul 2020 13:50:02 </lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2020 12:13:00 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[The Beatles - I Will - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-i-will/]]></link>
+        <description><![CDATA[Play along video for the song I Will by The Beatles from the channel Ukulele Cheats. Chords used in the song: Am, A♯, A♯m, C, C7, C♯, Dm, F, F7, Fdim, G, G7, Gm, Gm7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-i-will/]]></guid>
+        <pubDate>Thu, 09 Jul 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[The Turtles - Happy Together - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/the-turtles-happy-together/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/memory-from-cats-ukulele-play-along/]]></guid>
         <pubDate>Sat, 13 Jul 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Devin Townsend Project - Suprcrush - Ukeledu Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/devin-townsend-project-suprcrush/]]></link>
-        <description><![CDATA[Play along video for the song Suprcrush by Devin Townsend Project from the channel Ukeledu Music. Chords used in the song: B, B5, Bsus4, B♭, C♯, Em, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/devin-townsend-project-suprcrush/]]></guid>
-        <pubDate>Tue, 22 Jan 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

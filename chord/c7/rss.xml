@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » C7</title>
     <link>https://ukealong.com</link>
     <description>Chord » C7</description>
-    <lastBuildDate>Sat, 11 Jul 2020 13:50:02 </lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2020 12:13:00 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[The Beatles - I Will - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-i-will/]]></link>
+        <description><![CDATA[Play along video for the song I Will by The Beatles from the channel Ukulele Cheats. Chords used in the song: Am, A♯, A♯m, C, C7, C♯, Dm, F, F7, Fdim, G, G7, Gm, Gm7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-i-will/]]></guid>
+        <pubDate>Thu, 09 Jul 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Can't Stop Singing -Teen Beach Movie - Ukulele Play Along - Ukulaliens - Ukulele Club]]></title>
         <link><![CDATA[https://ukealong.com/song/can-t-stop-singing-teen-beach-movie-ukulele-play-along/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song When She Loved Me by Sarah McLachlan from the channel ukeplayalongs. Chords used in the song: A, A7, Am, A♭m, B♭, B♭7, B♭m, B♭m6, C, C7, Cm, Csus4, Dm, Em7♭5, E♭, E♭m, F7, Fm6, G7, Gdim7, Gm7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/sarah-mclachlan-when-she-loved-me/]]></guid>
         <pubDate>Tue, 31 Mar 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Andy Williams - Can't Take My Eyes Off You - Ukulaliens - Ukulele Club]]></title>
-        <link><![CDATA[https://ukealong.com/song/andy-williams-can-t-take-my-eyes-off-you/]]></link>
-        <description><![CDATA[Play along video for the song Can't Take My Eyes Off You by Andy Williams from the channel Ukulaliens - Ukulele Club. Chords used in the song: A7, Am, Am7, C, C7, Cmaj7, D, Dm, F, Fm, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/andy-williams-can-t-take-my-eyes-off-you/]]></guid>
-        <pubDate>Tue, 24 Mar 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

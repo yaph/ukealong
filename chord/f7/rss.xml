@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » F7</title>
     <link>https://ukealong.com</link>
     <description>Chord » F7</description>
-    <lastBuildDate>Sat, 11 Jul 2020 13:50:02 </lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2020 12:13:00 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[The Beatles - I Will - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-i-will/]]></link>
+        <description><![CDATA[Play along video for the song I Will by The Beatles from the channel Ukulele Cheats. Chords used in the song: Am, A♯, A♯m, C, C7, C♯, Dm, F, F7, Fdim, G, G7, Gm, Gm7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-i-will/]]></guid>
+        <pubDate>Thu, 09 Jul 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Bill Withers & Grover Washington Jr. - Just The Two Of Us - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/bill-withers-grover-washington-jr-just-the-two-of-us/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/baby-it-s-cold-outside-ukulele-play-along-with-tiffany-cristina/]]></guid>
         <pubDate>Fri, 27 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Joe Brown - I'll See You In My Dreams - Key of F - Daniel Simmons]]></title>
-        <link><![CDATA[https://ukealong.com/song/joe-brown-i-ll-see-you-in-my-dreams/]]></link>
-        <description><![CDATA[Play along video for the song I'll See You In My Dreams by Joe Brown from the channel Daniel Simmons. Chords used in the song: A7, Am, B♭, B♭6, B♭m6, B♭maj7, C, C7, Cm6, Cmaj7, D, D7, D9, Dm, E7, Edim, Em7, F, F/C, F6, F6/5, F7, Fmaj7, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/joe-brown-i-ll-see-you-in-my-dreams/]]></guid>
-        <pubDate>Thu, 15 Aug 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

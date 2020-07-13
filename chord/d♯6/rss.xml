@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » D♯6</title>
     <link>https://ukealong.com</link>
     <description>Chord » D♯6</description>
-    <lastBuildDate>Sat, 11 Jul 2020 13:50:02 </lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2020 12:13:00 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,5 +12,12 @@
         <description><![CDATA[Play along video for the song Careless Love by Anita Carter from the channel ukeplayalongs. Chords used in the song: A, B7, D♯6, E, E6, E7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/anita-carter-careless-love-baritone-ukulele/]]></guid>
         <pubDate>Sun, 07 Jul 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Beatles - Blackbird - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-blackbird/]]></link>
+        <description><![CDATA[Play along video for the song Blackbird by The Beatles from the channel Ukulele Cheats. Chords used in the song: A7♯9, Am, Am6, Am7, C, C7sus2, Caug, D7, D♯, D♯6, E7, F, Fm, G, G7sus4.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-blackbird/]]></guid>
+        <pubDate>Wed, 12 Dec 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

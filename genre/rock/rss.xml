@@ -3,9 +3,23 @@
 <channel><title>Uke Along Genre » Rock</title>
     <link>https://ukealong.com</link>
     <description>Genre » Rock</description>
-    <lastBuildDate>Sat, 11 Jul 2020 13:50:02 </lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2020 12:13:00 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Molchat Doma - Sudno - About Ukulele]]></title>
+        <link><![CDATA[https://ukealong.com/song/molchat-doma-sudno/]]></link>
+        <description><![CDATA[Play along video for the song Sudno by Molchat Doma from the channel About Ukulele.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/molchat-doma-sudno/]]></guid>
+        <pubDate>Sun, 12 Jul 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Beatles - I Will - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-i-will/]]></link>
+        <description><![CDATA[Play along video for the song I Will by The Beatles from the channel Ukulele Cheats. Chords used in the song: Am, A♯, A♯m, C, C7, C♯, Dm, F, F7, Fdim, G, G7, Gm, Gm7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-i-will/]]></guid>
+        <pubDate>Thu, 09 Jul 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Jimi Hendrix - Hey Joe - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/jimi-hendrix-hey-joe/]]></link>
@@ -61,19 +75,5 @@
         <description><![CDATA[Play along video for the song Plug In Babe by Muse from the channel Ukeledu Music. Chords used in the song: Bm, D, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/muse-plug-in-babe/]]></guid>
         <pubDate>Wed, 20 May 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Beatles - I Should Have Known Better - Key of C - Ukulele Cheats]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-beatles-i-should-have-known-better/]]></link>
-        <description><![CDATA[Play along video for the song I Should Have Known Better by The Beatles from the channel Ukulele Cheats. Chords used in the song: Am, C, C7, E7, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-beatles-i-should-have-known-better/]]></guid>
-        <pubDate>Sun, 17 May 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Simon and Garfunkel - The Sound Of Silence - Key of Em - Ukulele Cheats]]></title>
-        <link><![CDATA[https://ukealong.com/song/simon-and-garfunkel-the-sound-of-silence/]]></link>
-        <description><![CDATA[Play along video for the song The Sound Of Silence by Simon and Garfunkel from the channel Ukulele Cheats. Chords used in the song: C, D, Em, Esus2, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/simon-and-garfunkel-the-sound-of-silence/]]></guid>
-        <pubDate>Wed, 13 May 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

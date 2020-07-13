@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » A♯</title>
     <link>https://ukealong.com</link>
     <description>Chord » A♯</description>
-    <lastBuildDate>Sat, 11 Jul 2020 13:50:02 </lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2020 12:13:00 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[The Beatles - I Will - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-i-will/]]></link>
+        <description><![CDATA[Play along video for the song I Will by The Beatles from the channel Ukulele Cheats. Chords used in the song: Am, A♯, A♯m, C, C7, C♯, Dm, F, F7, Fdim, G, G7, Gm, Gm7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-i-will/]]></guid>
+        <pubDate>Thu, 09 Jul 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Ryan Gosling & Emma Stone - City Of Stars - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/ryan-gosling-emma-stone-city-of-stars/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song What's Up? by 4 Non Blondes from the channel Ukulele Cheats. Chords used in the song: A♯, F, Gm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/4-non-blondes-what-s-up/]]></guid>
         <pubDate>Mon, 09 Mar 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Frankie Valli - Can't Take My Eyes Off You - Ukulele Cheats]]></title>
-        <link><![CDATA[https://ukealong.com/song/frankie-valli-can-t-take-my-eyes-off-you/]]></link>
-        <description><![CDATA[Play along video for the song Can't Take My Eyes Off You by Frankie Valli from the channel Ukulele Cheats. Chords used in the song: A7, Am7, A♯, A♯7, A♯maj7, C7, Cm, Cm6, D7, D♯, D♯m, D♯m6, E7, Em7, G, G7, Gmaj7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/frankie-valli-can-t-take-my-eyes-off-you/]]></guid>
-        <pubDate>Wed, 29 Jan 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

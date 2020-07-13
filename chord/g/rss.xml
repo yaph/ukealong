@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » G</title>
     <link>https://ukealong.com</link>
     <description>Chord » G</description>
-    <lastBuildDate>Sat, 11 Jul 2020 13:50:01 </lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2020 12:13:00 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[The Beatles - I Will - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-i-will/]]></link>
+        <description><![CDATA[Play along video for the song I Will by The Beatles from the channel Ukulele Cheats. Chords used in the song: Am, A♯, A♯m, C, C7, C♯, Dm, F, F7, Fdim, G, G7, Gm, Gm7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-i-will/]]></guid>
+        <pubDate>Thu, 09 Jul 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Ritchie Valens - La Bamba - Key of C - Ukeledu Music]]></title>
         <link><![CDATA[https://ukealong.com/song/ritchie-valens-la-bamba/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://ukealong.com/song/can-t-stop-singing-teen-beach-movie-ukulele-play-along/]]></guid>
         <pubDate>Mon, 22 Jun 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Johnny Cash - Ring Of Fire - Key of G - Ukulele Cheats]]></title>
-        <link><![CDATA[https://ukealong.com/song/johnny-cash-ring-of-fire/]]></link>
-        <description><![CDATA[Play along video for the song Ring Of Fire by Johnny Cash from the channel Ukulele Cheats. Chords used in the song: C, D, D7, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/johnny-cash-ring-of-fire/]]></guid>
-        <pubDate>Wed, 17 Jun 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>
