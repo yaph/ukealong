@@ -3,7 +3,7 @@
 <channel><title>Uke Along Key » B</title>
     <link>https://ukealong.com</link>
     <description>Key » B</description>
-    <lastBuildDate>Wed, 15 Jul 2020 13:13:54 </lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2020 13:25:38 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,5 +19,12 @@
         <description><![CDATA[Play along video for the song Drift Away by Dobie Gray from the channel Ukulele Underground. Chords used in the song: B, C♯m7, E, F♯.]]></description>
         <guid><![CDATA[https://ukealong.com/song/dobie-gray-drift-away/]]></guid>
         <pubDate>Sun, 01 Jul 2012 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Maroon 5 - Moves Like Jagger - Key of B - Ukulele Underground]]></title>
+        <link><![CDATA[https://ukealong.com/song/maroon-5-moves-like-jagger/]]></link>
+        <description><![CDATA[Play along video for the song Moves Like Jagger by Maroon 5 from the channel Ukulele Underground. Chords used in the song: Bm, Em7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/maroon-5-moves-like-jagger/]]></guid>
+        <pubDate>Sat, 02 Jul 2011 00:00:00 </pubDate>
     </item>
 </channel></rss>
