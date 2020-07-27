@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » B</title>
     <link>https://ukealong.com</link>
     <description>Chord » B</description>
-    <lastBuildDate>Sat, 25 Jul 2020 12:38:13 </lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2020 11:42:52 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Michael Crawford - The Music of the Night - Key of C - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/michael-crawford-the-music-of-the-night/]]></link>
+        <description><![CDATA[Play along video for the song The Music of the Night by Michael Crawford from the channel ukeplayalongs. Chords used in the song: A♭, B, B♭, C, C♯m, D, D7, Dm, E, Em, E♭, F, G, G7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/michael-crawford-the-music-of-the-night/]]></guid>
+        <pubDate>Tue, 21 Jul 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Sting - Shape Of My Heart - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/sting-shape-of-my-heart/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Creep by Radiohead from the channel Ukulele Cheats. Chords used in the song: B, C, Cm, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/radiohead-creep-2/]]></guid>
         <pubDate>Sun, 03 Nov 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Ledward Ka'apana - I Kona - Ukulele Underground]]></title>
-        <link><![CDATA[https://ukealong.com/song/ledward-ka-apana-i-kona/]]></link>
-        <description><![CDATA[Play along video for the song I Kona by Ledward Ka'apana from the channel Ukulele Underground. Chords used in the song: B, B♭, C, Csus4, D7, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/ledward-ka-apana-i-kona/]]></guid>
-        <pubDate>Mon, 30 Sep 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

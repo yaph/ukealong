@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » F♯M</title>
     <link>https://ukealong.com</link>
     <description>Chord » F♯M</description>
-    <lastBuildDate>Sat, 25 Jul 2020 12:38:12 </lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2020 11:42:52 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Michael Crawford - The Music of the Night - Baritone Ukulele - Key of D - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/michael-crawford-the-music-of-the-night-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song The Music of the Night by Michael Crawford from the channel ukeplayalongs. Chords used in the song: A, A7, B♭, C, C♯, D, E, E7, Em, E♭m, F, F♯, F♯m, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/michael-crawford-the-music-of-the-night-baritone-ukulele/]]></guid>
+        <pubDate>Tue, 21 Jul 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Sting - Shape Of My Heart - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/sting-shape-of-my-heart/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Dance Monkey by Tones & I from the channel Cynthia Lin Music. Chords used in the song: C♯m, D6, E6, F♯m.]]></description>
         <guid><![CDATA[https://ukealong.com/song/tones-i-dance-monkey/]]></guid>
         <pubDate>Sun, 29 Mar 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[George Harrison - My Sweet Lord - Ukulele Cheats]]></title>
-        <link><![CDATA[https://ukealong.com/song/george-harrison-my-sweet-lord/]]></link>
-        <description><![CDATA[Play along video for the song My Sweet Lord by George Harrison from the channel Ukulele Cheats. Chords used in the song: A, B, B7, Bm, C♯7, D, D7, E, Em, F♯dim7, F♯m, G♯dim7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/george-harrison-my-sweet-lord/]]></guid>
-        <pubDate>Fri, 06 Mar 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

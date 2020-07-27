@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » Am</title>
     <link>https://ukealong.com</link>
     <description>Chord » Am</description>
-    <lastBuildDate>Sat, 25 Jul 2020 12:38:13 </lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2020 11:42:52 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Bob Marley - No Woman No Cry - Key of C - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/bob-marley-no-woman-no-cry/]]></link>
+        <description><![CDATA[Play along video for the song No Woman No Cry by Bob Marley from the channel Ukulele Cheats. Chords used in the song: Am, C, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bob-marley-no-woman-no-cry/]]></guid>
+        <pubDate>Sun, 26 Jul 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[The Beatles - I Will - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/the-beatles-i-will/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Island In The Sun by Weezer from the channel Ukulaliens - Ukulele Club. Chords used in the song: Am, C, D, Em, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/weezer-island-in-the-sun/]]></guid>
         <pubDate>Sun, 07 Jun 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Toto - Africa - Ukulele Cheats]]></title>
-        <link><![CDATA[https://ukealong.com/song/toto-africa/]]></link>
-        <description><![CDATA[Play along video for the song Africa by Toto from the channel Ukulele Cheats. Chords used in the song: Am, Bm, C, C6, D, Em, F, F♯m, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/toto-africa/]]></guid>
-        <pubDate>Wed, 03 Jun 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

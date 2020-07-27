@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » F♯</title>
     <link>https://ukealong.com</link>
     <description>Chord » F♯</description>
-    <lastBuildDate>Sat, 25 Jul 2020 12:38:13 </lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2020 11:42:52 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Michael Crawford - The Music of the Night - Baritone Ukulele - Key of D - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/michael-crawford-the-music-of-the-night-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song The Music of the Night by Michael Crawford from the channel ukeplayalongs. Chords used in the song: A, A7, B♭, C, C♯, D, E, E7, Em, E♭m, F, F♯, F♯m, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/michael-crawford-the-music-of-the-night-baritone-ukulele/]]></guid>
+        <pubDate>Tue, 21 Jul 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Sting - Shape Of My Heart - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/sting-shape-of-my-heart/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Freedom by Anthony Hamilton & Elayna Boynton from the channel BruderMaister. Chords used in the song: A, B, C♯m, E, F♯, G♯.]]></description>
         <guid><![CDATA[https://ukealong.com/song/anthony-hamilton-elayna-boynton-freedom/]]></guid>
         <pubDate>Wed, 20 Feb 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Mad Caddies - She - Key of F# - Ukulele Underground]]></title>
-        <link><![CDATA[https://ukealong.com/song/mad-caddies-she/]]></link>
-        <description><![CDATA[Play along video for the song She by Mad Caddies from the channel Ukulele Underground. Chords used in the song: B, C♯, F♯.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/mad-caddies-she/]]></guid>
-        <pubDate>Thu, 01 Nov 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>
