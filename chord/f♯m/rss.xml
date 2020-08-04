@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » F♯M</title>
     <link>https://ukealong.com</link>
     <description>Chord » F♯M</description>
-    <lastBuildDate>Tue, 28 Jul 2020 22:19:31 </lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2020 22:08:33 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Thomas Sanders & Dodie Clark - Birds - Key of D - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/thomas-sanders-dodie-clark-birds/]]></link>
+        <description><![CDATA[Play along video for the song Birds by Thomas Sanders & Dodie Clark from the channel ukeplayalongs. Chords used in the song: A, Asus2, Bm, C, D, D7, E7, Em, F♯7, F♯m, G, Gm, Gmaj7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/thomas-sanders-dodie-clark-birds/]]></guid>
+        <pubDate>Tue, 28 Jul 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Michael Crawford - The Music of the Night - Baritone Ukulele - Key of D - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/michael-crawford-the-music-of-the-night-baritone-ukulele/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Everything Is Awesome by Garfunkel and Oates from the channel ukeplayalongs. Chords used in the song: A, Am, B♭, B♭sus4, C, Csus4, D, Dm, E, Em, F, Fsus4, F♯m, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/garfunkel-and-oates-everything-is-awesome/]]></guid>
         <pubDate>Tue, 14 Apr 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Tones & I - Dance Monkey - Cynthia Lin Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/tones-i-dance-monkey/]]></link>
-        <description><![CDATA[Play along video for the song Dance Monkey by Tones & I from the channel Cynthia Lin Music. Chords used in the song: C♯m, D6, E6, F♯m.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/tones-i-dance-monkey/]]></guid>
-        <pubDate>Sun, 29 Mar 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

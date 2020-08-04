@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » A</title>
     <link>https://ukealong.com</link>
     <description>Chord » A</description>
-    <lastBuildDate>Tue, 28 Jul 2020 22:19:31 </lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2020 22:08:33 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Thomas Sanders & Dodie Clark - Birds - Key of D - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/thomas-sanders-dodie-clark-birds/]]></link>
+        <description><![CDATA[Play along video for the song Birds by Thomas Sanders & Dodie Clark from the channel ukeplayalongs. Chords used in the song: A, Asus2, Bm, C, D, D7, E7, Em, F♯7, F♯m, G, Gm, Gmaj7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/thomas-sanders-dodie-clark-birds/]]></guid>
+        <pubDate>Tue, 28 Jul 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Michael Crawford - The Music of the Night - Baritone Ukulele - Key of D - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/michael-crawford-the-music-of-the-night-baritone-ukulele/]]></link>
@@ -67,13 +74,6 @@
         <link><![CDATA[https://ukealong.com/song/extremoduro-so-payaso/]]></link>
         <description><![CDATA[Play along video for the song So Payaso by Extremoduro from the channel Ukeledu Music. Chords used in the song: A, Bm, C, Em.]]></description>
         <guid><![CDATA[https://ukealong.com/song/extremoduro-so-payaso/]]></guid>
-        <pubDate>Fri, 22 May 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Tiffany - I Think We're Alone Now - Key of G - Ukulaliens - Ukulele Club]]></title>
-        <link><![CDATA[https://ukealong.com/song/tiffany-i-think-we-re-alone-now/]]></link>
-        <description><![CDATA[Play along video for the song I Think We're Alone Now by Tiffany from the channel Ukulaliens - Ukulele Club. Chords used in the song: A, Bm, C, D, F♯m, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/tiffany-i-think-we-re-alone-now/]]></guid>
         <pubDate>Fri, 22 May 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>
