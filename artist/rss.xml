@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist</title>
     <link>https://ukealong.com</link>
     <description>Artist</description>
-    <lastBuildDate>Tue, 04 Aug 2020 22:08:32 </lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2020 14:02:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -42,6 +42,27 @@
         <pubDate>Sun, 02 Aug 2020 00:00:00 </pubDate>
     </item>
     <item>
+        <title><![CDATA[Marvin Gaye - What's Going On - Ukulele Play-Alongs!]]></title>
+        <link><![CDATA[https://ukealong.com/song/marvin-gaye-what-s-going-on/]]></link>
+        <description><![CDATA[Play along video for the song What's Going On by Marvin Gaye from the channel Ukulele Play-Alongs!. Chords used in the song: Am11, B, B9♯5, C♯m7, Emaj7, F♯m.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/marvin-gaye-what-s-going-on/]]></guid>
+        <pubDate>Sat, 01 Aug 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Robbie Williams - Feel - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/robbie-williams-feel/]]></link>
+        <description><![CDATA[Play along video for the song Feel by Robbie Williams from the channel Ukeledu Music. Chords used in the song: A, A7, Am, B♭, C, Dm, F, G, Gm.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/robbie-williams-feel/]]></guid>
+        <pubDate>Fri, 31 Jul 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Beatles - Michelle - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-michelle/]]></link>
+        <description><![CDATA[Play along video for the song Michelle by The Beatles from the channel Ukulele Cheats. Chords used in the song: Bdim7, B♭m7, C, Caug, D♭, E♭6, F, Fm, Fm6, Fm7, G♯7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-michelle/]]></guid>
+        <pubDate>Wed, 29 Jul 2020 00:00:00 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Thomas Sanders & Dodie Clark - Birds - Key of D - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/thomas-sanders-dodie-clark-birds/]]></link>
         <description><![CDATA[Play along video for the song Birds by Thomas Sanders & Dodie Clark from the channel ukeplayalongs. Chords used in the song: A, Asus2, Bm, C, D, D7, E7, Em, F♯7, F♯m, G, Gm, Gmaj7.]]></description>
@@ -54,26 +75,5 @@
         <description><![CDATA[Play along video for the song No Woman No Cry by Bob Marley from the channel Ukulele Cheats. Chords used in the song: Am, C, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/bob-marley-no-woman-no-cry/]]></guid>
         <pubDate>Sun, 26 Jul 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Eurythmics - Sweet Dreams - Key of Cm - Ukeledu Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/eurythmics-sweet-dreams/]]></link>
-        <description><![CDATA[Play along video for the song Sweet Dreams by Eurythmics from the channel Ukeledu Music. Chords used in the song: A♭, Cm, Fm, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/eurythmics-sweet-dreams/]]></guid>
-        <pubDate>Fri, 24 Jul 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Michael Crawford - The Music of the Night - Baritone Ukulele - Key of D - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/michael-crawford-the-music-of-the-night-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song The Music of the Night by Michael Crawford from the channel ukeplayalongs. Chords used in the song: A, A7, B♭, C, C♯, D, E, E7, Em, E♭m, F, F♯, F♯m, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/michael-crawford-the-music-of-the-night-baritone-ukulele/]]></guid>
-        <pubDate>Tue, 21 Jul 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Michael Crawford - The Music of the Night - Key of C - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/michael-crawford-the-music-of-the-night/]]></link>
-        <description><![CDATA[Play along video for the song The Music of the Night by Michael Crawford from the channel ukeplayalongs. Chords used in the song: A♭, B, B♭, C, C♯m, D, D7, Dm, E, Em, E♭, F, G, G7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/michael-crawford-the-music-of-the-night/]]></guid>
-        <pubDate>Tue, 21 Jul 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

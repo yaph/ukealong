@@ -3,9 +3,16 @@
 <channel><title>Uke Along Artist » The Beatles</title>
     <link>https://ukealong.com</link>
     <description>Artist » The Beatles</description>
-    <lastBuildDate>Tue, 04 Aug 2020 22:08:33 </lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2020 14:02:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[The Beatles - Michelle - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-michelle/]]></link>
+        <description><![CDATA[Play along video for the song Michelle by The Beatles from the channel Ukulele Cheats. Chords used in the song: Bdim7, B♭m7, C, Caug, D♭, E♭6, F, Fm, Fm6, Fm7, G♯7.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-michelle/]]></guid>
+        <pubDate>Wed, 29 Jul 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[The Beatles - I Will - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/the-beatles-i-will/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song I Will by The Beatles from the channel Ukulele Cheats. Chords used in the song: Am, A♯, A♯m, C7, C♯7, Dm, F, F7, Fdim, G7, Gm7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-beatles-i-will-2/]]></guid>
         <pubDate>Wed, 10 Jul 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Beatles - Hey Jude - Cynthia Lin Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-beatles-hey-jude/]]></link>
-        <description><![CDATA[Play along video for the song Hey Jude by The Beatles from the channel Cynthia Lin Music. Chords used in the song: Am, Am7, C, D, D6, D7, F, G, G7, Gm7.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-beatles-hey-jude/]]></guid>
-        <pubDate>Fri, 24 May 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

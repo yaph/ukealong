@@ -3,7 +3,7 @@
 <channel><title>Uke Along Chord » Am</title>
     <link>https://ukealong.com</link>
     <description>Chord » Am</description>
-    <lastBuildDate>Tue, 04 Aug 2020 22:08:33 </lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2020 14:02:39 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -26,6 +26,13 @@
         <description><![CDATA[Play along video for the song The Sound That Love Makes by Sarah McLachlan from the channel ukeplayalongs. Chords used in the song: Am, Am7, C, Cmaj7, D, Dm, Dm7, E7, E7♯5, G7, G7sus2, G♯+.]]></description>
         <guid><![CDATA[https://ukealong.com/song/sarah-mclachlan-the-sound-that-love-makes-baritone-ukulele/]]></guid>
         <pubDate>Tue, 04 Aug 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Robbie Williams - Feel - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/robbie-williams-feel/]]></link>
+        <description><![CDATA[Play along video for the song Feel by Robbie Williams from the channel Ukeledu Music. Chords used in the song: A, A7, Am, B♭, C, Dm, F, G, Gm.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/robbie-williams-feel/]]></guid>
+        <pubDate>Fri, 31 Jul 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Bob Marley - No Woman No Cry - Key of C - Ukulele Cheats]]></title>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song bad guy by Billie Eilish from the channel ukeplayalongs. Chords used in the song: Am, Dm, E7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/billie-eilish-bad-guy-baritone-ukulele-2/]]></guid>
         <pubDate>Wed, 17 Jun 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Sting - Shape Of My Heart - Ukulele Cheats]]></title>
-        <link><![CDATA[https://ukealong.com/song/sting-shape-of-my-heart/]]></link>
-        <description><![CDATA[Play along video for the song Shape Of My Heart by Sting from the channel Ukulele Cheats. Chords used in the song: Am, Am7, B, C, D, Em, F♯, F♯7, F♯m, F♯m7, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/sting-shape-of-my-heart/]]></guid>
-        <pubDate>Thu, 11 Jun 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>
