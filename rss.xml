@@ -3,9 +3,16 @@
 <channel><title>Uke Along RSS Feed</title>
     <link>https://ukealong.com</link>
     <description>RSS Feed</description>
-    <lastBuildDate>Wed, 05 Aug 2020 14:02:40 </lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2020 22:49:29 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Spooky Scary Skeletons. Ukulele tutorial - About Ukulele]]></title>
+        <link><![CDATA[https://ukealong.com/song/spooky-scary-skeletons-ukulele-tutorial/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[https://ukealong.com/song/spooky-scary-skeletons-ukulele-tutorial/]]></guid>
+        <pubDate>Thu, 06 Aug 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Sarah McLachlan - The Sound That Love Makes - Key of C - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/sarah-mclachlan-the-sound-that-love-makes/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Birds by Thomas Sanders & Dodie Clark from the channel ukeplayalongs. Chords used in the song: A, Asus2, Bm, C, D, D7, E7, Em, F♯7, F♯m, G, Gm, Gmaj7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/thomas-sanders-dodie-clark-birds/]]></guid>
         <pubDate>Tue, 28 Jul 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Bob Marley - No Woman No Cry - Key of C - Ukulele Cheats]]></title>
-        <link><![CDATA[https://ukealong.com/song/bob-marley-no-woman-no-cry/]]></link>
-        <description><![CDATA[Play along video for the song No Woman No Cry by Bob Marley from the channel Ukulele Cheats. Chords used in the song: Am, C, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/bob-marley-no-woman-no-cry/]]></guid>
-        <pubDate>Sun, 26 Jul 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>
