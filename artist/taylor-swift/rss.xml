@@ -3,9 +3,30 @@
 <channel><title>Uke Along Artist » Taylor Swift</title>
     <link>https://ukealong.com</link>
     <description>Artist » Taylor Swift</description>
-    <lastBuildDate>Sat, 08 Aug 2020 22:49:29 </lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2020 13:18:36 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Taylor Swift - Cardigan - Key of Dm - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/taylor-swift-cardigan/]]></link>
+        <description><![CDATA[Play along video for the song Cardigan by Taylor Swift from the channel ukeplayalongs. Chords used in the song: Am, C, Dm, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/taylor-swift-cardigan/]]></guid>
+        <pubDate>Tue, 11 Aug 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Taylor Swift - Cardigan - Baritone Ukulele - Key of Em - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/taylor-swift-cardigan-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song Cardigan by Taylor Swift from the channel ukeplayalongs. Chords used in the song: A, Bm, D, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/taylor-swift-cardigan-baritone-ukulele/]]></guid>
+        <pubDate>Tue, 11 Aug 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Taylor Swift - Cardigan - Key of Em - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/taylor-swift-cardigan-2/]]></link>
+        <description><![CDATA[Play along video for the song Cardigan by Taylor Swift from the channel ukeplayalongs. Chords used in the song: A, Bm, D, Em, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/taylor-swift-cardigan-2/]]></guid>
+        <pubDate>Tue, 11 Aug 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Taylor Swift - Christmas Tree Farm - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/taylor-swift-christmas-tree-farm/]]></link>
@@ -54,19 +75,5 @@
         <description><![CDATA[Play along video for the song Mean by Taylor Swift from the channel Andy Ramos. Chords used in the song: B♭, C, Dm, F.]]></description>
         <guid><![CDATA[https://ukealong.com/song/taylor-swift-mean/]]></guid>
         <pubDate>Tue, 26 Mar 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Taylor Swift - Shake It Off - Key of G - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/taylor-swift-shake-it-off/]]></link>
-        <description><![CDATA[Play along video for the song Shake It Off by Taylor Swift from the channel ukeplayalongs. Chords used in the song: Am, C, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/taylor-swift-shake-it-off/]]></guid>
-        <pubDate>Thu, 11 Jan 2018 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Taylor Swift - 22 - Key of G - Fredonia Ukulele Club]]></title>
-        <link><![CDATA[https://ukealong.com/song/taylor-swift-22/]]></link>
-        <description><![CDATA[Play along video for the song 22 by Taylor Swift from the channel Fredonia Ukulele Club. Chords used in the song: C, D, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/taylor-swift-22/]]></guid>
-        <pubDate>Sat, 30 Sep 2017 00:00:00 </pubDate>
     </item>
 </channel></rss>

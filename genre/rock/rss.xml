@@ -3,9 +3,30 @@
 <channel><title>Uke Along Genre » Rock</title>
     <link>https://ukealong.com</link>
     <description>Genre » Rock</description>
-    <lastBuildDate>Sat, 08 Aug 2020 22:49:29 </lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2020 13:18:36 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Audioslave - Like A Stone - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/audioslave-like-a-stone/]]></link>
+        <description><![CDATA[Play along video for the song Like A Stone by Audioslave from the channel Ukeledu Music. Chords used in the song: Am, Asus4, C, D7, E, E7, Em7, F, Fm.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/audioslave-like-a-stone/]]></guid>
+        <pubDate>Fri, 07 Aug 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Beatles - Eleanor Rigby - Baritone Ukulele - Key of Em - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-eleanor-rigby-baritone-ukulele/]]></link>
+        <description><![CDATA[Play along video for the song Eleanor Rigby by The Beatles from the channel ukeplayalongs. Chords used in the song: C, Em.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-eleanor-rigby-baritone-ukulele/]]></guid>
+        <pubDate>Mon, 13 Jul 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[The Beatles - Eleanor Rigby - Key of Em - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/the-beatles-eleanor-rigby/]]></link>
+        <description><![CDATA[Play along video for the song Eleanor Rigby by The Beatles from the channel ukeplayalongs. Chords used in the song: C, Em.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/the-beatles-eleanor-rigby/]]></guid>
+        <pubDate>Mon, 13 Jul 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Molchat Doma - Sudno - About Ukulele]]></title>
         <link><![CDATA[https://ukealong.com/song/molchat-doma-sudno/]]></link>
@@ -54,26 +75,5 @@
         <description><![CDATA[Play along video for the song Otherside by Red Hot Chili Peppers from the channel Ukeledu Music. Chords used in the song: Am, C, C6, Cmaj7, Em, Em9, F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/red-hot-chili-peppers-otherside/]]></guid>
         <pubDate>Sat, 30 May 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[R.E.M. - Losing My Religion - Key of Am - Ukeledu Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/r-e-m-losing-my-religion/]]></link>
-        <description><![CDATA[Play along video for the song Losing My Religion by R.E.M. from the channel Ukeledu Music. Chords used in the song: Am, Dm, Em, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/r-e-m-losing-my-religion/]]></guid>
-        <pubDate>Sun, 24 May 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Extremoduro - So Payaso - Key of Em - Ukeledu Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/extremoduro-so-payaso/]]></link>
-        <description><![CDATA[Play along video for the song So Payaso by Extremoduro from the channel Ukeledu Music. Chords used in the song: A, Bm, C, Em.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/extremoduro-so-payaso/]]></guid>
-        <pubDate>Fri, 22 May 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Muse - Plug In Babe - Key of G - Ukeledu Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/muse-plug-in-babe/]]></link>
-        <description><![CDATA[Play along video for the song Plug In Babe by Muse from the channel Ukeledu Music. Chords used in the song: Bm, D, F, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/muse-plug-in-babe/]]></guid>
-        <pubDate>Wed, 20 May 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

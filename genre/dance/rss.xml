@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Dance</title>
     <link>https://ukealong.com</link>
     <description>Genre » Dance</description>
-    <lastBuildDate>Sat, 08 Aug 2020 22:49:29 </lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2020 13:18:37 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,12 +12,5 @@
         <description><![CDATA[Play along video for the song Macarena by Los Del Rio from the channel Daniel Simmons. Chords used in the song: F, G.]]></description>
         <guid><![CDATA[https://ukealong.com/song/los-del-rio-macarena/]]></guid>
         <pubDate>Sat, 04 May 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Mavericks - Dance The Night Away - Key of F - Ukulaliens - Ukulele Club]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-mavericks-dance-the-night-away/]]></link>
-        <description><![CDATA[Play along video for the song Dance The Night Away by The Mavericks from the channel Ukulaliens - Ukulele Club. Chords used in the song: C, F.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-mavericks-dance-the-night-away/]]></guid>
-        <pubDate>Sun, 17 Jun 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

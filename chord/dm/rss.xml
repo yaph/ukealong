@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » Dm</title>
     <link>https://ukealong.com</link>
     <description>Chord » Dm</description>
-    <lastBuildDate>Sat, 08 Aug 2020 22:49:29 </lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2020 13:18:36 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Taylor Swift - Cardigan - Key of Dm - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/taylor-swift-cardigan/]]></link>
+        <description><![CDATA[Play along video for the song Cardigan by Taylor Swift from the channel ukeplayalongs. Chords used in the song: Am, C, Dm, F, G.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/taylor-swift-cardigan/]]></guid>
+        <pubDate>Tue, 11 Aug 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Sarah McLachlan - The Sound That Love Makes - Key of C - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/sarah-mclachlan-the-sound-that-love-makes/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Electric Boogie by Marcia Griffiths from the channel Ukulele Underground. Chords used in the song: C, Dm.]]></description>
         <guid><![CDATA[https://ukealong.com/song/marcia-griffiths-electric-boogie/]]></guid>
         <pubDate>Wed, 01 Jul 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Anna Clendening - Invisible - Key of F - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/anna-clendening-invisible/]]></link>
-        <description><![CDATA[Play along video for the song Invisible by Anna Clendening from the channel ukeplayalongs. Chords used in the song: B♭, C, Dm, F.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/anna-clendening-invisible/]]></guid>
-        <pubDate>Tue, 23 Jun 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>

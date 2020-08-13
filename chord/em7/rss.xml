@@ -3,9 +3,16 @@
 <channel><title>Uke Along Chord » Em7</title>
     <link>https://ukealong.com</link>
     <description>Chord » Em7</description>
-    <lastBuildDate>Sat, 08 Aug 2020 22:49:29 </lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2020 13:18:36 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Audioslave - Like A Stone - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/audioslave-like-a-stone/]]></link>
+        <description><![CDATA[Play along video for the song Like A Stone by Audioslave from the channel Ukeledu Music. Chords used in the song: Am, Asus4, C, D7, E, E7, Em7, F, Fm.]]></description>
+        <guid><![CDATA[https://ukealong.com/song/audioslave-like-a-stone/]]></guid>
+        <pubDate>Fri, 07 Aug 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Bobby Hebb - Sunny - Ukulele Cheats]]></title>
         <link><![CDATA[https://ukealong.com/song/bobby-hebb-sunny/]]></link>
@@ -68,12 +75,5 @@
         <description><![CDATA[Play along video for the song Heaven Everywhere by Francesca Battistelli from the channel ukeplayalongs. Chords used in the song: C, D, Em, Em7, G, G6, Gmaj7.]]></description>
         <guid><![CDATA[https://ukealong.com/song/francesca-battistelli-heaven-everywhere-baritone-ukulele/]]></guid>
         <pubDate>Wed, 25 Dec 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[John Riggio - Everlasting Fruitcake - Baritone Ukulele - Key of D - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/john-riggio-everlasting-fruitcake-baritone-ukulele/]]></link>
-        <description><![CDATA[Play along video for the song Everlasting Fruitcake by John Riggio from the channel ukeplayalongs. Chords used in the song: A, B7, C, D, D7, Dmaj7, Em7, G.]]></description>
-        <guid><![CDATA[https://ukealong.com/song/john-riggio-everlasting-fruitcake-baritone-ukulele/]]></guid>
-        <pubDate>Tue, 17 Dec 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>
