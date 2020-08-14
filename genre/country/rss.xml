@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Country</title>
     <link>https://ukealong.com</link>
     <description>Genre » Country</description>
-    <lastBuildDate>Fri, 14 Aug 2020 15:02:14 </lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2020 15:22:03 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -103,5 +103,12 @@
         <description><![CDATA[<p>Play along video for the song Wide Open Spaces by Dixie Chicks from the channel DrJillReese. Chords used in the song: B♭, C, F, Gm.</p><img src="https://i.ytimg.com/vi/OHX7EQS3AxE/mqdefault.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://ukealong.com/song/dixie-chicks-wide-open-spaces/]]></guid>
         <pubDate>Wed, 17 Apr 2019 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Florida Georgia Line - Simple - Key of F - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/florida-georgia-line-simple/]]></link>
+        <description><![CDATA[<p>Play along video for the song Simple by Florida Georgia Line from the channel ukeplayalongs. Chords used in the song: B♭, C, Dm, F.</p><img src="https://i.ytimg.com/vi/BU-w545y1Jg/mqdefault.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://ukealong.com/song/florida-georgia-line-simple/]]></guid>
+        <pubDate>Sun, 07 Apr 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

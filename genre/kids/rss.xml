@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Kids</title>
     <link>https://ukealong.com</link>
     <description>Genre » Kids</description>
-    <lastBuildDate>Fri, 14 Aug 2020 15:02:13 </lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2020 15:22:03 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -84,13 +84,6 @@
         <pubDate>Mon, 29 Jul 2019 00:00:00 </pubDate>
     </item>
     <item>
-        <title><![CDATA[The Duck Song - Ukulele Play Along - No Lyrics - Key of C - Daniel Simmons]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-duck-song-ukulele-play-along-no-lyrics/]]></link>
-        <description><![CDATA[<p></p><img src="https://i.ytimg.com/vi/-4RyZLiEdDg/mqdefault.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-duck-song-ukulele-play-along-no-lyrics/]]></guid>
-        <pubDate>Tue, 23 Apr 2019 00:00:00 </pubDate>
-    </item>
-    <item>
         <title><![CDATA[Bryant Oden - I Got A Pea - Key of C - Andy Ramos]]></title>
         <link><![CDATA[https://ukealong.com/song/bryant-oden-i-got-a-pea/]]></link>
         <description><![CDATA[<p>Play along video for the song I Got A Pea by Bryant Oden from the channel Andy Ramos. Chords used in the song: Am, C, F, G.</p><img src="https://i.ytimg.com/vi/FJa2u5TrtWM/mqdefault.jpg" alt="Preview">]]></description>
@@ -117,5 +110,12 @@
         <description><![CDATA[<p>Play along video for the song Apples and Bananas by Raffi from the channel ukeplayalongs. Chords used in the song: C7, F.</p><img src="https://i.ytimg.com/vi/SnFzoN0zk-s/mqdefault.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://ukealong.com/song/raffi-apples-and-bananas/]]></guid>
         <pubDate>Sat, 14 Jul 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Tumble Tots - Elephants Have Wrinkles - Key of Cm - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/tumble-tots-elephants-have-wrinkles/]]></link>
+        <description><![CDATA[<p>Play along video for the song Elephants Have Wrinkles by Tumble Tots from the channel ukeplayalongs. Chords used in the song: Cm, G7, Gdim7.</p><img src="https://i.ytimg.com/vi/9ijUXFiE4Yo/mqdefault.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://ukealong.com/song/tumble-tots-elephants-have-wrinkles/]]></guid>
+        <pubDate>Sat, 16 Jun 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>
