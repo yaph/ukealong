@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Latin</title>
     <link>https://ukealong.com</link>
     <description>Genre » Latin</description>
-    <lastBuildDate>Thu, 13 Aug 2020 22:23:06 </lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2020 15:02:13 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -117,5 +117,12 @@
         <description><![CDATA[<p>Play along video for the song Heroe by Enrique Iglesias from the channel Andy Ramos. Chords used in the song: C, D, Em, G.</p><img src="https://i.ytimg.com/vi/abwD3W5rrDY/mqdefault.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://ukealong.com/song/enrique-iglesias-heroe/]]></guid>
         <pubDate>Thu, 12 Jul 2018 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Juanes - Es Tarde - Key of Dm - Andy Ramos]]></title>
+        <link><![CDATA[https://ukealong.com/song/juanes-es-tarde/]]></link>
+        <description><![CDATA[<p>Play along video for the song Es Tarde by Juanes from the channel Andy Ramos. Chords used in the song: Am, C, Dm, G.</p><img src="https://i.ytimg.com/vi/whLxip-VYe4/mqdefault.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://ukealong.com/song/juanes-es-tarde/]]></guid>
+        <pubDate>Thu, 05 Jul 2018 00:00:00 </pubDate>
     </item>
 </channel></rss>

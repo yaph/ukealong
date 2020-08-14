@@ -3,7 +3,7 @@
 <channel><title>Uke Along Key » F</title>
     <link>https://ukealong.com</link>
     <description>Key » F</description>
-    <lastBuildDate>Thu, 13 Aug 2020 22:23:06 </lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2020 15:02:14 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -33,6 +33,13 @@
         <description><![CDATA[<p>Play along video for the song Girls Like You by Maroon 5 from the channel Ukulele Underground. Chords used in the song: B♭, C, Dm, F.</p><img src="https://i.ytimg.com/vi/UexR_ccuPPQ/mqdefault.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://ukealong.com/song/maroon-5-girls-like-you/]]></guid>
         <pubDate>Tue, 31 Mar 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Billie Eilish - Yesterday - Key of F - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/billie-eilish-yesterday/]]></link>
+        <description><![CDATA[<p>Play along video for the song Yesterday by Billie Eilish from the channel ukeplayalongs. Chords used in the song: A7, Am, B♭, C, C7, Dm, Em7, F, F7, G7, Gm.</p><img src="https://i.ytimg.com/vi/EKmnxqwUR4o/mqdefault.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://ukealong.com/song/billie-eilish-yesterday/]]></guid>
+        <pubDate>Tue, 17 Mar 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Steven Universe - We Are the Crystal Gems - Keys of F, G - ukeplayalongs]]></title>
@@ -68,19 +75,5 @@
         <description><![CDATA[<p>Play along video for the song The Beat Goes On by Sonny & Cher from the channel Andy Ramos. Chords used in the song: F.</p><img src="https://i.ytimg.com/vi/EYrI32NLeRU/mqdefault.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://ukealong.com/song/sonny-cher-the-beat-goes-on/]]></guid>
         <pubDate>Sat, 20 Jul 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[BTS - Boy With Luv - Key of F - Daniel Simmons]]></title>
-        <link><![CDATA[https://ukealong.com/song/bts-boy-with-luv/]]></link>
-        <description><![CDATA[<p>Play along video for the song Boy With Luv by BTS from the channel Daniel Simmons. Chords used in the song: F, G.</p><img src="https://i.ytimg.com/vi/eSd9LRJT1XA/mqdefault.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://ukealong.com/song/bts-boy-with-luv/]]></guid>
-        <pubDate>Wed, 10 Jul 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Anita Carter - Careless Love - Key of F - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/anita-carter-careless-love/]]></link>
-        <description><![CDATA[<p>Play along video for the song Careless Love by Anita Carter from the channel ukeplayalongs. Chords used in the song: B♭, C7, E6, F, F6, F7.</p><img src="https://i.ytimg.com/vi/S4aStf5vrSg/mqdefault.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://ukealong.com/song/anita-carter-careless-love/]]></guid>
-        <pubDate>Sun, 07 Jul 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

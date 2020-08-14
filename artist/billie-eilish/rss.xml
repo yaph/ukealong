@@ -3,7 +3,7 @@
 <channel><title>Uke Along Artist » Billie Eilish</title>
     <link>https://ukealong.com</link>
     <description>Artist » Billie Eilish</description>
-    <lastBuildDate>Thu, 13 Aug 2020 22:23:06 </lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2020 15:02:14 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,13 @@
         <description><![CDATA[<p>Play along video for the song everything i wanted by Billie Eilish from the channel ukeplayalongs. Chords used in the song: E7, Em, F, G.</p><img src="https://i.ytimg.com/vi/VTqLsyEON1k/mqdefault.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://ukealong.com/song/billie-eilish-everything-i-wanted/]]></guid>
         <pubDate>Tue, 12 May 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Billie Eilish - Yesterday - Key of F - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/billie-eilish-yesterday/]]></link>
+        <description><![CDATA[<p>Play along video for the song Yesterday by Billie Eilish from the channel ukeplayalongs. Chords used in the song: A7, Am, B♭, C, C7, Dm, Em7, F, F7, G7, Gm.</p><img src="https://i.ytimg.com/vi/EKmnxqwUR4o/mqdefault.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://ukealong.com/song/billie-eilish-yesterday/]]></guid>
+        <pubDate>Tue, 17 Mar 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Billie Eilish - No Time To Die - Key of Am - Ukulaliens - Ukulele Club]]></title>
@@ -61,12 +68,5 @@
         <description><![CDATA[<p>Play along video for the song ocean eyes by Billie Eilish from the channel Ukulaliens - Ukulele Club. Chords used in the song: C, D, Em, G.</p><img src="https://i.ytimg.com/vi/rg1vx2B0qfs/mqdefault.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://ukealong.com/song/billie-eilish-ocean-eyes/]]></guid>
         <pubDate>Wed, 12 Jun 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Billie Eilish - bad guy - About Ukulele]]></title>
-        <link><![CDATA[https://ukealong.com/song/billie-eilish-bad-guy-4/]]></link>
-        <description><![CDATA[<p>Play along video for the song bad guy by Billie Eilish from the channel About Ukulele.</p><img src="https://i.ytimg.com/vi/_YbdSx0K0zA/mqdefault.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://ukealong.com/song/billie-eilish-bad-guy-4/]]></guid>
-        <pubDate>Sat, 27 Apr 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>
