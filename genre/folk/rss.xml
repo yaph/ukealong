@@ -3,7 +3,7 @@
 <channel><title>Uke Along Genre » Folk</title>
     <link>https://ukealong.com</link>
     <description>Genre » Folk</description>
-    <lastBuildDate>Tue, 18 Aug 2020 22:35:33 </lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2020 13:55:13 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -33,6 +33,13 @@
         <description><![CDATA[<p></p><img src="https://i.ytimg.com/vi/zwC4bGMOkzk/mqdefault.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://ukealong.com/song/bella-ciao-ukulele-fingerstyle-play-along-tabs-on-screen/]]></guid>
         <pubDate>Sat, 18 Apr 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Bella Ciao UKULELE TUTORIAL W/ LYRICS - Key of Am - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/bella-ciao-ukulele-tutorial-w-lyrics/]]></link>
+        <description><![CDATA[<p></p><img src="https://i.ytimg.com/vi/kY7zO4--U7s/mqdefault.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bella-ciao-ukulele-tutorial-w-lyrics/]]></guid>
+        <pubDate>Fri, 17 Apr 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Melinda Caroll - Ging Gang Gooli - Key of C - ukeplayalongs]]></title>
@@ -89,12 +96,5 @@
         <description><![CDATA[<p>Play along video for the song Scarborough Fair / Canticle by Simon & Garfunkel from the channel ukeplayalongs. Chords used in the song: A, D, Em, G.</p><img src="https://i.ytimg.com/vi/askLH_IGa0I/mqdefault.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://ukealong.com/song/simon-garfunkel-scarborough-fair-canticle/]]></guid>
         <pubDate>Tue, 13 Aug 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Ka’au Crater Boys - Guava Jam - Key of C - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/kaau-crater-boys-guava-jam/]]></link>
-        <description><![CDATA[<p>Play along video for the song Guava Jam by Ka’au Crater Boys from the channel ukeplayalongs. Chords used in the song: A♭, C, C7, D7, F, G7, Gsus4.</p><img src="https://i.ytimg.com/vi/AzHHXrHwMoQ/mqdefault.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://ukealong.com/song/kaau-crater-boys-guava-jam/]]></guid>
-        <pubDate>Wed, 07 Aug 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

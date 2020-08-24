@@ -3,9 +3,23 @@
 <channel><title>Uke Along Key</title>
     <link>https://ukealong.com</link>
     <description>Key</description>
-    <lastBuildDate>Tue, 18 Aug 2020 22:35:33 </lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2020 13:55:13 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Amy Allen - Queen of Silver Linings - Key of C - ukeplayalongs]]></title>
+        <link><![CDATA[https://ukealong.com/song/amy-allen-queen-of-silver-linings/]]></link>
+        <description><![CDATA[<p>Play along video for the song Queen of Silver Linings by Amy Allen from the channel ukeplayalongs. Chords used in the song: C, F, G.</p><img src="https://i.ytimg.com/vi/Qcn9LyCHlww/mqdefault.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://ukealong.com/song/amy-allen-queen-of-silver-linings/]]></guid>
+        <pubDate>Tue, 18 Aug 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Bob Marley - Redemption Song - Key of G - Ukulaliens - Ukulele Club]]></title>
+        <link><![CDATA[https://ukealong.com/song/bob-marley-redemption-song/]]></link>
+        <description><![CDATA[<p>Play along video for the song Redemption Song by Bob Marley from the channel Ukulaliens - Ukulele Club. Chords used in the song: Am, C, D, D7, Em, G.</p><img src="https://i.ytimg.com/vi/eBnFMFeiI0g/mqdefault.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://ukealong.com/song/bob-marley-redemption-song/]]></guid>
+        <pubDate>Sun, 16 Aug 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Taylor Swift - Cardigan - Key of Dm - ukeplayalongs]]></title>
         <link><![CDATA[https://ukealong.com/song/taylor-swift-cardigan/]]></link>
@@ -68,19 +82,5 @@
         <description><![CDATA[<p></p><img src="https://i.ytimg.com/vi/q9uGS02NOXI/mqdefault.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://ukealong.com/song/kookaburra-sits-in-the-old-gum-tree-ukulele-play-along-in-a/]]></guid>
         <pubDate>Sat, 18 Jul 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[The Beatles - Eleanor Rigby - Key of Em - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/the-beatles-eleanor-rigby/]]></link>
-        <description><![CDATA[<p>Play along video for the song Eleanor Rigby by The Beatles from the channel ukeplayalongs. Chords used in the song: C, Em.</p><img src="https://i.ytimg.com/vi/Uy9y7XbaNwQ/mqdefault.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://ukealong.com/song/the-beatles-eleanor-rigby/]]></guid>
-        <pubDate>Mon, 13 Jul 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Ritchie Valens - La Bamba - Key of C - Ukeledu Music]]></title>
-        <link><![CDATA[https://ukealong.com/song/ritchie-valens-la-bamba/]]></link>
-        <description><![CDATA[<p>Play along video for the song La Bamba by Ritchie Valens from the channel Ukeledu Music. Chords used in the song: C, F, G.</p><img src="https://i.ytimg.com/vi/oaasXeua2og/mqdefault.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://ukealong.com/song/ritchie-valens-la-bamba/]]></guid>
-        <pubDate>Wed, 08 Jul 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>
