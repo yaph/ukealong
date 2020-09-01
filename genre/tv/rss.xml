@@ -3,9 +3,16 @@
 <channel><title>Uke Along Genre » Tv</title>
     <link>https://ukealong.com</link>
     <description>Genre » Tv</description>
-    <lastBuildDate>Tue, 25 Aug 2020 17:22:11 </lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 14:52:47 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Sponge Bob / Bob Esponja UKULELE TUTORIAL - Ukeledu Music]]></title>
+        <link><![CDATA[https://ukealong.com/song/sponge-bob-bob-esponja-ukulele-tutorial/]]></link>
+        <description><![CDATA[<p></p><img src="https://i.ytimg.com/vi/bdVhDnXP11Y/mqdefault.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://ukealong.com/song/sponge-bob-bob-esponja-ukulele-tutorial/]]></guid>
+        <pubDate>Fri, 28 Aug 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Rick And Morty Intro. Ukulele tutorial - About Ukulele]]></title>
         <link><![CDATA[https://ukealong.com/song/rick-and-morty-intro-ukulele-tutorial/]]></link>
@@ -96,12 +103,5 @@
         <description><![CDATA[<p></p><img src="https://i.ytimg.com/vi/sheoJNBGThk/mqdefault.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://ukealong.com/song/the-x-files-theme-ukulele-tutorial/]]></guid>
         <pubDate>Mon, 22 Jul 2019 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Mickey Mouse - Ku'u Lei - Key of C - ukeplayalongs]]></title>
-        <link><![CDATA[https://ukealong.com/song/mickey-mouse-ku-u-lei/]]></link>
-        <description><![CDATA[<p>Play along video for the song Ku'u Lei by Mickey Mouse from the channel ukeplayalongs. Chords used in the song: A7, C, C7, D7, Dm, E7, F, Fm, G7.</p><img src="https://i.ytimg.com/vi/Twx5DLHuMn4/mqdefault.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://ukealong.com/song/mickey-mouse-ku-u-lei/]]></guid>
-        <pubDate>Sun, 14 Jul 2019 00:00:00 </pubDate>
     </item>
 </channel></rss>

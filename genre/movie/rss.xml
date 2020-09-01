@@ -3,9 +3,16 @@
 <channel><title>Uke Along Genre » Movie</title>
     <link>https://ukealong.com</link>
     <description>Genre » Movie</description>
-    <lastBuildDate>Tue, 25 Aug 2020 17:22:11 </lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 14:52:47 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+        <title><![CDATA[Doris Day - Que Sera Sera - Ukulele Cheats]]></title>
+        <link><![CDATA[https://ukealong.com/song/doris-day-que-sera-sera/]]></link>
+        <description><![CDATA[<p>Play along video for the song Que Sera Sera by Doris Day from the channel Ukulele Cheats. Chords used in the song: A, A7, D, D6, D7, Dmaj7, Em, G.</p><img src="https://i.ytimg.com/vi/Foo3d0v_ryw/mqdefault.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://ukealong.com/song/doris-day-que-sera-sera/]]></guid>
+        <pubDate>Thu, 20 Aug 2020 00:00:00 </pubDate>
+    </item>
     <item>
         <title><![CDATA[Can't Stop Singing -Teen Beach Movie - Ukulele Play Along - Ukulaliens - Ukulele Club]]></title>
         <link><![CDATA[https://ukealong.com/song/can-t-stop-singing-teen-beach-movie-ukulele-play-along/]]></link>
@@ -103,12 +110,5 @@
         <description><![CDATA[<p>Play along video for the song All Is Found by Kacey Musgraves from the channel Cynthia Lin Music. Chords used in the song: Am, B♭, C, D, Em, F, G.</p><img src="https://i.ytimg.com/vi/gB2xJ_toPIs/mqdefault.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://ukealong.com/song/kacey-musgraves-all-is-found/]]></guid>
         <pubDate>Sat, 01 Feb 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Christopher Cross - Arthur Theme - Ukulele Underground]]></title>
-        <link><![CDATA[https://ukealong.com/song/christopher-cross-arthur-theme/]]></link>
-        <description><![CDATA[<p>Play along video for the song Arthur Theme by Christopher Cross from the channel Ukulele Underground. Chords used in the song: B♭, C, F.</p><img src="https://i.ytimg.com/vi/HX7t7dskx10/mqdefault.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://ukealong.com/song/christopher-cross-arthur-theme/]]></guid>
-        <pubDate>Fri, 31 Jan 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>
