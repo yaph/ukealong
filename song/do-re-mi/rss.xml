@@ -3,7 +3,7 @@
 <channel><title>Uke Along Song » Do Re Mi</title>
     <link>https://ukealong.com</link>
     <description>Song » Do Re Mi</description>
-    <lastBuildDate>Mon, 21 Sep 2020 22:27:56 </lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2020 22:42:34 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,6 +12,13 @@
         <description><![CDATA[<p>Play along video for the song Blue Bird from the channel About Ukulele. Artist: Ikimono-gakari.</p><img src="https://i.ytimg.com/vi/k1Dl8GYWBRc/mqdefault.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://ukealong.com/video/k1Dl8GYWBRc/]]></guid>
         <pubDate>Mon, 21 Sep 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Cynthia Lin Music: Dancing in the Moonlight - Toploader]]></title>
+        <link><![CDATA[https://ukealong.com/video/oWTF6hH5JA8/]]></link>
+        <description><![CDATA[<p>Play along video for the song Dancing in the Moonlight from the channel Cynthia Lin Music. Artist: Toploader. Chords: Am, D, Em7, G.</p><img src="https://i.ytimg.com/vi/oWTF6hH5JA8/mqdefault.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://ukealong.com/video/oWTF6hH5JA8/]]></guid>
+        <pubDate>Sun, 20 Sep 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Ukeledu Music: Hit The Road Jack - Ray Charles]]></title>
@@ -138,12 +145,5 @@
         <description><![CDATA[<p>Play along video for the song Sponge Bob Theme from the channel Ukeledu Music.</p><img src="https://i.ytimg.com/vi/bdVhDnXP11Y/mqdefault.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://ukealong.com/video/bdVhDnXP11Y/]]></guid>
         <pubDate>Fri, 28 Aug 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Ukulele Cheats: Tonight You Belong To Me - Patience and Prudence & Eddie Vedder & Nancy Sinatra - Key of C]]></title>
-        <link><![CDATA[https://ukealong.com/video/54SadR2tGjk/]]></link>
-        <description><![CDATA[<p>Play along video for the song Tonight You Belong To Me from the channel Ukulele Cheats. Artists: Patience and Prudence & Eddie Vedder & Nancy Sinatra. Chords: A7, C, C7, D7, F, Fm, G.</p><img src="https://i.ytimg.com/vi/54SadR2tGjk/mqdefault.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://ukealong.com/video/54SadR2tGjk/]]></guid>
-        <pubDate>Thu, 27 Aug 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>
