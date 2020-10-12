@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
-<channel><title>Uke Along RSS Feed</title>
-    <link>https://ukealong.com</link>
-    <description>RSS Feed</description>
-    <lastBuildDate>Fri, 09 Oct 2020 20:46:49 </lastBuildDate>
+<channel><title>UkeAlong RSS Feed</title>
+    <link>https://ukealong.com/rss.xml</link>
+    <description></description>
+    <lastBuildDate>Tue, 13 Oct 2020 00:15:14 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -19,6 +19,13 @@
         <description><![CDATA[<p>Play along video for the song Rain On Me from the channel ukeplayalongs. Artists: Ariana Grande & Lady Gaga. Chords: B♭, C, Dm, Gm.</p><img src="https://i.ytimg.com/vi/iEbaISEAXFc/mqdefault.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://ukealong.com/video/iEbaISEAXFc/]]></guid>
         <pubDate>Thu, 08 Oct 2020 00:00:00 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[ukulenny: Stand By Me - Ben E. King]]></title>
+        <link><![CDATA[https://ukealong.com/video/47cQzU2lqL0/]]></link>
+        <description><![CDATA[<p>Play along video for the song Stand By Me from the channel ukulenny. Artist: Ben E. King. Chords: Am, C, F, G7.</p><img src="https://i.ytimg.com/vi/47cQzU2lqL0/mqdefault.jpg" alt="Preview">]]></description>
+        <guid><![CDATA[https://ukealong.com/video/47cQzU2lqL0/]]></guid>
+        <pubDate>Wed, 07 Oct 2020 00:00:00 </pubDate>
     </item>
     <item>
         <title><![CDATA[Ukulele Cheats: Sway - Dean Martin]]></title>
@@ -138,12 +145,5 @@
         <description><![CDATA[<p>Play along video for the song This Is The Life from the channel Ukeledu Music. Artist: Amy Macdonald. Chords: Am, C, Em, F.</p><img src="https://i.ytimg.com/vi/klt6bM2Up8s/mqdefault.jpg" alt="Preview">]]></description>
         <guid><![CDATA[https://ukealong.com/video/klt6bM2Up8s/]]></guid>
         <pubDate>Fri, 04 Sep 2020 00:00:00 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Ukulele Cheats: Make You Feel My Love - Bob Dylan & Adele]]></title>
-        <link><![CDATA[https://ukealong.com/video/-W5YMw8LW7c/]]></link>
-        <description><![CDATA[<p>Play along video for the song Make You Feel My Love from the channel Ukulele Cheats. Artists: Bob Dylan & Adele. Chords: A♭, A♭6, B♭, C7, D7, E♭, E♭m, F, F7.</p><img src="https://i.ytimg.com/vi/-W5YMw8LW7c/mqdefault.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[https://ukealong.com/video/-W5YMw8LW7c/]]></guid>
-        <pubDate>Wed, 02 Sep 2020 00:00:00 </pubDate>
     </item>
 </channel></rss>
