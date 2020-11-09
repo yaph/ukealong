@@ -5,8 +5,8 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title itemprop="name">Ukulele Underground: I Shot The Sheriff - Bob Marley - Key of Gm • Music Video to Play Along</title>
-<meta name="description" content="Play along video for the song I Shot The Sheriff from the channel Ukulele Underground. Artist: Bob Marley. Chords: Cm7, Dm7, Gm."><meta name="author" content="Ramiro Gómez">
+    <title itemprop="name">graph-3d</title>
+<meta name="author" content="Ramiro Gómez">
 
     <link href="" rel="canonical" itemprop="url">
     <link href="/rss.xml" rel="alternate" type="application/rss+xml" title="RSS feed">
@@ -39,20 +39,23 @@
             </div>
         </div>
     </div>
-</nav><section class="content section" itemscope itemtype="http://schema.org/Article"><div class="container">
-    <h1 class="title" itemprop="name">Ukulele Underground: I Shot The Sheriff - Bob Marley - Key of Gm</h1>
-    <div class="embed">
-    <iframe src="//www.youtube.com/embed/IzTgYrnhYhs?wmode=transparent" frameborder="0" allowfullscreen></iframe>
-</div>
-        <p class="caption">
-<strong>Chords:</strong>
-<a href="/chord/cm7/">Cm7</a> • <a href="/chord/dm7/">Dm7</a> • <a href="/chord/gm/">Gm</a> • <strong>Keys:</strong>
-<a href="/key/gm/">Gm</a> • <strong>Artists:</strong>
-<a href="/artist/bob-marley/">Bob Marley</a> • <strong>Genres:</strong>
-<a href="/genre/reggae/">Reggae</a>        </p>
-    <p>This video was uploaded by <a href="http://www.youtube.com/channel/UCDglnz22aXMzpug5HbD1bCA">Ukulele Underground</a>. You can support this channel by subscribing and liking the video on the <a href="https://www.youtube.com/watch?v=IzTgYrnhYhs">YouTube page</a>.</p>
-</div></section>
-    <footer class="footer">
+</nav><script src="https://d3js.org/d3.v6.min.js"></script>
+<script src="//unpkg.com/3d-force-graph"></script>
+
+<div id="3d-graph"></div>
+
+<script>
+const graph = ForceGraph3D()(document.getElementById('3d-graph'))
+    .jsonUrl('/json/chord-co-occurrence.json')
+    .nodeAutoColorBy(node => node.id[0])
+    .nodeLabel('id')
+    .linkWidth(link => link.val / 5)
+    .d3Force('charge', null);
+
+const node_count = () => graph.graphData().nodes.length;
+
+graph.d3Force('link').distance(link => node_count() * 5);
+</script>    <footer class="footer">
         <div class="container">
             <p>Uke Along is a website for ukulele players featuring songs to play along with chord charts.<br>
             <strong>Sections:</strong>
