@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title itemprop="name">Statistics for Play Along Songs on UkeAlong.com</title>
+<meta name="author" content="Ramiro Gómez">
+
+    <link href="" rel="canonical" itemprop="url">
+    <link href="/rss.xml" rel="alternate" type="application/rss+xml" title="RSS feed">
+    <link rel="shortcut icon" href="/favicon.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.1/css/bulma.min.css">
+    <link rel="stylesheet" href="/compiled/style.css">
+</head>
+<body>
+<nav class="navbar is-light" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+        <a class="navbar-item" href="/">
+            <img src="/img/ukealong-logo.png" width="110" height="42" alt="logo">
+        </a>
+        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="mainnav">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+        </a>
+    </div>
+    <div id="mainnav" class="navbar-menu">
+        <div class="navbar-end">
+            <a class="navbar-item" href="/songs/">Songs</a>
+            <a class="navbar-item" href="/artists/">Artists</a>
+            <a class="navbar-item" href="/chords/">Chords</a>
+            <a class="navbar-item" href="/keys/">Keys</a>
+            <a class="navbar-item" href="/genres/">Genres</a>
+            <div class="navbar-item">
+                <a class="button mr-2" href="/newsletter/" title="Subscribe to newsletter"><img src="/img/svg/email.svg" alt="Newsletter"></a>
+                <a class="button" href="/rss.xml" title="Subscribe to RSS Feed"><img src="/img/svg/rss.svg" alt="RSS Feed"></a>
+            </div>
+        </div>
+    </div>
+</nav><section class="content section"><div class="container">
+<h1>Statistics for Play Along Songs on UkeAlong.com</h1>
+<style>
+.totals .box {
+    background: rgba(100, 211, 124, 0.7);
+}
+</style>
+
+<div class="columns is-tablet is-multiline has-text-centered totals">
+    <div class="column is-quarter">
+        <div class="box">
+            <strong># Songs</strong>
+            <div class="is-size-1" id="total-songs"></div>
+        </div>
+    </div>
+    <div class="column is-quarter">
+        <div class="box">
+            <strong># Keys</strong>
+            <div class="is-size-1" id="total-keys"></div>
+        </div>
+    </div>
+    <div class="column is-quarter">
+        <div class="box">
+            <strong># Chords</strong>
+            <div class="is-size-1" id="total-chords"></div>
+        </div>
+    </div>
+    <div class="column is-quarter">
+        <div class="box">
+            <strong># Chord Sets</strong>
+            <div class="is-size-1" id="total-chord-sets"></div>
+        </div>
+    </div>
+</div>
+
+<div class="columns is-tablet is-multiline">
+    <div class="column is-half">
+        <div class="box">
+            <h3>Most Common Song Keys</h3>
+            <div id="keys"></div>
+        </div>
+    </div>
+    <div class="column is-half">
+        <div class="box">
+            <h3>Most Common Chords</h3>
+            <div id="chords"></div>
+        </div>
+    </div>
+    <div class="column is-half">
+        <div class="box">
+            <h3>Most Common Chord Combinations</h3>
+            <div id="chord-combinations"></div>
+        </div>
+    </div>
+    <div class="column is-half">
+        <div class="box">
+            <h3>Most Common Chord Sets</h3>
+            <div id="chord-sets"></div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript" src="/compiled/statistics.js"></script>
+</div></section>
+    <footer class="footer">
+        <div class="container">
+            <p>Uke Along is a website for ukulele players featuring songs to play along with chord charts.<br>
+            <strong>Sections:</strong>
+            <a class="link light-blue" href="/artists/">Artists</a> •
+            <a class="link light-blue" href="/chords/">Chords</a> •
+            <a class="link light-blue" href="/keys/">Keys</a> •
+            <a class="link light-blue" href="/songs/">Songs</a> •
+            <a class="link light-blue" href="/resources/">Resources</a><br>
+            <strong>Meta:</strong>
+            <a class="link light-blue" href="/info/about/" rel="nofollow">About</a> •
+            <a class="link light-blue" href="/info/legal/" rel="nofollow">Privacy Policy/Legal Info</a> •
+            <a class="link light-blue" href="/newsletter/">Newsletter</a> •
+            <a class="link light-blue" href="/rss.xml">RSS Feed</a>
+            </p>
+        </div>
+    </footer>
+    <script src="/vendor/blazy.min.js"></script>
+    <script src="/compiled/navbar.js"></script>
+    <script>window.onload = () => bLazy = new Blazy();</script>
+</body>
+</html>
