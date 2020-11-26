@@ -7,12 +7,16 @@
 
     <title itemprop="name">Statistics for Play Along Songs on UkeAlong.com</title>
 <meta name="author" content="Ramiro Gómez">
-
     <link href="" rel="canonical" itemprop="url">
     <link href="/rss.xml" rel="alternate" type="application/rss+xml" title="RSS feed">
     <link rel="shortcut icon" href="/favicon.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.1/css/bulma.min.css">
     <link rel="stylesheet" href="/compiled/style.css">
+<style>
+.totals .box {
+    background: rgba(100, 211, 124, 0.7);
+}
+</style>
 </head>
 <body>
 <nav class="navbar is-light" role="navigation" aria-label="main navigation">
@@ -40,13 +44,8 @@
         </div>
     </div>
 </nav><section class="content section"><div class="container">
-<h1>Statistics for Play Along Songs on UkeAlong.com</h1>
-<style>
-.totals .box {
-    background: rgba(100, 211, 124, 0.7);
-}
-</style>
 
+<h1>Statistics for Play Along Songs on UkeAlong.com</h1>
 <div class="columns is-tablet is-multiline has-text-centered totals">
     <div class="column is-quarter">
         <div class="box">
@@ -89,19 +88,26 @@
     </div>
     <div class="column is-half">
         <div class="box">
-            <h3>Most Common Chord Combinations</h3>
-            <div id="chord-combinations"></div>
-        </div>
-    </div>
-    <div class="column is-half">
-        <div class="box">
             <h3>Most Common Chord Sets</h3>
             <div id="chord-sets"></div>
         </div>
     </div>
+    <div class="column is-half">
+        <div class="box">
+            <h3>Most Common Chord Combinations</h3>
+            <div id="chord-combinations"></div>
+        </div>
+    </div>
 </div>
 
-<script type="text/javascript" src="/compiled/statistics.js"></script>
+<div><ul>
+<li>These statistics should not be generalized, but you can see which chords you should learn first to play a wide range of songs.</li>
+<li>Includes play along videos with available information on chords in the song.</li>
+<li>Different videos with the same song title and set of chords are counted once.</li>
+<li>The frequency with which chords appear within songs is not taken into account, i. e. a chord that is played once in a song has the same weight as a chord that occurs 20 times.</li>
+<li>Chord information may be incomplete, inaccurate or incorrect. For example E7 may be suggested in play along videos although the actual chord played in the song is E.</li>
+</ul></div>
+
 </div></section>
     <footer class="footer">
         <div class="container">
@@ -123,5 +129,7 @@
     <script src="/vendor/blazy.min.js"></script>
     <script src="/compiled/navbar.js"></script>
     <script>window.onload = () => bLazy = new Blazy();</script>
+<script type="text/javascript" src="/vendor/g2plot.min.js"></script>
+<script type="text/javascript" src="/compiled/statistics.js"></script>
 </body>
 </html>
