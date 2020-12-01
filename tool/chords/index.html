@@ -5,7 +5,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title itemprop="name">Chords Tools</title>
+    <title itemprop="name">Chord Tool</title>
 <meta name="description" content="This tool"><meta name="author" content="Ramiro Gómez">
     <link href="" rel="canonical" itemprop="url">
     <link href="/rss.xml" rel="alternate" type="application/rss+xml" title="RSS feed">
@@ -39,8 +39,14 @@
         </div>
     </div>
 </nav><section class="content section"><div class="container">
-<h1>Chords Tools</h1>
-<script src="/compiled/tool/chords.js"></script>
+<h1>Chord Tool</h1>
+<div class="box">
+    <div class="control is-flex mb-3">
+        <input class="input is-medium mr-2" type="text" placeholder="Enter chord name" id="chord-name">
+        <p class="is-size-4 info" title=" Type chord name and press Enter.">🛈</p>
+    </div>
+    <svg id="fretboard"></svg>
+</div>
 </div></section>
     <footer class="footer">
         <div class="container">
@@ -62,5 +68,5 @@
     <script src="/vendor/blazy.min.js"></script>
     <script src="/compiled/navbar.js"></script>
     <script>window.onload = () => bLazy = new Blazy();</script>
-</body>
+<script src="/compiled/tool/chords.js"></script></body>
 </html>
