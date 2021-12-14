@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc><![CDATA[https://ukealong.com/draft/graph/]]></loc><lastmod>2021-12-14</lastmod></url>
+<url><loc><![CDATA[https://ukealong.com/draft/graph-3d/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/czpvll6_-qY/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/gFejCPr1qZ4/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/eoby1-_2IXQ/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/hEeNoepa36g/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/9SJiKqvUB8k/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/6dtr2c_Fy84/]]></loc><lastmod>2021-12-14</lastmod></url>
-<url><loc><![CDATA[https://ukealong.com/reference/major-scales/]]></loc><lastmod>2021-12-11</lastmod></url>
+<url><loc><![CDATA[https://ukealong.com/reference/major-scales/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/c2uahj1VpU0/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/DG38VmmN6Bo/]]></loc><lastmod>2021-12-14</lastmod></url>
-<url><loc><![CDATA[https://ukealong.com/reference/note-values/]]></loc><lastmod>2021-12-11</lastmod></url>
-<url><loc><![CDATA[https://ukealong.com/reference/note-names/]]></loc><lastmod>2021-12-11</lastmod></url>
-<url><loc><![CDATA[https://ukealong.com/reference/midi-values/]]></loc><lastmod>2021-12-11</lastmod></url>
+<url><loc><![CDATA[https://ukealong.com/reference/note-values/]]></loc><lastmod>2021-12-14</lastmod></url>
+<url><loc><![CDATA[https://ukealong.com/reference/note-names/]]></loc><lastmod>2021-12-14</lastmod></url>
+<url><loc><![CDATA[https://ukealong.com/reference/midi-values/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/IkOXvalVmyY/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/_Va_i852XXA/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/R_as49TQ230/]]></loc><lastmod>2021-12-14</lastmod></url>
@@ -661,8 +663,6 @@
 <url><loc><![CDATA[https://ukealong.com/video/NepcqIlJ2Iw/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/CiN3LaPZk2U/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/xjMDMQRBdw0/]]></loc><lastmod>2021-12-14</lastmod></url>
-<url><loc><![CDATA[https://ukealong.com/draft/graph/]]></loc><lastmod>2021-01-21</lastmod></url>
-<url><loc><![CDATA[https://ukealong.com/draft/graph-3d/]]></loc><lastmod>2021-01-21</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/fEBY89BlOpU/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/dADGbU65Vzk/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/5GqQT0NLT8c/]]></loc><lastmod>2021-12-14</lastmod></url>
@@ -760,7 +760,7 @@
 <url><loc><![CDATA[https://ukealong.com/video/KNfDLVLL47c/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/z35qnRDY2hM/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/szorPkHYuRg/]]></loc><lastmod>2021-12-14</lastmod></url>
-<url><loc><![CDATA[https://ukealong.com/tool/chord-detector/]]></loc><lastmod>2021-06-30</lastmod></url>
+<url><loc><![CDATA[https://ukealong.com/tool/chord-detector/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/R9jVmo-RFPo/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/rDY9f1dtuto/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/sIiIHTYG2og/]]></loc><lastmod>2021-12-14</lastmod></url>
@@ -781,7 +781,7 @@
 <url><loc><![CDATA[https://ukealong.com/video/PPLiaiBqlVY/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/vy_PRpF7Cec/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/VyhUqzhzJM4/]]></loc><lastmod>2021-12-14</lastmod></url>
-<url><loc><![CDATA[https://ukealong.com/statistics/]]></loc><lastmod>2021-01-21</lastmod></url>
+<url><loc><![CDATA[https://ukealong.com/statistics/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/fcendrPj_L4/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/mWqW0AqxvGE/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/B3pYun6ig50/]]></loc><lastmod>2021-12-14</lastmod></url>
@@ -893,7 +893,7 @@
 <url><loc><![CDATA[https://ukealong.com/video/ba_KvPXrPl4/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/EIwj5Fo3cTI/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/PG5WUC80nW8/]]></loc><lastmod>2021-12-14</lastmod></url>
-<url><loc><![CDATA[https://ukealong.com/genres/]]></loc><lastmod>2021-01-21</lastmod></url>
+<url><loc><![CDATA[https://ukealong.com/genres/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/qhC5ntGXIVA/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/bb-sG6YIYUs/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/HygbKzWBNA0/]]></loc><lastmod>2021-12-14</lastmod></url>
@@ -1150,7 +1150,7 @@
 <url><loc><![CDATA[https://ukealong.com/video/sN2Afn8XxrA/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/c61jJS2hENM/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/rlhggYWz4s4/]]></loc><lastmod>2021-12-14</lastmod></url>
-<url><loc><![CDATA[https://ukealong.com/keys/]]></loc><lastmod>2021-01-21</lastmod></url>
+<url><loc><![CDATA[https://ukealong.com/keys/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/A4awyUb2-84/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/puXU2bGm9Tc/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/lFj3Roas5y0/]]></loc><lastmod>2021-12-14</lastmod></url>
@@ -1362,7 +1362,7 @@
 <url><loc><![CDATA[https://ukealong.com/video/SZF9rKzOqCI/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/U-d65IhOA28/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/3FQaApHkofc/]]></loc><lastmod>2021-12-14</lastmod></url>
-<url><loc><![CDATA[https://ukealong.com/resources/]]></loc><lastmod>2021-11-23</lastmod></url>
+<url><loc><![CDATA[https://ukealong.com/resources/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/UexR_ccuPPQ/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/84G4Ci2hy14/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/tKxcNEr-m0U/]]></loc><lastmod>2021-12-14</lastmod></url>
@@ -1553,12 +1553,12 @@
 <url><loc><![CDATA[https://ukealong.com/video/sYkmJiT1uqY/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/n6knB24jQo0/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/XSej-JtZUbk/]]></loc><lastmod>2021-12-14</lastmod></url>
-<url><loc><![CDATA[https://ukealong.com/artists/]]></loc><lastmod>2021-01-21</lastmod></url>
-<url><loc><![CDATA[https://ukealong.com/chords/]]></loc><lastmod>2021-01-21</lastmod></url>
+<url><loc><![CDATA[https://ukealong.com/artists/]]></loc><lastmod>2021-12-14</lastmod></url>
+<url><loc><![CDATA[https://ukealong.com/chords/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/u52gc-HtPHY/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/L5HmZXpMRY8/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/6ahd1uImHWw/]]></loc><lastmod>2021-12-14</lastmod></url>
-<url><loc><![CDATA[https://ukealong.com/songs/]]></loc><lastmod>2021-01-21</lastmod></url>
+<url><loc><![CDATA[https://ukealong.com/songs/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/7gMLm9Rrbqc/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/3IBUnJNV1ZA/]]></loc><lastmod>2021-12-14</lastmod></url>
 <url><loc><![CDATA[https://ukealong.com/video/l6g3Sr8fQfQ/]]></loc><lastmod>2021-12-14</lastmod></url>
