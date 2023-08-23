@@ -35,17 +35,23 @@
             <a class="navbar-item" href="https://ukealong.gumroad.com/">Store</a>
         </div>
     </div>
-</nav><section class="content section" itemscope itemtype="http://schema.org/Article"><div class="container">
-    <h1 class="title" itemprop="name">About Ukulele: Spotlight - Marshmello & Lil Peep</h1>
-    <div class="embed">
-    <iframe src="//www.youtube.com/embed/WMn90uyet5Y?wmode=transparent" frameborder="0" allowfullscreen></iframe>
+</nav><section class="content section"><div class="container">
+    <h1 class="title is-hidden-mobile" itemprop="name">About Ukulele: Spotlight - Marshmello & Lil Peep</h1>
+    <div id="player" title="WMn90uyet5Y"></div>
+    <div class="box is-flex is-flex-direction-row">
+    <div class="is-flex m-1 is-size-3">Tempo:</div>
+    <div class="is-flex">
+        <button class="button is-large mr-2" id="decrease" title="Decrease tempo">-</button>
+        <button class="button is-large mr-2" id="increase" title="Increase tempo">+</button>
+        <button class="button is-large" id="reset" title="Reset tempo">↺</button>
+    </div>
 </div>
 
     <div class="box">
-        <p>This video was uploaded by <a href="https://www.youtube.com/channel/UCo3eGtq44aBcTTsQPIfPiGQ">About Ukulele</a>. Support this channel by subscribing and liking <a href="https://www.youtube.com/watch?v=WMn90uyet5Y">the video on YouTube</a>.</p>
         <ul class="list-inline">
 <li><strong>Artists:</strong>
 <a href="/artist/marshmello/">Marshmello</a> • <a href="/artist/lil-peep/">Lil Peep</a></li>        </ul>
+        <p>This video was uploaded by <a href="https://www.youtube.com/channel/UCo3eGtq44aBcTTsQPIfPiGQ">About Ukulele</a>. Support this channel by subscribing and liking <a href="https://www.youtube.com/watch?v=WMn90uyet5Y">the video on YouTube</a>.</p>
     </div>
 
 </div></section>
@@ -98,6 +104,8 @@
 </symbol></svg></span>    <script src="/vendor/blazy.min.js"></script>
     <script src="/compiled/navbar.js"></script>
     <script>addEventListener('load', (e) => bLazy = new Blazy());</script>
+
+<script src="/compiled/video.js"></script>
     <script async src="https://umami-yaph.vercel.app/script.js" data-website-id="71ac5b3b-f498-43e0-928f-4a60b4d1ef6c"></script>
 </body>
 </html>

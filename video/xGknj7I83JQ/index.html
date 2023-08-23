@@ -35,18 +35,24 @@
             <a class="navbar-item" href="https://ukealong.gumroad.com/">Store</a>
         </div>
     </div>
-</nav><section class="content section" itemscope itemtype="http://schema.org/Article"><div class="container">
-    <h1 class="title" itemprop="name">Anoukulele: Another Sunny Day - Belle And Sebastian</h1>
-    <div class="embed">
-    <iframe src="//www.youtube.com/embed/xGknj7I83JQ?wmode=transparent" frameborder="0" allowfullscreen></iframe>
+</nav><section class="content section"><div class="container">
+    <h1 class="title is-hidden-mobile" itemprop="name">Anoukulele: Another Sunny Day - Belle And Sebastian</h1>
+    <div id="player" title="xGknj7I83JQ"></div>
+    <div class="box is-flex is-flex-direction-row">
+    <div class="is-flex m-1 is-size-3">Tempo:</div>
+    <div class="is-flex">
+        <button class="button is-large mr-2" id="decrease" title="Decrease tempo">-</button>
+        <button class="button is-large mr-2" id="increase" title="Increase tempo">+</button>
+        <button class="button is-large" id="reset" title="Reset tempo">↺</button>
+    </div>
 </div>
 
     <div class="box">
-        <p>This video was uploaded by <a href="https://www.youtube.com/channel/UClUtK8zGhDk5x-XfUkWv1YA">Anoukulele</a>. Support this channel by subscribing and liking <a href="https://www.youtube.com/watch?v=xGknj7I83JQ">the video on YouTube</a>.</p>
         <ul class="list-inline">
 <li><strong>Artists:</strong>
 <a href="/artist/belle-and-sebastian/">Belle And Sebastian</a></li><li><strong>Genres:</strong>
 <a href="/genre/pop/">Pop</a> • <a href="/genre/rock/">Rock</a></li>        </ul>
+        <p>This video was uploaded by <a href="https://www.youtube.com/channel/UClUtK8zGhDk5x-XfUkWv1YA">Anoukulele</a>. Support this channel by subscribing and liking <a href="https://www.youtube.com/watch?v=xGknj7I83JQ">the video on YouTube</a>.</p>
     </div>
 
         <h2>Other song versions</h2>
@@ -111,6 +117,8 @@
 </symbol></svg></span>    <script src="/vendor/blazy.min.js"></script>
     <script src="/compiled/navbar.js"></script>
     <script>addEventListener('load', (e) => bLazy = new Blazy());</script>
+
+<script src="/compiled/video.js"></script>
     <script async src="https://umami-yaph.vercel.app/script.js" data-website-id="71ac5b3b-f498-43e0-928f-4a60b4d1ef6c"></script>
 </body>
 </html>
