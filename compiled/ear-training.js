@@ -5,8 +5,8 @@
   var __getOwnPropNames = Object.getOwnPropertyNames;
   var __getProtoOf = Object.getPrototypeOf;
   var __hasOwnProp = Object.prototype.hasOwnProperty;
-  var __commonJS = (cb, mod2) => function __require() {
-    return mod2 || (0, cb[__getOwnPropNames(cb)[0]])((mod2 = { exports: {} }).exports, mod2), mod2.exports;
+  var __commonJS = (cb, mod3) => function __require() {
+    return mod3 || (0, cb[__getOwnPropNames(cb)[0]])((mod3 = { exports: {} }).exports, mod3), mod3.exports;
   };
   var __copyProps = (to, from, except, desc) => {
     if (from && typeof from === "object" || typeof from === "function") {
@@ -16,13 +16,13 @@
     }
     return to;
   };
-  var __toESM = (mod2, isNodeMode, target) => (target = mod2 != null ? __create(__getProtoOf(mod2)) : {}, __copyProps(
+  var __toESM = (mod3, isNodeMode, target) => (target = mod3 != null ? __create(__getProtoOf(mod3)) : {}, __copyProps(
     // If the importer is in node compatibility mode or this is not an ESM
     // file that has been converted to a CommonJS file using a Babel-
     // compatible transform (i.e. "__esModule" has not been set), then set
     // "default" to the CommonJS "module.exports" for node compatibility.
-    isNodeMode || !mod2 || !mod2.__esModule ? __defProp(target, "default", { value: mod2, enumerable: true }) : target,
-    mod2
+    isNodeMode || !mod3 || !mod3.__esModule ? __defProp(target, "default", { value: mod3, enumerable: true }) : target,
+    mod3
   ));
 
   // node_modules/@babel/runtime/helpers/arrayWithHoles.js
@@ -39,27 +39,27 @@
   // node_modules/@babel/runtime/helpers/iterableToArrayLimit.js
   var require_iterableToArrayLimit = __commonJS({
     "node_modules/@babel/runtime/helpers/iterableToArrayLimit.js"(exports, module) {
-      function _iterableToArrayLimit(r, l) {
-        var t = null == r ? null : "undefined" != typeof Symbol && r[Symbol.iterator] || r["@@iterator"];
+      function _iterableToArrayLimit(r2, l) {
+        var t = null == r2 ? null : "undefined" != typeof Symbol && r2[Symbol.iterator] || r2["@@iterator"];
         if (null != t) {
-          var e, n, i, u, a = [], f = true, o = false;
+          var e2, n2, i, u, a = [], f = true, o = false;
           try {
-            if (i = (t = t.call(r)).next, 0 === l) {
+            if (i = (t = t.call(r2)).next, 0 === l) {
               if (Object(t) !== t)
                 return;
               f = false;
             } else
-              for (; !(f = (e = i.call(t)).done) && (a.push(e.value), a.length !== l); f = true)
+              for (; !(f = (e2 = i.call(t)).done) && (a.push(e2.value), a.length !== l); f = true)
                 ;
-          } catch (r2) {
-            o = true, n = r2;
+          } catch (r3) {
+            o = true, n2 = r3;
           } finally {
             try {
               if (!f && null != t["return"] && (u = t["return"](), Object(u) !== u))
                 return;
             } finally {
               if (o)
-                throw n;
+                throw n2;
             }
           }
           return a;
@@ -92,12 +92,12 @@
           return;
         if (typeof o === "string")
           return arrayLikeToArray(o, minLen);
-        var n = Object.prototype.toString.call(o).slice(8, -1);
-        if (n === "Object" && o.constructor)
-          n = o.constructor.name;
-        if (n === "Map" || n === "Set")
+        var n2 = Object.prototype.toString.call(o).slice(8, -1);
+        if (n2 === "Object" && o.constructor)
+          n2 = o.constructor.name;
+        if (n2 === "Map" || n2 === "Set")
           return Array.from(o);
-        if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n))
+        if (n2 === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n2))
           return arrayLikeToArray(o, minLen);
       }
       module.exports = _unsupportedIterableToArray, module.exports.__esModule = true, module.exports["default"] = module.exports;
@@ -273,12 +273,12 @@
         var isSetValueCurveAutomationEvent = function isSetValueCurveAutomationEvent2(automationEvent) {
           return automationEvent.type === "setValueCurve";
         };
-        var getValueOfAutomationEventAtIndexAtTime = function getValueOfAutomationEventAtIndexAtTime2(automationEvents, index8, time, defaultValue) {
-          var automationEvent = automationEvents[index8];
-          return automationEvent === void 0 ? defaultValue : isAnyRampToValueAutomationEvent(automationEvent) || isSetValueAutomationEvent(automationEvent) ? automationEvent.value : isSetValueCurveAutomationEvent(automationEvent) ? automationEvent.values[automationEvent.values.length - 1] : getTargetValueAtTime(time, getValueOfAutomationEventAtIndexAtTime2(automationEvents, index8 - 1, automationEvent.startTime, defaultValue), automationEvent);
+        var getValueOfAutomationEventAtIndexAtTime = function getValueOfAutomationEventAtIndexAtTime2(automationEvents, index13, time, defaultValue) {
+          var automationEvent = automationEvents[index13];
+          return automationEvent === void 0 ? defaultValue : isAnyRampToValueAutomationEvent(automationEvent) || isSetValueAutomationEvent(automationEvent) ? automationEvent.value : isSetValueCurveAutomationEvent(automationEvent) ? automationEvent.values[automationEvent.values.length - 1] : getTargetValueAtTime(time, getValueOfAutomationEventAtIndexAtTime2(automationEvents, index13 - 1, automationEvent.startTime, defaultValue), automationEvent);
         };
-        var getEndTimeAndValueOfPreviousAutomationEvent = function getEndTimeAndValueOfPreviousAutomationEvent2(automationEvents, index8, currentAutomationEvent, nextAutomationEvent, defaultValue) {
-          return currentAutomationEvent === void 0 ? [nextAutomationEvent.insertTime, defaultValue] : isAnyRampToValueAutomationEvent(currentAutomationEvent) ? [currentAutomationEvent.endTime, currentAutomationEvent.value] : isSetValueAutomationEvent(currentAutomationEvent) ? [currentAutomationEvent.startTime, currentAutomationEvent.value] : isSetValueCurveAutomationEvent(currentAutomationEvent) ? [currentAutomationEvent.startTime + currentAutomationEvent.duration, currentAutomationEvent.values[currentAutomationEvent.values.length - 1]] : [currentAutomationEvent.startTime, getValueOfAutomationEventAtIndexAtTime(automationEvents, index8 - 1, currentAutomationEvent.startTime, defaultValue)];
+        var getEndTimeAndValueOfPreviousAutomationEvent = function getEndTimeAndValueOfPreviousAutomationEvent2(automationEvents, index13, currentAutomationEvent, nextAutomationEvent, defaultValue) {
+          return currentAutomationEvent === void 0 ? [nextAutomationEvent.insertTime, defaultValue] : isAnyRampToValueAutomationEvent(currentAutomationEvent) ? [currentAutomationEvent.endTime, currentAutomationEvent.value] : isSetValueAutomationEvent(currentAutomationEvent) ? [currentAutomationEvent.startTime, currentAutomationEvent.value] : isSetValueCurveAutomationEvent(currentAutomationEvent) ? [currentAutomationEvent.startTime + currentAutomationEvent.duration, currentAutomationEvent.values[currentAutomationEvent.values.length - 1]] : [currentAutomationEvent.startTime, getValueOfAutomationEventAtIndexAtTime(automationEvents, index13 - 1, currentAutomationEvent.startTime, defaultValue)];
         };
         var isCancelAndHoldAutomationEvent = function isCancelAndHoldAutomationEvent2(automationEvent) {
           return automationEvent.type === "cancelAndHold";
@@ -339,18 +339,18 @@
             }
           }, {
             key: "add",
-            value: function add9(automationEvent) {
+            value: function add15(automationEvent) {
               var eventTime = getEventTime(automationEvent);
               if (isCancelAndHoldAutomationEvent(automationEvent) || isCancelScheduledValuesAutomationEvent(automationEvent)) {
-                var index8 = this._automationEvents.findIndex(function(currentAutomationEvent) {
+                var index13 = this._automationEvents.findIndex(function(currentAutomationEvent) {
                   if (isCancelScheduledValuesAutomationEvent(automationEvent) && isSetValueCurveAutomationEvent(currentAutomationEvent)) {
                     return currentAutomationEvent.startTime + currentAutomationEvent.duration >= eventTime;
                   }
                   return getEventTime(currentAutomationEvent) >= eventTime;
                 });
-                var removedAutomationEvent = this._automationEvents[index8];
-                if (index8 !== -1) {
-                  this._automationEvents = this._automationEvents.slice(0, index8);
+                var removedAutomationEvent = this._automationEvents[index13];
+                if (index13 !== -1) {
+                  this._automationEvents = this._automationEvents.slice(0, index13);
                 }
                 if (isCancelAndHoldAutomationEvent(automationEvent)) {
                   var lastAutomationEvent = this._automationEvents[this._automationEvents.length - 1];
@@ -405,14 +405,14 @@
           }, {
             key: "flush",
             value: function flush(time) {
-              var index8 = this._automationEvents.findIndex(function(currentAutomationEvent) {
+              var index13 = this._automationEvents.findIndex(function(currentAutomationEvent) {
                 return getEventTime(currentAutomationEvent) > time;
               });
-              if (index8 > 1) {
-                var remainingAutomationEvents = this._automationEvents.slice(index8 - 1);
+              if (index13 > 1) {
+                var remainingAutomationEvents = this._automationEvents.slice(index13 - 1);
                 var firstRemainingAutomationEvent = remainingAutomationEvents[0];
                 if (isSetTargetAutomationEvent(firstRemainingAutomationEvent)) {
-                  remainingAutomationEvents.unshift(createSetValueAutomationEvent2(getValueOfAutomationEventAtIndexAtTime(this._automationEvents, index8 - 2, firstRemainingAutomationEvent.startTime, this._defaultValue), firstRemainingAutomationEvent.startTime));
+                  remainingAutomationEvents.unshift(createSetValueAutomationEvent2(getValueOfAutomationEventAtIndexAtTime(this._automationEvents, index13 - 2, firstRemainingAutomationEvent.startTime, this._defaultValue), firstRemainingAutomationEvent.startTime));
                 }
                 this._automationEvents = remainingAutomationEvents;
               }
@@ -601,7 +601,7 @@
     }
   };
   var createAddAudioWorkletModule = (cacheTestResult2, createNotSupportedError2, evaluateSource, exposeCurrentFrameAndCurrentTime2, fetchSource, getNativeContext2, getOrCreateBackupOfflineAudioContext2, isNativeOfflineAudioContext2, nativeAudioWorkletNodeConstructor2, ongoingRequests, resolvedRequests, testAudioWorkletProcessorPostMessageSupport, window3) => {
-    let index8 = 0;
+    let index13 = 0;
     return (context2, moduleURL, options = { credentials: "omit" }) => {
       const resolvedRequestsOfContext = resolvedRequests.get(context2);
       if (resolvedRequestsOfContext !== void 0 && resolvedRequestsOfContext.has(moduleURL)) {
@@ -626,30 +626,30 @@
           throw new SyntaxError();
         }
         exposeCurrentFrameAndCurrentTime2(nativeContext.currentTime, nativeContext.sampleRate, () => evaluateAudioWorkletGlobalScope(class AudioWorkletProcessor {
-        }, void 0, (name2, processorCtor) => {
-          if (name2.trim() === "") {
+        }, void 0, (name3, processorCtor) => {
+          if (name3.trim() === "") {
             throw createNotSupportedError2();
           }
           const nodeNameToProcessorConstructorMap = NODE_NAME_TO_PROCESSOR_CONSTRUCTOR_MAPS.get(nativeContext);
           if (nodeNameToProcessorConstructorMap !== void 0) {
-            if (nodeNameToProcessorConstructorMap.has(name2)) {
+            if (nodeNameToProcessorConstructorMap.has(name3)) {
               throw createNotSupportedError2();
             }
             verifyProcessorCtor(processorCtor);
             verifyParameterDescriptors(processorCtor.parameterDescriptors);
-            nodeNameToProcessorConstructorMap.set(name2, processorCtor);
+            nodeNameToProcessorConstructorMap.set(name3, processorCtor);
           } else {
             verifyProcessorCtor(processorCtor);
             verifyParameterDescriptors(processorCtor.parameterDescriptors);
-            NODE_NAME_TO_PROCESSOR_CONSTRUCTOR_MAPS.set(nativeContext, /* @__PURE__ */ new Map([[name2, processorCtor]]));
+            NODE_NAME_TO_PROCESSOR_CONSTRUCTOR_MAPS.set(nativeContext, /* @__PURE__ */ new Map([[name3, processorCtor]]));
           }
         }, nativeContext.sampleRate, void 0, void 0));
       }) : Promise.all([
         fetchSource(moduleURL),
         Promise.resolve(cacheTestResult2(testAudioWorkletProcessorPostMessageSupport, testAudioWorkletProcessorPostMessageSupport))
       ]).then(([[source, absoluteUrl], isSupportingPostMessage]) => {
-        const currentIndex = index8 + 1;
-        index8 = currentIndex;
+        const currentIndex = index13 + 1;
+        index13 = currentIndex;
         const [importStatements, sourceWithoutImportStatements] = splitImportStatements(source, absoluteUrl);
         const patchedAudioWorkletProcessor = isSupportingPostMessage ? "AudioWorkletProcessor" : "class extends AudioWorkletProcessor {__b=new WeakSet();constructor(){super();(p=>p.postMessage=(q=>(m,t)=>q.call(p,m,t?t.filter(u=>!this.__b.has(u)):t))(p.postMessage))(this.port)}}";
         const memberDefinition = isSupportingPostMessage ? "" : "__c = (a) => a.forEach(e=>this.__b.add(e.buffer));";
@@ -1484,7 +1484,7 @@
               getFirstSample2(inputBuffer, buffer, 4),
               getFirstSample2(inputBuffer, buffer, 5)
             ];
-            if (orientation.some((value, index8) => value !== lastOrientation[index8])) {
+            if (orientation.some((value, index13) => value !== lastOrientation[index13])) {
               nativeListener.setOrientation(...orientation);
               lastOrientation = orientation;
             }
@@ -1493,22 +1493,22 @@
               getFirstSample2(inputBuffer, buffer, 7),
               getFirstSample2(inputBuffer, buffer, 8)
             ];
-            if (positon.some((value, index8) => value !== lastPosition[index8])) {
+            if (positon.some((value, index13) => value !== lastPosition[index13])) {
               nativeListener.setPosition(...positon);
               lastPosition = positon;
             }
           };
           channelMergerNode.connect(scriptProcessorNode);
         };
-        const createSetOrientation = (index8) => (value) => {
-          if (value !== lastOrientation[index8]) {
-            lastOrientation[index8] = value;
+        const createSetOrientation = (index13) => (value) => {
+          if (value !== lastOrientation[index13]) {
+            lastOrientation[index13] = value;
             nativeListener.setOrientation(...lastOrientation);
           }
         };
-        const createSetPosition = (index8) => (value) => {
-          if (value !== lastPosition[index8]) {
-            lastPosition[index8] = value;
+        const createSetPosition = (index13) => (value) => {
+          if (value !== lastPosition[index13]) {
+            lastPosition[index13] = value;
             nativeListener.setPosition(...lastPosition);
           }
         };
@@ -1527,7 +1527,7 @@
             }
           });
           const audioParam = createAudioParam2({ context: context2 }, isOffline, constantSourceNode.offset, MOST_POSITIVE_SINGLE_FLOAT, MOST_NEGATIVE_SINGLE_FLOAT);
-          overwriteAccessors2(audioParam, "value", (get15) => () => get15.call(audioParam), (set) => (value) => {
+          overwriteAccessors2(audioParam, "value", (get25) => () => get25.call(audioParam), (set) => (value) => {
             try {
               set.call(audioParam, value);
             } catch (err) {
@@ -2340,11 +2340,11 @@
     forEach(callback, thisArg = null) {
       return this._map.forEach((value, key) => callback.call(thisArg, value, key, this));
     }
-    get(name2) {
-      return this._map.get(name2);
+    get(name3) {
+      return this._map.get(name3);
     }
-    has(name2) {
-      return this._map.has(name2);
+    has(name3) {
+      return this._map.has(name3);
     }
     keys() {
       return this._map.keys();
@@ -2367,17 +2367,17 @@
   };
   var createAudioWorkletNodeConstructor = (addUnrenderedAudioWorkletNode2, audioNodeConstructor2, createAudioParam2, createAudioWorkletNodeRenderer2, createNativeAudioWorkletNode2, getAudioNodeConnections2, getBackupOfflineAudioContext2, getNativeContext2, isNativeOfflineAudioContext2, nativeAudioWorkletNodeConstructor2, sanitizeAudioWorkletNodeOptions2, setActiveAudioWorkletNodeInputs2, testAudioWorkletNodeOptionsClonability2, wrapEventListener2) => {
     return class AudioWorkletNode extends audioNodeConstructor2 {
-      constructor(context2, name2, options) {
+      constructor(context2, name3, options) {
         var _a;
         const nativeContext = getNativeContext2(context2);
         const isOffline = isNativeOfflineAudioContext2(nativeContext);
         const mergedOptions = sanitizeAudioWorkletNodeOptions2({ ...DEFAULT_OPTIONS4, ...options });
         testAudioWorkletNodeOptionsClonability2(mergedOptions);
         const nodeNameToProcessorConstructorMap = NODE_NAME_TO_PROCESSOR_CONSTRUCTOR_MAPS.get(nativeContext);
-        const processorConstructor = nodeNameToProcessorConstructorMap === null || nodeNameToProcessorConstructorMap === void 0 ? void 0 : nodeNameToProcessorConstructorMap.get(name2);
+        const processorConstructor = nodeNameToProcessorConstructorMap === null || nodeNameToProcessorConstructorMap === void 0 ? void 0 : nodeNameToProcessorConstructorMap.get(name3);
         const nativeContextOrBackupOfflineAudioContext = isOffline || nativeContext.state !== "closed" ? nativeContext : (_a = getBackupOfflineAudioContext2(nativeContext)) !== null && _a !== void 0 ? _a : nativeContext;
-        const nativeAudioWorkletNode = createNativeAudioWorkletNode2(nativeContextOrBackupOfflineAudioContext, isOffline ? null : context2.baseLatency, nativeAudioWorkletNodeConstructor2, name2, processorConstructor, mergedOptions);
-        const audioWorkletNodeRenderer = isOffline ? createAudioWorkletNodeRenderer2(name2, mergedOptions, processorConstructor) : null;
+        const nativeAudioWorkletNode = createNativeAudioWorkletNode2(nativeContextOrBackupOfflineAudioContext, isOffline ? null : context2.baseLatency, nativeAudioWorkletNodeConstructor2, name3, processorConstructor, mergedOptions);
+        const audioWorkletNodeRenderer = isOffline ? createAudioWorkletNodeRenderer2(name3, mergedOptions, processorConstructor) : null;
         super(context2, true, nativeAudioWorkletNode, audioWorkletNodeRenderer);
         const parameters = [];
         nativeAudioWorkletNode.parameters.forEach((nativeAudioParam, nm) => {
@@ -2479,7 +2479,7 @@
     const audioWorkletProcessor = await getAudioWorkletProcessor(nativeOfflineAudioContext, proxy);
     const inputs = createNestedArrays(options.numberOfInputs, options.channelCount);
     const outputs = createNestedArrays(options.numberOfOutputs, outputChannelCount);
-    const parameters = Array.from(proxy.parameters.keys()).reduce((prmtrs, name2) => ({ ...prmtrs, [name2]: new Float32Array(128) }), {});
+    const parameters = Array.from(proxy.parameters.keys()).reduce((prmtrs, name3) => ({ ...prmtrs, [name3]: new Float32Array(128) }), {});
     for (let i = 0; i < length; i += 128) {
       if (options.numberOfInputs > 0 && renderedBuffer !== null) {
         for (let j = 0; j < options.numberOfInputs; j += 1) {
@@ -2489,8 +2489,8 @@
         }
       }
       if (processorConstructor.parameterDescriptors !== void 0 && renderedBuffer !== null) {
-        processorConstructor.parameterDescriptors.forEach(({ name: name2 }, index8) => {
-          copyFromChannel(renderedBuffer, parameters, name2, numberOfInputChannels + index8, i);
+        processorConstructor.parameterDescriptors.forEach(({ name: name3 }, index13) => {
+          copyFromChannel(renderedBuffer, parameters, name3, numberOfInputChannels + index13, i);
         });
       }
       for (let j = 0; j < options.numberOfInputs; j += 1) {
@@ -2501,8 +2501,8 @@
         }
       }
       try {
-        const potentiallyEmptyInputs = inputs.map((input, index8) => {
-          if (audioNodeConnections.activeInputs[index8].size === 0) {
+        const potentiallyEmptyInputs = inputs.map((input, index13) => {
+          if (audioNodeConnections.activeInputs[index13].size === 0) {
             return [];
           }
           return input;
@@ -2532,7 +2532,7 @@
     return processedBuffer;
   };
   var createAudioWorkletNodeRendererFactory = (connectAudioParam2, connectMultipleOutputs2, createNativeAudioBufferSourceNode2, createNativeChannelMergerNode2, createNativeChannelSplitterNode2, createNativeConstantSourceNode2, createNativeGainNode2, deleteUnrenderedAudioWorkletNode2, disconnectMultipleOutputs2, exposeCurrentFrameAndCurrentTime2, getNativeAudioNode2, nativeAudioWorkletNodeConstructor2, nativeOfflineAudioContextConstructor2, renderAutomation2, renderInputsOfAudioNode2, renderNativeOfflineAudioContext2) => {
-    return (name2, options, processorConstructor) => {
+    return (name3, options, processorConstructor) => {
       const renderedNativeAudioNodes = /* @__PURE__ */ new WeakMap();
       let processedBufferPromise = null;
       const createAudioNode = async (proxy, nativeOfflineAudioContext) => {
@@ -2567,7 +2567,7 @@
           outputGainNode.disconnect = disconnectMultipleOutputs2.bind(null, outputChannelMergerNodes);
           nativeOutputNodes = [outputChannelSplitterNode, outputChannelMergerNodes, outputGainNode];
         } else if (!nativeAudioWorkletNodeIsOwnedByContext) {
-          nativeAudioWorkletNode = new nativeAudioWorkletNodeConstructor2(nativeOfflineAudioContext, name2);
+          nativeAudioWorkletNode = new nativeAudioWorkletNodeConstructor2(nativeOfflineAudioContext, name3);
         }
         renderedNativeAudioNodes.set(nativeOfflineAudioContext, nativeOutputNodes === null ? nativeAudioWorkletNode : nativeOutputNodes[2]);
         if (nativeOutputNodes !== null) {
@@ -2627,8 +2627,8 @@
                   inputChannelSplitterNodes[i].connect(inputChannelMergerNode, j, i * options.channelCount + j);
                 }
               }
-              for (const [index8, constantSourceNode] of constantSourceNodes.entries()) {
-                constantSourceNode.connect(inputChannelMergerNode, 0, numberOfInputChannels + index8);
+              for (const [index13, constantSourceNode] of constantSourceNodes.entries()) {
+                constantSourceNode.connect(inputChannelMergerNode, 0, numberOfInputChannels + index13);
                 constantSourceNode.start(0);
               }
               inputChannelMergerNode.connect(partialOfflineAudioContext.destination);
@@ -4703,7 +4703,7 @@
         channelInterpretation: nativeAudioDestinationNode.channelInterpretation,
         gain: 1
       });
-      overwriteAccessors2(gainNode, "channelCount", (get15) => () => get15.call(gainNode), (set) => (value) => {
+      overwriteAccessors2(gainNode, "channelCount", (get25) => () => get25.call(gainNode), (set) => (value) => {
         set.call(gainNode, value);
         try {
           nativeAudioDestinationNode.channelCount = value;
@@ -4713,11 +4713,11 @@
           }
         }
       });
-      overwriteAccessors2(gainNode, "channelCountMode", (get15) => () => get15.call(gainNode), (set) => (value) => {
+      overwriteAccessors2(gainNode, "channelCountMode", (get25) => () => get25.call(gainNode), (set) => (value) => {
         set.call(gainNode, value);
         nativeAudioDestinationNode.channelCountMode = value;
       });
-      overwriteAccessors2(gainNode, "channelInterpretation", (get15) => () => get15.call(gainNode), (set) => (value) => {
+      overwriteAccessors2(gainNode, "channelInterpretation", (get25) => () => get25.call(gainNode), (set) => (value) => {
         set.call(gainNode, value);
         nativeAudioDestinationNode.channelInterpretation = value;
       });
@@ -4749,10 +4749,10 @@
 
   // node_modules/standardized-audio-context/build/es2019/factories/native-audio-worklet-node-factory.js
   var createNativeAudioWorkletNodeFactory = (createInvalidStateError2, createNativeAudioWorkletNodeFaker2, createNativeGainNode2, createNotSupportedError2, monitorConnections2) => {
-    return (nativeContext, baseLatency, nativeAudioWorkletNodeConstructor2, name2, processorConstructor, options) => {
+    return (nativeContext, baseLatency, nativeAudioWorkletNodeConstructor2, name3, processorConstructor, options) => {
       if (nativeAudioWorkletNodeConstructor2 !== null) {
         try {
-          const nativeAudioWorkletNode = new nativeAudioWorkletNodeConstructor2(nativeContext, name2, options);
+          const nativeAudioWorkletNode = new nativeAudioWorkletNodeConstructor2(nativeContext, name3, options);
           const patchedEventListeners = /* @__PURE__ */ new Map();
           let onprocessorerror = null;
           Object.defineProperties(nativeAudioWorkletNode, {
@@ -4939,12 +4939,12 @@
       }
       const constantSourceNodes = [];
       if (processorConstructor.parameterDescriptors !== void 0) {
-        for (const { defaultValue, maxValue, minValue, name: name2 } of processorConstructor.parameterDescriptors) {
+        for (const { defaultValue, maxValue, minValue, name: name3 } of processorConstructor.parameterDescriptors) {
           const constantSourceNode = createNativeConstantSourceNode2(nativeContext, {
             channelCount: 1,
             channelCountMode: "explicit",
             channelInterpretation: "discrete",
-            offset: options.parameterData[name2] !== void 0 ? options.parameterData[name2] : defaultValue === void 0 ? 0 : defaultValue
+            offset: options.parameterData[name3] !== void 0 ? options.parameterData[name3] : defaultValue === void 0 ? 0 : defaultValue
           });
           Object.defineProperties(constantSourceNode.offset, {
             defaultValue: {
@@ -4995,11 +4995,11 @@
           inputChannelSplitterNodes[i].connect(inputChannelMergerNode, j, i * options.channelCount + j);
         }
       }
-      const parameterMap = new ReadOnlyMap(processorConstructor.parameterDescriptors === void 0 ? [] : processorConstructor.parameterDescriptors.map(({ name: name2 }, index8) => {
-        const constantSourceNode = constantSourceNodes[index8];
-        constantSourceNode.connect(inputChannelMergerNode, 0, numberOfInputChannels + index8);
+      const parameterMap = new ReadOnlyMap(processorConstructor.parameterDescriptors === void 0 ? [] : processorConstructor.parameterDescriptors.map(({ name: name3 }, index13) => {
+        const constantSourceNode = constantSourceNodes[index13];
+        constantSourceNode.connect(inputChannelMergerNode, 0, numberOfInputChannels + index13);
         constantSourceNode.start(0);
-        return [name2, constantSourceNode.offset];
+        return [name3, constantSourceNode.offset];
       }));
       inputChannelMergerNode.connect(scriptProcessorNode);
       let channelInterpretation = options.channelInterpretation;
@@ -5124,7 +5124,7 @@
       audioWorkletProcessorPromise.then((dWrkltPrcssr) => audioWorkletProcessor = dWrkltPrcssr);
       const inputs = createNestedArrays(options.numberOfInputs, options.channelCount);
       const outputs = createNestedArrays(options.numberOfOutputs, outputChannelCount);
-      const parameters = processorConstructor.parameterDescriptors === void 0 ? [] : processorConstructor.parameterDescriptors.reduce((prmtrs, { name: name2 }) => ({ ...prmtrs, [name2]: new Float32Array(128) }), {});
+      const parameters = processorConstructor.parameterDescriptors === void 0 ? [] : processorConstructor.parameterDescriptors.reduce((prmtrs, { name: name3 }) => ({ ...prmtrs, [name3]: new Float32Array(128) }), {});
       let isActive = true;
       const disconnectOutputsGraph = () => {
         if (options.numberOfOutputs > 0) {
@@ -5149,8 +5149,8 @@
               }
             }
             if (processorConstructor.parameterDescriptors !== void 0) {
-              processorConstructor.parameterDescriptors.forEach(({ name: name2 }, index8) => {
-                copyFromChannel(inputBuffer, parameters, name2, numberOfInputChannels + index8, i);
+              processorConstructor.parameterDescriptors.forEach(({ name: name3 }, index13) => {
+                copyFromChannel(inputBuffer, parameters, name3, numberOfInputChannels + index13, i);
               });
             }
             for (let j = 0; j < options.numberOfInputs; j += 1) {
@@ -5161,21 +5161,21 @@
               }
             }
             try {
-              const potentiallyEmptyInputs = inputs.map((input, index8) => {
-                const activeInput = activeInputs[index8];
+              const potentiallyEmptyInputs = inputs.map((input, index13) => {
+                const activeInput = activeInputs[index13];
                 if (activeInput.size > 0) {
-                  activeInputIndexes.set(index8, bufferSize / 128);
+                  activeInputIndexes.set(index13, bufferSize / 128);
                   return input;
                 }
-                const count = activeInputIndexes.get(index8);
+                const count = activeInputIndexes.get(index13);
                 if (count === void 0) {
                   return [];
                 }
                 if (input.every((channelData) => channelData.every((sample) => sample === 0))) {
                   if (count === 1) {
-                    activeInputIndexes.delete(index8);
+                    activeInputIndexes.delete(index13);
                   } else {
-                    activeInputIndexes.set(index8, count - 1);
+                    activeInputIndexes.set(index13, count - 1);
                   }
                 }
                 return input;
@@ -5450,7 +5450,7 @@
       if (options.channelCount > 2) {
         throw createNotSupportedError2();
       }
-      overwriteAccessors2(nativeConvolverNode, "channelCount", (get15) => () => get15.call(nativeConvolverNode), (set) => (value) => {
+      overwriteAccessors2(nativeConvolverNode, "channelCount", (get25) => () => get25.call(nativeConvolverNode), (set) => (value) => {
         if (value > 2) {
           throw createNotSupportedError2();
         }
@@ -5459,7 +5459,7 @@
       if (options.channelCountMode === "max") {
         throw createNotSupportedError2();
       }
-      overwriteAccessors2(nativeConvolverNode, "channelCountMode", (get15) => () => get15.call(nativeConvolverNode), (set) => (value) => {
+      overwriteAccessors2(nativeConvolverNode, "channelCountMode", (get25) => () => get25.call(nativeConvolverNode), (set) => (value) => {
         if (value === "max") {
           throw createNotSupportedError2();
         }
@@ -5801,7 +5801,7 @@
           getFirstSample2(inputBuffer, buffer, 1),
           getFirstSample2(inputBuffer, buffer, 2)
         ];
-        if (orientation.some((value, index8) => value !== lastOrientation[index8])) {
+        if (orientation.some((value, index13) => value !== lastOrientation[index13])) {
           pannerNode.setOrientation(...orientation);
           lastOrientation = orientation;
         }
@@ -5810,7 +5810,7 @@
           getFirstSample2(inputBuffer, buffer, 4),
           getFirstSample2(inputBuffer, buffer, 5)
         ];
-        if (positon.some((value, index8) => value !== lastPosition[index8])) {
+        if (positon.some((value, index13) => value !== lastPosition[index13])) {
           pannerNode.setPosition(...positon);
           lastPosition = positon;
         }
@@ -6333,7 +6333,7 @@
       assignNativeAudioNodeOption(nativeWaveShaperNode, options, "oversample");
       let disconnectNativeAudioBufferSourceNode = null;
       let isConnected = false;
-      overwriteAccessors2(nativeWaveShaperNode, "curve", (get15) => () => get15.call(nativeWaveShaperNode), (set) => (value) => {
+      overwriteAccessors2(nativeWaveShaperNode, "curve", (get25) => () => get25.call(nativeWaveShaperNode), (set) => (value) => {
         set.call(nativeWaveShaperNode, value);
         if (isConnected) {
           if (isDCCurve2(value) && disconnectNativeAudioBufferSourceNode === null) {
@@ -6900,12 +6900,12 @@
                 proxy.positionX,
                 proxy.positionY,
                 proxy.positionZ
-              ].map(async (audioParam, index8) => {
+              ].map(async (audioParam, index13) => {
                 const nativeConstantSourceNode = createNativeConstantSourceNode2(partialOfflineAudioContext, {
                   channelCount: 1,
                   channelCountMode: "explicit",
                   channelInterpretation: "discrete",
-                  offset: index8 === 0 ? 1 : 0
+                  offset: index13 === 0 ? 1 : 0
                 });
                 await renderAutomation2(partialOfflineAudioContext, audioParam, nativeConstantSourceNode.offset);
                 return nativeConstantSourceNode;
@@ -6941,7 +6941,7 @@
           for (let i = 128; i < renderedBuffer.length; i += 128) {
             const orientation = [channelDatas[0][i], channelDatas[1][i], channelDatas[2][i]];
             const positon = [channelDatas[3][i], channelDatas[4][i], channelDatas[5][i]];
-            if (orientation.some((value, index8) => value !== lastOrientation[index8]) || positon.some((value, index8) => value !== lastPosition[index8])) {
+            if (orientation.some((value, index13) => value !== lastOrientation[index13]) || positon.some((value, index13) => value !== lastPosition[index13])) {
               lastOrientation = orientation;
               lastPosition = positon;
               const currentTime = i / nativeOfflineAudioContext.sampleRate;
@@ -7409,8 +7409,8 @@
       if (nativeAudioBufferSourceNode.buffer === null) {
         nativeAudioBufferSourceNode.buffer = nullifiedBuffer;
       }
-      overwriteAccessors2(nativeAudioBufferSourceNode, "buffer", (get15) => () => {
-        const value = get15.call(nativeAudioBufferSourceNode);
+      overwriteAccessors2(nativeAudioBufferSourceNode, "buffer", (get25) => () => {
+        const value = get25.call(nativeAudioBufferSourceNode);
         return value === nullifiedBuffer ? null : value;
       }, (set) => (value) => {
         return set.call(nativeAudioBufferSourceNode, value === null ? nullifiedBuffer : value);
@@ -7474,8 +7474,8 @@
     while (!prototype.hasOwnProperty(property)) {
       prototype = Object.getPrototypeOf(prototype);
     }
-    const { get: get15, set } = Object.getOwnPropertyDescriptor(prototype, property);
-    Object.defineProperty(object, property, { get: createGetter(get15), set: createSetter(set) });
+    const { get: get25, set } = Object.getOwnPropertyDescriptor(prototype, property);
+    Object.defineProperty(object, property, { get: createGetter(get25), set: createSetter(set) });
   };
 
   // node_modules/standardized-audio-context/build/es2019/helpers/sanitize-audio-worklet-node-options.js
@@ -7872,21 +7872,21 @@
   }
   var theWindow = typeof self === "object" ? self : null;
   var hasAudioContext = theWindow && (theWindow.hasOwnProperty("AudioContext") || theWindow.hasOwnProperty("webkitAudioContext"));
-  function createAudioWorkletNode(context2, name2, options) {
+  function createAudioWorkletNode(context2, name3, options) {
     assert(isDefined(audioWorkletNodeConstructor), "This node only works in a secure context (https or localhost)");
-    return new audioWorkletNodeConstructor(context2, name2, options);
+    return new audioWorkletNodeConstructor(context2, name3, options);
   }
 
   // node_modules/tslib/tslib.es6.mjs
   function __decorate(decorators, target, key, desc) {
-    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    var c = arguments.length, r2 = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function")
-      r = Reflect.decorate(decorators, target, key, desc);
+      r2 = Reflect.decorate(decorators, target, key, desc);
     else
       for (var i = decorators.length - 1; i >= 0; i--)
         if (d = decorators[i])
-          r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
-    return c > 3 && r && Object.defineProperty(target, key, r), r;
+          r2 = (c < 3 ? d(r2) : c > 3 ? d(target, key, r2) : d(target, key)) || r2;
+    return c > 3 && r2 && Object.defineProperty(target, key, r2), r2;
   }
   function __awaiter(thisArg, _arguments, P, generator) {
     function adopt(value) {
@@ -7898,15 +7898,15 @@
       function fulfilled(value) {
         try {
           step(generator.next(value));
-        } catch (e) {
-          reject(e);
+        } catch (e2) {
+          reject(e2);
         }
       }
       function rejected(value) {
         try {
           step(generator["throw"](value));
-        } catch (e) {
-          reject(e);
+        } catch (e2) {
+          reject(e2);
         }
       }
       function step(result) {
@@ -7968,7 +7968,7 @@
       if (this._type === "worker") {
         try {
           this._createWorker();
-        } catch (e) {
+        } catch (e2) {
           this._type = "timeout";
           this._createClock();
         }
@@ -7995,10 +7995,10 @@
     get updateInterval() {
       return this._updateInterval;
     }
-    set updateInterval(interval2) {
-      this._updateInterval = Math.max(interval2, 128 / 44100);
+    set updateInterval(interval3) {
+      this._updateInterval = Math.max(interval3, 128 / 44100);
       if (this._type === "worker") {
-        this._worker.postMessage(Math.max(interval2 * 1e3, 1));
+        this._worker.postMessage(Math.max(interval3 * 1e3, 1));
       }
     }
     /**
@@ -8063,7 +8063,7 @@
     return deepMerge(target, ...sources);
   }
   function deepEquals(arrayA, arrayB) {
-    return arrayA.length === arrayB.length && arrayA.every((element, index8) => arrayB[index8] === element);
+    return arrayA.length === arrayB.length && arrayA.every((element, index13) => arrayB[index13] === element);
   }
   function optionsFromArguments(defaults, argsArray, keys = [], objKey) {
     const opts = {};
@@ -8097,13 +8097,13 @@
       return given;
     }
   }
-  function omitFromObject(obj, omit) {
+  function omitFromObject(obj2, omit) {
     omit.forEach((prop) => {
-      if (Reflect.has(obj, prop)) {
-        delete obj[prop];
+      if (Reflect.has(obj2, prop)) {
+        delete obj2[prop];
       }
     });
-    return obj;
+    return obj2;
   }
 
   // node_modules/tone/build/esm/core/Tone.js
@@ -8214,8 +8214,8 @@
         assert(GTE(event.time, lastValue.time), "The time must be greater than or equal to the last scheduled time");
         this._timeline.push(event);
       } else {
-        const index8 = this._search(event.time);
-        this._timeline.splice(index8 + 1, 0, event);
+        const index13 = this._search(event.time);
+        this._timeline.splice(index13 + 1, 0, event);
       }
       if (this.length > this.memory) {
         const diff = this.length - this.memory;
@@ -8229,9 +8229,9 @@
      * @returns {Timeline} this
      */
     remove(event) {
-      const index8 = this._timeline.indexOf(event);
-      if (index8 !== -1) {
-        this._timeline.splice(index8, 1);
+      const index13 = this._timeline.indexOf(event);
+      if (index13 !== -1) {
+        this._timeline.splice(index13, 1);
       }
       return this;
     }
@@ -8240,9 +8240,9 @@
      * @param  time  The time to query.
      */
     get(time, param = "time") {
-      const index8 = this._search(time, param);
-      if (index8 !== -1) {
-        return this._timeline[index8];
+      const index13 = this._search(time, param);
+      if (index13 !== -1) {
+        return this._timeline[index13];
       } else {
         return null;
       }
@@ -8265,9 +8265,9 @@
      * @param  time  The time to query.
      */
     getAfter(time, param = "time") {
-      const index8 = this._search(time, param);
-      if (index8 + 1 < this._timeline.length) {
-        return this._timeline[index8 + 1];
+      const index13 = this._search(time, param);
+      if (index13 + 1 < this._timeline.length) {
+        return this._timeline[index13 + 1];
       } else {
         return null;
       }
@@ -8281,9 +8281,9 @@
       if (len > 0 && this._timeline[len - 1].time < time) {
         return this._timeline[len - 1];
       }
-      const index8 = this._search(time);
-      if (index8 - 1 >= 0) {
-        return this._timeline[index8 - 1];
+      const index13 = this._search(time);
+      if (index13 - 1 >= 0) {
+        return this._timeline[index13 - 1];
       } else {
         return null;
       }
@@ -8294,19 +8294,19 @@
      */
     cancel(after) {
       if (this._timeline.length > 1) {
-        let index8 = this._search(after);
-        if (index8 >= 0) {
-          if (EQ(this._timeline[index8].time, after)) {
-            for (let i = index8; i >= 0; i--) {
+        let index13 = this._search(after);
+        if (index13 >= 0) {
+          if (EQ(this._timeline[index13].time, after)) {
+            for (let i = index13; i >= 0; i--) {
               if (EQ(this._timeline[i].time, after)) {
-                index8 = i;
+                index13 = i;
               } else {
                 break;
               }
             }
-            this._timeline = this._timeline.slice(0, index8);
+            this._timeline = this._timeline.slice(0, index13);
           } else {
-            this._timeline = this._timeline.slice(0, index8 + 1);
+            this._timeline = this._timeline.slice(0, index13 + 1);
           }
         } else {
           this._timeline = [];
@@ -8323,9 +8323,9 @@
      * @param  time  The time to cancel before.
      */
     cancelBefore(time) {
-      const index8 = this._search(time);
-      if (index8 >= 0) {
-        this._timeline = this._timeline.slice(index8 + 1);
+      const index13 = this._search(time);
+      if (index13 >= 0) {
+        this._timeline = this._timeline.slice(index13 + 1);
       }
       return this;
     }
@@ -8335,9 +8335,9 @@
      * @return The event right before the given event
      */
     previousEvent(event) {
-      const index8 = this._timeline.indexOf(event);
-      if (index8 > 0) {
-        return this._timeline[index8 - 1];
+      const index13 = this._timeline.indexOf(event);
+      if (index13 > 0) {
+        return this._timeline[index13 - 1];
       } else {
         return null;
       }
@@ -8590,9 +8590,9 @@
      * Add Emitter functions (on/off/emit) to the object
      */
     static mixin(constr) {
-      ["on", "once", "off", "emit"].forEach((name2) => {
-        const property = Object.getOwnPropertyDescriptor(_Emitter.prototype, name2);
-        Object.defineProperty(constr.prototype, name2, property);
+      ["on", "once", "off", "emit"].forEach((name3) => {
+        const property = Object.getOwnPropertyDescriptor(_Emitter.prototype, name3);
+        Object.defineProperty(constr.prototype, name3, property);
       });
     }
     /**
@@ -8806,21 +8806,21 @@
      * Create an audio worklet node from a name and options. The module
      * must first be loaded using [[addAudioWorkletModule]].
      */
-    createAudioWorkletNode(name2, options) {
-      return createAudioWorkletNode(this.rawContext, name2, options);
+    createAudioWorkletNode(name3, options) {
+      return createAudioWorkletNode(this.rawContext, name3, options);
     }
     /**
      * Add an AudioWorkletProcessor module
      * @param url The url of the module
      * @param name The name of the module
      */
-    addAudioWorkletModule(url, name2) {
+    addAudioWorkletModule(url, name3) {
       return __awaiter(this, void 0, void 0, function* () {
         assert(isDefined(this.rawContext.audioWorklet), "AudioWorkletNode is only available in a secure context (https or localhost)");
-        if (!this._workletModules.has(name2)) {
-          this._workletModules.set(name2, this.rawContext.audioWorklet.addModule(url));
+        if (!this._workletModules.has(name3)) {
+          this._workletModules.set(name3, this.rawContext.audioWorklet.addModule(url));
         }
-        yield this._workletModules.get(name2);
+        yield this._workletModules.get(name3);
       });
     }
     /**
@@ -8845,8 +8845,8 @@
     get updateInterval() {
       return this._ticker.updateInterval;
     }
-    set updateInterval(interval2) {
-      this._ticker.updateInterval = interval2;
+    set updateInterval(interval3) {
+      this._ticker.updateInterval = interval3;
     }
     /**
      * What the source of the clock is, either "worker" (default),
@@ -9031,7 +9031,7 @@
     /**
      * Adds a repeating event to the context's callback clock
      */
-    setInterval(fn, interval2) {
+    setInterval(fn, interval3) {
       const id = ++this._timeoutIds;
       const intervalFn = () => {
         const now2 = this.now();
@@ -9041,7 +9041,7 @@
             intervalFn();
           },
           id,
-          time: now2 + interval2
+          time: now2 + interval3
         });
       };
       intervalFn();
@@ -9286,8 +9286,8 @@
         try {
           yield doneLoading;
         } finally {
-          const index8 = _ToneAudioBuffer.downloads.indexOf(doneLoading);
-          _ToneAudioBuffer.downloads.splice(index8, 1);
+          const index13 = _ToneAudioBuffer.downloads.indexOf(doneLoading);
+          _ToneAudioBuffer.downloads.splice(index13, 1);
         }
         return this;
       });
@@ -9553,13 +9553,13 @@
      */
     _renderClock(asynchronous) {
       return __awaiter(this, void 0, void 0, function* () {
-        let index8 = 0;
+        let index13 = 0;
         while (this._duration - this._currentTime >= 0) {
           this.emit("tick");
           this._currentTime += 128 / this.sampleRate;
-          index8++;
+          index13++;
           const yieldEvery = Math.floor(this.sampleRate / 128);
-          if (asynchronous && index8 % yieldEvery === 0) {
+          if (asynchronous && index13 % yieldEvery === 0) {
             yield new Promise((done) => setTimeout(done, 1));
           }
         }
@@ -9622,15 +9622,15 @@
   function gainToDb(gain) {
     return 20 * (Math.log(gain) / Math.LN10);
   }
-  function intervalToFrequencyRatio(interval2) {
-    return Math.pow(2, interval2 / 12);
+  function intervalToFrequencyRatio(interval3) {
+    return Math.pow(2, interval3 / 12);
   }
   var A4 = 440;
   function getA4() {
     return A4;
   }
-  function setA4(freq2) {
-    A4 = freq2;
+  function setA4(freq3) {
+    A4 = freq3;
   }
   function ftom(frequency) {
     return Math.round(ftomf(frequency));
@@ -9638,8 +9638,8 @@
   function ftomf(frequency) {
     return 69 + 12 * Math.log2(frequency / A4);
   }
-  function mtof(midi2) {
-    return A4 * Math.pow(2, (midi2 - 69) / 12);
+  function mtof(midi3) {
+    return A4 * Math.pow(2, (midi3 - 69) / 12);
   }
 
   // node_modules/tone/build/esm/core/type/TimeBase.js
@@ -9786,8 +9786,8 @@
     /**
      * Returns the value of a frequency in the current units
      */
-    _frequencyToUnits(freq2) {
-      return 1 / freq2;
+    _frequencyToUnits(freq3) {
+      return 1 / freq3;
     }
     /**
      * Return the value of the beats in the current units
@@ -10008,8 +10008,8 @@
     static get A4() {
       return getA4();
     }
-    static set A4(freq2) {
-      setA4(freq2);
+    static set A4(freq3) {
+      setA4(freq3);
     }
     //-------------------------------------
     // 	AUGMENT BASE EXPRESSIONS
@@ -10028,9 +10028,9 @@
         },
         note: {
           regexp: /^([a-g]{1}(?:b|#|x|bb)?)(-?[0-9]+)/i,
-          method(pitch, octave2) {
-            const index8 = noteToScaleIndex[pitch.toLowerCase()];
-            const noteNumber = index8 + (parseInt(octave2, 10) + 1) * 12;
+          method(pitch, octave3) {
+            const index13 = noteToScaleIndex[pitch.toLowerCase()];
+            const noteNumber = index13 + (parseInt(octave3, 10) + 1) * 12;
             if (this.defaultUnits === "midi") {
               return noteNumber;
             } else {
@@ -10065,8 +10065,8 @@
      * @example
      * Tone.Frequency("A4").transpose(3); // "C5"
      */
-    transpose(interval2) {
-      return new _FrequencyClass(this.context, this.valueOf() * intervalToFrequencyRatio(interval2));
+    transpose(interval3) {
+      return new _FrequencyClass(this.context, this.valueOf() * intervalToFrequencyRatio(interval3));
     }
     /**
      * Takes an array of semitone intervals and returns
@@ -10076,8 +10076,8 @@
      * Tone.Frequency("A4").harmonize([0, 3, 7]); // ["A4", "C5", "E5"]
      */
     harmonize(intervals) {
-      return intervals.map((interval2) => {
-        return this.transpose(interval2);
+      return intervals.map((interval3) => {
+        return this.transpose(interval3);
       });
     }
     //-------------------------------------
@@ -10097,15 +10097,15 @@
      * Tone.Frequency(69, "midi").toNote(); // "A4"
      */
     toNote() {
-      const freq2 = this.toFrequency();
-      const log2 = Math.log2(freq2 / _FrequencyClass.A4);
+      const freq3 = this.toFrequency();
+      const log2 = Math.log2(freq3 / _FrequencyClass.A4);
       let noteNumber = Math.round(12 * log2) + 57;
-      const octave2 = Math.floor(noteNumber / 12);
-      if (octave2 < 0) {
-        noteNumber += -12 * octave2;
+      const octave3 = Math.floor(noteNumber / 12);
+      if (octave3 < 0) {
+        noteNumber += -12 * octave3;
       }
       const noteName = scaleIndexToNote[noteNumber % 12];
-      return noteName + octave2.toString();
+      return noteName + octave3.toString();
     }
     /**
      * Return the duration of one cycle in seconds.
@@ -10133,8 +10133,8 @@
     /**
      * Returns the value of a frequency in the current units
      */
-    _frequencyToUnits(freq2) {
-      return freq2;
+    _frequencyToUnits(freq3) {
+      return freq3;
     }
     /**
      * Returns the value of a tick in the current time units
@@ -10159,8 +10159,8 @@
      * @param  midi The midi number to convert.
      * @return The corresponding frequency value
      */
-    static mtof(midi2) {
-      return mtof(midi2);
+    static mtof(midi3) {
+      return mtof(midi3);
     }
     /**
      * Convert a frequency value to a MIDI note.
@@ -10293,8 +10293,8 @@
      * const gain = new Tone.Gain();
      * console.log(gain.toFrequency("4n"));
      */
-    toFrequency(freq2) {
-      return new FrequencyClass(this.context, freq2).toFrequency();
+    toFrequency(freq3) {
+      return new FrequencyClass(this.context, freq3).toFrequency();
     }
     /**
      * Convert the input time into ticks
@@ -10313,9 +10313,9 @@
      */
     _getPartialProperties(props) {
       const options = this.get();
-      Object.keys(options).forEach((name2) => {
-        if (isUndef(props[name2])) {
-          delete options[name2];
+      Object.keys(options).forEach((name3) => {
+        if (isUndef(props[name3])) {
+          delete options[name3];
         }
       });
       return options;
@@ -10417,8 +10417,8 @@
      * @return  The event with the given state before the time
      */
     getLastState(state, time) {
-      const index8 = this._search(time);
-      for (let i = index8; i >= 0; i--) {
+      const index13 = this._search(time);
+      for (let i = index13; i >= 0; i--) {
         const event = this._timeline[i];
         if (event.state === state) {
           return event;
@@ -10432,9 +10432,9 @@
      * @return  The event with the given state after the time
      */
     getNextState(state, time) {
-      const index8 = this._search(time);
-      if (index8 !== -1) {
-        for (let i = index8; i < this._timeline.length; i++) {
+      const index13 = this._search(time);
+      if (index13 !== -1) {
+        for (let i = index13; i < this._timeline.length; i++) {
           const event = this._timeline[i];
           if (event.state === state) {
             return event;
@@ -11810,17 +11810,17 @@
       this._state.add(tmpEvent);
       let lastState = stopEvent;
       let elapsedTicks = 0;
-      this._state.forEachBetween(stopEvent.time, computedTime + this.sampleTime, (e) => {
+      this._state.forEachBetween(stopEvent.time, computedTime + this.sampleTime, (e2) => {
         let periodStartTime = lastState.time;
-        const offsetEvent = this._tickOffset.get(e.time);
+        const offsetEvent = this._tickOffset.get(e2.time);
         if (offsetEvent && offsetEvent.time >= lastState.time) {
           elapsedTicks = offsetEvent.ticks;
           periodStartTime = offsetEvent.time;
         }
-        if (lastState.state === "started" && e.state !== "started") {
-          elapsedTicks += this.frequency.getTicksAtTime(e.time) - this.frequency.getTicksAtTime(periodStartTime);
+        if (lastState.state === "started" && e2.state !== "started") {
+          elapsedTicks += this.frequency.getTicksAtTime(e2.time) - this.frequency.getTicksAtTime(periodStartTime);
         }
-        lastState = e;
+        lastState = e2;
       });
       this._state.remove(tmpEvent);
       return elapsedTicks;
@@ -11859,17 +11859,17 @@
       this._state.add(tmpEvent);
       let lastState = stopEvent;
       let elapsedSeconds = 0;
-      this._state.forEachBetween(stopEvent.time, time + this.sampleTime, (e) => {
+      this._state.forEachBetween(stopEvent.time, time + this.sampleTime, (e2) => {
         let periodStartTime = lastState.time;
-        const offsetEvent = this._tickOffset.get(e.time);
+        const offsetEvent = this._tickOffset.get(e2.time);
         if (offsetEvent && offsetEvent.time >= lastState.time) {
           elapsedSeconds = offsetEvent.seconds;
           periodStartTime = offsetEvent.time;
         }
-        if (lastState.state === "started" && e.state !== "started") {
-          elapsedSeconds += e.time - periodStartTime;
+        if (lastState.state === "started" && e2.state !== "started") {
+          elapsedSeconds += e2.time - periodStartTime;
         }
-        lastState = e;
+        lastState = e2;
       });
       this._state.remove(tmpEvent);
       return elapsedSeconds;
@@ -11939,8 +11939,8 @@
         while (nextTickTime < endTime) {
           try {
             callback(nextTickTime, Math.round(this.getTicksAtTime(nextTickTime)));
-          } catch (e) {
-            error = e;
+          } catch (e2) {
+            error = e2;
             break;
           }
           nextTickTime += this.frequency.getDurationOfTicks(1, nextTickTime);
@@ -12127,19 +12127,19 @@
       this._lastUpdate = endTime;
       this.log("loop", startTime, endTime);
       if (startTime !== endTime) {
-        this._state.forEachBetween(startTime, endTime, (e) => {
-          switch (e.state) {
+        this._state.forEachBetween(startTime, endTime, (e2) => {
+          switch (e2.state) {
             case "started":
-              const offset = this._tickSource.getTicksAtTime(e.time);
-              this.emit("start", e.time, offset);
+              const offset = this._tickSource.getTicksAtTime(e2.time);
+              this.emit("start", e2.time, offset);
               break;
             case "stopped":
-              if (e.time !== 0) {
-                this.emit("stop", e.time);
+              if (e2.time !== 0) {
+                this.emit("stop", e2.time);
               }
               break;
             case "paused":
-              this.emit("pause", e.time);
+              this.emit("pause", e2.time);
               break;
           }
         });
@@ -12183,10 +12183,10 @@
       this._loadingCount = 0;
       const options = optionsFromArguments(_ToneAudioBuffers.getDefaults(), arguments, ["urls", "onload", "baseUrl"], "urls");
       this.baseUrl = options.baseUrl;
-      Object.keys(options.urls).forEach((name2) => {
+      Object.keys(options.urls).forEach((name3) => {
         this._loadingCount++;
-        const url = options.urls[name2];
-        this.add(name2, url, this._bufferLoaded.bind(this, options.onload), options.onerror);
+        const url = options.urls[name3];
+        this.add(name3, url, this._bufferLoaded.bind(this, options.onload), options.onerror);
       });
     }
     static getDefaults() {
@@ -12201,17 +12201,17 @@
      * True if the buffers object has a buffer by that name.
      * @param  name  The key or index of the buffer.
      */
-    has(name2) {
-      return this._buffers.has(name2.toString());
+    has(name3) {
+      return this._buffers.has(name3.toString());
     }
     /**
      * Get a buffer by name. If an array was loaded,
      * then use the array index.
      * @param  name  The key or index of the buffer.
      */
-    get(name2) {
-      assert(this.has(name2), `ToneAudioBuffers has no buffer named: ${name2}`);
-      return this._buffers.get(name2.toString());
+    get(name3) {
+      assert(this.has(name3), `ToneAudioBuffers has no buffer named: ${name3}`);
+      return this._buffers.get(name3.toString());
     }
     /**
      * A buffer was loaded. decrement the counter.
@@ -12235,11 +12235,11 @@
      * @param  callback  The callback to invoke when the url is loaded.
      * @param  onerror  Invoked if the buffer can't be loaded
      */
-    add(name2, url, callback = noOp, onerror = noOp) {
+    add(name3, url, callback = noOp, onerror = noOp) {
       if (isString(url)) {
-        this._buffers.set(name2.toString(), new ToneAudioBuffer(this.baseUrl + url, callback, onerror));
+        this._buffers.set(name3.toString(), new ToneAudioBuffer(this.baseUrl + url, callback, onerror));
       } else {
-        this._buffers.set(name2.toString(), new ToneAudioBuffer(url, callback, onerror));
+        this._buffers.set(name3.toString(), new ToneAudioBuffer(url, callback, onerror));
       }
       return this;
     }
@@ -13211,11 +13211,11 @@
      * 	osc.start(time).stop(time + 0.1);
      * }, "8n", "1m");
      */
-    scheduleRepeat(callback, interval2, startTime, duration = Infinity) {
+    scheduleRepeat(callback, interval3, startTime, duration = Infinity) {
       const event = new TransportRepeatEvent(this, {
         callback,
         duration: new TimeClass(this.context, duration).toTicks(),
-        interval: new TimeClass(this.context, interval2).toTicks(),
+        interval: new TimeClass(this.context, interval3).toTicks(),
         time: new TransportTimeClass(this.context, startTime).toTicks()
       });
       return this._addEvent(event, this._repeatedEvents);
@@ -14222,9 +14222,9 @@
           this._oscillator.type = type;
         }
       } else {
-        const cache5 = this._getCachedPeriodicWave();
-        if (isDefined(cache5)) {
-          const { partials, wave } = cache5;
+        const cache8 = this._getCachedPeriodicWave();
+        if (isDefined(cache8)) {
+          const { partials, wave } = cache8;
           this._wave = wave;
           this._partials = partials;
           if (this._oscillator !== null) {
@@ -14316,42 +14316,42 @@
         }
         this._partials = [];
       }
-      for (let n = 1; n < periodicWaveSize; ++n) {
-        const piFactor = 2 / (n * Math.PI);
+      for (let n2 = 1; n2 < periodicWaveSize; ++n2) {
+        const piFactor = 2 / (n2 * Math.PI);
         let b;
         switch (type) {
           case "sine":
-            b = n <= partialCount ? 1 : 0;
-            this._partials[n - 1] = b;
+            b = n2 <= partialCount ? 1 : 0;
+            this._partials[n2 - 1] = b;
             break;
           case "square":
-            b = n & 1 ? 2 * piFactor : 0;
-            this._partials[n - 1] = b;
+            b = n2 & 1 ? 2 * piFactor : 0;
+            this._partials[n2 - 1] = b;
             break;
           case "sawtooth":
-            b = piFactor * (n & 1 ? 1 : -1);
-            this._partials[n - 1] = b;
+            b = piFactor * (n2 & 1 ? 1 : -1);
+            this._partials[n2 - 1] = b;
             break;
           case "triangle":
-            if (n & 1) {
-              b = 2 * (piFactor * piFactor) * (n - 1 >> 1 & 1 ? -1 : 1);
+            if (n2 & 1) {
+              b = 2 * (piFactor * piFactor) * (n2 - 1 >> 1 & 1 ? -1 : 1);
             } else {
               b = 0;
             }
-            this._partials[n - 1] = b;
+            this._partials[n2 - 1] = b;
             break;
           case "custom":
-            b = this._partials[n - 1];
+            b = this._partials[n2 - 1];
             break;
           default:
             throw new TypeError("Oscillator: invalid type: " + type);
         }
         if (b !== 0) {
-          real[n] = -b * Math.sin(phase * n);
-          imag[n] = b * Math.cos(phase * n);
+          real[n2] = -b * Math.sin(phase * n2);
+          imag[n2] = b * Math.cos(phase * n2);
         } else {
-          real[n] = 0;
-          imag[n] = 0;
+          real[n2] = 0;
+          imag[n2] = 0;
         }
       }
       return [real, imag];
@@ -15920,18 +15920,18 @@
      * @param  direction In/Out
      * @param  curve
      */
-    _setCurve(name2, direction, curve) {
+    _setCurve(name3, direction, curve) {
       if (isString(curve) && Reflect.has(EnvelopeCurves, curve)) {
         const curveDef = EnvelopeCurves[curve];
         if (isObject(curveDef)) {
-          if (name2 !== "_decayCurve") {
-            this[name2] = curveDef[direction];
+          if (name3 !== "_decayCurve") {
+            this[name3] = curveDef[direction];
           }
         } else {
-          this[name2] = curveDef;
+          this[name3] = curveDef;
         }
-      } else if (isArray(curve) && name2 !== "_decayCurve") {
-        this[name2] = curve;
+      } else if (isArray(curve) && name3 !== "_decayCurve") {
+        this[name3] = curve;
       } else {
         throw new Error("Envelope: invalid curve: " + curve);
       }
@@ -16202,8 +16202,8 @@
     const bounceCurve = [];
     for (i = 0; i < curveLen; i++) {
       k = i / (curveLen - 1);
-      const freq2 = Math.pow(k, 3) * 4 + 0.2;
-      const val = Math.cos(freq2 * Math.PI * 2 * k);
+      const freq3 = Math.pow(k, 3) * 4 + 0.2;
+      const val = Math.cos(freq3 * Math.PI * 2 * k);
       bounceCurve[i] = Math.abs(val * (1 - k));
     }
     function invertCurve(curve) {
@@ -16336,10 +16336,10 @@
      * // trigger "C4" for the duration of an 8th note
      * synth.triggerAttackRelease("C4", "8n");
      */
-    triggerAttackRelease(note2, duration, time, velocity) {
+    triggerAttackRelease(note3, duration, time, velocity) {
       const computedTime = this.toSeconds(time);
       const computedDuration = this.toSeconds(duration);
-      this.triggerAttack(note2, computedTime, velocity);
+      this.triggerAttack(note3, computedTime, velocity);
       this.triggerRelease(computedTime + computedDuration);
       return this;
     }
@@ -16381,11 +16381,11 @@
      * // trigger the note a half second from now at half velocity
      * synth.triggerAttack("C4", "+0.5", 0.5);
      */
-    triggerAttack(note2, time, velocity = 1) {
-      this.log("triggerAttack", note2, time, velocity);
+    triggerAttack(note3, time, velocity = 1) {
+      this.log("triggerAttack", note3, time, velocity);
       const seconds = this.toSeconds(time);
       this._triggerEnvelopeAttack(seconds, velocity);
-      this.setNote(note2, seconds);
+      this.setNote(note3, seconds);
       return this;
     }
     /**
@@ -16414,9 +16414,9 @@
      * // change to F#6 in one quarter note from now.
      * synth.setNote("F#6", "+4n");
      */
-    setNote(note2, time) {
+    setNote(note3, time) {
       const computedTime = this.toSeconds(time);
-      const computedFrequency = note2 instanceof FrequencyClass ? note2.toFrequency() : note2;
+      const computedFrequency = note3 instanceof FrequencyClass ? note3.toFrequency() : note3;
       if (this.portamento > 0 && this.getLevelAtTime(computedTime) > 0.05) {
         const portTime = this.toSeconds(this.portamento);
         this.frequency.exponentialRampTo(computedFrequency, portTime, computedTime);
@@ -16551,9 +16551,9 @@
         pitchDecay: 0.05
       });
     }
-    setNote(note2, time) {
+    setNote(note3, time) {
       const seconds = this.toSeconds(time);
-      const hertz = this.toFrequency(note2 instanceof FrequencyClass ? note2.toFrequency() : note2);
+      const hertz = this.toFrequency(note3 instanceof FrequencyClass ? note3.toFrequency() : note3);
       const maxNote = hertz * this.octaves;
       this.oscillator.frequency.setValueAtTime(maxNote, seconds);
       this.oscillator.frequency.exponentialRampToValueAtTime(hertz, seconds + this.toSeconds(this.pitchDecay));
@@ -16576,10 +16576,10 @@
   function addToWorklet(classOrFunction) {
     workletContext.add(classOrFunction);
   }
-  function registerProcessor(name2, classDesc) {
+  function registerProcessor(name3, classDesc) {
     const processor = (
       /* javascript */
-      `registerProcessor("${name2}", ${classDesc})`
+      `registerProcessor("${name3}", ${classDesc})`
     );
     workletContext.add(processor);
   }
@@ -16792,12 +16792,12 @@
       this._activeSources = /* @__PURE__ */ new Map();
       const options = optionsFromArguments(_Sampler.getDefaults(), arguments, ["urls", "onload", "baseUrl"], "urls");
       const urlMap = {};
-      Object.keys(options.urls).forEach((note2) => {
-        const noteNumber = parseInt(note2, 10);
-        assert(isNote(note2) || isNumber(noteNumber) && isFinite(noteNumber), `url key is neither a note or midi pitch: ${note2}`);
-        if (isNote(note2)) {
-          const mid = new FrequencyClass(this.context, note2).toMidi();
-          urlMap[mid] = options.urls[note2];
+      Object.keys(options.urls).forEach((note3) => {
+        const noteNumber = parseInt(note3, 10);
+        assert(isNote(note3) || isNumber(noteNumber) && isFinite(noteNumber), `url key is neither a note or midi pitch: ${note3}`);
+        if (isNote(note3)) {
+          const mid = new FrequencyClass(this.context, note3).toMidi();
+          urlMap[mid] = options.urls[note3];
         } else if (isNumber(noteNumber) && isFinite(noteNumber)) {
           urlMap[noteNumber] = options.urls[noteNumber];
         }
@@ -16829,18 +16829,18 @@
     /**
      * Returns the difference in steps between the given midi note at the closets sample.
      */
-    _findClosest(midi2) {
+    _findClosest(midi3) {
       const MAX_INTERVAL = 96;
-      let interval2 = 0;
-      while (interval2 < MAX_INTERVAL) {
-        if (this._buffers.has(midi2 + interval2)) {
-          return -interval2;
-        } else if (this._buffers.has(midi2 - interval2)) {
-          return interval2;
+      let interval3 = 0;
+      while (interval3 < MAX_INTERVAL) {
+        if (this._buffers.has(midi3 + interval3)) {
+          return -interval3;
+        } else if (this._buffers.has(midi3 - interval3)) {
+          return interval3;
         }
-        interval2++;
+        interval3++;
       }
-      throw new Error(`No available buffers for note: ${midi2}`);
+      throw new Error(`No available buffers for note: ${midi3}`);
     }
     /**
      * @param  notes	The note to play, or an array of notes.
@@ -16852,12 +16852,12 @@
       if (!Array.isArray(notes)) {
         notes = [notes];
       }
-      notes.forEach((note2) => {
-        const midiFloat = ftomf(new FrequencyClass(this.context, note2).toFrequency());
-        const midi2 = Math.round(midiFloat);
-        const remainder = midiFloat - midi2;
-        const difference = this._findClosest(midi2);
-        const closestNote = midi2 - difference;
+      notes.forEach((note3) => {
+        const midiFloat = ftomf(new FrequencyClass(this.context, note3).toFrequency());
+        const midi3 = Math.round(midiFloat);
+        const remainder = midiFloat - midi3;
+        const difference = this._findClosest(midi3);
+        const closestNote = midi3 - difference;
         const buffer = this._buffers.get(closestNote);
         const playbackRate = intervalToFrequencyRatio(difference + remainder);
         const source = new ToneBufferSource({
@@ -16869,16 +16869,16 @@
           playbackRate
         }).connect(this.output);
         source.start(time, 0, buffer.duration / playbackRate, velocity);
-        if (!isArray(this._activeSources.get(midi2))) {
-          this._activeSources.set(midi2, []);
+        if (!isArray(this._activeSources.get(midi3))) {
+          this._activeSources.set(midi3, []);
         }
-        this._activeSources.get(midi2).push(source);
+        this._activeSources.get(midi3).push(source);
         source.onended = () => {
-          if (this._activeSources && this._activeSources.has(midi2)) {
-            const sources = this._activeSources.get(midi2);
-            const index8 = sources.indexOf(source);
-            if (index8 !== -1) {
-              sources.splice(index8, 1);
+          if (this._activeSources && this._activeSources.has(midi3)) {
+            const sources = this._activeSources.get(midi3);
+            const index13 = sources.indexOf(source);
+            if (index13 !== -1) {
+              sources.splice(index13, 1);
             }
           }
         };
@@ -16894,15 +16894,15 @@
       if (!Array.isArray(notes)) {
         notes = [notes];
       }
-      notes.forEach((note2) => {
-        const midi2 = new FrequencyClass(this.context, note2).toMidi();
-        if (this._activeSources.has(midi2) && this._activeSources.get(midi2).length) {
-          const sources = this._activeSources.get(midi2);
+      notes.forEach((note3) => {
+        const midi3 = new FrequencyClass(this.context, note3).toMidi();
+        if (this._activeSources.has(midi3) && this._activeSources.get(midi3).length) {
+          const sources = this._activeSources.get(midi3);
           time = this.toSeconds(time);
           sources.forEach((source) => {
             source.stop(time);
           });
-          this._activeSources.set(midi2, []);
+          this._activeSources.set(midi3, []);
         }
       });
       return this;
@@ -16940,9 +16940,9 @@
       this.triggerAttack(notes, computedTime, velocity);
       if (isArray(duration)) {
         assert(isArray(notes), "notes must be an array when duration is array");
-        notes.forEach((note2, index8) => {
-          const d = duration[Math.min(index8, duration.length - 1)];
-          this.triggerRelease(note2, computedTime + this.toSeconds(d));
+        notes.forEach((note3, index13) => {
+          const d = duration[Math.min(index13, duration.length - 1)];
+          this.triggerRelease(note3, computedTime + this.toSeconds(d));
         });
       } else {
         this.triggerRelease(notes, computedTime + this.toSeconds(duration));
@@ -16955,13 +16955,13 @@
      * @param  url  Either the url of the buffer, or a buffer which will be added with the given name.
      * @param  callback  The callback to invoke when the url is loaded.
      */
-    add(note2, url, callback) {
-      assert(isNote(note2) || isFinite(note2), `note must be a pitch or midi: ${note2}`);
-      if (isNote(note2)) {
-        const mid = new FrequencyClass(this.context, note2).toMidi();
+    add(note3, url, callback) {
+      assert(isNote(note3) || isFinite(note3), `note must be a pitch or midi: ${note3}`);
+      if (isNote(note3)) {
+        const mid = new FrequencyClass(this.context, note3).toMidi();
         this._buffers.add(mid, url, callback);
       } else {
-        this._buffers.add(note2, url, callback);
+        this._buffers.add(note3, url, callback);
       }
       return this;
     }
@@ -17261,11 +17261,11 @@
      * it doesn't exist
      * @param name The bus name
      */
-    _getBus(name2) {
-      if (!_Channel.buses.has(name2)) {
-        _Channel.buses.set(name2, new Gain({ context: this.context }));
+    _getBus(name3) {
+      if (!_Channel.buses.has(name3)) {
+        _Channel.buses.set(name3, new Gain({ context: this.context }));
       }
-      return _Channel.buses.get(name2);
+      return _Channel.buses.get(name3);
     }
     /**
      * Send audio to another channel using a string. `send` is a lot like
@@ -17277,8 +17277,8 @@
      * 	Defaults to 0db, i.e. send the entire signal
      * @returns Returns the gain node of this connection.
      */
-    send(name2, volume = 0) {
-      const bus = this._getBus(name2);
+    send(name3, volume = 0) {
+      const bus = this._getBus(name3);
       const sendKnob = new Gain({
         context: this.context,
         units: "decibels",
@@ -17292,8 +17292,8 @@
      * Receive audio from a channel which was connected with [[send]].
      * @param name The channel name to receive audio from.
      */
-    receive(name2) {
-      const bus = this._getBus(name2);
+    receive(name3) {
+      const bus = this._getBus(name3);
       bus.connect(this);
       return this;
     }
@@ -17396,7 +17396,7 @@
   var context = getContext();
 
   // node_modules/@tonaljs/core/dist/index.mjs
-  var fillStr = (s, n) => Array(Math.abs(n) + 1).join(s);
+  var fillStr = (s, n2) => Array(Math.abs(n2) + 1).join(s);
   function deprecate(original, alternative, fn) {
     return function(...args) {
       console.warn(`${original} is deprecated. Use ${alternative}.`);
@@ -17460,7 +17460,7 @@
   function coordToNote(noteCoord) {
     return note(decode(noteCoord));
   }
-  var mod = (n, m) => (n % m + m) % m;
+  var mod = (n2, m) => (n2 % m + m) % m;
   var SEMI = [0, 2, 4, 5, 7, 9, 11];
   function parse(noteName) {
     const tokens = tokenizeNote(noteName);
@@ -17474,23 +17474,23 @@
     const alt = accToAlt(acc);
     const oct = octStr.length ? +octStr : void 0;
     const coord = encode({ step, alt, oct });
-    const name2 = letter + acc + octStr;
+    const name3 = letter + acc + octStr;
     const pc = letter + acc;
-    const chroma3 = (SEMI[step] + alt + 120) % 12;
+    const chroma5 = (SEMI[step] + alt + 120) % 12;
     const height = oct === void 0 ? mod(SEMI[step] + alt, 12) - 12 * 99 : SEMI[step] + alt + 12 * (oct + 1);
-    const midi2 = height >= 0 && height <= 127 ? height : null;
-    const freq2 = oct === void 0 ? null : Math.pow(2, (height - 69) / 12) * 440;
+    const midi3 = height >= 0 && height <= 127 ? height : null;
+    const freq3 = oct === void 0 ? null : Math.pow(2, (height - 69) / 12) * 440;
     return {
       empty: false,
       acc,
       alt,
-      chroma: chroma3,
+      chroma: chroma5,
       coord,
-      freq: freq2,
+      freq: freq3,
       height,
       letter,
-      midi: midi2,
-      name: name2,
+      midi: midi3,
+      name: name3,
       oct,
       pc,
       step
@@ -17537,17 +17537,17 @@
       return NoInterval;
     }
     const type = t === "M" ? "majorable" : "perfectable";
-    const name2 = "" + num + q;
+    const name3 = "" + num + q;
     const dir = num < 0 ? -1 : 1;
     const simple = num === 8 || num === -8 ? num : dir * (step + 1);
     const alt = qToAlt(type, q);
     const oct = Math.floor((Math.abs(num) - 1) / 7);
     const semitones = dir * (SIZES[step] + alt + 12 * oct);
-    const chroma3 = (dir * (SIZES[step] + alt) % 12 + 12) % 12;
+    const chroma5 = (dir * (SIZES[step] + alt) % 12 + 12) % 12;
     const coord = encode({ step, alt, oct, dir });
     return {
       empty: false,
-      name: name2,
+      name: name3,
       num,
       q,
       step,
@@ -17556,7 +17556,7 @@
       type,
       simple,
       semitones,
-      chroma: chroma3,
+      chroma: chroma5,
       coord,
       oct
     };
@@ -17579,8 +17579,8 @@
     const num = calcNum === 0 ? step + 1 : calcNum;
     const d = dir < 0 ? "-" : "";
     const type = TYPES[step] === "M" ? "majorable" : "perfectable";
-    const name2 = d + num + altToQ(type, alt);
-    return name2;
+    const name3 = d + num + altToQ(type, alt);
+    return name3;
   }
   function altToQ(type, alt) {
     if (alt === 0) {
@@ -17594,14 +17594,14 @@
     }
   }
   function transpose(noteName, intervalName) {
-    const note2 = note(noteName);
+    const note22 = note(noteName);
     const intervalCoord = Array.isArray(intervalName) ? intervalName : interval(intervalName).coord;
-    if (note2.empty || !intervalCoord || intervalCoord.length < 2) {
+    if (note22.empty || !intervalCoord || intervalCoord.length < 2) {
       return "";
     }
-    const noteCoord = note2.coord;
-    const tr2 = noteCoord.length === 1 ? [noteCoord[0] + intervalCoord[0]] : [noteCoord[0] + intervalCoord[0], noteCoord[1] + intervalCoord[1]];
-    return coordToNote(tr2).name;
+    const noteCoord = note22.coord;
+    const tr3 = noteCoord.length === 1 ? [noteCoord[0] + intervalCoord[0]] : [noteCoord[0] + intervalCoord[0], noteCoord[1] + intervalCoord[1]];
+    return coordToNote(tr3).name;
   }
   function distance(fromNote, toNote) {
     const from = note(fromNote);
@@ -17623,8 +17623,8 @@
   // node_modules/@tonaljs/collection/dist/index.mjs
   function rotate(times, arr) {
     const len = arr.length;
-    const n = (times % len + len) % len;
-    return arr.slice(n, len).concat(arr.slice(0, n));
+    const n2 = (times % len + len) % len;
+    return arr.slice(n2, len).concat(arr.slice(0, n2));
   }
 
   // node_modules/@tonaljs/pcset/dist/index.mjs
@@ -17678,7 +17678,7 @@
   }
   function chromaToPcset(chroma22) {
     const setNum = chromaToNumber(chroma22);
-    const normalizedNum = chromaRotations(chroma22).map(chromaToNumber).filter((n) => n >= 2048).sort()[0];
+    const normalizedNum = chromaRotations(chroma22).map(chromaToNumber).filter((n2) => n2 >= 2048).sort()[0];
     const normalized = setNumToChroma(normalizedNum);
     const intervals2 = chromaToIntervals(chroma22);
     return {
@@ -17861,26 +17861,26 @@
   var entries = deprecate("ChordType.entries", "ChordType.all", all);
   function add(intervals, aliases, fullName) {
     const quality = getQuality(intervals);
-    const chord4 = {
+    const chord5 = {
       ...get(intervals),
       name: fullName || "",
       quality,
       intervals,
       aliases
     };
-    dictionary.push(chord4);
-    if (chord4.name) {
-      index[chord4.name] = chord4;
+    dictionary.push(chord5);
+    if (chord5.name) {
+      index[chord5.name] = chord5;
     }
-    index[chord4.setNum] = chord4;
-    index[chord4.chroma] = chord4;
-    chord4.aliases.forEach((alias) => addAlias(chord4, alias));
+    index[chord5.setNum] = chord5;
+    index[chord5.chroma] = chord5;
+    chord5.aliases.forEach((alias) => addAlias(chord5, alias));
   }
-  function addAlias(chord4, alias) {
-    index[alias] = chord4;
+  function addAlias(chord5, alias) {
+    index[alias] = chord5;
   }
   function getQuality(intervals) {
-    const has = (interval2) => intervals.indexOf(interval2) !== -1;
+    const has = (interval3) => intervals.indexOf(interval3) !== -1;
     return has("5A") ? "Augmented" : has("3M") ? "Major" : has("5d") ? "Diminished" : has("3m") ? "Minor" : "Unknown";
   }
   data_default.forEach(
@@ -18061,26 +18061,26 @@
   var entries2 = deprecate("ChordType.entries", "ChordType.all", all2);
   function add2(intervals, aliases, fullName) {
     const quality = getQuality2(intervals);
-    const chord4 = {
+    const chord5 = {
       ...get(intervals),
       name: fullName || "",
       quality,
       intervals,
       aliases
     };
-    dictionary2.push(chord4);
-    if (chord4.name) {
-      index2[chord4.name] = chord4;
+    dictionary2.push(chord5);
+    if (chord5.name) {
+      index2[chord5.name] = chord5;
     }
-    index2[chord4.setNum] = chord4;
-    index2[chord4.chroma] = chord4;
-    chord4.aliases.forEach((alias) => addAlias2(chord4, alias));
+    index2[chord5.setNum] = chord5;
+    index2[chord5.chroma] = chord5;
+    chord5.aliases.forEach((alias) => addAlias2(chord5, alias));
   }
-  function addAlias2(chord4, alias) {
-    index2[alias] = chord4;
+  function addAlias2(chord5, alias) {
+    index2[alias] = chord5;
   }
   function getQuality2(intervals) {
-    const has = (interval2) => intervals.indexOf(interval2) !== -1;
+    const has = (interval3) => intervals.indexOf(interval3) !== -1;
     return has("5A") ? "Augmented" : has("3M") ? "Major" : has("5d") ? "Diminished" : has("3m") ? "Minor" : "Unknown";
   }
   data_default2.forEach(
@@ -18245,20 +18245,20 @@
     "ScaleType.all",
     all3
   );
-  function add3(intervals, name2, aliases = []) {
-    const scale2 = { ...get(intervals), name: name2, intervals, aliases };
-    dictionary3.push(scale2);
-    index3[scale2.name] = scale2;
-    index3[scale2.setNum] = scale2;
-    index3[scale2.chroma] = scale2;
-    scale2.aliases.forEach((alias) => addAlias3(scale2, alias));
-    return scale2;
+  function add3(intervals, name3, aliases = []) {
+    const scale3 = { ...get(intervals), name: name3, intervals, aliases };
+    dictionary3.push(scale3);
+    index3[scale3.name] = scale3;
+    index3[scale3.setNum] = scale3;
+    index3[scale3.chroma] = scale3;
+    scale3.aliases.forEach((alias) => addAlias3(scale3, alias));
+    return scale3;
   }
-  function addAlias3(scale2, alias) {
-    index3[alias] = scale2;
+  function addAlias3(scale3, alias) {
+    index3[alias] = scale3;
   }
   data_default3.forEach(
-    ([ivls, name2, ...aliases]) => add3(ivls.split(" "), name2, aliases)
+    ([ivls, name3, ...aliases]) => add3(ivls.split(" "), name3, aliases)
   );
 
   // node_modules/tonal/node_modules/@tonaljs/chord/dist/index.mjs
@@ -18278,10 +18278,10 @@
     notes: [],
     intervals: []
   };
-  function tokenize(name2) {
-    const [letter, acc, oct, type] = tokenizeNote(name2);
+  function tokenize(name3) {
+    const [letter, acc, oct, type] = tokenizeNote(name3);
     if (letter === "") {
-      return ["", name2];
+      return ["", name3];
     }
     if (letter === "A" && type === "ug") {
       return ["", "aug"];
@@ -18323,10 +18323,10 @@
     const notes = tonic.empty ? [] : intervals.map((i) => transpose(tonic, i));
     typeName = type.aliases.indexOf(typeName) !== -1 ? typeName : type.aliases[0];
     const symbol = `${tonic.empty ? "" : tonic.pc}${typeName}${root2.empty || rootDegree <= 1 ? "" : "/" + root2.pc}`;
-    const name2 = `${optionalTonic ? tonic.pc + " " : ""}${type.name}${rootDegree > 1 && optionalRoot ? " over " + root2.pc : ""}`;
+    const name3 = `${optionalTonic ? tonic.pc + " " : ""}${type.name}${rootDegree > 1 && optionalRoot ? " over " + root2.pc : ""}`;
     return {
       ...type,
-      name: name2,
+      name: name3,
       symbol,
       type: type.name,
       root: root2.name,
@@ -18392,29 +18392,29 @@
   // node_modules/@tonaljs/midi/dist/index.mjs
   var L2 = Math.log(2);
   var L440 = Math.log(440);
-  function freqToMidi(freq2) {
-    const v = 12 * (Math.log(freq2) - L440) / L2 + 69;
+  function freqToMidi(freq3) {
+    const v = 12 * (Math.log(freq3) - L440) / L2 + 69;
     return Math.round(v * 100) / 100;
   }
   var SHARPS = "C C# D D# E F F# G G# A A# B".split(" ");
   var FLATS = "C Db D Eb E F Gb G Ab A Bb B".split(" ");
-  function midiToNoteName(midi2, options = {}) {
-    if (isNaN(midi2) || midi2 === -Infinity || midi2 === Infinity)
+  function midiToNoteName(midi3, options = {}) {
+    if (isNaN(midi3) || midi3 === -Infinity || midi3 === Infinity)
       return "";
-    midi2 = Math.round(midi2);
+    midi3 = Math.round(midi3);
     const pcs = options.sharps === true ? SHARPS : FLATS;
-    const pc = pcs[midi2 % 12];
+    const pc = pcs[midi3 % 12];
     if (options.pitchClass) {
       return pc;
     }
-    const o = Math.floor(midi2 / 12) - 1;
+    const o = Math.floor(midi3 / 12) - 1;
     return pc + o;
   }
 
   // node_modules/@tonaljs/note/dist/index.mjs
   var NAMES = ["C", "D", "E", "F", "G", "A", "B"];
-  var toName = (n) => n.name;
-  var onlyNotes = (array2) => array2.map(note).filter((n) => !n.empty);
+  var toName = (n2) => n2.name;
+  var onlyNotes = (array2) => array2.map(note).filter((n2) => !n2.empty);
   function names(array2) {
     if (array2 === void 0) {
       return NAMES.slice();
@@ -18425,30 +18425,30 @@
     }
   }
   var get6 = note;
-  var name = (note2) => get6(note2).name;
-  var pitchClass = (note2) => get6(note2).pc;
-  var accidentals = (note2) => get6(note2).acc;
-  var octave = (note2) => get6(note2).oct;
-  var midi = (note2) => get6(note2).midi;
-  var freq = (note2) => get6(note2).freq;
-  var chroma = (note2) => get6(note2).chroma;
-  function fromMidi(midi2) {
-    return midiToNoteName(midi2);
+  var name = (note3) => get6(note3).name;
+  var pitchClass = (note3) => get6(note3).pc;
+  var accidentals = (note3) => get6(note3).acc;
+  var octave = (note3) => get6(note3).oct;
+  var midi = (note3) => get6(note3).midi;
+  var freq = (note3) => get6(note3).freq;
+  var chroma = (note3) => get6(note3).chroma;
+  function fromMidi(midi22) {
+    return midiToNoteName(midi22);
   }
-  function fromFreq(freq2) {
-    return midiToNoteName(freqToMidi(freq2));
+  function fromFreq(freq22) {
+    return midiToNoteName(freqToMidi(freq22));
   }
-  function fromFreqSharps(freq2) {
-    return midiToNoteName(freqToMidi(freq2), { sharps: true });
+  function fromFreqSharps(freq22) {
+    return midiToNoteName(freqToMidi(freq22), { sharps: true });
   }
-  function fromMidiSharps(midi2) {
-    return midiToNoteName(midi2, { sharps: true });
+  function fromMidiSharps(midi22) {
+    return midiToNoteName(midi22, { sharps: true });
   }
   var transpose2 = transpose;
   var tr = transpose;
-  var transposeBy = (interval2) => (note2) => transpose2(note2, interval2);
+  var transposeBy = (interval3) => (note3) => transpose2(note3, interval3);
   var trBy = transposeBy;
-  var transposeFrom = (note2) => (interval2) => transpose2(note2, interval2);
+  var transposeFrom = (note3) => (interval3) => transpose2(note3, interval3);
   var trFrom = transposeFrom;
   function transposeFifths(noteName, fifths) {
     return transpose2(noteName, [fifths, 0]);
@@ -18465,17 +18465,17 @@
   }
   function sortedUniqNames(notes) {
     return sortedNames(notes, ascending).filter(
-      (n, i, a) => i === 0 || n !== a[i - 1]
+      (n2, i, a) => i === 0 || n2 !== a[i - 1]
     );
   }
   var simplify = (noteName) => {
-    const note2 = get6(noteName);
-    if (note2.empty) {
+    const note3 = get6(noteName);
+    if (note3.empty) {
       return "";
     }
-    return midiToNoteName(note2.midi || note2.chroma, {
-      sharps: note2.alt > 0,
-      pitchClass: note2.midi === null
+    return midiToNoteName(note3.midi || note3.chroma, {
+      sharps: note3.alt > 0,
+      pitchClass: note3.midi === null
     });
   };
   function enharmonic(noteName, destName) {
@@ -18554,7 +18554,7 @@
   var NAMES2 = ROMANS.split(" ");
   var NAMES_MINOR = ROMANS.toLowerCase().split(" ");
   function parse3(src) {
-    const [name2, acc, roman, chordType6] = tokenize2(src);
+    const [name3, acc, roman, chordType9] = tokenize2(src);
     if (!roman) {
       return NoRomanNumeral;
     }
@@ -18564,11 +18564,11 @@
     const dir = 1;
     return {
       empty: false,
-      name: name2,
+      name: name3,
       roman,
       interval: interval({ step, alt, dir }).name,
       acc,
-      chordType: chordType6,
+      chordType: chordType9,
       alt,
       step,
       major: roman === upperRoman,
@@ -18614,20 +18614,20 @@
     harmonic: NoKeyScale,
     melodic: NoKeyScale
   };
-  var mapScaleToType = (scale2, list, sep = "") => list.map((type, i) => `${scale2[i]}${sep}${type}`);
-  function keyScale(grades, triads2, chords2, harmonicFunctions, chordScales) {
+  var mapScaleToType = (scale3, list, sep = "") => list.map((type, i) => `${scale3[i]}${sep}${type}`);
+  function keyScale(grades, triads3, chords3, harmonicFunctions, chordScales) {
     return (tonic) => {
       const intervals = grades.map((gr) => get7(gr).interval || "");
-      const scale2 = intervals.map((interval2) => transpose(tonic, interval2));
+      const scale3 = intervals.map((interval3) => transpose(tonic, interval3));
       return {
         tonic,
         grades,
         intervals,
-        scale: scale2,
-        triads: mapScaleToType(scale2, triads2),
-        chords: mapScaleToType(scale2, chords2),
+        scale: scale3,
+        triads: mapScaleToType(scale3, triads3),
+        chords: mapScaleToType(scale3, chords3),
         chordsHarmonicFunction: harmonicFunctions.slice(),
-        chordScales: mapScaleToType(scale2, chordScales, " ")
+        chordScales: mapScaleToType(scale3, chordScales, " ")
       };
     };
   }
@@ -18685,32 +18685,32 @@
   };
   var modes2 = MODES.map(toMode);
   var index4 = {};
-  modes2.forEach((mode2) => {
-    index4[mode2.name] = mode2;
-    mode2.aliases.forEach((alias) => {
-      index4[alias] = mode2;
+  modes2.forEach((mode22) => {
+    index4[mode22.name] = mode22;
+    mode22.aliases.forEach((alias) => {
+      index4[alias] = mode22;
     });
   });
-  function get8(name2) {
-    return typeof name2 === "string" ? index4[name2.toLowerCase()] || NoMode : name2 && name2.name ? get8(name2.name) : NoMode;
+  function get8(name3) {
+    return typeof name3 === "string" ? index4[name3.toLowerCase()] || NoMode : name3 && name3.name ? get8(name3.name) : NoMode;
   }
   var mode = deprecate("Mode.mode", "Mode.get", get8);
   function all4() {
     return modes2.slice();
   }
   var entries4 = deprecate("Mode.mode", "Mode.all", all4);
-  function toMode(mode2) {
-    const [modeNum, setNum, alt, name2, triad, seventh, alias] = mode2;
+  function toMode(mode22) {
+    const [modeNum, setNum, alt, name3, triad, seventh, alias] = mode22;
     const aliases = alias ? [alias] : [];
-    const chroma3 = Number(setNum).toString(2);
-    const intervals = get4(name2).intervals;
+    const chroma5 = Number(setNum).toString(2);
+    const intervals = get4(name3).intervals;
     return {
       empty: false,
       intervals,
       modeNum,
-      chroma: chroma3,
-      normalized: chroma3,
-      name: name2,
+      chroma: chroma5,
+      normalized: chroma5,
+      name: name3,
       setNum,
       alt,
       triad,
@@ -18718,14 +18718,14 @@
       aliases
     };
   }
-  function chords(chords2) {
+  function chords(chords22) {
     return (modeName, tonic) => {
-      const mode2 = get8(modeName);
-      if (mode2.empty)
+      const mode22 = get8(modeName);
+      if (mode22.empty)
         return [];
-      const triads2 = rotate(mode2.modeNum, chords2);
-      const tonics = mode2.intervals.map((i) => transpose(tonic, i));
-      return triads2.map((triad, i) => tonics[i] + triad);
+      const triads22 = rotate(mode22.modeNum, chords22);
+      const tonics = mode22.intervals.map((i) => transpose(tonic, i));
+      return triads22.map((triad, i) => tonics[i] + triad);
     };
   }
   var triads = chords(MODES.map((x) => x[4]));
@@ -18886,26 +18886,26 @@
   var entries5 = deprecate("ChordType.entries", "ChordType.all", all5);
   function add6(intervals, aliases, fullName) {
     const quality = getQuality3(intervals);
-    const chord4 = {
+    const chord5 = {
       ...get(intervals),
       name: fullName || "",
       quality,
       intervals,
       aliases
     };
-    dictionary4.push(chord4);
-    if (chord4.name) {
-      index5[chord4.name] = chord4;
+    dictionary4.push(chord5);
+    if (chord5.name) {
+      index5[chord5.name] = chord5;
     }
-    index5[chord4.setNum] = chord4;
-    index5[chord4.chroma] = chord4;
-    chord4.aliases.forEach((alias) => addAlias4(chord4, alias));
+    index5[chord5.setNum] = chord5;
+    index5[chord5.chroma] = chord5;
+    chord5.aliases.forEach((alias) => addAlias4(chord5, alias));
   }
-  function addAlias4(chord4, alias) {
-    index5[alias] = chord4;
+  function addAlias4(chord5, alias) {
+    index5[alias] = chord5;
   }
   function getQuality3(intervals) {
-    const has = (interval2) => intervals.indexOf(interval2) !== -1;
+    const has = (interval3) => intervals.indexOf(interval3) !== -1;
     return has("5A") ? "Augmented" : has("3M") ? "Major" : has("5d") ? "Diminished" : has("3m") ? "Minor" : "Unknown";
   }
   data_default5.forEach(
@@ -18930,10 +18930,10 @@
     notes: [],
     intervals: []
   };
-  function tokenize3(name2) {
-    const [letter, acc, oct, type] = tokenizeNote(name2);
+  function tokenize3(name3) {
+    const [letter, acc, oct, type] = tokenizeNote(name3);
     if (letter === "") {
-      return ["", name2];
+      return ["", name3];
     }
     if (letter === "A" && type === "ug") {
       return ["", "aug"];
@@ -18975,10 +18975,10 @@
     const notes = tonic.empty ? [] : intervals.map((i) => transpose(tonic, i));
     typeName = type.aliases.indexOf(typeName) !== -1 ? typeName : type.aliases[0];
     const symbol = `${tonic.empty ? "" : tonic.pc}${typeName}${root2.empty || rootDegree <= 1 ? "" : "/" + root2.pc}`;
-    const name2 = `${optionalTonic ? tonic.pc + " " : ""}${type.name}${rootDegree > 1 && optionalRoot ? " over " + root2.pc : ""}`;
+    const name3 = `${optionalTonic ? tonic.pc + " " : ""}${type.name}${rootDegree > 1 && optionalRoot ? " over " + root2.pc : ""}`;
     return {
       ...type,
-      name: name2,
+      name: name3,
       symbol,
       type: type.name,
       root: root2.name,
@@ -19145,26 +19145,26 @@
   var entries6 = deprecate("ChordType.entries", "ChordType.all", all6);
   function add7(intervals, aliases, fullName) {
     const quality = getQuality4(intervals);
-    const chord4 = {
+    const chord5 = {
       ...get(intervals),
       name: fullName || "",
       quality,
       intervals,
       aliases
     };
-    dictionary5.push(chord4);
-    if (chord4.name) {
-      index6[chord4.name] = chord4;
+    dictionary5.push(chord5);
+    if (chord5.name) {
+      index6[chord5.name] = chord5;
     }
-    index6[chord4.setNum] = chord4;
-    index6[chord4.chroma] = chord4;
-    chord4.aliases.forEach((alias) => addAlias5(chord4, alias));
+    index6[chord5.setNum] = chord5;
+    index6[chord5.chroma] = chord5;
+    chord5.aliases.forEach((alias) => addAlias5(chord5, alias));
   }
-  function addAlias5(chord4, alias) {
-    index6[alias] = chord4;
+  function addAlias5(chord5, alias) {
+    index6[alias] = chord5;
   }
   function getQuality4(intervals) {
-    const has = (interval2) => intervals.indexOf(interval2) !== -1;
+    const has = (interval3) => intervals.indexOf(interval3) !== -1;
     return has("5A") ? "Augmented" : has("3M") ? "Major" : has("5d") ? "Diminished" : has("3m") ? "Minor" : "Unknown";
   }
   data_default6.forEach(
@@ -19185,17 +19185,17 @@
     notes: [],
     intervals: []
   };
-  function tokenize4(name2) {
-    if (typeof name2 !== "string") {
+  function tokenize4(name3) {
+    if (typeof name3 !== "string") {
       return ["", ""];
     }
-    const i = name2.indexOf(" ");
-    const tonic = note(name2.substring(0, i));
+    const i = name3.indexOf(" ");
+    const tonic = note(name3.substring(0, i));
     if (tonic.empty) {
-      const n = note(name2);
-      return n.empty ? ["", name2] : [n.name, ""];
+      const n2 = note(name3);
+      return n2.empty ? ["", name3] : [n2.name, ""];
     }
-    const type = name2.substring(tonic.name.length + 1);
+    const type = name3.substring(tonic.name.length + 1);
     return [tonic.name, type.length ? type : ""];
   }
   function get12(src) {
@@ -19207,12 +19207,12 @@
     }
     const type = st.name;
     const notes = tonic ? st.intervals.map((i) => transpose(tonic, i)) : [];
-    const name2 = tonic ? tonic + " " + type : type;
-    return { ...st, name: name2, type, tonic, notes };
+    const name3 = tonic ? tonic + " " + type : type;
+    return { ...st, name: name3, type, tonic, notes };
   }
   var scale = deprecate("Scale.scale", "Scale.get", get12);
 
-  // node_modules/d3-selection/src/namespaces.js
+  // ../../pub/traste/node_modules/d3-selection/src/namespaces.js
   var xhtml = "http://www.w3.org/1999/xhtml";
   var namespaces_default = {
     svg: "http://www.w3.org/2000/svg",
@@ -19222,19 +19222,19 @@
     xmlns: "http://www.w3.org/2000/xmlns/"
   };
 
-  // node_modules/d3-selection/src/namespace.js
-  function namespace_default(name2) {
-    var prefix = name2 += "", i = prefix.indexOf(":");
-    if (i >= 0 && (prefix = name2.slice(0, i)) !== "xmlns")
-      name2 = name2.slice(i + 1);
-    return namespaces_default.hasOwnProperty(prefix) ? { space: namespaces_default[prefix], local: name2 } : name2;
+  // ../../pub/traste/node_modules/d3-selection/src/namespace.js
+  function namespace_default(name3) {
+    var prefix = name3 += "", i = prefix.indexOf(":");
+    if (i >= 0 && (prefix = name3.slice(0, i)) !== "xmlns")
+      name3 = name3.slice(i + 1);
+    return namespaces_default.hasOwnProperty(prefix) ? { space: namespaces_default[prefix], local: name3 } : name3;
   }
 
-  // node_modules/d3-selection/src/creator.js
-  function creatorInherit(name2) {
+  // ../../pub/traste/node_modules/d3-selection/src/creator.js
+  function creatorInherit(name3) {
     return function() {
       var document2 = this.ownerDocument, uri = this.namespaceURI;
-      return uri === xhtml && document2.documentElement.namespaceURI === xhtml ? document2.createElement(name2) : document2.createElementNS(uri, name2);
+      return uri === xhtml && document2.documentElement.namespaceURI === xhtml ? document2.createElement(name3) : document2.createElementNS(uri, name3);
     };
   }
   function creatorFixed(fullname) {
@@ -19242,12 +19242,12 @@
       return this.ownerDocument.createElementNS(fullname.space, fullname.local);
     };
   }
-  function creator_default(name2) {
-    var fullname = namespace_default(name2);
+  function creator_default(name3) {
+    var fullname = namespace_default(name3);
     return (fullname.local ? creatorFixed : creatorInherit)(fullname);
   }
 
-  // node_modules/d3-selection/src/selector.js
+  // ../../pub/traste/node_modules/d3-selection/src/selector.js
   function none() {
   }
   function selector_default(selector) {
@@ -19256,12 +19256,12 @@
     };
   }
 
-  // node_modules/d3-selection/src/selection/select.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/select.js
   function select_default(select) {
     if (typeof select !== "function")
       select = selector_default(select);
     for (var groups = this._groups, m = groups.length, subgroups = new Array(m), j = 0; j < m; ++j) {
-      for (var group = groups[j], n = group.length, subgroup = subgroups[j] = new Array(n), node, subnode, i = 0; i < n; ++i) {
+      for (var group = groups[j], n2 = group.length, subgroup = subgroups[j] = new Array(n2), node, subnode, i = 0; i < n2; ++i) {
         if ((node = group[i]) && (subnode = select.call(node, node.__data__, i, group))) {
           if ("__data__" in node)
             subnode.__data__ = node.__data__;
@@ -19272,12 +19272,12 @@
     return new Selection(subgroups, this._parents);
   }
 
-  // node_modules/d3-selection/src/array.js
+  // ../../pub/traste/node_modules/d3-selection/src/array.js
   function array(x) {
     return x == null ? [] : Array.isArray(x) ? x : Array.from(x);
   }
 
-  // node_modules/d3-selection/src/selectorAll.js
+  // ../../pub/traste/node_modules/d3-selection/src/selectorAll.js
   function empty() {
     return [];
   }
@@ -19287,7 +19287,7 @@
     };
   }
 
-  // node_modules/d3-selection/src/selection/selectAll.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/selectAll.js
   function arrayAll(select) {
     return function() {
       return array(select.apply(this, arguments));
@@ -19299,7 +19299,7 @@
     else
       select = selectorAll_default(select);
     for (var groups = this._groups, m = groups.length, subgroups = [], parents = [], j = 0; j < m; ++j) {
-      for (var group = groups[j], n = group.length, node, i = 0; i < n; ++i) {
+      for (var group = groups[j], n2 = group.length, node, i = 0; i < n2; ++i) {
         if (node = group[i]) {
           subgroups.push(select.call(node, node.__data__, i, group));
           parents.push(node);
@@ -19309,7 +19309,7 @@
     return new Selection(subgroups, parents);
   }
 
-  // node_modules/d3-selection/src/matcher.js
+  // ../../pub/traste/node_modules/d3-selection/src/matcher.js
   function matcher_default(selector) {
     return function() {
       return this.matches(selector);
@@ -19321,7 +19321,7 @@
     };
   }
 
-  // node_modules/d3-selection/src/selection/selectChild.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/selectChild.js
   var find = Array.prototype.find;
   function childFind(match) {
     return function() {
@@ -19335,7 +19335,7 @@
     return this.select(match == null ? childFirst : childFind(typeof match === "function" ? match : childMatcher(match)));
   }
 
-  // node_modules/d3-selection/src/selection/selectChildren.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/selectChildren.js
   var filter = Array.prototype.filter;
   function children() {
     return Array.from(this.children);
@@ -19349,12 +19349,12 @@
     return this.selectAll(match == null ? children : childrenFilter(typeof match === "function" ? match : childMatcher(match)));
   }
 
-  // node_modules/d3-selection/src/selection/filter.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/filter.js
   function filter_default(match) {
     if (typeof match !== "function")
       match = matcher_default(match);
     for (var groups = this._groups, m = groups.length, subgroups = new Array(m), j = 0; j < m; ++j) {
-      for (var group = groups[j], n = group.length, subgroup = subgroups[j] = [], node, i = 0; i < n; ++i) {
+      for (var group = groups[j], n2 = group.length, subgroup = subgroups[j] = [], node, i = 0; i < n2; ++i) {
         if ((node = group[i]) && match.call(node, node.__data__, i, group)) {
           subgroup.push(node);
         }
@@ -19363,12 +19363,12 @@
     return new Selection(subgroups, this._parents);
   }
 
-  // node_modules/d3-selection/src/selection/sparse.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/sparse.js
   function sparse_default(update) {
     return new Array(update.length);
   }
 
-  // node_modules/d3-selection/src/selection/enter.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/enter.js
   function enter_default() {
     return new Selection(this._enter || this._groups.map(sparse_default), this._parents);
   }
@@ -19395,14 +19395,14 @@
     }
   };
 
-  // node_modules/d3-selection/src/constant.js
+  // ../../pub/traste/node_modules/d3-selection/src/constant.js
   function constant_default(x) {
     return function() {
       return x;
     };
   }
 
-  // node_modules/d3-selection/src/selection/data.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/data.js
   function bindIndex(parent, group, enter, update, exit, data) {
     var i = 0, node, groupLength = group.length, dataLength = data.length;
     for (; i < dataLength; ++i) {
@@ -19478,12 +19478,12 @@
     return typeof data === "object" && "length" in data ? data : Array.from(data);
   }
 
-  // node_modules/d3-selection/src/selection/exit.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/exit.js
   function exit_default() {
     return new Selection(this._exit || this._groups.map(sparse_default), this._parents);
   }
 
-  // node_modules/d3-selection/src/selection/join.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/join.js
   function join_default(onenter, onupdate, onexit) {
     var enter = this.enter(), update = this, exit = this.exit();
     if (typeof onenter === "function") {
@@ -19505,11 +19505,11 @@
     return enter && update ? enter.merge(update).order() : update;
   }
 
-  // node_modules/d3-selection/src/selection/merge.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/merge.js
   function merge_default(context2) {
     var selection2 = context2.selection ? context2.selection() : context2;
     for (var groups0 = this._groups, groups1 = selection2._groups, m0 = groups0.length, m1 = groups1.length, m = Math.min(m0, m1), merges = new Array(m0), j = 0; j < m; ++j) {
-      for (var group0 = groups0[j], group1 = groups1[j], n = group0.length, merge = merges[j] = new Array(n), node, i = 0; i < n; ++i) {
+      for (var group0 = groups0[j], group1 = groups1[j], n2 = group0.length, merge = merges[j] = new Array(n2), node, i = 0; i < n2; ++i) {
         if (node = group0[i] || group1[i]) {
           merge[i] = node;
         }
@@ -19521,7 +19521,7 @@
     return new Selection(merges, this._parents);
   }
 
-  // node_modules/d3-selection/src/selection/order.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/order.js
   function order_default() {
     for (var groups = this._groups, j = -1, m = groups.length; ++j < m; ) {
       for (var group = groups[j], i = group.length - 1, next = group[i], node; --i >= 0; ) {
@@ -19535,7 +19535,7 @@
     return this;
   }
 
-  // node_modules/d3-selection/src/selection/sort.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/sort.js
   function sort_default(compare) {
     if (!compare)
       compare = ascending2;
@@ -19543,7 +19543,7 @@
       return a && b ? compare(a.__data__, b.__data__) : !a - !b;
     }
     for (var groups = this._groups, m = groups.length, sortgroups = new Array(m), j = 0; j < m; ++j) {
-      for (var group = groups[j], n = group.length, sortgroup = sortgroups[j] = new Array(n), node, i = 0; i < n; ++i) {
+      for (var group = groups[j], n2 = group.length, sortgroup = sortgroups[j] = new Array(n2), node, i = 0; i < n2; ++i) {
         if (node = group[i]) {
           sortgroup[i] = node;
         }
@@ -19556,7 +19556,7 @@
     return a < b ? -1 : a > b ? 1 : a >= b ? 0 : NaN;
   }
 
-  // node_modules/d3-selection/src/selection/call.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/call.js
   function call_default() {
     var callback = arguments[0];
     arguments[0] = this;
@@ -19564,15 +19564,15 @@
     return this;
   }
 
-  // node_modules/d3-selection/src/selection/nodes.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/nodes.js
   function nodes_default() {
     return Array.from(this);
   }
 
-  // node_modules/d3-selection/src/selection/node.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/node.js
   function node_default() {
     for (var groups = this._groups, j = 0, m = groups.length; j < m; ++j) {
-      for (var group = groups[j], i = 0, n = group.length; i < n; ++i) {
+      for (var group = groups[j], i = 0, n2 = group.length; i < n2; ++i) {
         var node = group[i];
         if (node)
           return node;
@@ -19581,7 +19581,7 @@
     return null;
   }
 
-  // node_modules/d3-selection/src/selection/size.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/size.js
   function size_default() {
     let size = 0;
     for (const node of this)
@@ -19589,15 +19589,15 @@
     return size;
   }
 
-  // node_modules/d3-selection/src/selection/empty.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/empty.js
   function empty_default() {
     return !this.node();
   }
 
-  // node_modules/d3-selection/src/selection/each.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/each.js
   function each_default(callback) {
     for (var groups = this._groups, j = 0, m = groups.length; j < m; ++j) {
-      for (var group = groups[j], i = 0, n = group.length, node; i < n; ++i) {
+      for (var group = groups[j], i = 0, n2 = group.length, node; i < n2; ++i) {
         if (node = group[i])
           callback.call(node, node.__data__, i, group);
       }
@@ -19605,10 +19605,10 @@
     return this;
   }
 
-  // node_modules/d3-selection/src/selection/attr.js
-  function attrRemove(name2) {
+  // ../../pub/traste/node_modules/d3-selection/src/selection/attr.js
+  function attrRemove(name3) {
     return function() {
-      this.removeAttribute(name2);
+      this.removeAttribute(name3);
     };
   }
   function attrRemoveNS(fullname) {
@@ -19616,9 +19616,9 @@
       this.removeAttributeNS(fullname.space, fullname.local);
     };
   }
-  function attrConstant(name2, value) {
+  function attrConstant(name3, value) {
     return function() {
-      this.setAttribute(name2, value);
+      this.setAttribute(name3, value);
     };
   }
   function attrConstantNS(fullname, value) {
@@ -19626,13 +19626,13 @@
       this.setAttributeNS(fullname.space, fullname.local, value);
     };
   }
-  function attrFunction(name2, value) {
+  function attrFunction(name3, value) {
     return function() {
       var v = value.apply(this, arguments);
       if (v == null)
-        this.removeAttribute(name2);
+        this.removeAttribute(name3);
       else
-        this.setAttribute(name2, v);
+        this.setAttribute(name3, v);
     };
   }
   function attrFunctionNS(fullname, value) {
@@ -19644,8 +19644,8 @@
         this.setAttributeNS(fullname.space, fullname.local, v);
     };
   }
-  function attr_default(name2, value) {
-    var fullname = namespace_default(name2);
+  function attr_default(name3, value) {
+    var fullname = namespace_default(name3);
     if (arguments.length < 2) {
       var node = this.node();
       return fullname.local ? node.getAttributeNS(fullname.space, fullname.local) : node.getAttribute(fullname);
@@ -19653,63 +19653,63 @@
     return this.each((value == null ? fullname.local ? attrRemoveNS : attrRemove : typeof value === "function" ? fullname.local ? attrFunctionNS : attrFunction : fullname.local ? attrConstantNS : attrConstant)(fullname, value));
   }
 
-  // node_modules/d3-selection/src/window.js
+  // ../../pub/traste/node_modules/d3-selection/src/window.js
   function window_default(node) {
     return node.ownerDocument && node.ownerDocument.defaultView || node.document && node || node.defaultView;
   }
 
-  // node_modules/d3-selection/src/selection/style.js
-  function styleRemove(name2) {
+  // ../../pub/traste/node_modules/d3-selection/src/selection/style.js
+  function styleRemove(name3) {
     return function() {
-      this.style.removeProperty(name2);
+      this.style.removeProperty(name3);
     };
   }
-  function styleConstant(name2, value, priority) {
+  function styleConstant(name3, value, priority) {
     return function() {
-      this.style.setProperty(name2, value, priority);
+      this.style.setProperty(name3, value, priority);
     };
   }
-  function styleFunction(name2, value, priority) {
-    return function() {
-      var v = value.apply(this, arguments);
-      if (v == null)
-        this.style.removeProperty(name2);
-      else
-        this.style.setProperty(name2, v, priority);
-    };
-  }
-  function style_default(name2, value, priority) {
-    return arguments.length > 1 ? this.each((value == null ? styleRemove : typeof value === "function" ? styleFunction : styleConstant)(name2, value, priority == null ? "" : priority)) : styleValue(this.node(), name2);
-  }
-  function styleValue(node, name2) {
-    return node.style.getPropertyValue(name2) || window_default(node).getComputedStyle(node, null).getPropertyValue(name2);
-  }
-
-  // node_modules/d3-selection/src/selection/property.js
-  function propertyRemove(name2) {
-    return function() {
-      delete this[name2];
-    };
-  }
-  function propertyConstant(name2, value) {
-    return function() {
-      this[name2] = value;
-    };
-  }
-  function propertyFunction(name2, value) {
+  function styleFunction(name3, value, priority) {
     return function() {
       var v = value.apply(this, arguments);
       if (v == null)
-        delete this[name2];
+        this.style.removeProperty(name3);
       else
-        this[name2] = v;
+        this.style.setProperty(name3, v, priority);
     };
   }
-  function property_default(name2, value) {
-    return arguments.length > 1 ? this.each((value == null ? propertyRemove : typeof value === "function" ? propertyFunction : propertyConstant)(name2, value)) : this.node()[name2];
+  function style_default(name3, value, priority) {
+    return arguments.length > 1 ? this.each((value == null ? styleRemove : typeof value === "function" ? styleFunction : styleConstant)(name3, value, priority == null ? "" : priority)) : styleValue(this.node(), name3);
+  }
+  function styleValue(node, name3) {
+    return node.style.getPropertyValue(name3) || window_default(node).getComputedStyle(node, null).getPropertyValue(name3);
   }
 
-  // node_modules/d3-selection/src/selection/classed.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/property.js
+  function propertyRemove(name3) {
+    return function() {
+      delete this[name3];
+    };
+  }
+  function propertyConstant(name3, value) {
+    return function() {
+      this[name3] = value;
+    };
+  }
+  function propertyFunction(name3, value) {
+    return function() {
+      var v = value.apply(this, arguments);
+      if (v == null)
+        delete this[name3];
+      else
+        this[name3] = v;
+    };
+  }
+  function property_default(name3, value) {
+    return arguments.length > 1 ? this.each((value == null ? propertyRemove : typeof value === "function" ? propertyFunction : propertyConstant)(name3, value)) : this.node()[name3];
+  }
+
+  // ../../pub/traste/node_modules/d3-selection/src/selection/classed.js
   function classArray(string) {
     return string.trim().split(/^|\s+/);
   }
@@ -19721,62 +19721,62 @@
     this._names = classArray(node.getAttribute("class") || "");
   }
   ClassList.prototype = {
-    add: function(name2) {
-      var i = this._names.indexOf(name2);
+    add: function(name3) {
+      var i = this._names.indexOf(name3);
       if (i < 0) {
-        this._names.push(name2);
+        this._names.push(name3);
         this._node.setAttribute("class", this._names.join(" "));
       }
     },
-    remove: function(name2) {
-      var i = this._names.indexOf(name2);
+    remove: function(name3) {
+      var i = this._names.indexOf(name3);
       if (i >= 0) {
         this._names.splice(i, 1);
         this._node.setAttribute("class", this._names.join(" "));
       }
     },
-    contains: function(name2) {
-      return this._names.indexOf(name2) >= 0;
+    contains: function(name3) {
+      return this._names.indexOf(name3) >= 0;
     }
   };
-  function classedAdd(node, names3) {
-    var list = classList(node), i = -1, n = names3.length;
-    while (++i < n)
-      list.add(names3[i]);
+  function classedAdd(node, names5) {
+    var list = classList(node), i = -1, n2 = names5.length;
+    while (++i < n2)
+      list.add(names5[i]);
   }
-  function classedRemove(node, names3) {
-    var list = classList(node), i = -1, n = names3.length;
-    while (++i < n)
-      list.remove(names3[i]);
+  function classedRemove(node, names5) {
+    var list = classList(node), i = -1, n2 = names5.length;
+    while (++i < n2)
+      list.remove(names5[i]);
   }
-  function classedTrue(names3) {
+  function classedTrue(names5) {
     return function() {
-      classedAdd(this, names3);
+      classedAdd(this, names5);
     };
   }
-  function classedFalse(names3) {
+  function classedFalse(names5) {
     return function() {
-      classedRemove(this, names3);
+      classedRemove(this, names5);
     };
   }
-  function classedFunction(names3, value) {
+  function classedFunction(names5, value) {
     return function() {
-      (value.apply(this, arguments) ? classedAdd : classedRemove)(this, names3);
+      (value.apply(this, arguments) ? classedAdd : classedRemove)(this, names5);
     };
   }
-  function classed_default(name2, value) {
-    var names3 = classArray(name2 + "");
+  function classed_default(name3, value) {
+    var names5 = classArray(name3 + "");
     if (arguments.length < 2) {
-      var list = classList(this.node()), i = -1, n = names3.length;
-      while (++i < n)
-        if (!list.contains(names3[i]))
+      var list = classList(this.node()), i = -1, n2 = names5.length;
+      while (++i < n2)
+        if (!list.contains(names5[i]))
           return false;
       return true;
     }
-    return this.each((typeof value === "function" ? classedFunction : value ? classedTrue : classedFalse)(names3, value));
+    return this.each((typeof value === "function" ? classedFunction : value ? classedTrue : classedFalse)(names5, value));
   }
 
-  // node_modules/d3-selection/src/selection/text.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/text.js
   function textRemove() {
     this.textContent = "";
   }
@@ -19795,7 +19795,7 @@
     return arguments.length ? this.each(value == null ? textRemove : (typeof value === "function" ? textFunction : textConstant)(value)) : this.node().textContent;
   }
 
-  // node_modules/d3-selection/src/selection/html.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/html.js
   function htmlRemove() {
     this.innerHTML = "";
   }
@@ -19814,7 +19814,7 @@
     return arguments.length ? this.each(value == null ? htmlRemove : (typeof value === "function" ? htmlFunction : htmlConstant)(value)) : this.node().innerHTML;
   }
 
-  // node_modules/d3-selection/src/selection/raise.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/raise.js
   function raise() {
     if (this.nextSibling)
       this.parentNode.appendChild(this);
@@ -19823,7 +19823,7 @@
     return this.each(raise);
   }
 
-  // node_modules/d3-selection/src/selection/lower.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/lower.js
   function lower() {
     if (this.previousSibling)
       this.parentNode.insertBefore(this, this.parentNode.firstChild);
@@ -19832,26 +19832,26 @@
     return this.each(lower);
   }
 
-  // node_modules/d3-selection/src/selection/append.js
-  function append_default(name2) {
-    var create = typeof name2 === "function" ? name2 : creator_default(name2);
+  // ../../pub/traste/node_modules/d3-selection/src/selection/append.js
+  function append_default(name3) {
+    var create = typeof name3 === "function" ? name3 : creator_default(name3);
     return this.select(function() {
       return this.appendChild(create.apply(this, arguments));
     });
   }
 
-  // node_modules/d3-selection/src/selection/insert.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/insert.js
   function constantNull() {
     return null;
   }
-  function insert_default(name2, before) {
-    var create = typeof name2 === "function" ? name2 : creator_default(name2), select = before == null ? constantNull : typeof before === "function" ? before : selector_default(before);
+  function insert_default(name3, before) {
+    var create = typeof name3 === "function" ? name3 : creator_default(name3), select = before == null ? constantNull : typeof before === "function" ? before : selector_default(before);
     return this.select(function() {
       return this.insertBefore(create.apply(this, arguments), select.apply(this, arguments) || null);
     });
   }
 
-  // node_modules/d3-selection/src/selection/remove.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/remove.js
   function remove() {
     var parent = this.parentNode;
     if (parent)
@@ -19861,7 +19861,7 @@
     return this.each(remove);
   }
 
-  // node_modules/d3-selection/src/selection/clone.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/clone.js
   function selection_cloneShallow() {
     var clone = this.cloneNode(false), parent = this.parentNode;
     return parent ? parent.insertBefore(clone, this.nextSibling) : clone;
@@ -19874,12 +19874,12 @@
     return this.select(deep ? selection_cloneDeep : selection_cloneShallow);
   }
 
-  // node_modules/d3-selection/src/selection/datum.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/datum.js
   function datum_default(value) {
     return arguments.length ? this.property("__data__", value) : this.node().__data__;
   }
 
-  // node_modules/d3-selection/src/selection/on.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/on.js
   function contextListener(listener) {
     return function(event) {
       listener.call(this, event, this.__data__);
@@ -19887,10 +19887,10 @@
   }
   function parseTypenames(typenames) {
     return typenames.trim().split(/^|\s+/).map(function(t) {
-      var name2 = "", i = t.indexOf(".");
+      var name3 = "", i = t.indexOf(".");
       if (i >= 0)
-        name2 = t.slice(i + 1), t = t.slice(0, i);
-      return { type: t, name: name2 };
+        name3 = t.slice(i + 1), t = t.slice(0, i);
+      return { type: t, name: name3 };
     });
   }
   function onRemove(typename) {
@@ -19932,12 +19932,12 @@
     };
   }
   function on_default(typename, value, options) {
-    var typenames = parseTypenames(typename + ""), i, n = typenames.length, t;
+    var typenames = parseTypenames(typename + ""), i, n2 = typenames.length, t;
     if (arguments.length < 2) {
       var on = this.node().__on;
       if (on)
         for (var j = 0, m = on.length, o; j < m; ++j) {
-          for (i = 0, o = on[j]; i < n; ++i) {
+          for (i = 0, o = on[j]; i < n2; ++i) {
             if ((t = typenames[i]).type === o.type && t.name === o.name) {
               return o.value;
             }
@@ -19946,12 +19946,12 @@
       return;
     }
     on = value ? onAdd : onRemove;
-    for (i = 0; i < n; ++i)
+    for (i = 0; i < n2; ++i)
       this.each(on(typenames[i], value, options));
     return this;
   }
 
-  // node_modules/d3-selection/src/selection/dispatch.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/dispatch.js
   function dispatchEvent(node, type, params) {
     var window3 = window_default(node), event = window3.CustomEvent;
     if (typeof event === "function") {
@@ -19979,17 +19979,17 @@
     return this.each((typeof params === "function" ? dispatchFunction : dispatchConstant)(type, params));
   }
 
-  // node_modules/d3-selection/src/selection/iterator.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/iterator.js
   function* iterator_default() {
     for (var groups = this._groups, j = 0, m = groups.length; j < m; ++j) {
-      for (var group = groups[j], i = 0, n = group.length, node; i < n; ++i) {
+      for (var group = groups[j], i = 0, n2 = group.length, node; i < n2; ++i) {
         if (node = group[i])
           yield node;
       }
     }
   }
 
-  // node_modules/d3-selection/src/selection/index.js
+  // ../../pub/traste/node_modules/d3-selection/src/selection/index.js
   var root = [null];
   function Selection(groups, parents) {
     this._groups = groups;
@@ -20040,19 +20040,541 @@
     [Symbol.iterator]: iterator_default
   };
 
-  // node_modules/d3-selection/src/select.js
+  // ../../pub/traste/node_modules/d3-selection/src/select.js
   function select_default2(selector) {
     return typeof selector === "string" ? new Selection([[document.querySelector(selector)]], [document.documentElement]) : new Selection([[selector]], root);
   }
 
-  // node_modules/@tonaljs/chord-type/dist/index.mjs
+  // ../../pub/traste/node_modules/cromatica/dist/index.esm.js
+  var e = /* @__PURE__ */ new Map([["A", "A"], ["G##", "A"], ["Gx", "A"], ["Bbb", "A"], ["A#", "Bb"], ["Bb", "Bb"], ["Cbb", "Bb"], ["B", "B"], ["A##", "B"], ["Ax", "B"], ["Cb", "B"], ["C", "C"], ["B#", "C"], ["Dbb", "C"], ["C#", "Db"], ["B##", "Db"], ["Bx", "Db"], ["Db", "Db"], ["D", "D"], ["C##", "D"], ["Cx", "D"], ["Ebb", "D"], ["D#", "Eb"], ["Eb", "Eb"], ["Fbb", "Eb"], ["E", "E"], ["D##", "E"], ["Dx", "E"], ["Fb", "E"], ["F", "F"], ["E#", "F"], ["Gbb", "F"], ["F#", "Gb"], ["E##", "Gb"], ["Ex", "Gb"], ["Gb", "Gb"], ["G", "G"], ["F##", "G"], ["Fx", "G"], ["Abb", "G"], ["G#", "Ab"], ["Ab", "Ab"]]);
+  var n = /* @__PURE__ */ new Map([["A", "#8dd3c7"], ["Bb", "#cae9be"], ["B", "#ffffb3"], ["C", "#bebada"], ["Db", "#e49ea5"], ["D", "#fb8072"], ["Eb", "#cc9ba2"], ["E", "#80b1d3"], ["F", "#fdb462"], ["Gb", "#dbca65"], ["G", "#b3de69"], ["Ab", "#a5d89a"]]);
+  function r(b) {
+    if (!e.has(b)) {
+      console.error(`Note name ${b} not recognized.`);
+      return;
+    }
+    return n.get(e.get(b));
+  }
+
+  // ../../pub/traste/node_modules/@tonaljs/core/dist/index.mjs
+  var fillStr2 = (s, n2) => Array(Math.abs(n2) + 1).join(s);
+  function deprecate2(original, alternative, fn) {
+    return function(...args) {
+      console.warn(`${original} is deprecated. Use ${alternative}.`);
+      return fn.apply(this, args);
+    };
+  }
+  function isNamed2(src) {
+    return src !== null && typeof src === "object" && typeof src.name === "string" ? true : false;
+  }
+  function isPitch2(pitch) {
+    return pitch !== null && typeof pitch === "object" && typeof pitch.step === "number" && typeof pitch.alt === "number" ? true : false;
+  }
+  var FIFTHS2 = [0, 2, 4, -1, 1, 3, 5];
+  var STEPS_TO_OCTS2 = FIFTHS2.map(
+    (fifths) => Math.floor(fifths * 7 / 12)
+  );
+  function encode2(pitch) {
+    const { step, alt, oct, dir = 1 } = pitch;
+    const f = FIFTHS2[step] + 7 * alt;
+    if (oct === void 0) {
+      return [dir * f];
+    }
+    const o = oct - STEPS_TO_OCTS2[step] - 4 * alt;
+    return [dir * f, dir * o];
+  }
+  var FIFTHS_TO_STEPS2 = [3, 0, 4, 1, 5, 2, 6];
+  function decode2(coord) {
+    const [f, o, dir] = coord;
+    const step = FIFTHS_TO_STEPS2[unaltered2(f)];
+    const alt = Math.floor((f + 1) / 7);
+    if (o === void 0) {
+      return { step, alt, dir };
+    }
+    const oct = o + 4 * alt + STEPS_TO_OCTS2[step];
+    return { step, alt, oct, dir };
+  }
+  function unaltered2(f) {
+    const i = (f + 1) % 7;
+    return i < 0 ? 7 + i : i;
+  }
+  var NoNote2 = { empty: true, name: "", pc: "", acc: "" };
+  var cache5 = /* @__PURE__ */ new Map();
+  var stepToLetter2 = (step) => "CDEFGAB".charAt(step);
+  var altToAcc2 = (alt) => alt < 0 ? fillStr2("b", -alt) : fillStr2("#", alt);
+  var accToAlt2 = (acc) => acc[0] === "b" ? -acc.length : acc.length;
+  function note2(src) {
+    const stringSrc = JSON.stringify(src);
+    const cached = cache5.get(stringSrc);
+    if (cached) {
+      return cached;
+    }
+    const value = typeof src === "string" ? parse4(src) : isPitch2(src) ? note2(pitchName3(src)) : isNamed2(src) ? note2(src.name) : NoNote2;
+    cache5.set(stringSrc, value);
+    return value;
+  }
+  var REGEX5 = /^([a-gA-G]?)(#{1,}|b{1,}|x{1,}|)(-?\d*)\s*(.*)$/;
+  function tokenizeNote2(str) {
+    const m = REGEX5.exec(str);
+    return [m[1].toUpperCase(), m[2].replace(/x/g, "##"), m[3], m[4]];
+  }
+  function coordToNote2(noteCoord) {
+    return note2(decode2(noteCoord));
+  }
+  var mod2 = (n2, m) => (n2 % m + m) % m;
+  var SEMI2 = [0, 2, 4, 5, 7, 9, 11];
+  function parse4(noteName) {
+    const tokens = tokenizeNote2(noteName);
+    if (tokens[0] === "" || tokens[3] !== "") {
+      return NoNote2;
+    }
+    const letter = tokens[0];
+    const acc = tokens[1];
+    const octStr = tokens[2];
+    const step = (letter.charCodeAt(0) + 3) % 7;
+    const alt = accToAlt2(acc);
+    const oct = octStr.length ? +octStr : void 0;
+    const coord = encode2({ step, alt, oct });
+    const name3 = letter + acc + octStr;
+    const pc = letter + acc;
+    const chroma5 = (SEMI2[step] + alt + 120) % 12;
+    const height = oct === void 0 ? mod2(SEMI2[step] + alt, 12) - 12 * 99 : SEMI2[step] + alt + 12 * (oct + 1);
+    const midi3 = height >= 0 && height <= 127 ? height : null;
+    const freq3 = oct === void 0 ? null : Math.pow(2, (height - 69) / 12) * 440;
+    return {
+      empty: false,
+      acc,
+      alt,
+      chroma: chroma5,
+      coord,
+      freq: freq3,
+      height,
+      letter,
+      midi: midi3,
+      name: name3,
+      oct,
+      pc,
+      step
+    };
+  }
+  function pitchName3(props) {
+    const { step, alt, oct } = props;
+    const letter = stepToLetter2(step);
+    if (!letter) {
+      return "";
+    }
+    const pc = letter + altToAcc2(alt);
+    return oct || oct === 0 ? pc + oct : pc;
+  }
+  var NoInterval2 = { empty: true, name: "", acc: "" };
+  var INTERVAL_TONAL_REGEX2 = "([-+]?\\d+)(d{1,4}|m|M|P|A{1,4})";
+  var INTERVAL_SHORTHAND_REGEX2 = "(AA|A|P|M|m|d|dd)([-+]?\\d+)";
+  var REGEX22 = new RegExp(
+    "^" + INTERVAL_TONAL_REGEX2 + "|" + INTERVAL_SHORTHAND_REGEX2 + "$"
+  );
+  function tokenizeInterval2(str) {
+    const m = REGEX22.exec(`${str}`);
+    if (m === null) {
+      return ["", ""];
+    }
+    return m[1] ? [m[1], m[2]] : [m[4], m[3]];
+  }
+  var cache22 = {};
+  function interval2(src) {
+    return typeof src === "string" ? cache22[src] || (cache22[src] = parse22(src)) : isPitch2(src) ? interval2(pitchName22(src)) : isNamed2(src) ? interval2(src.name) : NoInterval2;
+  }
+  var SIZES2 = [0, 2, 4, 5, 7, 9, 11];
+  var TYPES2 = "PMMPPMM";
+  function parse22(str) {
+    const tokens = tokenizeInterval2(str);
+    if (tokens[0] === "") {
+      return NoInterval2;
+    }
+    const num = +tokens[0];
+    const q = tokens[1];
+    const step = (Math.abs(num) - 1) % 7;
+    const t = TYPES2[step];
+    if (t === "M" && q === "P") {
+      return NoInterval2;
+    }
+    const type = t === "M" ? "majorable" : "perfectable";
+    const name3 = "" + num + q;
+    const dir = num < 0 ? -1 : 1;
+    const simple = num === 8 || num === -8 ? num : dir * (step + 1);
+    const alt = qToAlt2(type, q);
+    const oct = Math.floor((Math.abs(num) - 1) / 7);
+    const semitones = dir * (SIZES2[step] + alt + 12 * oct);
+    const chroma5 = (dir * (SIZES2[step] + alt) % 12 + 12) % 12;
+    const coord = encode2({ step, alt, oct, dir });
+    return {
+      empty: false,
+      name: name3,
+      num,
+      q,
+      step,
+      alt,
+      dir,
+      type,
+      simple,
+      semitones,
+      chroma: chroma5,
+      coord,
+      oct
+    };
+  }
+  function coordToInterval2(coord, forceDescending) {
+    const [f, o = 0] = coord;
+    const isDescending = f * 7 + o * 12 < 0;
+    const ivl = forceDescending || isDescending ? [-f, -o, -1] : [f, o, 1];
+    return interval2(decode2(ivl));
+  }
+  function qToAlt2(type, q) {
+    return q === "M" && type === "majorable" || q === "P" && type === "perfectable" ? 0 : q === "m" && type === "majorable" ? -1 : /^A+$/.test(q) ? q.length : /^d+$/.test(q) ? -1 * (type === "perfectable" ? q.length : q.length + 1) : 0;
+  }
+  function pitchName22(props) {
+    const { step, alt, oct = 0, dir } = props;
+    if (!dir) {
+      return "";
+    }
+    const calcNum = step + 1 + 7 * oct;
+    const num = calcNum === 0 ? step + 1 : calcNum;
+    const d = dir < 0 ? "-" : "";
+    const type = TYPES2[step] === "M" ? "majorable" : "perfectable";
+    const name3 = d + num + altToQ2(type, alt);
+    return name3;
+  }
+  function altToQ2(type, alt) {
+    if (alt === 0) {
+      return type === "majorable" ? "M" : "P";
+    } else if (alt === -1 && type === "majorable") {
+      return "m";
+    } else if (alt > 0) {
+      return fillStr2("A", alt);
+    } else {
+      return fillStr2("d", type === "perfectable" ? alt : alt + 1);
+    }
+  }
+  function transpose3(noteName, intervalName) {
+    const note22 = note2(noteName);
+    const intervalCoord = Array.isArray(intervalName) ? intervalName : interval2(intervalName).coord;
+    if (note22.empty || !intervalCoord || intervalCoord.length < 2) {
+      return "";
+    }
+    const noteCoord = note22.coord;
+    const tr3 = noteCoord.length === 1 ? [noteCoord[0] + intervalCoord[0]] : [noteCoord[0] + intervalCoord[0], noteCoord[1] + intervalCoord[1]];
+    return coordToNote2(tr3).name;
+  }
+  function distance2(fromNote, toNote) {
+    const from = note2(fromNote);
+    const to = note2(toNote);
+    if (from.empty || to.empty) {
+      return "";
+    }
+    const fcoord = from.coord;
+    const tcoord = to.coord;
+    const fifths = tcoord[0] - fcoord[0];
+    const octs = fcoord.length === 2 && tcoord.length === 2 ? tcoord[1] - fcoord[1] : -Math.floor(fifths * 7 / 12);
+    const forceDescending = to.height === from.height && to.midi !== null && from.midi !== null && from.step > to.step;
+    return coordToInterval2([fifths, octs], forceDescending).name;
+  }
+
+  // ../../pub/traste/node_modules/@tonaljs/array/dist/index.mjs
+  var isArray3 = Array.isArray;
+
+  // ../../pub/traste/node_modules/@tonaljs/collection/dist/index.mjs
+  function rotate2(times, arr) {
+    const len = arr.length;
+    const n2 = (times % len + len) % len;
+    return arr.slice(n2, len).concat(arr.slice(0, n2));
+  }
+
+  // ../../pub/traste/node_modules/@tonaljs/pcset/dist/index.mjs
+  var EmptyPcset2 = {
+    empty: true,
+    name: "",
+    setNum: 0,
+    chroma: "000000000000",
+    normalized: "000000000000",
+    intervals: []
+  };
+  var setNumToChroma2 = (num2) => Number(num2).toString(2);
+  var chromaToNumber2 = (chroma22) => parseInt(chroma22, 2);
+  var REGEX6 = /^[01]{12}$/;
+  function isChroma2(set) {
+    return REGEX6.test(set);
+  }
+  var isPcsetNum2 = (set) => typeof set === "number" && set >= 0 && set <= 4095;
+  var isPcset2 = (set) => set && isChroma2(set.chroma);
+  var cache6 = { [EmptyPcset2.chroma]: EmptyPcset2 };
+  function get13(src) {
+    const chroma22 = isChroma2(src) ? src : isPcsetNum2(src) ? setNumToChroma2(src) : Array.isArray(src) ? listToChroma2(src) : isPcset2(src) ? src.chroma : EmptyPcset2.chroma;
+    return cache6[chroma22] = cache6[chroma22] || chromaToPcset2(chroma22);
+  }
+  var pcset2 = deprecate2("Pcset.pcset", "Pcset.get", get13);
+  var IVLS2 = [
+    "1P",
+    "2m",
+    "2M",
+    "3m",
+    "3M",
+    "4P",
+    "5d",
+    "5P",
+    "6m",
+    "6M",
+    "7m",
+    "7M"
+  ];
+  function chromaToIntervals2(chroma22) {
+    const intervals2 = [];
+    for (let i = 0; i < 12; i++) {
+      if (chroma22.charAt(i) === "1")
+        intervals2.push(IVLS2[i]);
+    }
+    return intervals2;
+  }
+  function chromaRotations2(chroma22) {
+    const binary = chroma22.split("");
+    return binary.map((_, i) => rotate2(i, binary).join(""));
+  }
+  function chromaToPcset2(chroma22) {
+    const setNum = chromaToNumber2(chroma22);
+    const normalizedNum = chromaRotations2(chroma22).map(chromaToNumber2).filter((n2) => n2 >= 2048).sort()[0];
+    const normalized = setNumToChroma2(normalizedNum);
+    const intervals2 = chromaToIntervals2(chroma22);
+    return {
+      empty: false,
+      name: "",
+      setNum,
+      chroma: chroma22,
+      normalized,
+      intervals: intervals2
+    };
+  }
+  function listToChroma2(set) {
+    if (set.length === 0) {
+      return EmptyPcset2.chroma;
+    }
+    let pitch;
+    const binary = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+    for (let i = 0; i < set.length; i++) {
+      pitch = note2(set[i]);
+      if (pitch.empty)
+        pitch = interval2(set[i]);
+      if (!pitch.empty)
+        binary[pitch.chroma] = 1;
+    }
+    return binary.join("");
+  }
+
+  // ../../pub/traste/node_modules/@tonaljs/chord-detect/node_modules/@tonaljs/chord-type/dist/index.mjs
   var CHORDS5 = [
+    // ==Major==
     ["1P 3M 5P", "major", "M ^  maj"],
     ["1P 3M 5P 7M", "major seventh", "maj7 \u0394 ma7 M7 Maj7 ^7"],
     ["1P 3M 5P 7M 9M", "major ninth", "maj9 \u03949 ^9"],
     ["1P 3M 5P 7M 9M 13M", "major thirteenth", "maj13 Maj13 ^13"],
     ["1P 3M 5P 6M", "sixth", "6 add6 add13 M6"],
-    ["1P 3M 5P 6M 9M", "sixth/ninth", "6/9 69 M69"],
+    ["1P 3M 5P 6M 9M", "sixth added ninth", "6add9 6/9 69 M69"],
+    ["1P 3M 6m 7M", "major seventh flat sixth", "M7b6 ^7b6"],
+    [
+      "1P 3M 5P 7M 11A",
+      "major seventh sharp eleventh",
+      "maj#4 \u0394#4 \u0394#11 M7#11 ^7#11 maj7#11"
+    ],
+    // ==Minor==
+    // '''Normal'''
+    ["1P 3m 5P", "minor", "m min -"],
+    ["1P 3m 5P 7m", "minor seventh", "m7 min7 mi7 -7"],
+    [
+      "1P 3m 5P 7M",
+      "minor/major seventh",
+      "m/ma7 m/maj7 mM7 mMaj7 m/M7 -\u03947 m\u0394 -^7"
+    ],
+    ["1P 3m 5P 6M", "minor sixth", "m6 -6"],
+    ["1P 3m 5P 7m 9M", "minor ninth", "m9 -9"],
+    ["1P 3m 5P 7M 9M", "minor/major ninth", "mM9 mMaj9 -^9"],
+    ["1P 3m 5P 7m 9M 11P", "minor eleventh", "m11 -11"],
+    ["1P 3m 5P 7m 9M 13M", "minor thirteenth", "m13 -13"],
+    // '''Diminished'''
+    ["1P 3m 5d", "diminished", "dim \xB0 o"],
+    ["1P 3m 5d 7d", "diminished seventh", "dim7 \xB07 o7"],
+    ["1P 3m 5d 7m", "half-diminished", "m7b5 \xF8 -7b5 h7 h"],
+    // ==Dominant/Seventh==
+    // '''Normal'''
+    ["1P 3M 5P 7m", "dominant seventh", "7 dom"],
+    ["1P 3M 5P 7m 9M", "dominant ninth", "9"],
+    ["1P 3M 5P 7m 9M 13M", "dominant thirteenth", "13"],
+    ["1P 3M 5P 7m 11A", "lydian dominant seventh", "7#11 7#4"],
+    // '''Altered'''
+    ["1P 3M 5P 7m 9m", "dominant flat ninth", "7b9"],
+    ["1P 3M 5P 7m 9A", "dominant sharp ninth", "7#9"],
+    ["1P 3M 7m 9m", "altered", "alt7"],
+    // '''Suspended'''
+    ["1P 4P 5P", "suspended fourth", "sus4 sus"],
+    ["1P 2M 5P", "suspended second", "sus2"],
+    ["1P 4P 5P 7m", "suspended fourth seventh", "7sus4 7sus"],
+    ["1P 5P 7m 9M 11P", "eleventh", "11"],
+    [
+      "1P 4P 5P 7m 9m",
+      "suspended fourth flat ninth",
+      "b9sus phryg 7b9sus 7b9sus4"
+    ],
+    // ==Other==
+    ["1P 5P", "fifth", "5"],
+    ["1P 3M 5A", "augmented", "aug + +5 ^#5"],
+    ["1P 3m 5A", "minor augmented", "m#5 -#5 m+"],
+    ["1P 3M 5A 7M", "augmented seventh", "maj7#5 maj7+5 +maj7 ^7#5"],
+    [
+      "1P 3M 5P 7M 9M 11A",
+      "major sharp eleventh (lydian)",
+      "maj9#11 \u03949#11 ^9#11"
+    ],
+    // ==Legacy==
+    ["1P 2M 4P 5P", "", "sus24 sus4add9"],
+    ["1P 3M 5A 7M 9M", "", "maj9#5 Maj9#5"],
+    ["1P 3M 5A 7m", "", "7#5 +7 7+ 7aug aug7"],
+    ["1P 3M 5A 7m 9A", "", "7#5#9 7#9#5 7alt"],
+    ["1P 3M 5A 7m 9M", "", "9#5 9+"],
+    ["1P 3M 5A 7m 9M 11A", "", "9#5#11"],
+    ["1P 3M 5A 7m 9m", "", "7#5b9 7b9#5"],
+    ["1P 3M 5A 7m 9m 11A", "", "7#5b9#11"],
+    ["1P 3M 5A 9A", "", "+add#9"],
+    ["1P 3M 5A 9M", "", "M#5add9 +add9"],
+    ["1P 3M 5P 6M 11A", "", "M6#11 M6b5 6#11 6b5"],
+    ["1P 3M 5P 6M 7M 9M", "", "M7add13"],
+    ["1P 3M 5P 6M 9M 11A", "", "69#11"],
+    ["1P 3m 5P 6M 9M", "", "m69 -69"],
+    ["1P 3M 5P 6m 7m", "", "7b6"],
+    ["1P 3M 5P 7M 9A 11A", "", "maj7#9#11"],
+    ["1P 3M 5P 7M 9M 11A 13M", "", "M13#11 maj13#11 M13+4 M13#4"],
+    ["1P 3M 5P 7M 9m", "", "M7b9"],
+    ["1P 3M 5P 7m 11A 13m", "", "7#11b13 7b5b13"],
+    ["1P 3M 5P 7m 13M", "", "7add6 67 7add13"],
+    ["1P 3M 5P 7m 9A 11A", "", "7#9#11 7b5#9 7#9b5"],
+    ["1P 3M 5P 7m 9A 11A 13M", "", "13#9#11"],
+    ["1P 3M 5P 7m 9A 11A 13m", "", "7#9#11b13"],
+    ["1P 3M 5P 7m 9A 13M", "", "13#9"],
+    ["1P 3M 5P 7m 9A 13m", "", "7#9b13"],
+    ["1P 3M 5P 7m 9M 11A", "", "9#11 9+4 9#4"],
+    ["1P 3M 5P 7m 9M 11A 13M", "", "13#11 13+4 13#4"],
+    ["1P 3M 5P 7m 9M 11A 13m", "", "9#11b13 9b5b13"],
+    ["1P 3M 5P 7m 9m 11A", "", "7b9#11 7b5b9 7b9b5"],
+    ["1P 3M 5P 7m 9m 11A 13M", "", "13b9#11"],
+    ["1P 3M 5P 7m 9m 11A 13m", "", "7b9b13#11 7b9#11b13 7b5b9b13"],
+    ["1P 3M 5P 7m 9m 13M", "", "13b9"],
+    ["1P 3M 5P 7m 9m 13m", "", "7b9b13"],
+    ["1P 3M 5P 7m 9m 9A", "", "7b9#9"],
+    ["1P 3M 5P 9M", "", "Madd9 2 add9 add2"],
+    ["1P 3M 5P 9m", "", "Maddb9"],
+    ["1P 3M 5d", "", "Mb5"],
+    ["1P 3M 5d 6M 7m 9M", "", "13b5"],
+    ["1P 3M 5d 7M", "", "M7b5"],
+    ["1P 3M 5d 7M 9M", "", "M9b5"],
+    ["1P 3M 5d 7m", "", "7b5"],
+    ["1P 3M 5d 7m 9M", "", "9b5"],
+    ["1P 3M 7m", "", "7no5"],
+    ["1P 3M 7m 13m", "", "7b13"],
+    ["1P 3M 7m 9M", "", "9no5"],
+    ["1P 3M 7m 9M 13M", "", "13no5"],
+    ["1P 3M 7m 9M 13m", "", "9b13"],
+    ["1P 3m 4P 5P", "", "madd4"],
+    ["1P 3m 5P 6m 7M", "", "mMaj7b6"],
+    ["1P 3m 5P 6m 7M 9M", "", "mMaj9b6"],
+    ["1P 3m 5P 7m 11P", "", "m7add11 m7add4"],
+    ["1P 3m 5P 9M", "", "madd9"],
+    ["1P 3m 5d 6M 7M", "", "o7M7"],
+    ["1P 3m 5d 7M", "", "oM7"],
+    ["1P 3m 6m 7M", "", "mb6M7"],
+    ["1P 3m 6m 7m", "", "m7#5"],
+    ["1P 3m 6m 7m 9M", "", "m9#5"],
+    ["1P 3m 5A 7m 9M 11P", "", "m11A"],
+    ["1P 3m 6m 9m", "", "mb6b9"],
+    ["1P 2M 3m 5d 7m", "", "m9b5"],
+    ["1P 4P 5A 7M", "", "M7#5sus4"],
+    ["1P 4P 5A 7M 9M", "", "M9#5sus4"],
+    ["1P 4P 5A 7m", "", "7#5sus4"],
+    ["1P 4P 5P 7M", "", "M7sus4"],
+    ["1P 4P 5P 7M 9M", "", "M9sus4"],
+    ["1P 4P 5P 7m 9M", "", "9sus4 9sus"],
+    ["1P 4P 5P 7m 9M 13M", "", "13sus4 13sus"],
+    ["1P 4P 5P 7m 9m 13m", "", "7sus4b9b13 7b9b13sus4"],
+    ["1P 4P 7m 10m", "", "4 quartal"],
+    ["1P 5P 7m 9m 11P", "", "11b9"]
+  ];
+  var data_default8 = CHORDS5;
+  var NoChordType5 = {
+    ...EmptyPcset2,
+    name: "",
+    quality: "Unknown",
+    intervals: [],
+    aliases: []
+  };
+  var dictionary6 = [];
+  var index7 = {};
+  function get14(type) {
+    return index7[type] || NoChordType5;
+  }
+  var chordType5 = deprecate2("ChordType.chordType", "ChordType.get", get14);
+  function all7() {
+    return dictionary6.slice();
+  }
+  var entries7 = deprecate2("ChordType.entries", "ChordType.all", all7);
+  function add8(intervals, aliases, fullName) {
+    const quality = getQuality5(intervals);
+    const chord5 = {
+      ...get13(intervals),
+      name: fullName || "",
+      quality,
+      intervals,
+      aliases
+    };
+    dictionary6.push(chord5);
+    if (chord5.name) {
+      index7[chord5.name] = chord5;
+    }
+    index7[chord5.setNum] = chord5;
+    index7[chord5.chroma] = chord5;
+    chord5.aliases.forEach((alias) => addAlias6(chord5, alias));
+  }
+  function addAlias6(chord5, alias) {
+    index7[alias] = chord5;
+  }
+  function getQuality5(intervals) {
+    const has = (interval3) => intervals.indexOf(interval3) !== -1;
+    return has("5A") ? "Augmented" : has("3M") ? "Major" : has("5d") ? "Diminished" : has("3m") ? "Minor" : "Unknown";
+  }
+  data_default8.forEach(
+    ([ivls, fullName, names22]) => add8(ivls.split(" "), names22.split(" "), fullName)
+  );
+  dictionary6.sort((a, b) => a.setNum - b.setNum);
+
+  // ../../pub/traste/node_modules/@tonaljs/chord-detect/dist/index.mjs
+  var BITMASK2 = {
+    // 3m 000100000000
+    // 3M 000010000000
+    anyThirds: 384,
+    // 5P 000000010000
+    perfectFifth: 16,
+    // 5d 000000100000
+    // 5A 000000001000
+    nonPerfectFifths: 40,
+    anySeventh: 3
+  };
+  var testChromaNumber2 = (bitmask) => (chromaNumber) => Boolean(chromaNumber & bitmask);
+  var hasAnyThird2 = testChromaNumber2(BITMASK2.anyThirds);
+  var hasPerfectFifth2 = testChromaNumber2(BITMASK2.perfectFifth);
+  var hasAnySeventh2 = testChromaNumber2(BITMASK2.anySeventh);
+  var hasNonPerfectFifth2 = testChromaNumber2(BITMASK2.nonPerfectFifths);
+
+  // ../../pub/traste/node_modules/@tonaljs/chord-type/dist/index.mjs
+  var CHORDS6 = [
+    ["1P 3M 5P", "major", "M ^  maj"],
+    ["1P 3M 5P 7M", "major seventh", "maj7 \u0394 ma7 M7 Maj7 ^7"],
+    ["1P 3M 5P 7M 9M", "major ninth", "maj9 \u03949 ^9"],
+    ["1P 3M 5P 7M 9M 13M", "major thirteenth", "maj13 Maj13 ^13"],
+    ["1P 3M 5P 6M", "sixth", "6 add6 add13 M6"],
+    ["1P 3M 5P 6M 9M", "sixth added ninth", "6add9 6/9 69 M69"],
     ["1P 3M 6m 7M", "major seventh flat sixth", "M7b6 ^7b6"],
     [
       "1P 3M 5P 7M 11A",
@@ -20170,54 +20692,227 @@
     ["1P 4P 7m 10m", "", "4 quartal"],
     ["1P 5P 7m 9m 11P", "", "11b9"]
   ];
-  var data_default8 = CHORDS5;
-  var NoChordType5 = {
-    ...EmptyPcset,
+  var data_default9 = CHORDS6;
+  var NoChordType6 = {
+    ...EmptyPcset2,
     name: "",
     quality: "Unknown",
     intervals: [],
     aliases: []
   };
-  var dictionary6 = [];
-  var index7 = {};
-  function get13(type) {
-    return index7[type] || NoChordType5;
+  var dictionary7 = [];
+  var index8 = {};
+  function get15(type) {
+    return index8[type] || NoChordType6;
   }
-  var chordType5 = deprecate("ChordType.chordType", "ChordType.get", get13);
-  function all7() {
-    return dictionary6.slice();
+  var chordType6 = deprecate2("ChordType.chordType", "ChordType.get", get15);
+  function all8() {
+    return dictionary7.slice();
   }
-  var entries7 = deprecate("ChordType.entries", "ChordType.all", all7);
-  function add8(intervals, aliases, fullName) {
-    const quality = getQuality5(intervals);
-    const chord4 = {
-      ...get(intervals),
+  var entries8 = deprecate2("ChordType.entries", "ChordType.all", all8);
+  function add9(intervals, aliases, fullName) {
+    const quality = getQuality6(intervals);
+    const chord5 = {
+      ...get13(intervals),
       name: fullName || "",
       quality,
       intervals,
       aliases
     };
-    dictionary6.push(chord4);
-    if (chord4.name) {
-      index7[chord4.name] = chord4;
+    dictionary7.push(chord5);
+    if (chord5.name) {
+      index8[chord5.name] = chord5;
     }
-    index7[chord4.setNum] = chord4;
-    index7[chord4.chroma] = chord4;
-    chord4.aliases.forEach((alias) => addAlias6(chord4, alias));
+    index8[chord5.setNum] = chord5;
+    index8[chord5.chroma] = chord5;
+    chord5.aliases.forEach((alias) => addAlias7(chord5, alias));
   }
-  function addAlias6(chord4, alias) {
-    index7[alias] = chord4;
+  function addAlias7(chord5, alias) {
+    index8[alias] = chord5;
   }
-  function getQuality5(intervals) {
-    const has = (interval2) => intervals.indexOf(interval2) !== -1;
+  function getQuality6(intervals) {
+    const has = (interval3) => intervals.indexOf(interval3) !== -1;
     return has("5A") ? "Augmented" : has("3M") ? "Major" : has("5d") ? "Diminished" : has("3m") ? "Minor" : "Unknown";
   }
-  data_default8.forEach(
-    ([ivls, fullName, names22]) => add8(ivls.split(" "), names22.split(" "), fullName)
+  data_default9.forEach(
+    ([ivls, fullName, names22]) => add9(ivls.split(" "), names22.split(" "), fullName)
   );
-  dictionary6.sort((a, b) => a.setNum - b.setNum);
+  dictionary7.sort((a, b) => a.setNum - b.setNum);
 
-  // node_modules/@tonaljs/chord/dist/index.mjs
+  // ../../pub/traste/node_modules/@tonaljs/scale-type/dist/index.mjs
+  var SCALES2 = [
+    ["1P 2M 3M 5P 6M", "major pentatonic", "pentatonic"],
+    ["1P 2M 3M 4P 5P 6M 7M", "major", "ionian"],
+    ["1P 2M 3m 4P 5P 6m 7m", "minor", "aeolian"],
+    ["1P 2M 3m 3M 5P 6M", "major blues"],
+    ["1P 3m 4P 5d 5P 7m", "minor blues", "blues"],
+    ["1P 2M 3m 4P 5P 6M 7M", "melodic minor"],
+    ["1P 2M 3m 4P 5P 6m 7M", "harmonic minor"],
+    ["1P 2M 3M 4P 5P 6M 7m 7M", "bebop"],
+    ["1P 2M 3m 4P 5d 6m 6M 7M", "diminished", "whole-half diminished"],
+    ["1P 2M 3m 4P 5P 6M 7m", "dorian"],
+    ["1P 2M 3M 4A 5P 6M 7M", "lydian"],
+    ["1P 2M 3M 4P 5P 6M 7m", "mixolydian", "dominant"],
+    ["1P 2m 3m 4P 5P 6m 7m", "phrygian"],
+    ["1P 2m 3m 4P 5d 6m 7m", "locrian"],
+    ["1P 3M 4P 5P 7M", "ionian pentatonic"],
+    ["1P 3M 4P 5P 7m", "mixolydian pentatonic", "indian"],
+    ["1P 2M 4P 5P 6M", "ritusen"],
+    ["1P 2M 4P 5P 7m", "egyptian"],
+    ["1P 3M 4P 5d 7m", "neopolitan major pentatonic"],
+    ["1P 3m 4P 5P 6m", "vietnamese 1"],
+    ["1P 2m 3m 5P 6m", "pelog"],
+    ["1P 2m 4P 5P 6m", "kumoijoshi"],
+    ["1P 2M 3m 5P 6m", "hirajoshi"],
+    ["1P 2m 4P 5d 7m", "iwato"],
+    ["1P 2m 4P 5P 7m", "in-sen"],
+    ["1P 3M 4A 5P 7M", "lydian pentatonic", "chinese"],
+    ["1P 3m 4P 6m 7m", "malkos raga"],
+    ["1P 3m 4P 5d 7m", "locrian pentatonic", "minor seven flat five pentatonic"],
+    ["1P 3m 4P 5P 7m", "minor pentatonic", "vietnamese 2"],
+    ["1P 3m 4P 5P 6M", "minor six pentatonic"],
+    ["1P 2M 3m 5P 6M", "flat three pentatonic", "kumoi"],
+    ["1P 2M 3M 5P 6m", "flat six pentatonic"],
+    ["1P 2m 3M 5P 6M", "scriabin"],
+    ["1P 3M 5d 6m 7m", "whole tone pentatonic"],
+    ["1P 3M 4A 5A 7M", "lydian #5P pentatonic"],
+    ["1P 3M 4A 5P 7m", "lydian dominant pentatonic"],
+    ["1P 3m 4P 5P 7M", "minor #7M pentatonic"],
+    ["1P 3m 4d 5d 7m", "super locrian pentatonic"],
+    ["1P 2M 3m 4P 5P 7M", "minor hexatonic"],
+    ["1P 2A 3M 5P 5A 7M", "augmented"],
+    ["1P 2M 4P 5P 6M 7m", "piongio"],
+    ["1P 2m 3M 4A 6M 7m", "prometheus neopolitan"],
+    ["1P 2M 3M 4A 6M 7m", "prometheus"],
+    ["1P 2m 3M 5d 6m 7m", "mystery #1"],
+    ["1P 2m 3M 4P 5A 6M", "six tone symmetric"],
+    ["1P 2M 3M 4A 5A 6A", "whole tone", "messiaen's mode #1"],
+    ["1P 2m 4P 4A 5P 7M", "messiaen's mode #5"],
+    ["1P 2M 3M 4P 5d 6m 7m", "locrian major", "arabian"],
+    ["1P 2m 3M 4A 5P 6m 7M", "double harmonic lydian"],
+    [
+      "1P 2m 2A 3M 4A 6m 7m",
+      "altered",
+      "super locrian",
+      "diminished whole tone",
+      "pomeroy"
+    ],
+    ["1P 2M 3m 4P 5d 6m 7m", "locrian #2", "half-diminished", "aeolian b5"],
+    [
+      "1P 2M 3M 4P 5P 6m 7m",
+      "mixolydian b6",
+      "melodic minor fifth mode",
+      "hindu"
+    ],
+    ["1P 2M 3M 4A 5P 6M 7m", "lydian dominant", "lydian b7", "overtone"],
+    ["1P 2M 3M 4A 5A 6M 7M", "lydian augmented"],
+    [
+      "1P 2m 3m 4P 5P 6M 7m",
+      "dorian b2",
+      "phrygian #6",
+      "melodic minor second mode"
+    ],
+    [
+      "1P 2m 3m 4d 5d 6m 7d",
+      "ultralocrian",
+      "superlocrian bb7",
+      "superlocrian diminished"
+    ],
+    ["1P 2m 3m 4P 5d 6M 7m", "locrian 6", "locrian natural 6", "locrian sharp 6"],
+    ["1P 2A 3M 4P 5P 5A 7M", "augmented heptatonic"],
+    [
+      "1P 2M 3m 4A 5P 6M 7m",
+      "dorian #4",
+      "ukrainian dorian",
+      "romanian minor",
+      "altered dorian"
+    ],
+    ["1P 2M 3m 4A 5P 6M 7M", "lydian diminished"],
+    ["1P 2M 3M 4A 5A 7m 7M", "leading whole tone"],
+    ["1P 2M 3M 4A 5P 6m 7m", "lydian minor"],
+    ["1P 2m 3M 4P 5P 6m 7m", "phrygian dominant", "spanish", "phrygian major"],
+    ["1P 2m 3m 4P 5P 6m 7M", "balinese"],
+    ["1P 2m 3m 4P 5P 6M 7M", "neopolitan major"],
+    ["1P 2M 3M 4P 5P 6m 7M", "harmonic major"],
+    ["1P 2m 3M 4P 5P 6m 7M", "double harmonic major", "gypsy"],
+    ["1P 2M 3m 4A 5P 6m 7M", "hungarian minor"],
+    ["1P 2A 3M 4A 5P 6M 7m", "hungarian major"],
+    ["1P 2m 3M 4P 5d 6M 7m", "oriental"],
+    ["1P 2m 3m 3M 4A 5P 7m", "flamenco"],
+    ["1P 2m 3m 4A 5P 6m 7M", "todi raga"],
+    ["1P 2m 3M 4P 5d 6m 7M", "persian"],
+    ["1P 2m 3M 5d 6m 7m 7M", "enigmatic"],
+    [
+      "1P 2M 3M 4P 5A 6M 7M",
+      "major augmented",
+      "major #5",
+      "ionian augmented",
+      "ionian #5"
+    ],
+    ["1P 2A 3M 4A 5P 6M 7M", "lydian #9"],
+    ["1P 2m 2M 4P 4A 5P 6m 7M", "messiaen's mode #4"],
+    ["1P 2m 3M 4P 4A 5P 6m 7M", "purvi raga"],
+    ["1P 2m 3m 3M 4P 5P 6m 7m", "spanish heptatonic"],
+    ["1P 2M 3m 3M 4P 5P 6M 7m", "bebop minor"],
+    ["1P 2M 3M 4P 5P 5A 6M 7M", "bebop major"],
+    ["1P 2m 3m 4P 5d 5P 6m 7m", "bebop locrian"],
+    ["1P 2M 3m 4P 5P 6m 7m 7M", "minor bebop"],
+    ["1P 2M 3M 4P 5d 5P 6M 7M", "ichikosucho"],
+    ["1P 2M 3m 4P 5P 6m 6M 7M", "minor six diminished"],
+    [
+      "1P 2m 3m 3M 4A 5P 6M 7m",
+      "half-whole diminished",
+      "dominant diminished",
+      "messiaen's mode #2"
+    ],
+    ["1P 3m 3M 4P 5P 6M 7m 7M", "kafi raga"],
+    ["1P 2M 3M 4P 4A 5A 6A 7M", "messiaen's mode #6"],
+    ["1P 2M 3m 3M 4P 5d 5P 6M 7m", "composite blues"],
+    ["1P 2M 3m 3M 4A 5P 6m 7m 7M", "messiaen's mode #3"],
+    ["1P 2m 2M 3m 4P 4A 5P 6m 6M 7M", "messiaen's mode #7"],
+    ["1P 2m 2M 3m 3M 4P 5d 5P 6m 6M 7m 7M", "chromatic"]
+  ];
+  var data_default10 = SCALES2;
+  var NoScaleType2 = {
+    ...EmptyPcset2,
+    intervals: [],
+    aliases: []
+  };
+  var dictionary8 = [];
+  var index9 = {};
+  function get16(type) {
+    return index9[type] || NoScaleType2;
+  }
+  var scaleType2 = deprecate2(
+    "ScaleDictionary.scaleType",
+    "ScaleType.get",
+    get16
+  );
+  function all9() {
+    return dictionary8.slice();
+  }
+  var entries9 = deprecate2(
+    "ScaleDictionary.entries",
+    "ScaleType.all",
+    all9
+  );
+  function add10(intervals, name3, aliases = []) {
+    const scale3 = { ...get13(intervals), name: name3, intervals, aliases };
+    dictionary8.push(scale3);
+    index9[scale3.name] = scale3;
+    index9[scale3.setNum] = scale3;
+    index9[scale3.chroma] = scale3;
+    scale3.aliases.forEach((alias) => addAlias8(scale3, alias));
+    return scale3;
+  }
+  function addAlias8(scale3, alias) {
+    index9[alias] = scale3;
+  }
+  data_default10.forEach(
+    ([ivls, name3, ...aliases]) => add10(ivls.split(" "), name3, aliases)
+  );
+
+  // ../../pub/traste/node_modules/@tonaljs/chord/dist/index.mjs
   var NoChord3 = {
     empty: true,
     name: "",
@@ -20234,25 +20929,17 @@
     notes: [],
     intervals: []
   };
-  var NUM_TYPES = /^(6|64|7|9|11|13)$/;
-  function tokenize5(name2) {
-    const [letter, acc, oct, type] = tokenizeNote(name2);
+  function tokenize5(name3) {
+    const [letter, acc, oct, type] = tokenizeNote2(name3);
     if (letter === "") {
-      return ["", name2];
+      return ["", name3];
     }
     if (letter === "A" && type === "ug") {
       return ["", "aug"];
     }
-    if (!type && (oct === "4" || oct === "5")) {
-      return [letter + acc, oct];
-    }
-    if (NUM_TYPES.test(oct)) {
-      return [letter + acc, oct + type];
-    } else {
-      return [letter + acc + oct, type];
-    }
+    return [letter + acc, oct + type];
   }
-  function get14(src) {
+  function get17(src) {
     if (src === "") {
       return NoChord3;
     }
@@ -20265,13 +20952,13 @@
     }
   }
   function getChord3(typeName, optionalTonic, optionalRoot) {
-    const type = get13(typeName);
-    const tonic = note(optionalTonic || "");
-    const root2 = note(optionalRoot || "");
+    const type = get15(typeName);
+    const tonic = note2(optionalTonic || "");
+    const root2 = note2(optionalRoot || "");
     if (type.empty || optionalTonic && tonic.empty || optionalRoot && root2.empty) {
       return NoChord3;
     }
-    const rootInterval = distance(tonic.pc, root2.pc);
+    const rootInterval = distance2(tonic.pc, root2.pc);
     const rootDegree = type.intervals.indexOf(rootInterval) + 1;
     if (!root2.empty && !rootDegree) {
       return NoChord3;
@@ -20284,13 +20971,13 @@
       intervals.push(`${newNum}${quality}`);
       intervals.shift();
     }
-    const notes = tonic.empty ? [] : intervals.map((i) => transpose(tonic, i));
+    const notes = tonic.empty ? [] : intervals.map((i) => transpose3(tonic, i));
     typeName = type.aliases.indexOf(typeName) !== -1 ? typeName : type.aliases[0];
     const symbol = `${tonic.empty ? "" : tonic.pc}${typeName}${root2.empty || rootDegree <= 1 ? "" : "/" + root2.pc}`;
-    const name2 = `${optionalTonic ? tonic.pc + " " : ""}${type.name}${rootDegree > 1 && optionalRoot ? " over " + root2.pc : ""}`;
+    const name3 = `${optionalTonic ? tonic.pc + " " : ""}${type.name}${rootDegree > 1 && optionalRoot ? " over " + root2.pc : ""}`;
     return {
       ...type,
-      name: name2,
+      name: name3,
       symbol,
       type: type.name,
       root: root2.name,
@@ -20300,38 +20987,919 @@
       notes
     };
   }
-  var chord3 = deprecate("Chord.chord", "Chord.get", get14);
+  var chord3 = deprecate2("Chord.chord", "Chord.get", get17);
 
-  // node_modules/traste/src/js/notes.js
+  // ../../pub/traste/node_modules/@tonaljs/duration-value/dist/index.mjs
+  var DATA2 = [
+    [
+      0.125,
+      "dl",
+      ["large", "duplex longa", "maxima", "octuple", "octuple whole"]
+    ],
+    [0.25, "l", ["long", "longa"]],
+    [0.5, "d", ["double whole", "double", "breve"]],
+    [1, "w", ["whole", "semibreve"]],
+    [2, "h", ["half", "minim"]],
+    [4, "q", ["quarter", "crotchet"]],
+    [8, "e", ["eighth", "quaver"]],
+    [16, "s", ["sixteenth", "semiquaver"]],
+    [32, "t", ["thirty-second", "demisemiquaver"]],
+    [64, "sf", ["sixty-fourth", "hemidemisemiquaver"]],
+    [128, "h", ["hundred twenty-eighth"]],
+    [256, "th", ["two hundred fifty-sixth"]]
+  ];
+  var data_default11 = DATA2;
+  var VALUES2 = [];
+  data_default11.forEach(
+    ([denominator, shorthand, names22]) => add11(denominator, shorthand, names22)
+  );
+  function add11(denominator, shorthand, names22) {
+    VALUES2.push({
+      empty: false,
+      dots: "",
+      name: "",
+      value: 1 / denominator,
+      fraction: denominator < 1 ? [1 / denominator, 1] : [1, denominator],
+      shorthand,
+      names: names22
+    });
+  }
+
+  // ../../pub/traste/node_modules/@tonaljs/interval/dist/index.mjs
+  var IQ2 = "P m M m M P d P m M m M".split(" ");
+  var add12 = combinator2((a, b) => [a[0] + b[0], a[1] + b[1]]);
+  var substract2 = combinator2((a, b) => [a[0] - b[0], a[1] - b[1]]);
+  function combinator2(fn) {
+    return (a, b) => {
+      const coordA = interval2(a).coord;
+      const coordB = interval2(b).coord;
+      if (coordA && coordB) {
+        const coord = fn(coordA, coordB);
+        return coordToInterval2(coord).name;
+      }
+    };
+  }
+
+  // ../../pub/traste/node_modules/@tonaljs/midi/dist/index.mjs
+  var L22 = Math.log(2);
+  var L4402 = Math.log(440);
+  function freqToMidi2(freq3) {
+    const v = 12 * (Math.log(freq3) - L4402) / L22 + 69;
+    return Math.round(v * 100) / 100;
+  }
+  var SHARPS2 = "C C# D D# E F F# G G# A A# B".split(" ");
+  var FLATS2 = "C Db D Eb E F Gb G Ab A Bb B".split(" ");
+  function midiToNoteName2(midi3, options = {}) {
+    if (isNaN(midi3) || midi3 === -Infinity || midi3 === Infinity)
+      return "";
+    midi3 = Math.round(midi3);
+    const pcs = options.sharps === true ? SHARPS2 : FLATS2;
+    const pc = pcs[midi3 % 12];
+    if (options.pitchClass) {
+      return pc;
+    }
+    const o = Math.floor(midi3 / 12) - 1;
+    return pc + o;
+  }
+
+  // ../../pub/traste/node_modules/@tonaljs/note/dist/index.mjs
+  var NAMES3 = ["C", "D", "E", "F", "G", "A", "B"];
+  var toName2 = (n2) => n2.name;
+  var onlyNotes2 = (array2) => array2.map(note2).filter((n2) => !n2.empty);
+  function names3(array2) {
+    if (array2 === void 0) {
+      return NAMES3.slice();
+    } else if (!Array.isArray(array2)) {
+      return [];
+    } else {
+      return onlyNotes2(array2).map(toName2);
+    }
+  }
+  var get18 = note2;
+  var name2 = (note3) => get18(note3).name;
+  var pitchClass2 = (note3) => get18(note3).pc;
+  var accidentals2 = (note3) => get18(note3).acc;
+  var octave2 = (note3) => get18(note3).oct;
+  var midi2 = (note3) => get18(note3).midi;
+  var freq2 = (note3) => get18(note3).freq;
+  var chroma3 = (note3) => get18(note3).chroma;
+  function fromMidi2(midi22) {
+    return midiToNoteName2(midi22);
+  }
+  function fromFreq2(freq22) {
+    return midiToNoteName2(freqToMidi2(freq22));
+  }
+  function fromFreqSharps2(freq22) {
+    return midiToNoteName2(freqToMidi2(freq22), { sharps: true });
+  }
+  function fromMidiSharps2(midi22) {
+    return midiToNoteName2(midi22, { sharps: true });
+  }
+  var transpose4 = transpose3;
+  var tr2 = transpose3;
+  var transposeBy2 = (interval3) => (note3) => transpose4(note3, interval3);
+  var trBy2 = transposeBy2;
+  var transposeFrom2 = (note3) => (interval3) => transpose4(note3, interval3);
+  var trFrom2 = transposeFrom2;
+  function transposeFifths3(noteName, fifths) {
+    return transpose4(noteName, [fifths, 0]);
+  }
+  var trFifths2 = transposeFifths3;
+  function transposeOctaves2(noteName, octaves) {
+    return transpose4(noteName, [0, octaves]);
+  }
+  var ascending3 = (a, b) => a.height - b.height;
+  var descending2 = (a, b) => b.height - a.height;
+  function sortedNames2(notes, comparator) {
+    comparator = comparator || ascending3;
+    return onlyNotes2(notes).sort(comparator).map(toName2);
+  }
+  function sortedUniqNames2(notes) {
+    return sortedNames2(notes, ascending3).filter(
+      (n2, i, a) => i === 0 || n2 !== a[i - 1]
+    );
+  }
+  var simplify3 = (noteName) => {
+    const note3 = get18(noteName);
+    if (note3.empty) {
+      return "";
+    }
+    return midiToNoteName2(note3.midi || note3.chroma, {
+      sharps: note3.alt > 0,
+      pitchClass: note3.midi === null
+    });
+  };
+  function enharmonic2(noteName, destName) {
+    const src = get18(noteName);
+    if (src.empty) {
+      return "";
+    }
+    const dest = get18(
+      destName || midiToNoteName2(src.midi || src.chroma, {
+        sharps: src.alt < 0,
+        pitchClass: true
+      })
+    );
+    if (dest.empty || dest.chroma !== src.chroma) {
+      return "";
+    }
+    if (src.oct === void 0) {
+      return dest.pc;
+    }
+    const srcChroma = src.chroma - src.alt;
+    const destChroma = dest.chroma - dest.alt;
+    const destOctOffset = srcChroma > 11 || destChroma < 0 ? -1 : srcChroma < 0 || destChroma > 11 ? 1 : 0;
+    const destOct = src.oct + destOctOffset;
+    return dest.pc + destOct;
+  }
+  var note_default2 = {
+    names: names3,
+    get: get18,
+    name: name2,
+    pitchClass: pitchClass2,
+    accidentals: accidentals2,
+    octave: octave2,
+    midi: midi2,
+    ascending: ascending3,
+    descending: descending2,
+    sortedNames: sortedNames2,
+    sortedUniqNames: sortedUniqNames2,
+    fromMidi: fromMidi2,
+    fromMidiSharps: fromMidiSharps2,
+    freq: freq2,
+    fromFreq: fromFreq2,
+    fromFreqSharps: fromFreqSharps2,
+    chroma: chroma3,
+    transpose: transpose4,
+    tr: tr2,
+    transposeBy: transposeBy2,
+    trBy: trBy2,
+    transposeFrom: transposeFrom2,
+    trFrom: trFrom2,
+    transposeFifths: transposeFifths3,
+    transposeOctaves: transposeOctaves2,
+    trFifths: trFifths2,
+    simplify: simplify3,
+    enharmonic: enharmonic2
+  };
+
+  // ../../pub/traste/node_modules/@tonaljs/roman-numeral/dist/index.mjs
+  var NoRomanNumeral2 = { empty: true, name: "", chordType: "" };
+  var cache7 = {};
+  function get19(src) {
+    return typeof src === "string" ? cache7[src] || (cache7[src] = parse5(src)) : typeof src === "number" ? get19(NAMES4[src] || "") : isPitch2(src) ? fromPitch2(src) : isNamed2(src) ? get19(src.name) : NoRomanNumeral2;
+  }
+  var romanNumeral2 = deprecate2(
+    "RomanNumeral.romanNumeral",
+    "RomanNumeral.get",
+    get19
+  );
+  function fromPitch2(pitch) {
+    return get19(altToAcc2(pitch.alt) + NAMES4[pitch.step]);
+  }
+  var REGEX7 = /^(#{1,}|b{1,}|x{1,}|)(IV|I{1,3}|VI{0,2}|iv|i{1,3}|vi{0,2})([^IViv]*)$/;
+  function tokenize6(str) {
+    return REGEX7.exec(str) || ["", "", "", ""];
+  }
+  var ROMANS2 = "I II III IV V VI VII";
+  var NAMES4 = ROMANS2.split(" ");
+  var NAMES_MINOR2 = ROMANS2.toLowerCase().split(" ");
+  function parse5(src) {
+    const [name3, acc, roman, chordType9] = tokenize6(src);
+    if (!roman) {
+      return NoRomanNumeral2;
+    }
+    const upperRoman = roman.toUpperCase();
+    const step = NAMES4.indexOf(upperRoman);
+    const alt = accToAlt2(acc);
+    const dir = 1;
+    return {
+      empty: false,
+      name: name3,
+      roman,
+      interval: interval2({ step, alt, dir }).name,
+      acc,
+      chordType: chordType9,
+      alt,
+      step,
+      major: roman === upperRoman,
+      oct: 0,
+      dir
+    };
+  }
+
+  // ../../pub/traste/node_modules/@tonaljs/key/dist/index.mjs
+  var Empty2 = Object.freeze([]);
+  var NoKey2 = {
+    type: "major",
+    tonic: "",
+    alteration: 0,
+    keySignature: ""
+  };
+  var NoKeyScale2 = {
+    tonic: "",
+    grades: Empty2,
+    intervals: Empty2,
+    scale: Empty2,
+    triads: Empty2,
+    chords: Empty2,
+    chordsHarmonicFunction: Empty2,
+    chordScales: Empty2
+  };
+  var NoMajorKey2 = {
+    ...NoKey2,
+    ...NoKeyScale2,
+    type: "major",
+    minorRelative: "",
+    scale: Empty2,
+    secondaryDominants: Empty2,
+    secondaryDominantsMinorRelative: Empty2,
+    substituteDominants: Empty2,
+    substituteDominantsMinorRelative: Empty2
+  };
+  var NoMinorKey2 = {
+    ...NoKey2,
+    type: "minor",
+    relativeMajor: "",
+    natural: NoKeyScale2,
+    harmonic: NoKeyScale2,
+    melodic: NoKeyScale2
+  };
+  var mapScaleToType2 = (scale3, list, sep = "") => list.map((type, i) => `${scale3[i]}${sep}${type}`);
+  function keyScale2(grades, triads3, chords3, harmonicFunctions, chordScales) {
+    return (tonic) => {
+      const intervals = grades.map((gr) => get19(gr).interval || "");
+      const scale3 = intervals.map((interval3) => transpose3(tonic, interval3));
+      return {
+        tonic,
+        grades,
+        intervals,
+        scale: scale3,
+        triads: mapScaleToType2(scale3, triads3),
+        chords: mapScaleToType2(scale3, chords3),
+        chordsHarmonicFunction: harmonicFunctions.slice(),
+        chordScales: mapScaleToType2(scale3, chordScales, " ")
+      };
+    };
+  }
+  var MajorScale2 = keyScale2(
+    "I II III IV V VI VII".split(" "),
+    " m m   m dim".split(" "),
+    "maj7 m7 m7 maj7 7 m7 m7b5".split(" "),
+    "T SD T SD D T D".split(" "),
+    "major,dorian,phrygian,lydian,mixolydian,minor,locrian".split(",")
+  );
+  var NaturalScale2 = keyScale2(
+    "I II bIII IV V bVI bVII".split(" "),
+    "m dim  m m  ".split(" "),
+    "m7 m7b5 maj7 m7 m7 maj7 7".split(" "),
+    "T SD T SD D SD SD".split(" "),
+    "minor,locrian,major,dorian,phrygian,lydian,mixolydian".split(",")
+  );
+  var HarmonicScale2 = keyScale2(
+    "I II bIII IV V bVI VII".split(" "),
+    "m dim aug m   dim".split(" "),
+    "mMaj7 m7b5 +maj7 m7 7 maj7 o7".split(" "),
+    "T SD T SD D SD D".split(" "),
+    "harmonic minor,locrian 6,major augmented,lydian diminished,phrygian dominant,lydian #9,ultralocrian".split(
+      ","
+    )
+  );
+  var MelodicScale2 = keyScale2(
+    "I II bIII IV V VI VII".split(" "),
+    "m m aug   dim dim".split(" "),
+    "m6 m7 +maj7 7 7 m7b5 m7b5".split(" "),
+    "T SD T SD D  ".split(" "),
+    "melodic minor,dorian b2,lydian augmented,lydian dominant,mixolydian b6,locrian #2,altered".split(
+      ","
+    )
+  );
+
+  // ../../pub/traste/node_modules/@tonaljs/mode/dist/index.mjs
+  var MODES2 = [
+    [0, 2773, 0, "ionian", "", "Maj7", "major"],
+    [1, 2902, 2, "dorian", "m", "m7"],
+    [2, 3418, 4, "phrygian", "m", "m7"],
+    [3, 2741, -1, "lydian", "", "Maj7"],
+    [4, 2774, 1, "mixolydian", "", "7"],
+    [5, 2906, 3, "aeolian", "m", "m7", "minor"],
+    [6, 3434, 5, "locrian", "dim", "m7b5"]
+  ];
+  var NoMode2 = {
+    ...EmptyPcset2,
+    name: "",
+    alt: 0,
+    modeNum: NaN,
+    triad: "",
+    seventh: "",
+    aliases: []
+  };
+  var modes4 = MODES2.map(toMode2);
+  var index10 = {};
+  modes4.forEach((mode22) => {
+    index10[mode22.name] = mode22;
+    mode22.aliases.forEach((alias) => {
+      index10[alias] = mode22;
+    });
+  });
+  function get20(name3) {
+    return typeof name3 === "string" ? index10[name3.toLowerCase()] || NoMode2 : name3 && name3.name ? get20(name3.name) : NoMode2;
+  }
+  var mode2 = deprecate2("Mode.mode", "Mode.get", get20);
+  function all10() {
+    return modes4.slice();
+  }
+  var entries10 = deprecate2("Mode.mode", "Mode.all", all10);
+  function toMode2(mode22) {
+    const [modeNum, setNum, alt, name3, triad, seventh, alias] = mode22;
+    const aliases = alias ? [alias] : [];
+    const chroma5 = Number(setNum).toString(2);
+    const intervals = get16(name3).intervals;
+    return {
+      empty: false,
+      intervals,
+      modeNum,
+      chroma: chroma5,
+      normalized: chroma5,
+      name: name3,
+      setNum,
+      alt,
+      triad,
+      seventh,
+      aliases
+    };
+  }
+  function chords2(chords22) {
+    return (modeName, tonic) => {
+      const mode22 = get20(modeName);
+      if (mode22.empty)
+        return [];
+      const triads22 = rotate2(mode22.modeNum, chords22);
+      const tonics = mode22.intervals.map((i) => transpose3(tonic, i));
+      return triads22.map((triad, i) => tonics[i] + triad);
+    };
+  }
+  var triads2 = chords2(MODES2.map((x) => x[4]));
+  var seventhChords2 = chords2(MODES2.map((x) => x[5]));
+
+  // ../../pub/traste/node_modules/@tonaljs/progression/node_modules/@tonaljs/chord-type/dist/index.mjs
+  var CHORDS7 = [
+    // ==Major==
+    ["1P 3M 5P", "major", "M ^  maj"],
+    ["1P 3M 5P 7M", "major seventh", "maj7 \u0394 ma7 M7 Maj7 ^7"],
+    ["1P 3M 5P 7M 9M", "major ninth", "maj9 \u03949 ^9"],
+    ["1P 3M 5P 7M 9M 13M", "major thirteenth", "maj13 Maj13 ^13"],
+    ["1P 3M 5P 6M", "sixth", "6 add6 add13 M6"],
+    ["1P 3M 5P 6M 9M", "sixth added ninth", "6add9 6/9 69 M69"],
+    ["1P 3M 6m 7M", "major seventh flat sixth", "M7b6 ^7b6"],
+    [
+      "1P 3M 5P 7M 11A",
+      "major seventh sharp eleventh",
+      "maj#4 \u0394#4 \u0394#11 M7#11 ^7#11 maj7#11"
+    ],
+    // ==Minor==
+    // '''Normal'''
+    ["1P 3m 5P", "minor", "m min -"],
+    ["1P 3m 5P 7m", "minor seventh", "m7 min7 mi7 -7"],
+    [
+      "1P 3m 5P 7M",
+      "minor/major seventh",
+      "m/ma7 m/maj7 mM7 mMaj7 m/M7 -\u03947 m\u0394 -^7"
+    ],
+    ["1P 3m 5P 6M", "minor sixth", "m6 -6"],
+    ["1P 3m 5P 7m 9M", "minor ninth", "m9 -9"],
+    ["1P 3m 5P 7M 9M", "minor/major ninth", "mM9 mMaj9 -^9"],
+    ["1P 3m 5P 7m 9M 11P", "minor eleventh", "m11 -11"],
+    ["1P 3m 5P 7m 9M 13M", "minor thirteenth", "m13 -13"],
+    // '''Diminished'''
+    ["1P 3m 5d", "diminished", "dim \xB0 o"],
+    ["1P 3m 5d 7d", "diminished seventh", "dim7 \xB07 o7"],
+    ["1P 3m 5d 7m", "half-diminished", "m7b5 \xF8 -7b5 h7 h"],
+    // ==Dominant/Seventh==
+    // '''Normal'''
+    ["1P 3M 5P 7m", "dominant seventh", "7 dom"],
+    ["1P 3M 5P 7m 9M", "dominant ninth", "9"],
+    ["1P 3M 5P 7m 9M 13M", "dominant thirteenth", "13"],
+    ["1P 3M 5P 7m 11A", "lydian dominant seventh", "7#11 7#4"],
+    // '''Altered'''
+    ["1P 3M 5P 7m 9m", "dominant flat ninth", "7b9"],
+    ["1P 3M 5P 7m 9A", "dominant sharp ninth", "7#9"],
+    ["1P 3M 7m 9m", "altered", "alt7"],
+    // '''Suspended'''
+    ["1P 4P 5P", "suspended fourth", "sus4 sus"],
+    ["1P 2M 5P", "suspended second", "sus2"],
+    ["1P 4P 5P 7m", "suspended fourth seventh", "7sus4 7sus"],
+    ["1P 5P 7m 9M 11P", "eleventh", "11"],
+    [
+      "1P 4P 5P 7m 9m",
+      "suspended fourth flat ninth",
+      "b9sus phryg 7b9sus 7b9sus4"
+    ],
+    // ==Other==
+    ["1P 5P", "fifth", "5"],
+    ["1P 3M 5A", "augmented", "aug + +5 ^#5"],
+    ["1P 3m 5A", "minor augmented", "m#5 -#5 m+"],
+    ["1P 3M 5A 7M", "augmented seventh", "maj7#5 maj7+5 +maj7 ^7#5"],
+    [
+      "1P 3M 5P 7M 9M 11A",
+      "major sharp eleventh (lydian)",
+      "maj9#11 \u03949#11 ^9#11"
+    ],
+    // ==Legacy==
+    ["1P 2M 4P 5P", "", "sus24 sus4add9"],
+    ["1P 3M 5A 7M 9M", "", "maj9#5 Maj9#5"],
+    ["1P 3M 5A 7m", "", "7#5 +7 7+ 7aug aug7"],
+    ["1P 3M 5A 7m 9A", "", "7#5#9 7#9#5 7alt"],
+    ["1P 3M 5A 7m 9M", "", "9#5 9+"],
+    ["1P 3M 5A 7m 9M 11A", "", "9#5#11"],
+    ["1P 3M 5A 7m 9m", "", "7#5b9 7b9#5"],
+    ["1P 3M 5A 7m 9m 11A", "", "7#5b9#11"],
+    ["1P 3M 5A 9A", "", "+add#9"],
+    ["1P 3M 5A 9M", "", "M#5add9 +add9"],
+    ["1P 3M 5P 6M 11A", "", "M6#11 M6b5 6#11 6b5"],
+    ["1P 3M 5P 6M 7M 9M", "", "M7add13"],
+    ["1P 3M 5P 6M 9M 11A", "", "69#11"],
+    ["1P 3m 5P 6M 9M", "", "m69 -69"],
+    ["1P 3M 5P 6m 7m", "", "7b6"],
+    ["1P 3M 5P 7M 9A 11A", "", "maj7#9#11"],
+    ["1P 3M 5P 7M 9M 11A 13M", "", "M13#11 maj13#11 M13+4 M13#4"],
+    ["1P 3M 5P 7M 9m", "", "M7b9"],
+    ["1P 3M 5P 7m 11A 13m", "", "7#11b13 7b5b13"],
+    ["1P 3M 5P 7m 13M", "", "7add6 67 7add13"],
+    ["1P 3M 5P 7m 9A 11A", "", "7#9#11 7b5#9 7#9b5"],
+    ["1P 3M 5P 7m 9A 11A 13M", "", "13#9#11"],
+    ["1P 3M 5P 7m 9A 11A 13m", "", "7#9#11b13"],
+    ["1P 3M 5P 7m 9A 13M", "", "13#9"],
+    ["1P 3M 5P 7m 9A 13m", "", "7#9b13"],
+    ["1P 3M 5P 7m 9M 11A", "", "9#11 9+4 9#4"],
+    ["1P 3M 5P 7m 9M 11A 13M", "", "13#11 13+4 13#4"],
+    ["1P 3M 5P 7m 9M 11A 13m", "", "9#11b13 9b5b13"],
+    ["1P 3M 5P 7m 9m 11A", "", "7b9#11 7b5b9 7b9b5"],
+    ["1P 3M 5P 7m 9m 11A 13M", "", "13b9#11"],
+    ["1P 3M 5P 7m 9m 11A 13m", "", "7b9b13#11 7b9#11b13 7b5b9b13"],
+    ["1P 3M 5P 7m 9m 13M", "", "13b9"],
+    ["1P 3M 5P 7m 9m 13m", "", "7b9b13"],
+    ["1P 3M 5P 7m 9m 9A", "", "7b9#9"],
+    ["1P 3M 5P 9M", "", "Madd9 2 add9 add2"],
+    ["1P 3M 5P 9m", "", "Maddb9"],
+    ["1P 3M 5d", "", "Mb5"],
+    ["1P 3M 5d 6M 7m 9M", "", "13b5"],
+    ["1P 3M 5d 7M", "", "M7b5"],
+    ["1P 3M 5d 7M 9M", "", "M9b5"],
+    ["1P 3M 5d 7m", "", "7b5"],
+    ["1P 3M 5d 7m 9M", "", "9b5"],
+    ["1P 3M 7m", "", "7no5"],
+    ["1P 3M 7m 13m", "", "7b13"],
+    ["1P 3M 7m 9M", "", "9no5"],
+    ["1P 3M 7m 9M 13M", "", "13no5"],
+    ["1P 3M 7m 9M 13m", "", "9b13"],
+    ["1P 3m 4P 5P", "", "madd4"],
+    ["1P 3m 5P 6m 7M", "", "mMaj7b6"],
+    ["1P 3m 5P 6m 7M 9M", "", "mMaj9b6"],
+    ["1P 3m 5P 7m 11P", "", "m7add11 m7add4"],
+    ["1P 3m 5P 9M", "", "madd9"],
+    ["1P 3m 5d 6M 7M", "", "o7M7"],
+    ["1P 3m 5d 7M", "", "oM7"],
+    ["1P 3m 6m 7M", "", "mb6M7"],
+    ["1P 3m 6m 7m", "", "m7#5"],
+    ["1P 3m 6m 7m 9M", "", "m9#5"],
+    ["1P 3m 5A 7m 9M 11P", "", "m11A"],
+    ["1P 3m 6m 9m", "", "mb6b9"],
+    ["1P 2M 3m 5d 7m", "", "m9b5"],
+    ["1P 4P 5A 7M", "", "M7#5sus4"],
+    ["1P 4P 5A 7M 9M", "", "M9#5sus4"],
+    ["1P 4P 5A 7m", "", "7#5sus4"],
+    ["1P 4P 5P 7M", "", "M7sus4"],
+    ["1P 4P 5P 7M 9M", "", "M9sus4"],
+    ["1P 4P 5P 7m 9M", "", "9sus4 9sus"],
+    ["1P 4P 5P 7m 9M 13M", "", "13sus4 13sus"],
+    ["1P 4P 5P 7m 9m 13m", "", "7sus4b9b13 7b9b13sus4"],
+    ["1P 4P 7m 10m", "", "4 quartal"],
+    ["1P 5P 7m 9m 11P", "", "11b9"]
+  ];
+  var data_default12 = CHORDS7;
+  var NoChordType7 = {
+    ...EmptyPcset2,
+    name: "",
+    quality: "Unknown",
+    intervals: [],
+    aliases: []
+  };
+  var dictionary9 = [];
+  var index11 = {};
+  function get21(type) {
+    return index11[type] || NoChordType7;
+  }
+  var chordType7 = deprecate2("ChordType.chordType", "ChordType.get", get21);
+  function all11() {
+    return dictionary9.slice();
+  }
+  var entries11 = deprecate2("ChordType.entries", "ChordType.all", all11);
+  function add13(intervals, aliases, fullName) {
+    const quality = getQuality7(intervals);
+    const chord5 = {
+      ...get13(intervals),
+      name: fullName || "",
+      quality,
+      intervals,
+      aliases
+    };
+    dictionary9.push(chord5);
+    if (chord5.name) {
+      index11[chord5.name] = chord5;
+    }
+    index11[chord5.setNum] = chord5;
+    index11[chord5.chroma] = chord5;
+    chord5.aliases.forEach((alias) => addAlias9(chord5, alias));
+  }
+  function addAlias9(chord5, alias) {
+    index11[alias] = chord5;
+  }
+  function getQuality7(intervals) {
+    const has = (interval3) => intervals.indexOf(interval3) !== -1;
+    return has("5A") ? "Augmented" : has("3M") ? "Major" : has("5d") ? "Diminished" : has("3m") ? "Minor" : "Unknown";
+  }
+  data_default12.forEach(
+    ([ivls, fullName, names22]) => add13(ivls.split(" "), names22.split(" "), fullName)
+  );
+  dictionary9.sort((a, b) => a.setNum - b.setNum);
+
+  // ../../pub/traste/node_modules/@tonaljs/progression/node_modules/@tonaljs/chord/dist/index.mjs
+  var NoChord4 = {
+    empty: true,
+    name: "",
+    symbol: "",
+    root: "",
+    rootDegree: 0,
+    type: "",
+    tonic: null,
+    setNum: NaN,
+    quality: "Unknown",
+    chroma: "",
+    normalized: "",
+    aliases: [],
+    notes: [],
+    intervals: []
+  };
+  function tokenize7(name3) {
+    const [letter, acc, oct, type] = tokenizeNote2(name3);
+    if (letter === "") {
+      return ["", name3];
+    }
+    if (letter === "A" && type === "ug") {
+      return ["", "aug"];
+    }
+    return [letter + acc, oct + type];
+  }
+  function get22(src) {
+    if (src === "") {
+      return NoChord4;
+    }
+    if (Array.isArray(src) && src.length === 2) {
+      return getChord4(src[1], src[0]);
+    } else {
+      const [tonic, type] = tokenize7(src);
+      const chord22 = getChord4(type, tonic);
+      return chord22.empty ? getChord4(src) : chord22;
+    }
+  }
+  function getChord4(typeName, optionalTonic, optionalRoot) {
+    const type = get21(typeName);
+    const tonic = note2(optionalTonic || "");
+    const root2 = note2(optionalRoot || "");
+    if (type.empty || optionalTonic && tonic.empty || optionalRoot && root2.empty) {
+      return NoChord4;
+    }
+    const rootInterval = distance2(tonic.pc, root2.pc);
+    const rootDegree = type.intervals.indexOf(rootInterval) + 1;
+    if (!root2.empty && !rootDegree) {
+      return NoChord4;
+    }
+    const intervals = Array.from(type.intervals);
+    for (let i = 1; i < rootDegree; i++) {
+      const num = intervals[0][0];
+      const quality = intervals[0][1];
+      const newNum = parseInt(num, 10) + 7;
+      intervals.push(`${newNum}${quality}`);
+      intervals.shift();
+    }
+    const notes = tonic.empty ? [] : intervals.map((i) => transpose3(tonic, i));
+    typeName = type.aliases.indexOf(typeName) !== -1 ? typeName : type.aliases[0];
+    const symbol = `${tonic.empty ? "" : tonic.pc}${typeName}${root2.empty || rootDegree <= 1 ? "" : "/" + root2.pc}`;
+    const name3 = `${optionalTonic ? tonic.pc + " " : ""}${type.name}${rootDegree > 1 && optionalRoot ? " over " + root2.pc : ""}`;
+    return {
+      ...type,
+      name: name3,
+      symbol,
+      type: type.name,
+      root: root2.name,
+      intervals,
+      rootDegree,
+      tonic: tonic.name,
+      notes
+    };
+  }
+  var chord4 = deprecate2("Chord.chord", "Chord.get", get22);
+
+  // ../../pub/traste/node_modules/@tonaljs/scale/node_modules/@tonaljs/chord-type/dist/index.mjs
+  var CHORDS8 = [
+    // ==Major==
+    ["1P 3M 5P", "major", "M ^  maj"],
+    ["1P 3M 5P 7M", "major seventh", "maj7 \u0394 ma7 M7 Maj7 ^7"],
+    ["1P 3M 5P 7M 9M", "major ninth", "maj9 \u03949 ^9"],
+    ["1P 3M 5P 7M 9M 13M", "major thirteenth", "maj13 Maj13 ^13"],
+    ["1P 3M 5P 6M", "sixth", "6 add6 add13 M6"],
+    ["1P 3M 5P 6M 9M", "sixth added ninth", "6add9 6/9 69 M69"],
+    ["1P 3M 6m 7M", "major seventh flat sixth", "M7b6 ^7b6"],
+    [
+      "1P 3M 5P 7M 11A",
+      "major seventh sharp eleventh",
+      "maj#4 \u0394#4 \u0394#11 M7#11 ^7#11 maj7#11"
+    ],
+    // ==Minor==
+    // '''Normal'''
+    ["1P 3m 5P", "minor", "m min -"],
+    ["1P 3m 5P 7m", "minor seventh", "m7 min7 mi7 -7"],
+    [
+      "1P 3m 5P 7M",
+      "minor/major seventh",
+      "m/ma7 m/maj7 mM7 mMaj7 m/M7 -\u03947 m\u0394 -^7"
+    ],
+    ["1P 3m 5P 6M", "minor sixth", "m6 -6"],
+    ["1P 3m 5P 7m 9M", "minor ninth", "m9 -9"],
+    ["1P 3m 5P 7M 9M", "minor/major ninth", "mM9 mMaj9 -^9"],
+    ["1P 3m 5P 7m 9M 11P", "minor eleventh", "m11 -11"],
+    ["1P 3m 5P 7m 9M 13M", "minor thirteenth", "m13 -13"],
+    // '''Diminished'''
+    ["1P 3m 5d", "diminished", "dim \xB0 o"],
+    ["1P 3m 5d 7d", "diminished seventh", "dim7 \xB07 o7"],
+    ["1P 3m 5d 7m", "half-diminished", "m7b5 \xF8 -7b5 h7 h"],
+    // ==Dominant/Seventh==
+    // '''Normal'''
+    ["1P 3M 5P 7m", "dominant seventh", "7 dom"],
+    ["1P 3M 5P 7m 9M", "dominant ninth", "9"],
+    ["1P 3M 5P 7m 9M 13M", "dominant thirteenth", "13"],
+    ["1P 3M 5P 7m 11A", "lydian dominant seventh", "7#11 7#4"],
+    // '''Altered'''
+    ["1P 3M 5P 7m 9m", "dominant flat ninth", "7b9"],
+    ["1P 3M 5P 7m 9A", "dominant sharp ninth", "7#9"],
+    ["1P 3M 7m 9m", "altered", "alt7"],
+    // '''Suspended'''
+    ["1P 4P 5P", "suspended fourth", "sus4 sus"],
+    ["1P 2M 5P", "suspended second", "sus2"],
+    ["1P 4P 5P 7m", "suspended fourth seventh", "7sus4 7sus"],
+    ["1P 5P 7m 9M 11P", "eleventh", "11"],
+    [
+      "1P 4P 5P 7m 9m",
+      "suspended fourth flat ninth",
+      "b9sus phryg 7b9sus 7b9sus4"
+    ],
+    // ==Other==
+    ["1P 5P", "fifth", "5"],
+    ["1P 3M 5A", "augmented", "aug + +5 ^#5"],
+    ["1P 3m 5A", "minor augmented", "m#5 -#5 m+"],
+    ["1P 3M 5A 7M", "augmented seventh", "maj7#5 maj7+5 +maj7 ^7#5"],
+    [
+      "1P 3M 5P 7M 9M 11A",
+      "major sharp eleventh (lydian)",
+      "maj9#11 \u03949#11 ^9#11"
+    ],
+    // ==Legacy==
+    ["1P 2M 4P 5P", "", "sus24 sus4add9"],
+    ["1P 3M 5A 7M 9M", "", "maj9#5 Maj9#5"],
+    ["1P 3M 5A 7m", "", "7#5 +7 7+ 7aug aug7"],
+    ["1P 3M 5A 7m 9A", "", "7#5#9 7#9#5 7alt"],
+    ["1P 3M 5A 7m 9M", "", "9#5 9+"],
+    ["1P 3M 5A 7m 9M 11A", "", "9#5#11"],
+    ["1P 3M 5A 7m 9m", "", "7#5b9 7b9#5"],
+    ["1P 3M 5A 7m 9m 11A", "", "7#5b9#11"],
+    ["1P 3M 5A 9A", "", "+add#9"],
+    ["1P 3M 5A 9M", "", "M#5add9 +add9"],
+    ["1P 3M 5P 6M 11A", "", "M6#11 M6b5 6#11 6b5"],
+    ["1P 3M 5P 6M 7M 9M", "", "M7add13"],
+    ["1P 3M 5P 6M 9M 11A", "", "69#11"],
+    ["1P 3m 5P 6M 9M", "", "m69 -69"],
+    ["1P 3M 5P 6m 7m", "", "7b6"],
+    ["1P 3M 5P 7M 9A 11A", "", "maj7#9#11"],
+    ["1P 3M 5P 7M 9M 11A 13M", "", "M13#11 maj13#11 M13+4 M13#4"],
+    ["1P 3M 5P 7M 9m", "", "M7b9"],
+    ["1P 3M 5P 7m 11A 13m", "", "7#11b13 7b5b13"],
+    ["1P 3M 5P 7m 13M", "", "7add6 67 7add13"],
+    ["1P 3M 5P 7m 9A 11A", "", "7#9#11 7b5#9 7#9b5"],
+    ["1P 3M 5P 7m 9A 11A 13M", "", "13#9#11"],
+    ["1P 3M 5P 7m 9A 11A 13m", "", "7#9#11b13"],
+    ["1P 3M 5P 7m 9A 13M", "", "13#9"],
+    ["1P 3M 5P 7m 9A 13m", "", "7#9b13"],
+    ["1P 3M 5P 7m 9M 11A", "", "9#11 9+4 9#4"],
+    ["1P 3M 5P 7m 9M 11A 13M", "", "13#11 13+4 13#4"],
+    ["1P 3M 5P 7m 9M 11A 13m", "", "9#11b13 9b5b13"],
+    ["1P 3M 5P 7m 9m 11A", "", "7b9#11 7b5b9 7b9b5"],
+    ["1P 3M 5P 7m 9m 11A 13M", "", "13b9#11"],
+    ["1P 3M 5P 7m 9m 11A 13m", "", "7b9b13#11 7b9#11b13 7b5b9b13"],
+    ["1P 3M 5P 7m 9m 13M", "", "13b9"],
+    ["1P 3M 5P 7m 9m 13m", "", "7b9b13"],
+    ["1P 3M 5P 7m 9m 9A", "", "7b9#9"],
+    ["1P 3M 5P 9M", "", "Madd9 2 add9 add2"],
+    ["1P 3M 5P 9m", "", "Maddb9"],
+    ["1P 3M 5d", "", "Mb5"],
+    ["1P 3M 5d 6M 7m 9M", "", "13b5"],
+    ["1P 3M 5d 7M", "", "M7b5"],
+    ["1P 3M 5d 7M 9M", "", "M9b5"],
+    ["1P 3M 5d 7m", "", "7b5"],
+    ["1P 3M 5d 7m 9M", "", "9b5"],
+    ["1P 3M 7m", "", "7no5"],
+    ["1P 3M 7m 13m", "", "7b13"],
+    ["1P 3M 7m 9M", "", "9no5"],
+    ["1P 3M 7m 9M 13M", "", "13no5"],
+    ["1P 3M 7m 9M 13m", "", "9b13"],
+    ["1P 3m 4P 5P", "", "madd4"],
+    ["1P 3m 5P 6m 7M", "", "mMaj7b6"],
+    ["1P 3m 5P 6m 7M 9M", "", "mMaj9b6"],
+    ["1P 3m 5P 7m 11P", "", "m7add11 m7add4"],
+    ["1P 3m 5P 9M", "", "madd9"],
+    ["1P 3m 5d 6M 7M", "", "o7M7"],
+    ["1P 3m 5d 7M", "", "oM7"],
+    ["1P 3m 6m 7M", "", "mb6M7"],
+    ["1P 3m 6m 7m", "", "m7#5"],
+    ["1P 3m 6m 7m 9M", "", "m9#5"],
+    ["1P 3m 5A 7m 9M 11P", "", "m11A"],
+    ["1P 3m 6m 9m", "", "mb6b9"],
+    ["1P 2M 3m 5d 7m", "", "m9b5"],
+    ["1P 4P 5A 7M", "", "M7#5sus4"],
+    ["1P 4P 5A 7M 9M", "", "M9#5sus4"],
+    ["1P 4P 5A 7m", "", "7#5sus4"],
+    ["1P 4P 5P 7M", "", "M7sus4"],
+    ["1P 4P 5P 7M 9M", "", "M9sus4"],
+    ["1P 4P 5P 7m 9M", "", "9sus4 9sus"],
+    ["1P 4P 5P 7m 9M 13M", "", "13sus4 13sus"],
+    ["1P 4P 5P 7m 9m 13m", "", "7sus4b9b13 7b9b13sus4"],
+    ["1P 4P 7m 10m", "", "4 quartal"],
+    ["1P 5P 7m 9m 11P", "", "11b9"]
+  ];
+  var data_default13 = CHORDS8;
+  var NoChordType8 = {
+    ...EmptyPcset2,
+    name: "",
+    quality: "Unknown",
+    intervals: [],
+    aliases: []
+  };
+  var dictionary10 = [];
+  var index12 = {};
+  function get23(type) {
+    return index12[type] || NoChordType8;
+  }
+  var chordType8 = deprecate2("ChordType.chordType", "ChordType.get", get23);
+  function all12() {
+    return dictionary10.slice();
+  }
+  var entries12 = deprecate2("ChordType.entries", "ChordType.all", all12);
+  function add14(intervals, aliases, fullName) {
+    const quality = getQuality8(intervals);
+    const chord5 = {
+      ...get13(intervals),
+      name: fullName || "",
+      quality,
+      intervals,
+      aliases
+    };
+    dictionary10.push(chord5);
+    if (chord5.name) {
+      index12[chord5.name] = chord5;
+    }
+    index12[chord5.setNum] = chord5;
+    index12[chord5.chroma] = chord5;
+    chord5.aliases.forEach((alias) => addAlias10(chord5, alias));
+  }
+  function addAlias10(chord5, alias) {
+    index12[alias] = chord5;
+  }
+  function getQuality8(intervals) {
+    const has = (interval3) => intervals.indexOf(interval3) !== -1;
+    return has("5A") ? "Augmented" : has("3M") ? "Major" : has("5d") ? "Diminished" : has("3m") ? "Minor" : "Unknown";
+  }
+  data_default13.forEach(
+    ([ivls, fullName, names22]) => add14(ivls.split(" "), names22.split(" "), fullName)
+  );
+  dictionary10.sort((a, b) => a.setNum - b.setNum);
+
+  // ../../pub/traste/node_modules/@tonaljs/scale/dist/index.mjs
+  var NoScale2 = {
+    empty: true,
+    name: "",
+    type: "",
+    tonic: null,
+    setNum: NaN,
+    chroma: "",
+    normalized: "",
+    aliases: [],
+    notes: [],
+    intervals: []
+  };
+  function tokenize8(name3) {
+    if (typeof name3 !== "string") {
+      return ["", ""];
+    }
+    const i = name3.indexOf(" ");
+    const tonic = note2(name3.substring(0, i));
+    if (tonic.empty) {
+      const n2 = note2(name3);
+      return n2.empty ? ["", name3] : [n2.name, ""];
+    }
+    const type = name3.substring(tonic.name.length + 1);
+    return [tonic.name, type.length ? type : ""];
+  }
+  function get24(src) {
+    const tokens = Array.isArray(src) ? src : tokenize8(src);
+    const tonic = note2(tokens[0]).name;
+    const st = get16(tokens[1]);
+    if (st.empty) {
+      return NoScale2;
+    }
+    const type = st.name;
+    const notes = tonic ? st.intervals.map((i) => transpose3(tonic, i)) : [];
+    const name3 = tonic ? tonic + " " + type : type;
+    return { ...st, name: name3, type, tonic, notes };
+  }
+  var scale2 = deprecate2("Scale.scale", "Scale.get", get24);
+
+  // ../../pub/traste/src/ts/notes.ts
   var chromatic_scale = ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"];
-  function noteAtPosition(root_index, position, notes = []) {
-    let note_index = (root_index + position) % chromatic_scale.length;
-    let note2 = chromatic_scale[note_index];
-    if (notes && !notes.includes(note2)) {
-      for (let name2 of notes) {
-        if (note2 == note_default.enharmonic(name2)) {
-          return name2;
+  function noteAtPosition(root_index, position, notes) {
+    const note_index = (root_index + position) % chromatic_scale.length;
+    const note3 = chromatic_scale[note_index];
+    if (notes) {
+      if (notes.includes(note3)) {
+        return note3;
+      }
+      for (let name3 of notes) {
+        if (note3 == note_default2.enharmonic(name3)) {
+          return name3;
         }
       }
-      return;
+      return null;
     }
-    return note2;
+    return note3;
   }
-  function noteIndex(name2) {
-    if (chromatic_scale.includes(name2)) {
-      return chromatic_scale.indexOf(name2);
+  function noteIndex(name3) {
+    const note3 = note_default2.get(name3);
+    if (note3.letter) {
+      if (chromatic_scale.includes(note3.letter)) {
+        return chromatic_scale.indexOf(note3.letter);
+      }
+      const enharmonic3 = note_default2.enharmonic(name3);
+      if (chromatic_scale.includes(enharmonic3)) {
+        return chromatic_scale.indexOf(enharmonic3);
+      }
     }
-    const enharmonic2 = note_default.enharmonic(name2);
-    if (chromatic_scale.includes(enharmonic2)) {
-      return chromatic_scale.indexOf(enharmonic2);
-    }
+    throw Error(`Note unknown: ${name3}`);
   }
-  function noteLabel(name2) {
-    return name2.replace(/b/g, "\u266D").replace(/#/g, "\u266F");
+  function noteLabel(name3) {
+    return name3.replace(/b/g, "\u266D").replace(/#/g, "\u266F");
   }
 
-  // node_modules/traste/src/js/fretboard.js
-  function drawCircle(parent, cx, cy, radius, fill = "#cccccc", stroke = null, stroke_width = null, title = null) {
+  // ../../pub/traste/src/ts/fretboard.ts
+  function drawCircle(parent, cx, cy, radius, fill = "#cccccc", stroke, stroke_width, title) {
     const circle = parent.append("svg:circle").attr("cx", cx).attr("cy", cy).attr("r", radius).style("fill", fill);
     if (stroke)
       circle.style("stroke", stroke);
@@ -20340,118 +21908,158 @@
     if (title)
       circle.attr("title", title);
   }
-  function drawFretboard(selector, instrument, notes) {
-    const tuning2 = instrument.tuning;
-    const string_gauges = instrument.string_gauges;
-    const fret_count2 = instrument.fret_count;
-    const svg = select_default2(selector);
-    svg.selectAll("*").remove();
-    const bbox = svg.node().parentElement.getBoundingClientRect();
-    let width = bbox.width * 0.95;
-    const min_fret_distance = 26;
-    const max_fret_distance = 140;
-    const min_width = min_fret_distance * (fret_count2 + 1);
-    const max_width = max_fret_distance * (fret_count2 + 1);
-    width = Math.min(max_width, Math.max(min_width, width));
-    const fret_distance = width / (fret_count2 + 1);
-    const string_distance = fret_distance * 0.65;
-    const string_padding = string_distance * 0.1;
-    const fret_padding = fret_distance * 0.01;
-    const margin_horizontal = fret_distance * 0.8;
-    const margin_vertical = string_distance * 0.5;
-    const height = string_distance * tuning2.length + margin_vertical;
-    const string_width = width - margin_horizontal * 1.2;
-    const fret_height = string_distance * (tuning2.length - 1);
-    const fret_width = fret_distance * 0.06;
-    const note_radius = fret_distance * 0.23;
-    const note_stroke_width = note_radius * 0.1;
-    const note_font_size = note_radius * 1.05;
-    const fret_marker_radius = note_radius * 0.3;
-    svg.attr("width", width).attr("height", height);
-    const transform = `translate(${margin_horizontal}, ${margin_vertical})`;
-    const g_frets = svg.append("g").attr("class", "frets").attr("transform", transform);
-    const g_fret_markers = svg.append("g").attr("class", "fret-markers").attr("transform", transform);
-    const g_strings = svg.append("g").attr("class", "strings").attr("transform", transform);
-    const g_notes = svg.append("g").attr("class", "notes").attr("transform", transform);
-    for (let i = 0; i <= fret_count2; i++) {
-      let offset = i * fret_distance;
-      let stroke_width = fret_width;
-      if (0 == i)
-        stroke_width *= 1.5;
-      g_frets.append("svg:line").attr("x1", offset).attr("y1", -string_padding / 2).attr("x2", offset).attr("y2", fret_height + string_padding).style("stroke", "#222222").style("stroke-width", stroke_width).append("title").text(i);
+  var Fretboard = class {
+    constructor(instrument) {
+      this.instrument = instrument;
+      this.dim = {};
+      this.g = {};
     }
-    for (let i of instrument.fret_markers) {
-      if (i > fret_count2) {
-        break;
+    boardWidth(container, width) {
+      if (container.empty()) {
+        throw Error("Element not found");
       }
-      let cx = i * fret_distance - fret_distance / 2;
-      let cy = height - margin_vertical - fret_marker_radius * 3;
-      if (0 == i % 12) {
-        const offset = fret_marker_radius * 1.3;
-        drawCircle(g_fret_markers, cx + offset, cy, fret_marker_radius);
-        cx -= offset;
+      if (typeof width === "undefined") {
+        const node = container.node();
+        width = node.getBoundingClientRect().width * 0.95;
       }
-      drawCircle(g_fret_markers, cx, cy, fret_marker_radius);
+      const min_width = 26 * (this.instrument.fret_count + 1);
+      return Math.max(min_width, width);
     }
-    for (let i = 0; i < tuning2.length; i++) {
-      const root2 = tuning2[i];
-      const offset = i * string_distance;
-      g_strings.append("svg:line").attr("x1", -fret_padding / 2).attr("y1", offset).attr("x2", string_width + fret_padding).attr("y2", offset).style("stroke", "#444444").style("stroke-width", string_gauges[i] * string_distance).append("title").text(root2);
+    draw(selector, width) {
+      const parent = select_default2(selector);
+      width = this.boardWidth(parent);
+      const fret_distance = width / (this.instrument.fret_count + 1);
+      const string_distance = fret_distance * 0.65;
+      const margin_horizontal = fret_distance * 0.8;
+      const margin_vertical = string_distance * 0.5;
+      const height = string_distance * this.instrument.tuning.length + margin_vertical;
+      this.svg = parent.append("svg").attr("class", "fretboard");
+      this.svg.attr("width", width).attr("height", height);
+      this.dim = {
+        fret_distance,
+        string_distance,
+        note_radius: fret_distance * 0.23,
+        fret_marker_radius: fret_distance * 0.069
+      };
+      const transform = `translate(${margin_horizontal}, ${margin_vertical})`;
+      for (let name3 of ["frets", "fret_markers", "strings", "notes"]) {
+        this.g[name3] = this.svg.append("g").attr("class", name3).attr("transform", transform);
+      }
+      this.drawFrets();
+      this.drawFretMarkers(height - margin_vertical);
+      this.drawStrings(width - margin_horizontal * 1.2);
     }
-    for (let string_idx = 0; string_idx < tuning2.length; string_idx++) {
-      const root_idx = noteIndex(tuning2[string_idx]);
-      for (let fret_idx = 0; fret_idx <= fret_count2; fret_idx++) {
-        const note2 = noteAtPosition(root_idx, fret_idx, notes);
-        if (!note2)
-          continue;
-        const label = noteLabel(note2);
-        const reduce = 5 * (1 - 1 / label.length);
-        const font_size = note_font_size - reduce;
-        const cx = fret_idx * fret_distance - fret_distance * 0.5;
-        const cy = string_idx * string_distance;
-        drawCircle(g_notes, cx, cy, note_radius, "#ffffff", "#999999", note_stroke_width, note2);
-        g_notes.append("svg:text").attr("x", cx).attr("y", cy).attr("dy", "0.33em").attr("fill", "#000000").style("text-anchor", `middle`).style("font-size", `${font_size}px`).text(label);
+    drawFrets() {
+      const height = this.dim.string_distance * (this.instrument.tuning.length - 1);
+      const width = this.dim.fret_distance * 0.06;
+      const padding = height * 0.03;
+      const y1 = -padding / 2;
+      const y2 = height + padding;
+      for (let i = 0; i <= this.instrument.fret_count; i++) {
+        const offset = i * this.dim.fret_distance;
+        let stroke_width = width;
+        if (0 == i)
+          stroke_width *= 1.5;
+        this.g.frets.append("svg:line").attr("x1", offset).attr("y1", y1).attr("x2", offset).attr("y2", y2).style("stroke", "#222222").style("stroke-width", stroke_width).append("title").text(i);
       }
     }
-  }
-
-  // node_modules/traste/src/js/instruments.js
-  var instruments = {
-    guitar: {
-      tuning: ["E", "B", "G", "D", "A", "E"],
-      string_gauges: [0.01, 0.013, 0.017, 0.026, 0.036, 0.046],
-      fret_count: 15,
-      fret_markers: [3, 5, 7, 9, 12, 15, 17, 19, 21, 24]
-    },
-    ukulele: {
-      tuning: ["A", "E", "C", "G"],
-      string_gauges: [0.024, 0.031, 0.037, 0.026],
-      fret_count: 12,
-      fret_markers: [5, 7, 10, 12, 15, 17, 19]
+    drawFretMarkers(pos_bottom) {
+      const cy = pos_bottom - this.dim.fret_marker_radius * 3;
+      for (let i of this.instrument.fret_markers) {
+        if (i > this.instrument.fret_count) {
+          break;
+        }
+        let cx = i * this.dim.fret_distance - this.dim.fret_distance / 2;
+        if (0 == i % 12) {
+          const offset = this.dim.fret_marker_radius * 1.3;
+          drawCircle(this.g.fret_markers, cx + offset, cy, this.dim.fret_marker_radius);
+          cx -= offset;
+        }
+        drawCircle(this.g.fret_markers, cx, cy, this.dim.fret_marker_radius);
+      }
+    }
+    drawStrings(width) {
+      const padding = this.dim.fret_distance * 0.01;
+      const x1 = -padding / 2;
+      const x2 = width + padding;
+      for (let i = 0; i < this.instrument.tuning.length; i++) {
+        const offset = i * this.dim.string_distance;
+        this.g.strings.append("svg:line").attr("x1", x1).attr("y1", offset).attr("x2", x2).attr("y2", offset).style("stroke", "#444444").style("stroke-width", this.instrument.string_gauges[i] * this.dim.string_distance).append("title").text(this.instrument.tuning[i]);
+      }
+    }
+    /**
+     * Draw given note at given string and fret indexes.
+     */
+    drawNoteAtPosition(note3, string_idx, fret_idx) {
+      const cy = string_idx * this.dim.string_distance;
+      const label = noteLabel(note3);
+      const reduce = 5 * (1 - 1 / label.length);
+      const font_size = this.dim.note_radius * 1.05 - reduce;
+      const cx = fret_idx * this.dim.fret_distance - this.dim.fret_distance * 0.5;
+      drawCircle(this.g.notes, cx, cy, this.dim.note_radius, r(note3), "#999999", this.dim.note_radius * 0.1, note3);
+      this.g.notes.append("svg:text").attr("x", cx).attr("y", cy).attr("dy", "0.38em").attr("fill", "#000000").style("text-anchor", `middle`).style("font-size", `${font_size}px`).style("font-family", "Roboto,Ubuntu,Helvetica,Arial,sans-serif").text(label);
+    }
+    /**
+     * Draw notes as circles on the fretboard. If no notes are passed as input, all notes will be drawn.
+     */
+    drawNotes(notes) {
+      for (let string_idx = 0; string_idx < this.instrument.tuning.length; string_idx++) {
+        const root_idx = noteIndex(this.instrument.tuning[string_idx]);
+        for (let fret_idx = 0; fret_idx <= this.instrument.fret_count; fret_idx++) {
+          const note3 = noteAtPosition(root_idx, fret_idx, notes);
+          if (!note3)
+            continue;
+          this.drawNoteAtPosition(note3, string_idx, fret_idx);
+        }
+      }
     }
   };
 
+  // ../../pub/traste/src/ts/instruments.ts
+  var ukulele = {
+    tuning: ["A4", "E4", "C4", "G4"],
+    string_gauges: [0.024, 0.031, 0.037, 0.026],
+    fret_count: 12,
+    fret_markers: [5, 7, 10, 12, 15, 17, 19]
+  };
+
   // src/tool/ear-training.js
-  var fret_count = 3;
-  var tuning = ["G4", "C4", "E4", "A4"];
+  var fret_limit = 3;
+  var note_sequence = [];
   var synth = new Synth().toDestination();
+  var fretboard = new Fretboard(ukulele);
+  fretboard.draw("#fretboard");
   document.getElementById("play")?.addEventListener("click", async () => {
-    queue(synth, tuning);
-    await start();
+    if (!note_sequence.length) {
+      note_sequence = getSequence();
+    }
+    await play();
   });
   document.getElementById("solution")?.addEventListener("click", async () => {
-    queue(synth, tuning);
-    await start();
+    await play();
+    for (const note3 of note_sequence) {
+      fretboard.drawNoteAtPosition(note3.letter, note3.string_idx, note3.fret_idx);
+    }
+    note_sequence = [];
   });
-  instruments.ukulele.fret_count = fret_count;
-  drawFretboard("#fretboard", instruments.ukulele, tuning);
-  function queue(synth2, tuning2) {
-    const now2 = now();
-    tuning2.forEach((name2, idx) => {
-      const note2 = note_default.fromMidi(note_default.get(name2).midi + randomInt(fret_count));
-      console.log(note2);
-      synth2.triggerAttackRelease(note2, "4n", now2 + 1 * idx);
+  function getSequence() {
+    return ukulele.tuning.map((root2, string_idx) => {
+      const fret_idx = randomInt(fret_limit);
+      const note3 = note_default.fromMidi(note_default.get(root2).midi + fret_idx);
+      return {
+        note: note3,
+        letter: note_default.get(note3).letter,
+        string_idx,
+        fret_idx
+      };
     });
+  }
+  async function play() {
+    const now2 = now();
+    for (obj of note_sequence) {
+      synth.triggerAttackRelease(obj.note, "4n", now2 + 1 * obj.string_idx);
+    }
+    await start();
   }
   function randomInt(max) {
     return Math.floor(Math.random() * max);
