@@ -1,0 +1,1 @@
+:root{--color: #222222;--highlight: #1565C0;font-size:medium}svg{font-family:Ubuntu,Arial,sans-serif}text{fill:var(--color);stroke:none}text.selected{fill:var(--highlight);stroke:var(--highlight);stroke-width:.1rem}.circle{fill:none;stroke:var(--color);stroke-width:.1rem}.tick{fill:none;stroke:var(--color);stroke-width:.1rem}
