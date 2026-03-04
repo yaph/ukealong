@@ -1,0 +1,1 @@
+"use strict";(function(){"use strict";var nav=document.querySelector(".nav");if(nav){var onScroll=function onScroll(){if(window.scrollY>8){nav.classList.add("nav--scrolled")}else{nav.classList.remove("nav--scrolled")}};window.addEventListener("scroll",onScroll,{passive:true});onScroll()}})();
