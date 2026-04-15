@@ -19135,9 +19135,9 @@
     var __getOwnPropDesc2 = Object.getOwnPropertyDescriptor;
     var __getOwnPropNames2 = Object.getOwnPropertyNames;
     var __hasOwnProp2 = Object.prototype.hasOwnProperty;
-    var __export2 = (target, all6) => {
-      for (var name22 in all6)
-        __defProp2(target, name22, { get: all6[name22], enumerable: true });
+    var __export2 = (target, all4) => {
+      for (var name2 in all4)
+        __defProp2(target, name2, { get: all4[name2], enumerable: true });
     };
     var __copyProps2 = (to, from, except, desc) => {
       if (from && typeof from === "object" || typeof from === "function") {
@@ -19147,10 +19147,11 @@
       }
       return to;
     };
-    var __toCommonJS = (mod3) => __copyProps2(__defProp2({}, "__esModule", { value: true }), mod3);
+    var __toCommonJS = (mod22) => __copyProps2(__defProp2({}, "__esModule", { value: true }), mod22);
     var index_exports = {};
     __export2(index_exports, {
       Fretboard: () => Fretboard2,
+      bass: () => bass,
       guitar: () => guitar,
       ukulele: () => ukulele2
     });
@@ -19162,15 +19163,15 @@
       xml: "http://www.w3.org/XML/1998/namespace",
       xmlns: "http://www.w3.org/2000/xmlns/"
     };
-    function namespace_default(name22) {
-      var prefix = name22 += "", i = prefix.indexOf(":");
-      if (i >= 0 && (prefix = name22.slice(0, i)) !== "xmlns") name22 = name22.slice(i + 1);
-      return namespaces_default.hasOwnProperty(prefix) ? { space: namespaces_default[prefix], local: name22 } : name22;
+    function namespace_default(name2) {
+      var prefix = name2 += "", i = prefix.indexOf(":");
+      if (i >= 0 && (prefix = name2.slice(0, i)) !== "xmlns") name2 = name2.slice(i + 1);
+      return namespaces_default.hasOwnProperty(prefix) ? { space: namespaces_default[prefix], local: name2 } : name2;
     }
-    function creatorInherit(name22) {
+    function creatorInherit(name2) {
       return function() {
         var document2 = this.ownerDocument, uri = this.namespaceURI;
-        return uri === xhtml && document2.documentElement.namespaceURI === xhtml ? document2.createElement(name22) : document2.createElementNS(uri, name22);
+        return uri === xhtml && document2.documentElement.namespaceURI === xhtml ? document2.createElement(name2) : document2.createElementNS(uri, name2);
       };
     }
     function creatorFixed(fullname) {
@@ -19178,8 +19179,8 @@
         return this.ownerDocument.createElementNS(fullname.space, fullname.local);
       };
     }
-    function creator_default(name22) {
-      var fullname = namespace_default(name22);
+    function creator_default(name2) {
+      var fullname = namespace_default(name2);
       return (fullname.local ? creatorFixed : creatorInherit)(fullname);
     }
     function none() {
@@ -19474,9 +19475,9 @@
       }
       return this;
     }
-    function attrRemove(name22) {
+    function attrRemove(name2) {
       return function() {
-        this.removeAttribute(name22);
+        this.removeAttribute(name2);
       };
     }
     function attrRemoveNS(fullname) {
@@ -19484,9 +19485,9 @@
         this.removeAttributeNS(fullname.space, fullname.local);
       };
     }
-    function attrConstant(name22, value) {
+    function attrConstant(name2, value) {
       return function() {
-        this.setAttribute(name22, value);
+        this.setAttribute(name2, value);
       };
     }
     function attrConstantNS(fullname, value) {
@@ -19494,11 +19495,11 @@
         this.setAttributeNS(fullname.space, fullname.local, value);
       };
     }
-    function attrFunction(name22, value) {
+    function attrFunction(name2, value) {
       return function() {
         var v = value.apply(this, arguments);
-        if (v == null) this.removeAttribute(name22);
-        else this.setAttribute(name22, v);
+        if (v == null) this.removeAttribute(name2);
+        else this.setAttribute(name2, v);
       };
     }
     function attrFunctionNS(fullname, value) {
@@ -19508,8 +19509,8 @@
         else this.setAttributeNS(fullname.space, fullname.local, v);
       };
     }
-    function attr_default(name22, value) {
-      var fullname = namespace_default(name22);
+    function attr_default(name2, value) {
+      var fullname = namespace_default(name2);
       if (arguments.length < 2) {
         var node = this.node();
         return fullname.local ? node.getAttributeNS(fullname.space, fullname.local) : node.getAttribute(fullname);
@@ -19519,48 +19520,48 @@
     function window_default(node) {
       return node.ownerDocument && node.ownerDocument.defaultView || node.document && node || node.defaultView;
     }
-    function styleRemove(name22) {
+    function styleRemove(name2) {
       return function() {
-        this.style.removeProperty(name22);
+        this.style.removeProperty(name2);
       };
     }
-    function styleConstant(name22, value, priority) {
+    function styleConstant(name2, value, priority) {
       return function() {
-        this.style.setProperty(name22, value, priority);
+        this.style.setProperty(name2, value, priority);
       };
     }
-    function styleFunction(name22, value, priority) {
-      return function() {
-        var v = value.apply(this, arguments);
-        if (v == null) this.style.removeProperty(name22);
-        else this.style.setProperty(name22, v, priority);
-      };
-    }
-    function style_default(name22, value, priority) {
-      return arguments.length > 1 ? this.each((value == null ? styleRemove : typeof value === "function" ? styleFunction : styleConstant)(name22, value, priority == null ? "" : priority)) : styleValue(this.node(), name22);
-    }
-    function styleValue(node, name22) {
-      return node.style.getPropertyValue(name22) || window_default(node).getComputedStyle(node, null).getPropertyValue(name22);
-    }
-    function propertyRemove(name22) {
-      return function() {
-        delete this[name22];
-      };
-    }
-    function propertyConstant(name22, value) {
-      return function() {
-        this[name22] = value;
-      };
-    }
-    function propertyFunction(name22, value) {
+    function styleFunction(name2, value, priority) {
       return function() {
         var v = value.apply(this, arguments);
-        if (v == null) delete this[name22];
-        else this[name22] = v;
+        if (v == null) this.style.removeProperty(name2);
+        else this.style.setProperty(name2, v, priority);
       };
     }
-    function property_default(name22, value) {
-      return arguments.length > 1 ? this.each((value == null ? propertyRemove : typeof value === "function" ? propertyFunction : propertyConstant)(name22, value)) : this.node()[name22];
+    function style_default(name2, value, priority) {
+      return arguments.length > 1 ? this.each((value == null ? styleRemove : typeof value === "function" ? styleFunction : styleConstant)(name2, value, priority == null ? "" : priority)) : styleValue(this.node(), name2);
+    }
+    function styleValue(node, name2) {
+      return node.style.getPropertyValue(name2) || window_default(node).getComputedStyle(node, null).getPropertyValue(name2);
+    }
+    function propertyRemove(name2) {
+      return function() {
+        delete this[name2];
+      };
+    }
+    function propertyConstant(name2, value) {
+      return function() {
+        this[name2] = value;
+      };
+    }
+    function propertyFunction(name2, value) {
+      return function() {
+        var v = value.apply(this, arguments);
+        if (v == null) delete this[name2];
+        else this[name2] = v;
+      };
+    }
+    function property_default(name2, value) {
+      return arguments.length > 1 ? this.each((value == null ? propertyRemove : typeof value === "function" ? propertyFunction : propertyConstant)(name2, value)) : this.node()[name2];
     }
     function classArray(string) {
       return string.trim().split(/^|\s+/);
@@ -19573,55 +19574,55 @@
       this._names = classArray(node.getAttribute("class") || "");
     }
     ClassList.prototype = {
-      add: function(name22) {
-        var i = this._names.indexOf(name22);
+      add: function(name2) {
+        var i = this._names.indexOf(name2);
         if (i < 0) {
-          this._names.push(name22);
+          this._names.push(name2);
           this._node.setAttribute("class", this._names.join(" "));
         }
       },
-      remove: function(name22) {
-        var i = this._names.indexOf(name22);
+      remove: function(name2) {
+        var i = this._names.indexOf(name2);
         if (i >= 0) {
           this._names.splice(i, 1);
           this._node.setAttribute("class", this._names.join(" "));
         }
       },
-      contains: function(name22) {
-        return this._names.indexOf(name22) >= 0;
+      contains: function(name2) {
+        return this._names.indexOf(name2) >= 0;
       }
     };
-    function classedAdd(node, names32) {
-      var list = classList(node), i = -1, n2 = names32.length;
-      while (++i < n2) list.add(names32[i]);
+    function classedAdd(node, names3) {
+      var list = classList(node), i = -1, n2 = names3.length;
+      while (++i < n2) list.add(names3[i]);
     }
-    function classedRemove(node, names32) {
-      var list = classList(node), i = -1, n2 = names32.length;
-      while (++i < n2) list.remove(names32[i]);
+    function classedRemove(node, names3) {
+      var list = classList(node), i = -1, n2 = names3.length;
+      while (++i < n2) list.remove(names3[i]);
     }
-    function classedTrue(names32) {
+    function classedTrue(names3) {
       return function() {
-        classedAdd(this, names32);
+        classedAdd(this, names3);
       };
     }
-    function classedFalse(names32) {
+    function classedFalse(names3) {
       return function() {
-        classedRemove(this, names32);
+        classedRemove(this, names3);
       };
     }
-    function classedFunction(names32, value) {
+    function classedFunction(names3, value) {
       return function() {
-        (value.apply(this, arguments) ? classedAdd : classedRemove)(this, names32);
+        (value.apply(this, arguments) ? classedAdd : classedRemove)(this, names3);
       };
     }
-    function classed_default(name22, value) {
-      var names32 = classArray(name22 + "");
+    function classed_default(name2, value) {
+      var names3 = classArray(name2 + "");
       if (arguments.length < 2) {
-        var list = classList(this.node()), i = -1, n2 = names32.length;
-        while (++i < n2) if (!list.contains(names32[i])) return false;
+        var list = classList(this.node()), i = -1, n2 = names3.length;
+        while (++i < n2) if (!list.contains(names3[i])) return false;
         return true;
       }
-      return this.each((typeof value === "function" ? classedFunction : value ? classedTrue : classedFalse)(names32, value));
+      return this.each((typeof value === "function" ? classedFunction : value ? classedTrue : classedFalse)(names3, value));
     }
     function textRemove() {
       this.textContent = "";
@@ -19669,8 +19670,8 @@
     function lower_default() {
       return this.each(lower);
     }
-    function append_default(name22) {
-      var create = typeof name22 === "function" ? name22 : creator_default(name22);
+    function append_default(name2) {
+      var create = typeof name2 === "function" ? name2 : creator_default(name2);
       return this.select(function() {
         return this.appendChild(create.apply(this, arguments));
       });
@@ -19678,8 +19679,8 @@
     function constantNull() {
       return null;
     }
-    function insert_default(name22, before) {
-      var create = typeof name22 === "function" ? name22 : creator_default(name22), select = before == null ? constantNull : typeof before === "function" ? before : selector_default(before);
+    function insert_default(name2, before) {
+      var create = typeof name2 === "function" ? name2 : creator_default(name2), select = before == null ? constantNull : typeof before === "function" ? before : selector_default(before);
       return this.select(function() {
         return this.insertBefore(create.apply(this, arguments), select.apply(this, arguments) || null);
       });
@@ -19712,9 +19713,9 @@
     }
     function parseTypenames(typenames) {
       return typenames.trim().split(/^|\s+/).map(function(t) {
-        var name22 = "", i = t.indexOf(".");
-        if (i >= 0) name22 = t.slice(i + 1), t = t.slice(0, i);
-        return { type: t, name: name22 };
+        var name2 = "", i = t.indexOf(".");
+        if (i >= 0) name2 = t.slice(i + 1), t = t.slice(0, i);
+        return { type: t, name: name2 };
       });
     }
     function onRemove(typename) {
@@ -19861,15 +19862,15 @@
     function isNamedPitch2(src) {
       return src !== null && typeof src === "object" && "name" in src && typeof src.name === "string" ? true : false;
     }
-    function isPitch2(pitch222) {
-      return pitch222 !== null && typeof pitch222 === "object" && "step" in pitch222 && typeof pitch222.step === "number" && "alt" in pitch222 && typeof pitch222.alt === "number" && !isNaN(pitch222.step) && !isNaN(pitch222.alt) ? true : false;
+    function isPitch2(pitch22) {
+      return pitch22 !== null && typeof pitch22 === "object" && "step" in pitch22 && typeof pitch22.step === "number" && "alt" in pitch22 && typeof pitch22.alt === "number" && !isNaN(pitch22.step) && !isNaN(pitch22.alt) ? true : false;
     }
     var FIFTHS2 = [0, 2, 4, -1, 1, 3, 5];
     var STEPS_TO_OCTS2 = FIFTHS2.map(
       (fifths) => Math.floor(fifths * 7 / 12)
     );
-    function coordinates2(pitch222) {
-      const { step, alt, oct, dir = 1 } = pitch222;
+    function coordinates2(pitch22) {
+      const { step, alt, oct, dir = 1 } = pitch22;
       const f = FIFTHS2[step] + 7 * alt;
       if (oct === void 0) {
         return [dir * f];
@@ -19877,22 +19878,104 @@
       const o = oct - STEPS_TO_OCTS2[step] - 4 * alt;
       return [dir * f, dir * o];
     }
-    var FIFTHS_TO_STEPS2 = [3, 0, 4, 1, 5, 2, 6];
-    function pitch2(coord) {
-      const [f, o, dir] = coord;
-      const step = FIFTHS_TO_STEPS2[unaltered2(f)];
-      const alt = Math.floor((f + 1) / 7);
-      if (o === void 0) {
-        return { step, alt, dir };
-      }
-      const oct = o + 4 * alt + STEPS_TO_OCTS2[step];
-      return { step, alt, oct, dir };
-    }
-    function unaltered2(f) {
-      const i = (f + 1) % 7;
-      return i < 0 ? 7 + i : i;
-    }
     var fillStr3 = (s, n2) => Array(Math.abs(n2) + 1).join(s);
+    var NoNote2 = Object.freeze({
+      empty: true,
+      name: "",
+      letter: "",
+      acc: "",
+      pc: "",
+      step: NaN,
+      alt: NaN,
+      chroma: NaN,
+      height: NaN,
+      coord: [],
+      midi: null,
+      freq: null
+    });
+    var cache5 = /* @__PURE__ */ new Map();
+    var stepToLetter2 = (step) => "CDEFGAB".charAt(step);
+    var altToAcc2 = (alt) => alt < 0 ? fillStr3("b", -alt) : fillStr3("#", alt);
+    var accToAlt2 = (acc) => acc[0] === "b" ? -acc.length : acc.length;
+    function note2(src) {
+      const stringSrc = JSON.stringify(src);
+      const cached = cache5.get(stringSrc);
+      if (cached) {
+        return cached;
+      }
+      const value = typeof src === "string" ? parse4(src) : isPitch2(src) ? note2(pitchName3(src)) : isNamedPitch2(src) ? note2(src.name) : NoNote2;
+      cache5.set(stringSrc, value);
+      return value;
+    }
+    var REGEX5 = /^([a-gA-G]?)(#{1,}|b{1,}|x{1,}|)(-?\d*)\s*(.*)$/;
+    function tokenizeNote2(str) {
+      const m = REGEX5.exec(str);
+      return m ? [m[1].toUpperCase(), m[2].replace(/x/g, "##"), m[3], m[4]] : ["", "", "", ""];
+    }
+    var mod2 = (n2, m) => (n2 % m + m) % m;
+    var SEMI2 = [0, 2, 4, 5, 7, 9, 11];
+    function parse4(noteName) {
+      const tokens = tokenizeNote2(noteName);
+      if (tokens[0] === "" || tokens[3] !== "") {
+        return NoNote2;
+      }
+      const letter = tokens[0];
+      const acc = tokens[1];
+      const octStr = tokens[2];
+      const step = (letter.charCodeAt(0) + 3) % 7;
+      const alt = accToAlt2(acc);
+      const oct = octStr.length ? +octStr : void 0;
+      const coord = coordinates2({ step, alt, oct });
+      const name2 = letter + acc + octStr;
+      const pc = letter + acc;
+      const chroma3 = (SEMI2[step] + alt + 120) % 12;
+      const height = oct === void 0 ? mod2(SEMI2[step] + alt, 12) - 12 * 99 : SEMI2[step] + alt + 12 * (oct + 1);
+      const midi22 = height >= 0 && height <= 127 ? height : null;
+      const freq2 = oct === void 0 ? null : Math.pow(2, (height - 69) / 12) * 440;
+      return {
+        empty: false,
+        acc,
+        alt,
+        chroma: chroma3,
+        coord,
+        freq: freq2,
+        height,
+        letter,
+        midi: midi22,
+        name: name2,
+        oct,
+        pc,
+        step
+      };
+    }
+    function pitchName3(props) {
+      const { step, alt, oct } = props;
+      const letter = stepToLetter2(step);
+      if (!letter) {
+        return "";
+      }
+      const pc = letter + altToAcc2(alt);
+      return oct || oct === 0 ? pc + oct : pc;
+    }
+    var L22 = Math.log(2);
+    var L4402 = Math.log(440);
+    var SHARPS2 = "C C# D D# E F F# G G# A A# B".split(" ");
+    var FLATS2 = "C Db D Eb E F Gb G Ab A Bb B".split(" ");
+    function midiToNoteName2(midi22, options = {}) {
+      if (isNaN(midi22) || midi22 === -Infinity || midi22 === Infinity) return "";
+      midi22 = Math.round(midi22);
+      const pcs = options.sharps === true ? SHARPS2 : FLATS2;
+      const pc = pcs[midi22 % 12];
+      if (options.pitchClass) {
+        return pc;
+      }
+      const o = Math.floor(midi22 / 12) - 1;
+      return pc + o;
+    }
+    var FIFTHS22 = [0, 2, 4, -1, 1, 3, 5];
+    var STEPS_TO_OCTS22 = FIFTHS22.map(
+      (fifths) => Math.floor(fifths * 7 / 12)
+    );
     var NoInterval2 = Object.freeze({
       empty: true,
       name: "",
@@ -19910,1390 +19993,17 @@
     });
     var INTERVAL_TONAL_REGEX2 = "([-+]?\\d+)(d{1,4}|m|M|P|A{1,4})";
     var INTERVAL_SHORTHAND_REGEX2 = "(AA|A|P|M|m|d|dd)([-+]?\\d+)";
-    var REGEX5 = new RegExp(
+    var REGEX22 = new RegExp(
       "^" + INTERVAL_TONAL_REGEX2 + "|" + INTERVAL_SHORTHAND_REGEX2 + "$"
     );
-    function tokenizeInterval2(str) {
-      const m = REGEX5.exec(`${str}`);
-      if (m === null) {
-        return ["", ""];
-      }
-      return m[1] ? [m[1], m[2]] : [m[4], m[3]];
-    }
-    var cache5 = {};
-    function interval2(src) {
-      return typeof src === "string" ? cache5[src] || (cache5[src] = parse4(src)) : isPitch2(src) ? interval2(pitchName3(src)) : isNamedPitch2(src) ? interval2(src.name) : NoInterval2;
-    }
-    var SIZES2 = [0, 2, 4, 5, 7, 9, 11];
-    var TYPES2 = "PMMPPMM";
-    function parse4(str) {
-      const tokens = tokenizeInterval2(str);
-      if (tokens[0] === "") {
-        return NoInterval2;
-      }
-      const num = +tokens[0];
-      const q = tokens[1];
-      const step = (Math.abs(num) - 1) % 7;
-      const t = TYPES2[step];
-      if (t === "M" && q === "P") {
-        return NoInterval2;
-      }
-      const type = t === "M" ? "majorable" : "perfectable";
-      const name22 = "" + num + q;
-      const dir = num < 0 ? -1 : 1;
-      const simple = num === 8 || num === -8 ? num : dir * (step + 1);
-      const alt = qToAlt2(type, q);
-      const oct = Math.floor((Math.abs(num) - 1) / 7);
-      const semitones = dir * (SIZES2[step] + alt + 12 * oct);
-      const chroma32 = (dir * (SIZES2[step] + alt) % 12 + 12) % 12;
-      const coord = coordinates2({ step, alt, oct, dir });
-      return {
-        empty: false,
-        name: name22,
-        num,
-        q,
-        step,
-        alt,
-        dir,
-        type,
-        simple,
-        semitones,
-        chroma: chroma32,
-        coord,
-        oct
-      };
-    }
-    function coordToInterval2(coord, forceDescending) {
-      const [f, o = 0] = coord;
-      const isDescending = f * 7 + o * 12 < 0;
-      const ivl = forceDescending || isDescending ? [-f, -o, -1] : [f, o, 1];
-      return interval2(pitch2(ivl));
-    }
-    function qToAlt2(type, q) {
-      return q === "M" && type === "majorable" || q === "P" && type === "perfectable" ? 0 : q === "m" && type === "majorable" ? -1 : /^A+$/.test(q) ? q.length : /^d+$/.test(q) ? -1 * (type === "perfectable" ? q.length : q.length + 1) : 0;
-    }
-    function pitchName3(props) {
-      const { step, alt, oct = 0, dir } = props;
-      if (!dir) {
-        return "";
-      }
-      const calcNum = step + 1 + 7 * oct;
-      const num = calcNum === 0 ? step + 1 : calcNum;
-      const d = dir < 0 ? "-" : "";
-      const type = TYPES2[step] === "M" ? "majorable" : "perfectable";
-      const name22 = d + num + altToQ2(type, alt);
-      return name22;
-    }
-    function altToQ2(type, alt) {
-      if (alt === 0) {
-        return type === "majorable" ? "M" : "P";
-      } else if (alt === -1 && type === "majorable") {
-        return "m";
-      } else if (alt > 0) {
-        return fillStr3("A", alt);
-      } else {
-        return fillStr3("d", type === "perfectable" ? alt : alt + 1);
-      }
-    }
-    function isNamedPitch22(src) {
-      return src !== null && typeof src === "object" && "name" in src && typeof src.name === "string" ? true : false;
-    }
-    function isPitch22(pitch222) {
-      return pitch222 !== null && typeof pitch222 === "object" && "step" in pitch222 && typeof pitch222.step === "number" && "alt" in pitch222 && typeof pitch222.alt === "number" && !isNaN(pitch222.step) && !isNaN(pitch222.alt) ? true : false;
-    }
-    var FIFTHS22 = [0, 2, 4, -1, 1, 3, 5];
-    var STEPS_TO_OCTS22 = FIFTHS22.map(
-      (fifths) => Math.floor(fifths * 7 / 12)
-    );
-    function coordinates22(pitch222) {
-      const { step, alt, oct, dir = 1 } = pitch222;
-      const f = FIFTHS22[step] + 7 * alt;
-      if (oct === void 0) {
-        return [dir * f];
-      }
-      const o = oct - STEPS_TO_OCTS22[step] - 4 * alt;
-      return [dir * f, dir * o];
-    }
-    var FIFTHS_TO_STEPS22 = [3, 0, 4, 1, 5, 2, 6];
-    function pitch22(coord) {
-      const [f, o, dir] = coord;
-      const step = FIFTHS_TO_STEPS22[unaltered22(f)];
-      const alt = Math.floor((f + 1) / 7);
-      if (o === void 0) {
-        return { step, alt, dir };
-      }
-      const oct = o + 4 * alt + STEPS_TO_OCTS22[step];
-      return { step, alt, oct, dir };
-    }
-    function unaltered22(f) {
-      const i = (f + 1) % 7;
-      return i < 0 ? 7 + i : i;
-    }
-    var fillStr22 = (s, n2) => Array(Math.abs(n2) + 1).join(s);
-    var NoNote2 = Object.freeze({
-      empty: true,
-      name: "",
-      letter: "",
-      acc: "",
-      pc: "",
-      step: NaN,
-      alt: NaN,
-      chroma: NaN,
-      height: NaN,
-      coord: [],
-      midi: null,
-      freq: null
-    });
-    var cache22 = /* @__PURE__ */ new Map();
-    var stepToLetter2 = (step) => "CDEFGAB".charAt(step);
-    var altToAcc2 = (alt) => alt < 0 ? fillStr22("b", -alt) : fillStr22("#", alt);
-    var accToAlt2 = (acc) => acc[0] === "b" ? -acc.length : acc.length;
-    function note2(src) {
-      const stringSrc = JSON.stringify(src);
-      const cached = cache22.get(stringSrc);
-      if (cached) {
-        return cached;
-      }
-      const value = typeof src === "string" ? parse22(src) : isPitch22(src) ? note2(pitchName22(src)) : isNamedPitch22(src) ? note2(src.name) : NoNote2;
-      cache22.set(stringSrc, value);
-      return value;
-    }
-    var REGEX22 = /^([a-gA-G]?)(#{1,}|b{1,}|x{1,}|)(-?\d*)\s*(.*)$/;
-    function tokenizeNote2(str) {
-      const m = REGEX22.exec(str);
-      return m ? [m[1].toUpperCase(), m[2].replace(/x/g, "##"), m[3], m[4]] : ["", "", "", ""];
-    }
-    function coordToNote2(noteCoord) {
-      return note2(pitch22(noteCoord));
-    }
-    var mod2 = (n2, m) => (n2 % m + m) % m;
-    var SEMI2 = [0, 2, 4, 5, 7, 9, 11];
-    function parse22(noteName) {
-      const tokens = tokenizeNote2(noteName);
-      if (tokens[0] === "" || tokens[3] !== "") {
-        return NoNote2;
-      }
-      const letter = tokens[0];
-      const acc = tokens[1];
-      const octStr = tokens[2];
-      const step = (letter.charCodeAt(0) + 3) % 7;
-      const alt = accToAlt2(acc);
-      const oct = octStr.length ? +octStr : void 0;
-      const coord = coordinates22({ step, alt, oct });
-      const name22 = letter + acc + octStr;
-      const pc = letter + acc;
-      const chroma32 = (SEMI2[step] + alt + 120) % 12;
-      const height = oct === void 0 ? mod2(SEMI2[step] + alt, 12) - 12 * 99 : SEMI2[step] + alt + 12 * (oct + 1);
-      const midi22 = height >= 0 && height <= 127 ? height : null;
-      const freq22 = oct === void 0 ? null : Math.pow(2, (height - 69) / 12) * 440;
-      return {
-        empty: false,
-        acc,
-        alt,
-        chroma: chroma32,
-        coord,
-        freq: freq22,
-        height,
-        letter,
-        midi: midi22,
-        name: name22,
-        oct,
-        pc,
-        step
-      };
-    }
-    function pitchName22(props) {
-      const { step, alt, oct } = props;
-      const letter = stepToLetter2(step);
-      if (!letter) {
-        return "";
-      }
-      const pc = letter + altToAcc2(alt);
-      return oct || oct === 0 ? pc + oct : pc;
-    }
-    function transpose4(noteName, intervalName) {
-      const note3 = note2(noteName);
-      const intervalCoord = Array.isArray(intervalName) ? intervalName : interval2(intervalName).coord;
-      if (note3.empty || !intervalCoord || intervalCoord.length < 2) {
-        return "";
-      }
-      const noteCoord = note3.coord;
-      const tr22 = noteCoord.length === 1 ? [noteCoord[0] + intervalCoord[0]] : [noteCoord[0] + intervalCoord[0], noteCoord[1] + intervalCoord[1]];
-      return coordToNote2(tr22).name;
-    }
-    function distance3(fromNote, toNote) {
-      const from = note2(fromNote);
-      const to = note2(toNote);
-      if (from.empty || to.empty) {
-        return "";
-      }
-      const fcoord = from.coord;
-      const tcoord = to.coord;
-      const fifths = tcoord[0] - fcoord[0];
-      const octs = fcoord.length === 2 && tcoord.length === 2 ? tcoord[1] - fcoord[1] : -Math.floor(fifths * 7 / 12);
-      const forceDescending = to.height === from.height && to.midi !== null && from.oct === to.oct && from.step > to.step;
-      return coordToInterval2([fifths, octs], forceDescending).name;
-    }
-    function rotate2(times, arr) {
-      const len = arr.length;
-      const n2 = (times % len + len) % len;
-      return arr.slice(n2, len).concat(arr.slice(0, n2));
-    }
-    function isNamedPitch3(src) {
-      return src !== null && typeof src === "object" && "name" in src && typeof src.name === "string" ? true : false;
-    }
-    function isPitch3(pitch222) {
-      return pitch222 !== null && typeof pitch222 === "object" && "step" in pitch222 && typeof pitch222.step === "number" && "alt" in pitch222 && typeof pitch222.alt === "number" && !isNaN(pitch222.step) && !isNaN(pitch222.alt) ? true : false;
-    }
-    var FIFTHS3 = [0, 2, 4, -1, 1, 3, 5];
-    var STEPS_TO_OCTS3 = FIFTHS3.map(
-      (fifths) => Math.floor(fifths * 7 / 12)
-    );
-    function coordinates3(pitch222) {
-      const { step, alt, oct, dir = 1 } = pitch222;
-      const f = FIFTHS3[step] + 7 * alt;
-      if (oct === void 0) {
-        return [dir * f];
-      }
-      const o = oct - STEPS_TO_OCTS3[step] - 4 * alt;
-      return [dir * f, dir * o];
-    }
-    var fillStr32 = (s, n2) => Array(Math.abs(n2) + 1).join(s);
-    var NoInterval22 = Object.freeze({
-      empty: true,
-      name: "",
-      num: NaN,
-      q: "",
-      type: "",
-      step: NaN,
-      alt: NaN,
-      dir: NaN,
-      simple: NaN,
-      semitones: NaN,
-      chroma: NaN,
-      coord: [],
-      oct: NaN
-    });
-    var INTERVAL_TONAL_REGEX22 = "([-+]?\\d+)(d{1,4}|m|M|P|A{1,4})";
-    var INTERVAL_SHORTHAND_REGEX22 = "(AA|A|P|M|m|d|dd)([-+]?\\d+)";
-    var REGEX32 = new RegExp(
-      "^" + INTERVAL_TONAL_REGEX22 + "|" + INTERVAL_SHORTHAND_REGEX22 + "$"
-    );
-    function tokenizeInterval22(str) {
-      const m = REGEX32.exec(`${str}`);
-      if (m === null) {
-        return ["", ""];
-      }
-      return m[1] ? [m[1], m[2]] : [m[4], m[3]];
-    }
-    var cache32 = {};
-    function interval22(src) {
-      return typeof src === "string" ? cache32[src] || (cache32[src] = parse32(src)) : isPitch3(src) ? interval22(pitchName32(src)) : isNamedPitch3(src) ? interval22(src.name) : NoInterval22;
-    }
-    var SIZES22 = [0, 2, 4, 5, 7, 9, 11];
-    var TYPES22 = "PMMPPMM";
-    function parse32(str) {
-      const tokens = tokenizeInterval22(str);
-      if (tokens[0] === "") {
-        return NoInterval22;
-      }
-      const num = +tokens[0];
-      const q = tokens[1];
-      const step = (Math.abs(num) - 1) % 7;
-      const t = TYPES22[step];
-      if (t === "M" && q === "P") {
-        return NoInterval22;
-      }
-      const type = t === "M" ? "majorable" : "perfectable";
-      const name22 = "" + num + q;
-      const dir = num < 0 ? -1 : 1;
-      const simple = num === 8 || num === -8 ? num : dir * (step + 1);
-      const alt = qToAlt22(type, q);
-      const oct = Math.floor((Math.abs(num) - 1) / 7);
-      const semitones = dir * (SIZES22[step] + alt + 12 * oct);
-      const chroma32 = (dir * (SIZES22[step] + alt) % 12 + 12) % 12;
-      const coord = coordinates3({ step, alt, oct, dir });
-      return {
-        empty: false,
-        name: name22,
-        num,
-        q,
-        step,
-        alt,
-        dir,
-        type,
-        simple,
-        semitones,
-        chroma: chroma32,
-        coord,
-        oct
-      };
-    }
-    function qToAlt22(type, q) {
-      return q === "M" && type === "majorable" || q === "P" && type === "perfectable" ? 0 : q === "m" && type === "majorable" ? -1 : /^A+$/.test(q) ? q.length : /^d+$/.test(q) ? -1 * (type === "perfectable" ? q.length : q.length + 1) : 0;
-    }
-    function pitchName32(props) {
-      const { step, alt, oct = 0, dir } = props;
-      if (!dir) {
-        return "";
-      }
-      const calcNum = step + 1 + 7 * oct;
-      const num = calcNum === 0 ? step + 1 : calcNum;
-      const d = dir < 0 ? "-" : "";
-      const type = TYPES22[step] === "M" ? "majorable" : "perfectable";
-      const name22 = d + num + altToQ22(type, alt);
-      return name22;
-    }
-    function altToQ22(type, alt) {
-      if (alt === 0) {
-        return type === "majorable" ? "M" : "P";
-      } else if (alt === -1 && type === "majorable") {
-        return "m";
-      } else if (alt > 0) {
-        return fillStr32("A", alt);
-      } else {
-        return fillStr32("d", type === "perfectable" ? alt : alt + 1);
-      }
-    }
-    var EmptyPcset2 = {
-      empty: true,
-      name: "",
-      setNum: 0,
-      chroma: "000000000000",
-      normalized: "000000000000",
-      intervals: []
-    };
-    var setNumToChroma2 = (num2) => Number(num2).toString(2).padStart(12, "0");
-    var chromaToNumber2 = (chroma22) => parseInt(chroma22, 2);
-    var REGEX42 = /^[01]{12}$/;
-    function isChroma2(set) {
-      return REGEX42.test(set);
-    }
-    var isPcsetNum2 = (set) => typeof set === "number" && set >= 0 && set <= 4095;
-    var isPcset2 = (set) => set && isChroma2(set.chroma);
-    var cache42 = { [EmptyPcset2.chroma]: EmptyPcset2 };
-    function get8(src) {
-      const chroma22 = isChroma2(src) ? src : isPcsetNum2(src) ? setNumToChroma2(src) : Array.isArray(src) ? listToChroma2(src) : isPcset2(src) ? src.chroma : EmptyPcset2.chroma;
-      return cache42[chroma22] = cache42[chroma22] || chromaToPcset2(chroma22);
-    }
-    var IVLS2 = [
-      "1P",
-      "2m",
-      "2M",
-      "3m",
-      "3M",
-      "4P",
-      "5d",
-      "5P",
-      "6m",
-      "6M",
-      "7m",
-      "7M"
-    ];
-    function chromaToIntervals2(chroma22) {
-      const intervals2 = [];
-      for (let i = 0; i < 12; i++) {
-        if (chroma22.charAt(i) === "1") intervals2.push(IVLS2[i]);
-      }
-      return intervals2;
-    }
-    function chromaRotations2(chroma22) {
-      const binary = chroma22.split("");
-      return binary.map((_, i) => rotate2(i, binary).join(""));
-    }
-    function chromaToPcset2(chroma22) {
-      const setNum = chromaToNumber2(chroma22);
-      const normalizedNum = chromaRotations2(chroma22).map(chromaToNumber2).filter((n2) => n2 >= 2048).sort()[0];
-      const normalized = setNumToChroma2(normalizedNum);
-      const intervals2 = chromaToIntervals2(chroma22);
-      return {
-        empty: false,
-        name: "",
-        setNum,
-        chroma: chroma22,
-        normalized,
-        intervals: intervals2
-      };
-    }
-    function listToChroma2(set) {
-      if (set.length === 0) {
-        return EmptyPcset2.chroma;
-      }
-      let pitch8;
-      const binary = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
-      for (let i = 0; i < set.length; i++) {
-        pitch8 = note2(set[i]);
-        if (pitch8.empty) pitch8 = interval22(set[i]);
-        if (!pitch8.empty) binary[pitch8.chroma] = 1;
-      }
-      return binary.join("");
-    }
-    var CHORDS2 = [
-      // ==Major==
-      ["1P 3M 5P", "major", "M ^  maj"],
-      ["1P 3M 5P 7M", "major seventh", "maj7 \u0394 ma7 M7 Maj7 ^7"],
-      ["1P 3M 5P 7M 9M", "major ninth", "maj9 \u03949 ^9"],
-      ["1P 3M 5P 7M 9M 13M", "major thirteenth", "maj13 Maj13 ^13"],
-      ["1P 3M 5P 6M", "sixth", "6 add6 add13 M6"],
-      ["1P 3M 5P 6M 9M", "sixth added ninth", "6add9 6/9 69 M69"],
-      ["1P 3M 6m 7M", "major seventh flat sixth", "M7b6 ^7b6"],
-      [
-        "1P 3M 5P 7M 11A",
-        "major seventh sharp eleventh",
-        "maj#4 \u0394#4 \u0394#11 M7#11 ^7#11 maj7#11"
-      ],
-      // ==Minor==
-      // '''Normal'''
-      ["1P 3m 5P", "minor", "m min -"],
-      ["1P 3m 5P 7m", "minor seventh", "m7 min7 mi7 -7"],
-      [
-        "1P 3m 5P 7M",
-        "minor/major seventh",
-        "m/ma7 m/maj7 mM7 mMaj7 m/M7 -\u03947 m\u0394 -^7 -maj7"
-      ],
-      ["1P 3m 5P 6M", "minor sixth", "m6 -6"],
-      ["1P 3m 5P 7m 9M", "minor ninth", "m9 -9"],
-      ["1P 3m 5P 7M 9M", "minor/major ninth", "mM9 mMaj9 -^9"],
-      ["1P 3m 5P 7m 9M 11P", "minor eleventh", "m11 -11"],
-      ["1P 3m 5P 7m 9M 13M", "minor thirteenth", "m13 -13"],
-      // '''Diminished'''
-      ["1P 3m 5d", "diminished", "dim \xB0 o"],
-      ["1P 3m 5d 7d", "diminished seventh", "dim7 \xB07 o7"],
-      ["1P 3m 5d 7m", "half-diminished", "m7b5 \xF8 -7b5 h7 h"],
-      // ==Dominant/Seventh==
-      // '''Normal'''
-      ["1P 3M 5P 7m", "dominant seventh", "7 dom"],
-      ["1P 3M 5P 7m 9M", "dominant ninth", "9"],
-      ["1P 3M 5P 7m 9M 13M", "dominant thirteenth", "13"],
-      ["1P 3M 5P 7m 11A", "lydian dominant seventh", "7#11 7#4"],
-      // '''Altered'''
-      ["1P 3M 5P 7m 9m", "dominant flat ninth", "7b9"],
-      ["1P 3M 5P 7m 9A", "dominant sharp ninth", "7#9"],
-      ["1P 3M 7m 9m", "altered", "alt7"],
-      // '''Suspended'''
-      ["1P 4P 5P", "suspended fourth", "sus4 sus"],
-      ["1P 2M 5P", "suspended second", "sus2"],
-      ["1P 4P 5P 7m", "suspended fourth seventh", "7sus4 7sus"],
-      ["1P 5P 7m 9M 11P", "eleventh", "11"],
-      [
-        "1P 4P 5P 7m 9m",
-        "suspended fourth flat ninth",
-        "b9sus phryg 7b9sus 7b9sus4"
-      ],
-      // ==Other==
-      ["1P 5P", "fifth", "5"],
-      ["1P 3M 5A", "augmented", "aug + +5 ^#5"],
-      ["1P 3m 5A", "minor augmented", "m#5 -#5 m+"],
-      ["1P 3M 5A 7M", "augmented seventh", "maj7#5 maj7+5 +maj7 ^7#5"],
-      [
-        "1P 3M 5P 7M 9M 11A",
-        "major sharp eleventh (lydian)",
-        "maj9#11 \u03949#11 ^9#11"
-      ],
-      // ==Legacy==
-      ["1P 2M 4P 5P", "", "sus24 sus4add9"],
-      ["1P 3M 5A 7M 9M", "", "maj9#5 Maj9#5"],
-      ["1P 3M 5A 7m", "", "7#5 +7 7+ 7aug aug7"],
-      ["1P 3M 5A 7m 9A", "", "7#5#9 7#9#5 7alt"],
-      ["1P 3M 5A 7m 9M", "", "9#5 9+"],
-      ["1P 3M 5A 7m 9M 11A", "", "9#5#11"],
-      ["1P 3M 5A 7m 9m", "", "7#5b9 7b9#5"],
-      ["1P 3M 5A 7m 9m 11A", "", "7#5b9#11"],
-      ["1P 3M 5A 9A", "", "+add#9"],
-      ["1P 3M 5A 9M", "", "M#5add9 +add9"],
-      ["1P 3M 5P 6M 11A", "", "M6#11 M6b5 6#11 6b5"],
-      ["1P 3M 5P 6M 7M 9M", "", "M7add13"],
-      ["1P 3M 5P 6M 9M 11A", "", "69#11"],
-      ["1P 3m 5P 6M 9M", "", "m69 -69"],
-      ["1P 3M 5P 6m 7m", "", "7b6"],
-      ["1P 3M 5P 7M 9A 11A", "", "maj7#9#11"],
-      ["1P 3M 5P 7M 9M 11A 13M", "", "M13#11 maj13#11 M13+4 M13#4"],
-      ["1P 3M 5P 7M 9m", "", "M7b9"],
-      ["1P 3M 5P 7m 11A 13m", "", "7#11b13 7b5b13"],
-      ["1P 3M 5P 7m 13M", "", "7add6 67 7add13"],
-      ["1P 3M 5P 7m 9A 11A", "", "7#9#11 7b5#9 7#9b5"],
-      ["1P 3M 5P 7m 9A 11A 13M", "", "13#9#11"],
-      ["1P 3M 5P 7m 9A 11A 13m", "", "7#9#11b13"],
-      ["1P 3M 5P 7m 9A 13M", "", "13#9"],
-      ["1P 3M 5P 7m 9A 13m", "", "7#9b13"],
-      ["1P 3M 5P 7m 9M 11A", "", "9#11 9+4 9#4"],
-      ["1P 3M 5P 7m 9M 11A 13M", "", "13#11 13+4 13#4"],
-      ["1P 3M 5P 7m 9M 11A 13m", "", "9#11b13 9b5b13"],
-      ["1P 3M 5P 7m 9m 11A", "", "7b9#11 7b5b9 7b9b5"],
-      ["1P 3M 5P 7m 9m 11A 13M", "", "13b9#11"],
-      ["1P 3M 5P 7m 9m 11A 13m", "", "7b9b13#11 7b9#11b13 7b5b9b13"],
-      ["1P 3M 5P 7m 9m 13M", "", "13b9"],
-      ["1P 3M 5P 7m 9m 13m", "", "7b9b13"],
-      ["1P 3M 5P 7m 9m 9A", "", "7b9#9"],
-      ["1P 3M 5P 9M", "", "Madd9 2 add9 add2"],
-      ["1P 3M 5P 9m", "", "Maddb9"],
-      ["1P 3M 5d", "", "Mb5"],
-      ["1P 3M 5d 6M 7m 9M", "", "13b5"],
-      ["1P 3M 5d 7M", "", "M7b5"],
-      ["1P 3M 5d 7M 9M", "", "M9b5"],
-      ["1P 3M 5d 7m", "", "7b5"],
-      ["1P 3M 5d 7m 9M", "", "9b5"],
-      ["1P 3M 7m", "", "7no5"],
-      ["1P 3M 7m 13m", "", "7b13"],
-      ["1P 3M 7m 9M", "", "9no5"],
-      ["1P 3M 7m 9M 13M", "", "13no5"],
-      ["1P 3M 7m 9M 13m", "", "9b13"],
-      ["1P 3m 4P 5P", "", "madd4"],
-      ["1P 3m 5P 6m 7M", "", "mMaj7b6"],
-      ["1P 3m 5P 6m 7M 9M", "", "mMaj9b6"],
-      ["1P 3m 5P 7m 11P", "", "m7add11 m7add4"],
-      ["1P 3m 5P 9M", "", "madd9"],
-      ["1P 3m 5d 6M 7M", "", "o7M7"],
-      ["1P 3m 5d 7M", "", "oM7"],
-      ["1P 3m 6m 7M", "", "mb6M7"],
-      ["1P 3m 6m 7m", "", "m7#5"],
-      ["1P 3m 6m 7m 9M", "", "m9#5"],
-      ["1P 3m 5A 7m 9M 11P", "", "m11A"],
-      ["1P 3m 6m 9m", "", "mb6b9"],
-      ["1P 2M 3m 5d 7m", "", "m9b5"],
-      ["1P 4P 5A 7M", "", "M7#5sus4"],
-      ["1P 4P 5A 7M 9M", "", "M9#5sus4"],
-      ["1P 4P 5A 7m", "", "7#5sus4"],
-      ["1P 4P 5P 7M", "", "M7sus4"],
-      ["1P 4P 5P 7M 9M", "", "M9sus4"],
-      ["1P 4P 5P 7m 9M", "", "9sus4 9sus"],
-      ["1P 4P 5P 7m 9M 13M", "", "13sus4 13sus"],
-      ["1P 4P 5P 7m 9m 13m", "", "7sus4b9b13 7b9b13sus4"],
-      ["1P 4P 7m 10m", "", "4 quartal"],
-      ["1P 5P 7m 9m 11P", "", "11b9"]
-    ];
-    var data_default22 = CHORDS2;
-    var NoChordType2 = {
-      ...EmptyPcset2,
-      name: "",
-      quality: "Unknown",
-      intervals: [],
-      aliases: []
-    };
-    var dictionary3 = [];
-    var index4 = {};
-    function add5(intervals, aliases, fullName) {
-      const quality = getQuality2(intervals);
-      const chord22 = {
-        ...get8(intervals),
-        name: fullName || "",
-        quality,
-        intervals,
-        aliases
-      };
-      dictionary3.push(chord22);
-      if (chord22.name) {
-        index4[chord22.name] = chord22;
-      }
-      index4[chord22.setNum] = chord22;
-      index4[chord22.chroma] = chord22;
-      chord22.aliases.forEach((alias) => addAlias3(chord22, alias));
-    }
-    function addAlias3(chord22, alias) {
-      index4[alias] = chord22;
-    }
-    function getQuality2(intervals) {
-      const has = (interval7) => intervals.indexOf(interval7) !== -1;
-      return has("5A") ? "Augmented" : has("3M") ? "Major" : has("5d") ? "Diminished" : has("3m") ? "Minor" : "Unknown";
-    }
-    data_default22.forEach(
-      ([ivls, fullName, names22]) => add5(ivls.split(" "), names22.split(" "), fullName)
-    );
-    dictionary3.sort((a, b) => a.setNum - b.setNum);
-    var BITMASK2 = {
-      // 3m 000100000000
-      // 3M 000010000000
-      anyThirds: 384,
-      // 5P 000000010000
-      perfectFifth: 16,
-      // 5d 000000100000
-      // 5A 000000001000
-      nonPerfectFifths: 40,
-      anySeventh: 3
-    };
-    var testChromaNumber2 = (bitmask) => (chromaNumber) => Boolean(chromaNumber & bitmask);
-    var hasAnyThird2 = testChromaNumber2(BITMASK2.anyThirds);
-    var hasPerfectFifth2 = testChromaNumber2(BITMASK2.perfectFifth);
-    var hasAnySeventh2 = testChromaNumber2(BITMASK2.anySeventh);
-    var hasNonPerfectFifth2 = testChromaNumber2(BITMASK2.nonPerfectFifths);
-    function isNamedPitch4(src) {
-      return src !== null && typeof src === "object" && "name" in src && typeof src.name === "string" ? true : false;
-    }
-    function isPitch4(pitch222) {
-      return pitch222 !== null && typeof pitch222 === "object" && "step" in pitch222 && typeof pitch222.step === "number" && "alt" in pitch222 && typeof pitch222.alt === "number" ? true : false;
-    }
-    var FIFTHS4 = [0, 2, 4, -1, 1, 3, 5];
-    var STEPS_TO_OCTS4 = FIFTHS4.map(
-      (fifths) => Math.floor(fifths * 7 / 12)
-    );
-    function coordinates4(pitch222) {
-      const { step, alt, oct, dir = 1 } = pitch222;
-      const f = FIFTHS4[step] + 7 * alt;
-      if (oct === void 0) {
-        return [dir * f];
-      }
-      const o = oct - STEPS_TO_OCTS4[step] - 4 * alt;
-      return [dir * f, dir * o];
-    }
-    var FIFTHS_TO_STEPS3 = [3, 0, 4, 1, 5, 2, 6];
-    function pitch4(coord) {
-      const [f, o, dir] = coord;
-      const step = FIFTHS_TO_STEPS3[unaltered3(f)];
-      const alt = Math.floor((f + 1) / 7);
-      if (o === void 0) {
-        return { step, alt, dir };
-      }
-      const oct = o + 4 * alt + STEPS_TO_OCTS4[step];
-      return { step, alt, oct, dir };
-    }
-    function unaltered3(f) {
-      const i = (f + 1) % 7;
-      return i < 0 ? 7 + i : i;
-    }
-    var fillStr4 = (s, n2) => Array(Math.abs(n2) + 1).join(s);
-    var NoInterval3 = { empty: true, name: "", acc: "" };
-    var INTERVAL_TONAL_REGEX3 = "([-+]?\\d+)(d{1,4}|m|M|P|A{1,4})";
-    var INTERVAL_SHORTHAND_REGEX3 = "(AA|A|P|M|m|d|dd)([-+]?\\d+)";
-    var REGEX52 = new RegExp(
-      "^" + INTERVAL_TONAL_REGEX3 + "|" + INTERVAL_SHORTHAND_REGEX3 + "$"
-    );
-    function tokenizeInterval3(str) {
-      const m = REGEX52.exec(`${str}`);
-      if (m === null) {
-        return ["", ""];
-      }
-      return m[1] ? [m[1], m[2]] : [m[4], m[3]];
-    }
-    var cache52 = {};
-    function interval3(src) {
-      return typeof src === "string" ? cache52[src] || (cache52[src] = parse42(src)) : isPitch4(src) ? interval3(pitchName4(src)) : isNamedPitch4(src) ? interval3(src.name) : NoInterval3;
-    }
-    var SIZES3 = [0, 2, 4, 5, 7, 9, 11];
-    var TYPES3 = "PMMPPMM";
-    function parse42(str) {
-      const tokens = tokenizeInterval3(str);
-      if (tokens[0] === "") {
-        return NoInterval3;
-      }
-      const num = +tokens[0];
-      const q = tokens[1];
-      const step = (Math.abs(num) - 1) % 7;
-      const t = TYPES3[step];
-      if (t === "M" && q === "P") {
-        return NoInterval3;
-      }
-      const type = t === "M" ? "majorable" : "perfectable";
-      const name22 = "" + num + q;
-      const dir = num < 0 ? -1 : 1;
-      const simple = num === 8 || num === -8 ? num : dir * (step + 1);
-      const alt = qToAlt3(type, q);
-      const oct = Math.floor((Math.abs(num) - 1) / 7);
-      const semitones = dir * (SIZES3[step] + alt + 12 * oct);
-      const chroma32 = (dir * (SIZES3[step] + alt) % 12 + 12) % 12;
-      const coord = coordinates4({ step, alt, oct, dir });
-      return {
-        empty: false,
-        name: name22,
-        num,
-        q,
-        step,
-        alt,
-        dir,
-        type,
-        simple,
-        semitones,
-        chroma: chroma32,
-        coord,
-        oct
-      };
-    }
-    function coordToInterval22(coord, forceDescending) {
-      const [f, o = 0] = coord;
-      const isDescending = f * 7 + o * 12 < 0;
-      const ivl = forceDescending || isDescending ? [-f, -o, -1] : [f, o, 1];
-      return interval3(pitch4(ivl));
-    }
-    function qToAlt3(type, q) {
-      return q === "M" && type === "majorable" || q === "P" && type === "perfectable" ? 0 : q === "m" && type === "majorable" ? -1 : /^A+$/.test(q) ? q.length : /^d+$/.test(q) ? -1 * (type === "perfectable" ? q.length : q.length + 1) : 0;
-    }
-    function pitchName4(props) {
-      const { step, alt, oct = 0, dir } = props;
-      if (!dir) {
-        return "";
-      }
-      const calcNum = step + 1 + 7 * oct;
-      const num = calcNum === 0 ? step + 1 : calcNum;
-      const d = dir < 0 ? "-" : "";
-      const type = TYPES3[step] === "M" ? "majorable" : "perfectable";
-      const name22 = d + num + altToQ3(type, alt);
-      return name22;
-    }
-    function altToQ3(type, alt) {
-      if (alt === 0) {
-        return type === "majorable" ? "M" : "P";
-      } else if (alt === -1 && type === "majorable") {
-        return "m";
-      } else if (alt > 0) {
-        return fillStr4("A", alt);
-      } else {
-        return fillStr4("d", type === "perfectable" ? alt : alt + 1);
-      }
-    }
-    var fillStr5 = (s, n2) => Array(Math.abs(n2) + 1).join(s);
-    var NoNote22 = { empty: true, name: "", pc: "", acc: "" };
-    var cache6 = /* @__PURE__ */ new Map();
-    var stepToLetter22 = (step) => "CDEFGAB".charAt(step);
-    var altToAcc22 = (alt) => alt < 0 ? fillStr5("b", -alt) : fillStr5("#", alt);
-    var accToAlt22 = (acc) => acc[0] === "b" ? -acc.length : acc.length;
-    function note22(src) {
-      const stringSrc = JSON.stringify(src);
-      const cached = cache6.get(stringSrc);
-      if (cached) {
-        return cached;
-      }
-      const value = typeof src === "string" ? parse5(src) : isPitch4(src) ? note22(pitchName5(src)) : isNamedPitch4(src) ? note22(src.name) : NoNote22;
-      cache6.set(stringSrc, value);
-      return value;
-    }
-    var REGEX6 = /^([a-gA-G]?)(#{1,}|b{1,}|x{1,}|)(-?\d*)\s*(.*)$/;
-    function tokenizeNote22(str) {
-      const m = REGEX6.exec(str);
-      return m ? [m[1].toUpperCase(), m[2].replace(/x/g, "##"), m[3], m[4]] : ["", "", "", ""];
-    }
-    function coordToNote22(noteCoord) {
-      return note22(pitch4(noteCoord));
-    }
-    var mod22 = (n2, m) => (n2 % m + m) % m;
-    var SEMI22 = [0, 2, 4, 5, 7, 9, 11];
-    function parse5(noteName) {
-      const tokens = tokenizeNote22(noteName);
-      if (tokens[0] === "" || tokens[3] !== "") {
-        return NoNote22;
-      }
-      const letter = tokens[0];
-      const acc = tokens[1];
-      const octStr = tokens[2];
-      const step = (letter.charCodeAt(0) + 3) % 7;
-      const alt = accToAlt22(acc);
-      const oct = octStr.length ? +octStr : void 0;
-      const coord = coordinates4({ step, alt, oct });
-      const name22 = letter + acc + octStr;
-      const pc = letter + acc;
-      const chroma32 = (SEMI22[step] + alt + 120) % 12;
-      const height = oct === void 0 ? mod22(SEMI22[step] + alt, 12) - 12 * 99 : SEMI22[step] + alt + 12 * (oct + 1);
-      const midi22 = height >= 0 && height <= 127 ? height : null;
-      const freq22 = oct === void 0 ? null : Math.pow(2, (height - 69) / 12) * 440;
-      return {
-        empty: false,
-        acc,
-        alt,
-        chroma: chroma32,
-        coord,
-        freq: freq22,
-        height,
-        letter,
-        midi: midi22,
-        name: name22,
-        oct,
-        pc,
-        step
-      };
-    }
-    function pitchName5(props) {
-      const { step, alt, oct } = props;
-      const letter = stepToLetter22(step);
-      if (!letter) {
-        return "";
-      }
-      const pc = letter + altToAcc22(alt);
-      return oct || oct === 0 ? pc + oct : pc;
-    }
-    function transpose22(noteName, intervalName) {
-      const note3 = note22(noteName);
-      const intervalCoord = Array.isArray(intervalName) ? intervalName : interval3(intervalName).coord;
-      if (note3.empty || !intervalCoord || intervalCoord.length < 2) {
-        return "";
-      }
-      const noteCoord = note3.coord;
-      const tr22 = noteCoord.length === 1 ? [noteCoord[0] + intervalCoord[0]] : [noteCoord[0] + intervalCoord[0], noteCoord[1] + intervalCoord[1]];
-      return coordToNote22(tr22).name;
-    }
-    function distance22(fromNote, toNote) {
-      const from = note22(fromNote);
-      const to = note22(toNote);
-      if (from.empty || to.empty) {
-        return "";
-      }
-      const fcoord = from.coord;
-      const tcoord = to.coord;
-      const fifths = tcoord[0] - fcoord[0];
-      const octs = fcoord.length === 2 && tcoord.length === 2 ? tcoord[1] - fcoord[1] : -Math.floor(fifths * 7 / 12);
-      const forceDescending = to.height === from.height && to.midi !== null && from.midi !== null && from.step > to.step;
-      return coordToInterval22([fifths, octs], forceDescending).name;
-    }
-    function deprecate2(original, alternative, fn) {
-      return function(...args) {
-        console.warn(`${original} is deprecated. Use ${alternative}.`);
-        return fn.apply(this, args);
-      };
-    }
-    var isNamed2 = deprecate2("isNamed", "isNamedPitch", isNamedPitch4);
-    var CHORDS22 = [
-      ["1P 3M 5P", "major", "M ^  maj"],
-      ["1P 3M 5P 7M", "major seventh", "maj7 \u0394 ma7 M7 Maj7 ^7"],
-      ["1P 3M 5P 7M 9M", "major ninth", "maj9 \u03949 ^9"],
-      ["1P 3M 5P 7M 9M 13M", "major thirteenth", "maj13 Maj13 ^13"],
-      ["1P 3M 5P 6M", "sixth", "6 add6 add13 M6"],
-      ["1P 3M 5P 6M 9M", "sixth added ninth", "6add9 6/9 69 M69"],
-      ["1P 3M 6m 7M", "major seventh flat sixth", "M7b6 ^7b6"],
-      [
-        "1P 3M 5P 7M 11A",
-        "major seventh sharp eleventh",
-        "maj#4 \u0394#4 \u0394#11 M7#11 ^7#11 maj7#11"
-      ],
-      ["1P 3m 5P", "minor", "m min -"],
-      ["1P 3m 5P 7m", "minor seventh", "m7 min7 mi7 -7"],
-      [
-        "1P 3m 5P 7M",
-        "minor/major seventh",
-        "m/ma7 m/maj7 mM7 mMaj7 m/M7 -\u03947 m\u0394 -^7"
-      ],
-      ["1P 3m 5P 6M", "minor sixth", "m6 -6"],
-      ["1P 3m 5P 7m 9M", "minor ninth", "m9 -9"],
-      ["1P 3m 5P 7M 9M", "minor/major ninth", "mM9 mMaj9 -^9"],
-      ["1P 3m 5P 7m 9M 11P", "minor eleventh", "m11 -11"],
-      ["1P 3m 5P 7m 9M 13M", "minor thirteenth", "m13 -13"],
-      ["1P 3m 5d", "diminished", "dim \xB0 o"],
-      ["1P 3m 5d 7d", "diminished seventh", "dim7 \xB07 o7"],
-      ["1P 3m 5d 7m", "half-diminished", "m7b5 \xF8 -7b5 h7 h"],
-      ["1P 3M 5P 7m", "dominant seventh", "7 dom"],
-      ["1P 3M 5P 7m 9M", "dominant ninth", "9"],
-      ["1P 3M 5P 7m 9M 13M", "dominant thirteenth", "13"],
-      ["1P 3M 5P 7m 11A", "lydian dominant seventh", "7#11 7#4"],
-      ["1P 3M 5P 7m 9m", "dominant flat ninth", "7b9"],
-      ["1P 3M 5P 7m 9A", "dominant sharp ninth", "7#9"],
-      ["1P 3M 7m 9m", "altered", "alt7"],
-      ["1P 4P 5P", "suspended fourth", "sus4 sus"],
-      ["1P 2M 5P", "suspended second", "sus2"],
-      ["1P 4P 5P 7m", "suspended fourth seventh", "7sus4 7sus"],
-      ["1P 5P 7m 9M 11P", "eleventh", "11"],
-      [
-        "1P 4P 5P 7m 9m",
-        "suspended fourth flat ninth",
-        "b9sus phryg 7b9sus 7b9sus4"
-      ],
-      ["1P 5P", "fifth", "5"],
-      ["1P 3M 5A", "augmented", "aug + +5 ^#5"],
-      ["1P 3m 5A", "minor augmented", "m#5 -#5 m+"],
-      ["1P 3M 5A 7M", "augmented seventh", "maj7#5 maj7+5 +maj7 ^7#5"],
-      [
-        "1P 3M 5P 7M 9M 11A",
-        "major sharp eleventh (lydian)",
-        "maj9#11 \u03949#11 ^9#11"
-      ],
-      ["1P 2M 4P 5P", "", "sus24 sus4add9"],
-      ["1P 3M 5A 7M 9M", "", "maj9#5 Maj9#5"],
-      ["1P 3M 5A 7m", "", "7#5 +7 7+ 7aug aug7"],
-      ["1P 3M 5A 7m 9A", "", "7#5#9 7#9#5 7alt"],
-      ["1P 3M 5A 7m 9M", "", "9#5 9+"],
-      ["1P 3M 5A 7m 9M 11A", "", "9#5#11"],
-      ["1P 3M 5A 7m 9m", "", "7#5b9 7b9#5"],
-      ["1P 3M 5A 7m 9m 11A", "", "7#5b9#11"],
-      ["1P 3M 5A 9A", "", "+add#9"],
-      ["1P 3M 5A 9M", "", "M#5add9 +add9"],
-      ["1P 3M 5P 6M 11A", "", "M6#11 M6b5 6#11 6b5"],
-      ["1P 3M 5P 6M 7M 9M", "", "M7add13"],
-      ["1P 3M 5P 6M 9M 11A", "", "69#11"],
-      ["1P 3m 5P 6M 9M", "", "m69 -69"],
-      ["1P 3M 5P 6m 7m", "", "7b6"],
-      ["1P 3M 5P 7M 9A 11A", "", "maj7#9#11"],
-      ["1P 3M 5P 7M 9M 11A 13M", "", "M13#11 maj13#11 M13+4 M13#4"],
-      ["1P 3M 5P 7M 9m", "", "M7b9"],
-      ["1P 3M 5P 7m 11A 13m", "", "7#11b13 7b5b13"],
-      ["1P 3M 5P 7m 13M", "", "7add6 67 7add13"],
-      ["1P 3M 5P 7m 9A 11A", "", "7#9#11 7b5#9 7#9b5"],
-      ["1P 3M 5P 7m 9A 11A 13M", "", "13#9#11"],
-      ["1P 3M 5P 7m 9A 11A 13m", "", "7#9#11b13"],
-      ["1P 3M 5P 7m 9A 13M", "", "13#9"],
-      ["1P 3M 5P 7m 9A 13m", "", "7#9b13"],
-      ["1P 3M 5P 7m 9M 11A", "", "9#11 9+4 9#4"],
-      ["1P 3M 5P 7m 9M 11A 13M", "", "13#11 13+4 13#4"],
-      ["1P 3M 5P 7m 9M 11A 13m", "", "9#11b13 9b5b13"],
-      ["1P 3M 5P 7m 9m 11A", "", "7b9#11 7b5b9 7b9b5"],
-      ["1P 3M 5P 7m 9m 11A 13M", "", "13b9#11"],
-      ["1P 3M 5P 7m 9m 11A 13m", "", "7b9b13#11 7b9#11b13 7b5b9b13"],
-      ["1P 3M 5P 7m 9m 13M", "", "13b9"],
-      ["1P 3M 5P 7m 9m 13m", "", "7b9b13"],
-      ["1P 3M 5P 7m 9m 9A", "", "7b9#9"],
-      ["1P 3M 5P 9M", "", "Madd9 2 add9 add2"],
-      ["1P 3M 5P 9m", "", "Maddb9"],
-      ["1P 3M 5d", "", "Mb5"],
-      ["1P 3M 5d 6M 7m 9M", "", "13b5"],
-      ["1P 3M 5d 7M", "", "M7b5"],
-      ["1P 3M 5d 7M 9M", "", "M9b5"],
-      ["1P 3M 5d 7m", "", "7b5"],
-      ["1P 3M 5d 7m 9M", "", "9b5"],
-      ["1P 3M 7m", "", "7no5"],
-      ["1P 3M 7m 13m", "", "7b13"],
-      ["1P 3M 7m 9M", "", "9no5"],
-      ["1P 3M 7m 9M 13M", "", "13no5"],
-      ["1P 3M 7m 9M 13m", "", "9b13"],
-      ["1P 3m 4P 5P", "", "madd4"],
-      ["1P 3m 5P 6m 7M", "", "mMaj7b6"],
-      ["1P 3m 5P 6m 7M 9M", "", "mMaj9b6"],
-      ["1P 3m 5P 7m 11P", "", "m7add11 m7add4"],
-      ["1P 3m 5P 9M", "", "madd9"],
-      ["1P 3m 5d 6M 7M", "", "o7M7"],
-      ["1P 3m 5d 7M", "", "oM7"],
-      ["1P 3m 6m 7M", "", "mb6M7"],
-      ["1P 3m 6m 7m", "", "m7#5"],
-      ["1P 3m 6m 7m 9M", "", "m9#5"],
-      ["1P 3m 5A 7m 9M 11P", "", "m11A"],
-      ["1P 3m 6m 9m", "", "mb6b9"],
-      ["1P 2M 3m 5d 7m", "", "m9b5"],
-      ["1P 4P 5A 7M", "", "M7#5sus4"],
-      ["1P 4P 5A 7M 9M", "", "M9#5sus4"],
-      ["1P 4P 5A 7m", "", "7#5sus4"],
-      ["1P 4P 5P 7M", "", "M7sus4"],
-      ["1P 4P 5P 7M 9M", "", "M9sus4"],
-      ["1P 4P 5P 7m 9M", "", "9sus4 9sus"],
-      ["1P 4P 5P 7m 9M 13M", "", "13sus4 13sus"],
-      ["1P 4P 5P 7m 9m 13m", "", "7sus4b9b13 7b9b13sus4"],
-      ["1P 4P 7m 10m", "", "4 quartal"],
-      ["1P 5P 7m 9m 11P", "", "11b9"]
-    ];
-    var data_default32 = CHORDS22;
-    var NoChordType22 = {
-      ...EmptyPcset2,
-      name: "",
-      quality: "Unknown",
-      intervals: [],
-      aliases: []
-    };
-    var dictionary22 = [];
-    var index22 = {};
-    function get22(type) {
-      return index22[type] || NoChordType22;
-    }
-    var chordType = deprecate2("ChordType.chordType", "ChordType.get", get22);
-    function all22() {
-      return dictionary22.slice();
-    }
-    var entries = deprecate2("ChordType.entries", "ChordType.all", all22);
-    function add22(intervals, aliases, fullName) {
-      const quality = getQuality22(intervals);
-      const chord22 = {
-        ...get8(intervals),
-        name: fullName || "",
-        quality,
-        intervals,
-        aliases
-      };
-      dictionary22.push(chord22);
-      if (chord22.name) {
-        index22[chord22.name] = chord22;
-      }
-      index22[chord22.setNum] = chord22;
-      index22[chord22.chroma] = chord22;
-      chord22.aliases.forEach((alias) => addAlias22(chord22, alias));
-    }
-    function addAlias22(chord22, alias) {
-      index22[alias] = chord22;
-    }
-    function getQuality22(intervals) {
-      const has = (interval7) => intervals.indexOf(interval7) !== -1;
-      return has("5A") ? "Augmented" : has("3M") ? "Major" : has("5d") ? "Diminished" : has("3m") ? "Minor" : "Unknown";
-    }
-    data_default32.forEach(
-      ([ivls, fullName, names22]) => add22(ivls.split(" "), names22.split(" "), fullName)
-    );
-    dictionary22.sort((a, b) => a.setNum - b.setNum);
-    var SCALES2 = [
-      // Basic scales
-      ["1P 2M 3M 5P 6M", "major pentatonic", "pentatonic"],
-      ["1P 2M 3M 4P 5P 6M 7M", "major", "ionian"],
-      ["1P 2M 3m 4P 5P 6m 7m", "minor", "aeolian"],
-      // Jazz common scales
-      ["1P 2M 3m 3M 5P 6M", "major blues"],
-      ["1P 3m 4P 5d 5P 7m", "minor blues", "blues"],
-      ["1P 2M 3m 4P 5P 6M 7M", "melodic minor"],
-      ["1P 2M 3m 4P 5P 6m 7M", "harmonic minor"],
-      ["1P 2M 3M 4P 5P 6M 7m 7M", "bebop"],
-      ["1P 2M 3m 4P 5d 6m 6M 7M", "diminished", "whole-half diminished"],
-      // Modes
-      ["1P 2M 3m 4P 5P 6M 7m", "dorian"],
-      ["1P 2M 3M 4A 5P 6M 7M", "lydian"],
-      ["1P 2M 3M 4P 5P 6M 7m", "mixolydian", "dominant"],
-      ["1P 2m 3m 4P 5P 6m 7m", "phrygian"],
-      ["1P 2m 3m 4P 5d 6m 7m", "locrian"],
-      // 5-note scales
-      ["1P 3M 4P 5P 7M", "ionian pentatonic"],
-      ["1P 3M 4P 5P 7m", "mixolydian pentatonic", "indian"],
-      ["1P 2M 4P 5P 6M", "ritusen"],
-      ["1P 2M 4P 5P 7m", "egyptian"],
-      // Source: https://en.wikipedia.org/wiki/Neapolitan_scale
-      ["1P 3M 4P 5d 7m", "neapolitan major pentatonic"],
-      ["1P 3m 4P 5P 6m", "vietnamese 1"],
-      ["1P 2m 3m 5P 6m", "pelog"],
-      ["1P 2m 4P 5P 6m", "kumoijoshi"],
-      ["1P 2M 3m 5P 6m", "hirajoshi"],
-      ["1P 2m 4P 5d 7m", "iwato"],
-      ["1P 2m 4P 5P 7m", "in-sen"],
-      ["1P 3M 4A 5P 7M", "lydian pentatonic", "chinese"],
-      ["1P 3m 4P 6m 7m", "malkos raga"],
-      ["1P 3m 4P 5d 7m", "locrian pentatonic", "minor seven flat five pentatonic"],
-      ["1P 3m 4P 5P 7m", "minor pentatonic", "vietnamese 2"],
-      ["1P 3m 4P 5P 6M", "minor six pentatonic"],
-      ["1P 2M 3m 5P 6M", "flat three pentatonic", "kumoi"],
-      ["1P 2M 3M 5P 6m", "flat six pentatonic"],
-      ["1P 2m 3M 5P 6M", "scriabin"],
-      ["1P 3M 5d 6m 7m", "whole tone pentatonic"],
-      ["1P 3M 4A 5A 7M", "lydian #5p pentatonic"],
-      ["1P 3M 4A 5P 7m", "lydian dominant pentatonic"],
-      ["1P 3m 4P 5P 7M", "minor #7m pentatonic"],
-      ["1P 3m 4d 5d 7m", "super locrian pentatonic"],
-      // 6-note scales
-      ["1P 2M 3m 4P 5P 7M", "minor hexatonic"],
-      ["1P 2A 3M 5P 5A 7M", "augmented"],
-      ["1P 2M 4P 5P 6M 7m", "piongio"],
-      // Source: https://en.wikipedia.org/wiki/Neapolitan_scale
-      ["1P 2m 3M 4A 6M 7m", "prometheus neapolitan"],
-      ["1P 2M 3M 4A 6M 7m", "prometheus"],
-      ["1P 2m 3M 5d 6m 7m", "mystery #1"],
-      ["1P 2m 3M 4P 5A 6M", "six tone symmetric"],
-      ["1P 2M 3M 4A 5A 6A", "whole tone", "messiaen's mode #1"],
-      ["1P 2m 4P 4A 5P 7M", "messiaen's mode #5"],
-      // 7-note scales
-      ["1P 2M 3M 4P 5d 6m 7m", "locrian major", "arabian"],
-      ["1P 2m 3M 4A 5P 6m 7M", "double harmonic lydian"],
-      [
-        "1P 2m 2A 3M 4A 6m 7m",
-        "altered",
-        "super locrian",
-        "diminished whole tone",
-        "pomeroy"
-      ],
-      ["1P 2M 3m 4P 5d 6m 7m", "locrian #2", "half-diminished", "aeolian b5"],
-      [
-        "1P 2M 3M 4P 5P 6m 7m",
-        "mixolydian b6",
-        "melodic minor fifth mode",
-        "hindu"
-      ],
-      ["1P 2M 3M 4A 5P 6M 7m", "lydian dominant", "lydian b7", "overtone"],
-      ["1P 2M 3M 4A 5A 6M 7M", "lydian augmented"],
-      [
-        "1P 2m 3m 4P 5P 6M 7m",
-        "dorian b2",
-        "phrygian #6",
-        "melodic minor second mode"
-      ],
-      [
-        "1P 2m 3m 4d 5d 6m 7d",
-        "ultralocrian",
-        "superlocrian bb7",
-        "superlocrian diminished"
-      ],
-      ["1P 2m 3m 4P 5d 6M 7m", "locrian 6", "locrian natural 6", "locrian sharp 6"],
-      ["1P 2A 3M 4P 5P 5A 7M", "augmented heptatonic"],
-      // Source https://en.wikipedia.org/wiki/Ukrainian_Dorian_scale
-      [
-        "1P 2M 3m 4A 5P 6M 7m",
-        "dorian #4",
-        "ukrainian dorian",
-        "romanian minor",
-        "altered dorian"
-      ],
-      ["1P 2M 3m 4A 5P 6M 7M", "lydian diminished"],
-      ["1P 2M 3M 4A 5A 7m 7M", "leading whole tone"],
-      ["1P 2M 3M 4A 5P 6m 7m", "lydian minor"],
-      ["1P 2m 3M 4P 5P 6m 7m", "phrygian dominant", "spanish", "phrygian major"],
-      ["1P 2m 3m 4P 5P 6m 7M", "balinese"],
-      // Source: https://en.wikipedia.org/wiki/Neapolitan_scale
-      ["1P 2m 3m 4P 5P 6M 7M", "neapolitan major"],
-      ["1P 2M 3M 4P 5P 6m 7M", "harmonic major"],
-      ["1P 2m 3M 4P 5P 6m 7M", "double harmonic major", "gypsy"],
-      ["1P 2M 3m 4A 5P 6m 7M", "hungarian minor"],
-      ["1P 2A 3M 4A 5P 6M 7m", "hungarian major"],
-      ["1P 2m 3M 4P 5d 6M 7m", "oriental"],
-      ["1P 2m 3m 3M 4A 5P 7m", "flamenco"],
-      ["1P 2m 3m 4A 5P 6m 7M", "todi raga"],
-      ["1P 2m 3M 4P 5d 6m 7M", "persian"],
-      ["1P 2m 3M 5d 6m 7m 7M", "enigmatic"],
-      [
-        "1P 2M 3M 4P 5A 6M 7M",
-        "major augmented",
-        "major #5",
-        "ionian augmented",
-        "ionian #5"
-      ],
-      ["1P 2A 3M 4A 5P 6M 7M", "lydian #9"],
-      // 8-note scales
-      ["1P 2m 2M 4P 4A 5P 6m 7M", "messiaen's mode #4"],
-      ["1P 2m 3M 4P 4A 5P 6m 7M", "purvi raga"],
-      ["1P 2m 3m 3M 4P 5P 6m 7m", "spanish heptatonic"],
-      ["1P 2M 3m 3M 4P 5P 6M 7m", "bebop minor"],
-      ["1P 2M 3M 4P 5P 5A 6M 7M", "bebop major"],
-      ["1P 2m 3m 4P 5d 5P 6m 7m", "bebop locrian"],
-      ["1P 2M 3m 4P 5P 6m 7m 7M", "minor bebop"],
-      ["1P 2M 3M 4P 5d 5P 6M 7M", "ichikosucho"],
-      ["1P 2M 3m 4P 5P 6m 6M 7M", "minor six diminished"],
-      [
-        "1P 2m 3m 3M 4A 5P 6M 7m",
-        "half-whole diminished",
-        "dominant diminished",
-        "messiaen's mode #2"
-      ],
-      ["1P 3m 3M 4P 5P 6M 7m 7M", "kafi raga"],
-      ["1P 2M 3M 4P 4A 5A 6A 7M", "messiaen's mode #6"],
-      // 9-note scales
-      ["1P 2M 3m 3M 4P 5d 5P 6M 7m", "composite blues"],
-      ["1P 2M 3m 3M 4A 5P 6m 7m 7M", "messiaen's mode #3"],
-      // 10-note scales
-      ["1P 2m 2M 3m 4P 4A 5P 6m 6M 7M", "messiaen's mode #7"],
-      // 12-note scales
-      ["1P 2m 2M 3m 3M 4P 5d 5P 6m 6M 7m 7M", "chromatic"]
-    ];
-    var data_default42 = SCALES2;
-    var NoScaleType2 = {
-      ...EmptyPcset2,
-      intervals: [],
-      aliases: []
-    };
-    var dictionary32 = [];
-    var index32 = {};
-    function get32(type) {
-      return index32[type] || NoScaleType2;
-    }
-    function add32(intervals, name22, aliases = []) {
-      const scale = { ...get8(intervals), name: name22, intervals, aliases };
-      dictionary32.push(scale);
-      index32[scale.name] = scale;
-      index32[scale.setNum] = scale;
-      index32[scale.chroma] = scale;
-      scale.aliases.forEach((alias) => addAlias32(scale, alias));
-      return scale;
-    }
-    function addAlias32(scale, alias) {
-      index32[alias] = scale;
-    }
-    data_default42.forEach(
-      ([ivls, name22, ...aliases]) => add32(ivls.split(" "), name22, aliases)
-    );
-    var NoChord2 = {
-      empty: true,
-      name: "",
-      symbol: "",
-      root: "",
-      rootDegree: 0,
-      type: "",
-      tonic: null,
-      setNum: NaN,
-      quality: "Unknown",
-      chroma: "",
-      normalized: "",
-      aliases: [],
-      notes: [],
-      intervals: []
-    };
-    function tokenize3(name22) {
-      const [letter, acc, oct, type] = tokenizeNote22(name22);
-      if (letter === "") {
-        return ["", name22];
-      }
-      if (letter === "A" && type === "ug") {
-        return ["", "aug"];
-      }
-      return [letter + acc, oct + type];
-    }
-    function get42(src) {
-      if (src === "") {
-        return NoChord2;
-      }
-      if (Array.isArray(src) && src.length === 2) {
-        return getChord2(src[1], src[0]);
-      } else {
-        const [tonic, type] = tokenize3(src);
-        const chord22 = getChord2(type, tonic);
-        return chord22.empty ? getChord2(src) : chord22;
-      }
-    }
-    function getChord2(typeName, optionalTonic, optionalRoot) {
-      const type = get22(typeName);
-      const tonic = note22(optionalTonic || "");
-      const root2 = note22(optionalRoot || "");
-      if (type.empty || optionalTonic && tonic.empty || optionalRoot && root2.empty) {
-        return NoChord2;
-      }
-      const rootInterval = distance22(tonic.pc, root2.pc);
-      const rootDegree = type.intervals.indexOf(rootInterval) + 1;
-      if (!root2.empty && !rootDegree) {
-        return NoChord2;
-      }
-      const intervals = Array.from(type.intervals);
-      for (let i = 1; i < rootDegree; i++) {
-        const num = intervals[0][0];
-        const quality = intervals[0][1];
-        const newNum = parseInt(num, 10) + 7;
-        intervals.push(`${newNum}${quality}`);
-        intervals.shift();
-      }
-      const notes2 = tonic.empty ? [] : intervals.map((i) => transpose22(tonic, i));
-      typeName = type.aliases.indexOf(typeName) !== -1 ? typeName : type.aliases[0];
-      const symbol = `${tonic.empty ? "" : tonic.pc}${typeName}${root2.empty || rootDegree <= 1 ? "" : "/" + root2.pc}`;
-      const name22 = `${optionalTonic ? tonic.pc + " " : ""}${type.name}${rootDegree > 1 && optionalRoot ? " over " + root2.pc : ""}`;
-      return {
-        ...type,
-        name: name22,
-        symbol,
-        type: type.name,
-        root: root2.name,
-        intervals,
-        rootDegree,
-        tonic: tonic.name,
-        notes: notes2
-      };
-    }
-    var chord2 = deprecate2("Chord.chord", "Chord.get", get42);
-    var DATA2 = [
-      [
-        0.125,
-        "dl",
-        ["large", "duplex longa", "maxima", "octuple", "octuple whole"]
-      ],
-      [0.25, "l", ["long", "longa"]],
-      [0.5, "d", ["double whole", "double", "breve"]],
-      [1, "w", ["whole", "semibreve"]],
-      [2, "h", ["half", "minim"]],
-      [4, "q", ["quarter", "crotchet"]],
-      [8, "e", ["eighth", "quaver"]],
-      [16, "s", ["sixteenth", "semiquaver"]],
-      [32, "t", ["thirty-second", "demisemiquaver"]],
-      [64, "sf", ["sixty-fourth", "hemidemisemiquaver"]],
-      [128, "h", ["hundred twenty-eighth"]],
-      [256, "th", ["two hundred fifty-sixth"]]
-    ];
-    var data_default5 = DATA2;
-    var VALUES2 = [];
-    data_default5.forEach(
-      ([denominator, shorthand, names22]) => add42(denominator, shorthand, names22)
-    );
-    function add42(denominator, shorthand, names22) {
-      VALUES2.push({
-        empty: false,
-        dots: "",
-        name: "",
-        value: 1 / denominator,
-        fraction: denominator < 1 ? [1 / denominator, 1] : [1, denominator],
-        shorthand,
-        names: names22
-      });
-    }
-    var IQ2 = "P m M m M P d P m M m M".split(" ");
-    var add52 = combinator2((a, b) => [a[0] + b[0], a[1] + b[1]]);
-    var substract = combinator2((a, b) => [a[0] - b[0], a[1] - b[1]]);
-    function combinator2(fn) {
-      return (a, b) => {
-        const coordA = interval3(a).coord;
-        const coordB = interval3(b).coord;
-        if (coordA && coordB) {
-          const coord = fn(coordA, coordB);
-          return coordToInterval22(coord).name;
-        }
-      };
-    }
-    var L22 = Math.log(2);
-    var L4402 = Math.log(440);
-    function freqToMidi2(freq22) {
-      const v = 12 * (Math.log(freq22) - L4402) / L22 + 69;
-      return Math.round(v * 100) / 100;
-    }
-    var SHARPS2 = "C C# D D# E F F# G G# A A# B".split(" ");
-    var FLATS2 = "C Db D Eb E F Gb G Ab A Bb B".split(" ");
-    function midiToNoteName2(midi22, options = {}) {
-      if (isNaN(midi22) || midi22 === -Infinity || midi22 === Infinity) return "";
-      midi22 = Math.round(midi22);
-      const pcs = options.sharps === true ? SHARPS2 : FLATS2;
-      const pc = pcs[midi22 % 12];
-      if (options.pitchClass) {
-        return pc;
-      }
-      const o = Math.floor(midi22 / 12) - 1;
-      return pc + o;
-    }
-    var NAMES3 = ["C", "D", "E", "F", "G", "A", "B"];
-    var toName2 = (n2) => n2.name;
-    var onlyNotes2 = (array2) => array2.map(note2).filter((n2) => !n2.empty);
-    function names3(array2) {
-      if (array2 === void 0) {
-        return NAMES3.slice();
-      } else if (!Array.isArray(array2)) {
-        return [];
-      } else {
-        return onlyNotes2(array2).map(toName2);
-      }
-    }
-    var get52 = note2;
-    var name2 = (note3) => get52(note3).name;
-    var pitchClass2 = (note3) => get52(note3).pc;
-    var accidentals2 = (note3) => get52(note3).acc;
-    var octave2 = (note3) => get52(note3).oct;
-    var midi2 = (note3) => get52(note3).midi;
-    var freq2 = (note3) => get52(note3).freq;
-    var chroma3 = (note3) => get52(note3).chroma;
-    function fromMidi2(midi22) {
-      return midiToNoteName2(midi22);
-    }
-    function fromFreq2(freq22) {
-      return midiToNoteName2(freqToMidi2(freq22));
-    }
-    function fromFreqSharps2(freq22) {
-      return midiToNoteName2(freqToMidi2(freq22), { sharps: true });
-    }
-    function fromMidiSharps2(midi22) {
-      return midiToNoteName2(midi22, { sharps: true });
-    }
-    var distance32 = distance3;
-    var transpose32 = transpose4;
-    var tr2 = transpose4;
-    var transposeBy2 = (interval7) => (note3) => transpose32(note3, interval7);
-    var trBy2 = transposeBy2;
-    var transposeFrom2 = (note3) => (interval7) => transpose32(note3, interval7);
-    var trFrom2 = transposeFrom2;
-    function transposeFifths3(noteName, fifths) {
-      return transpose32(noteName, [fifths, 0]);
-    }
-    var trFifths2 = transposeFifths3;
-    function transposeOctaves2(noteName, octaves) {
-      return transpose32(noteName, [0, octaves]);
-    }
-    var ascending22 = (a, b) => a.height - b.height;
-    var descending2 = (a, b) => b.height - a.height;
-    function sortedNames2(notes2, comparator) {
-      comparator = comparator || ascending22;
-      return onlyNotes2(notes2).sort(comparator).map(toName2);
-    }
-    function sortedUniqNames2(notes2) {
-      return sortedNames2(notes2, ascending22).filter(
-        (n2, i, a) => i === 0 || n2 !== a[i - 1]
-      );
-    }
-    var simplify3 = (noteName) => {
-      const note3 = get52(noteName);
-      if (note3.empty) {
-        return "";
-      }
-      return midiToNoteName2(note3.midi || note3.chroma, {
-        sharps: note3.alt > 0,
-        pitchClass: note3.midi === null
-      });
-    };
+    var get8 = note2;
+    var midi2 = (note22) => get8(note22).midi;
     function enharmonic2(noteName, destName) {
-      const src = get52(noteName);
+      const src = get8(noteName);
       if (src.empty) {
         return "";
       }
-      const dest = get52(
+      const dest = get8(
         destName || midiToNoteName2(src.midi || src.chroma, {
           sharps: src.alt < 0,
           pitchClass: true
@@ -21311,1063 +20021,45 @@
       const destOct = src.oct + destOctOffset;
       return dest.pc + destOct;
     }
-    var index_default6 = {
-      names: names3,
-      get: get52,
-      name: name2,
-      pitchClass: pitchClass2,
-      accidentals: accidentals2,
-      octave: octave2,
-      midi: midi2,
-      ascending: ascending22,
-      descending: descending2,
-      distance: distance32,
-      sortedNames: sortedNames2,
-      sortedUniqNames: sortedUniqNames2,
-      fromMidi: fromMidi2,
-      fromMidiSharps: fromMidiSharps2,
-      freq: freq2,
-      fromFreq: fromFreq2,
-      fromFreqSharps: fromFreqSharps2,
-      chroma: chroma3,
-      transpose: transpose32,
-      tr: tr2,
-      transposeBy: transposeBy2,
-      trBy: trBy2,
-      transposeFrom: transposeFrom2,
-      trFrom: trFrom2,
-      transposeFifths: transposeFifths3,
-      transposeOctaves: transposeOctaves2,
-      trFifths: trFifths2,
-      simplify: simplify3,
-      enharmonic: enharmonic2
-    };
-    function isNamedPitch5(src) {
-      return src !== null && typeof src === "object" && "name" in src && typeof src.name === "string" ? true : false;
-    }
-    function isPitch5(pitch222) {
-      return pitch222 !== null && typeof pitch222 === "object" && "step" in pitch222 && typeof pitch222.step === "number" && "alt" in pitch222 && typeof pitch222.alt === "number" && !isNaN(pitch222.step) && !isNaN(pitch222.alt) ? true : false;
-    }
-    var FIFTHS5 = [0, 2, 4, -1, 1, 3, 5];
-    var STEPS_TO_OCTS5 = FIFTHS5.map(
-      (fifths) => Math.floor(fifths * 7 / 12)
-    );
-    function coordinates5(pitch222) {
-      const { step, alt, oct, dir = 1 } = pitch222;
-      const f = FIFTHS5[step] + 7 * alt;
-      if (oct === void 0) {
-        return [dir * f];
-      }
-      const o = oct - STEPS_TO_OCTS5[step] - 4 * alt;
-      return [dir * f, dir * o];
-    }
-    var fillStr6 = (s, n2) => Array(Math.abs(n2) + 1).join(s);
-    var NoInterval4 = Object.freeze({
-      empty: true,
-      name: "",
-      num: NaN,
-      q: "",
-      type: "",
-      step: NaN,
-      alt: NaN,
-      dir: NaN,
-      simple: NaN,
-      semitones: NaN,
-      chroma: NaN,
-      coord: [],
-      oct: NaN
-    });
-    var INTERVAL_TONAL_REGEX4 = "([-+]?\\d+)(d{1,4}|m|M|P|A{1,4})";
-    var INTERVAL_SHORTHAND_REGEX4 = "(AA|A|P|M|m|d|dd)([-+]?\\d+)";
-    var REGEX7 = new RegExp(
-      "^" + INTERVAL_TONAL_REGEX4 + "|" + INTERVAL_SHORTHAND_REGEX4 + "$"
-    );
-    function tokenizeInterval4(str) {
-      const m = REGEX7.exec(`${str}`);
-      if (m === null) {
-        return ["", ""];
-      }
-      return m[1] ? [m[1], m[2]] : [m[4], m[3]];
-    }
-    var cache7 = {};
-    function interval4(src) {
-      return typeof src === "string" ? cache7[src] || (cache7[src] = parse6(src)) : isPitch5(src) ? interval4(pitchName6(src)) : isNamedPitch5(src) ? interval4(src.name) : NoInterval4;
-    }
-    var SIZES4 = [0, 2, 4, 5, 7, 9, 11];
-    var TYPES4 = "PMMPPMM";
-    function parse6(str) {
-      const tokens = tokenizeInterval4(str);
-      if (tokens[0] === "") {
-        return NoInterval4;
-      }
-      const num = +tokens[0];
-      const q = tokens[1];
-      const step = (Math.abs(num) - 1) % 7;
-      const t = TYPES4[step];
-      if (t === "M" && q === "P") {
-        return NoInterval4;
-      }
-      const type = t === "M" ? "majorable" : "perfectable";
-      const name22 = "" + num + q;
-      const dir = num < 0 ? -1 : 1;
-      const simple = num === 8 || num === -8 ? num : dir * (step + 1);
-      const alt = qToAlt4(type, q);
-      const oct = Math.floor((Math.abs(num) - 1) / 7);
-      const semitones = dir * (SIZES4[step] + alt + 12 * oct);
-      const chroma32 = (dir * (SIZES4[step] + alt) % 12 + 12) % 12;
-      const coord = coordinates5({ step, alt, oct, dir });
-      return {
-        empty: false,
-        name: name22,
-        num,
-        q,
-        step,
-        alt,
-        dir,
-        type,
-        simple,
-        semitones,
-        chroma: chroma32,
-        coord,
-        oct
-      };
-    }
-    function qToAlt4(type, q) {
-      return q === "M" && type === "majorable" || q === "P" && type === "perfectable" ? 0 : q === "m" && type === "majorable" ? -1 : /^A+$/.test(q) ? q.length : /^d+$/.test(q) ? -1 * (type === "perfectable" ? q.length : q.length + 1) : 0;
-    }
-    function pitchName6(props) {
-      const { step, alt, oct = 0, dir } = props;
-      if (!dir) {
-        return "";
-      }
-      const calcNum = step + 1 + 7 * oct;
-      const num = calcNum === 0 ? step + 1 : calcNum;
-      const d = dir < 0 ? "-" : "";
-      const type = TYPES4[step] === "M" ? "majorable" : "perfectable";
-      const name22 = d + num + altToQ4(type, alt);
-      return name22;
-    }
-    function altToQ4(type, alt) {
-      if (alt === 0) {
-        return type === "majorable" ? "M" : "P";
-      } else if (alt === -1 && type === "majorable") {
-        return "m";
-      } else if (alt > 0) {
-        return fillStr6("A", alt);
-      } else {
-        return fillStr6("d", type === "perfectable" ? alt : alt + 1);
-      }
-    }
-    var NoRomanNumeral2 = { empty: true, name: "", chordType: "" };
-    var cache8 = {};
-    function get62(src) {
-      return typeof src === "string" ? cache8[src] || (cache8[src] = parse7(src)) : typeof src === "number" ? get62(NAMES22[src] || "") : isPitch5(src) ? fromPitch2(src) : isNamedPitch5(src) ? get62(src.name) : NoRomanNumeral2;
-    }
-    function fromPitch2(pitch8) {
-      return get62(altToAcc2(pitch8.alt) + NAMES22[pitch8.step]);
-    }
-    var REGEX8 = /^(#{1,}|b{1,}|x{1,}|)(IV|I{1,3}|VI{0,2}|iv|i{1,3}|vi{0,2})([^IViv]*)$/;
-    function tokenize22(str) {
-      return REGEX8.exec(str) || ["", "", "", ""];
-    }
-    var ROMANS2 = "I II III IV V VI VII";
-    var NAMES22 = ROMANS2.split(" ");
-    var NAMES_MINOR2 = ROMANS2.toLowerCase().split(" ");
-    function parse7(src) {
-      const [name22, acc, roman, chordType2] = tokenize22(src);
-      if (!roman) {
-        return NoRomanNumeral2;
-      }
-      const upperRoman = roman.toUpperCase();
-      const step = NAMES22.indexOf(upperRoman);
-      const alt = accToAlt2(acc);
-      const dir = 1;
-      return {
-        empty: false,
-        name: name22,
-        roman,
-        interval: interval4({ step, alt, dir }).name,
-        acc,
-        chordType: chordType2,
-        alt,
-        step,
-        major: roman === upperRoman,
-        oct: 0,
-        dir
-      };
-    }
-    var Empty2 = Object.freeze([]);
-    var NoKey2 = {
-      type: "major",
-      tonic: "",
-      alteration: 0,
-      keySignature: ""
-    };
-    var NoKeyScale2 = {
-      tonic: "",
-      grades: Empty2,
-      intervals: Empty2,
-      scale: Empty2,
-      triads: Empty2,
-      chords: Empty2,
-      chordsHarmonicFunction: Empty2,
-      chordScales: Empty2,
-      secondaryDominants: Empty2,
-      secondaryDominantSupertonics: Empty2,
-      substituteDominantsMinorRelative: Empty2,
-      substituteDominants: Empty2,
-      substituteDominantSupertonics: Empty2,
-      secondaryDominantsMinorRelative: Empty2
-    };
-    var NoMajorKey2 = {
-      ...NoKey2,
-      ...NoKeyScale2,
-      type: "major",
-      minorRelative: "",
-      scale: Empty2,
-      substituteDominants: Empty2,
-      secondaryDominantSupertonics: Empty2,
-      substituteDominantsMinorRelative: Empty2
-    };
-    var NoMinorKey2 = {
-      ...NoKey2,
-      type: "minor",
-      relativeMajor: "",
-      natural: NoKeyScale2,
-      harmonic: NoKeyScale2,
-      melodic: NoKeyScale2
-    };
-    var mapScaleToType2 = (scale, list, sep = "") => list.map((type, i) => `${scale[i]}${sep}${type}`);
-    function keyScale2(grades, triads22, chordTypes, harmonicFunctions, chordScales2) {
-      return (tonic) => {
-        const intervals = grades.map((gr) => get62(gr).interval || "");
-        const scale = intervals.map((interval7) => transpose32(tonic, interval7));
-        const chords22 = mapScaleToType2(scale, chordTypes);
-        const secondaryDominants = scale.map((note222) => transpose32(note222, "5P")).map(
-          (note222) => (
-            // A secondary dominant is a V chord which:
-            // 1. is not diatonic to the key,
-            // 2. it must have a diatonic root.
-            scale.includes(note222) && !chords22.includes(note222 + "7") ? note222 + "7" : ""
-          )
-        );
-        const secondaryDominantSupertonics = supertonics2(
-          secondaryDominants,
-          triads22
-        );
-        const substituteDominants = secondaryDominants.map((chord22) => {
-          if (!chord22) return "";
-          const domRoot = chord22.slice(0, -1);
-          const subRoot = transpose32(domRoot, "5d");
-          return subRoot + "7";
-        });
-        const substituteDominantSupertonics = supertonics2(
-          substituteDominants,
-          triads22
-        );
-        return {
-          tonic,
-          grades,
-          intervals,
-          scale,
-          triads: mapScaleToType2(scale, triads22),
-          chords: chords22,
-          chordsHarmonicFunction: harmonicFunctions.slice(),
-          chordScales: mapScaleToType2(scale, chordScales2, " "),
-          secondaryDominants,
-          secondaryDominantSupertonics,
-          substituteDominants,
-          substituteDominantSupertonics,
-          // @deprecated use secondaryDominantsSupertonic
-          secondaryDominantsMinorRelative: secondaryDominantSupertonics,
-          // @deprecated use secondaryDominantsSupertonic
-          substituteDominantsMinorRelative: substituteDominantSupertonics
-        };
-      };
-    }
-    var supertonics2 = (dominants, targetTriads) => {
-      return dominants.map((chord22, index7) => {
-        if (!chord22) return "";
-        const domRoot = chord22.slice(0, -1);
-        const minorRoot = transpose32(domRoot, "5P");
-        const target = targetTriads[index7];
-        const isMinor = target.endsWith("m");
-        return isMinor ? minorRoot + "m7" : minorRoot + "m7b5";
-      });
-    };
-    var MajorScale2 = keyScale2(
-      "I II III IV V VI VII".split(" "),
-      " m m   m dim".split(" "),
-      "maj7 m7 m7 maj7 7 m7 m7b5".split(" "),
-      "T SD T SD D T D".split(" "),
-      "major,dorian,phrygian,lydian,mixolydian,minor,locrian".split(",")
-    );
-    var NaturalScale2 = keyScale2(
-      "I II bIII IV V bVI bVII".split(" "),
-      "m dim  m m  ".split(" "),
-      "m7 m7b5 maj7 m7 m7 maj7 7".split(" "),
-      "T SD T SD D SD SD".split(" "),
-      "minor,locrian,major,dorian,phrygian,lydian,mixolydian".split(",")
-    );
-    var HarmonicScale2 = keyScale2(
-      "I II bIII IV V bVI VII".split(" "),
-      "m dim aug m   dim".split(" "),
-      "mMaj7 m7b5 +maj7 m7 7 maj7 o7".split(" "),
-      "T SD T SD D SD D".split(" "),
-      "harmonic minor,locrian 6,major augmented,lydian diminished,phrygian dominant,lydian #9,ultralocrian".split(
-        ","
-      )
-    );
-    var MelodicScale2 = keyScale2(
-      "I II bIII IV V VI VII".split(" "),
-      "m m aug   dim dim".split(" "),
-      "m6 m7 +maj7 7 7 m7b5 m7b5".split(" "),
-      "T SD T SD D  ".split(" "),
-      "melodic minor,dorian b2,lydian augmented,lydian dominant,mixolydian b6,locrian #2,altered".split(
-        ","
-      )
-    );
-    function isNamedPitch6(src) {
-      return src !== null && typeof src === "object" && "name" in src && typeof src.name === "string" ? true : false;
-    }
-    function isPitch6(pitch222) {
-      return pitch222 !== null && typeof pitch222 === "object" && "step" in pitch222 && typeof pitch222.step === "number" && "alt" in pitch222 && typeof pitch222.alt === "number" && !isNaN(pitch222.step) && !isNaN(pitch222.alt) ? true : false;
-    }
-    var FIFTHS6 = [0, 2, 4, -1, 1, 3, 5];
-    var STEPS_TO_OCTS6 = FIFTHS6.map(
-      (fifths) => Math.floor(fifths * 7 / 12)
-    );
-    function coordinates6(pitch222) {
-      const { step, alt, oct, dir = 1 } = pitch222;
-      const f = FIFTHS6[step] + 7 * alt;
-      if (oct === void 0) {
-        return [dir * f];
-      }
-      const o = oct - STEPS_TO_OCTS6[step] - 4 * alt;
-      return [dir * f, dir * o];
-    }
-    var FIFTHS_TO_STEPS4 = [3, 0, 4, 1, 5, 2, 6];
-    function pitch6(coord) {
-      const [f, o, dir] = coord;
-      const step = FIFTHS_TO_STEPS4[unaltered4(f)];
-      const alt = Math.floor((f + 1) / 7);
-      if (o === void 0) {
-        return { step, alt, dir };
-      }
-      const oct = o + 4 * alt + STEPS_TO_OCTS6[step];
-      return { step, alt, oct, dir };
-    }
-    function unaltered4(f) {
-      const i = (f + 1) % 7;
-      return i < 0 ? 7 + i : i;
-    }
-    var fillStr7 = (s, n2) => Array(Math.abs(n2) + 1).join(s);
-    var NoInterval5 = Object.freeze({
-      empty: true,
-      name: "",
-      num: NaN,
-      q: "",
-      type: "",
-      step: NaN,
-      alt: NaN,
-      dir: NaN,
-      simple: NaN,
-      semitones: NaN,
-      chroma: NaN,
-      coord: [],
-      oct: NaN
-    });
-    var INTERVAL_TONAL_REGEX5 = "([-+]?\\d+)(d{1,4}|m|M|P|A{1,4})";
-    var INTERVAL_SHORTHAND_REGEX5 = "(AA|A|P|M|m|d|dd)([-+]?\\d+)";
-    var REGEX9 = new RegExp(
-      "^" + INTERVAL_TONAL_REGEX5 + "|" + INTERVAL_SHORTHAND_REGEX5 + "$"
-    );
-    function tokenizeInterval5(str) {
-      const m = REGEX9.exec(`${str}`);
-      if (m === null) {
-        return ["", ""];
-      }
-      return m[1] ? [m[1], m[2]] : [m[4], m[3]];
-    }
-    var cache9 = {};
-    function interval5(src) {
-      return typeof src === "string" ? cache9[src] || (cache9[src] = parse8(src)) : isPitch6(src) ? interval5(pitchName7(src)) : isNamedPitch6(src) ? interval5(src.name) : NoInterval5;
-    }
-    var SIZES5 = [0, 2, 4, 5, 7, 9, 11];
-    var TYPES5 = "PMMPPMM";
-    function parse8(str) {
-      const tokens = tokenizeInterval5(str);
-      if (tokens[0] === "") {
-        return NoInterval5;
-      }
-      const num = +tokens[0];
-      const q = tokens[1];
-      const step = (Math.abs(num) - 1) % 7;
-      const t = TYPES5[step];
-      if (t === "M" && q === "P") {
-        return NoInterval5;
-      }
-      const type = t === "M" ? "majorable" : "perfectable";
-      const name22 = "" + num + q;
-      const dir = num < 0 ? -1 : 1;
-      const simple = num === 8 || num === -8 ? num : dir * (step + 1);
-      const alt = qToAlt5(type, q);
-      const oct = Math.floor((Math.abs(num) - 1) / 7);
-      const semitones = dir * (SIZES5[step] + alt + 12 * oct);
-      const chroma32 = (dir * (SIZES5[step] + alt) % 12 + 12) % 12;
-      const coord = coordinates6({ step, alt, oct, dir });
-      return {
-        empty: false,
-        name: name22,
-        num,
-        q,
-        step,
-        alt,
-        dir,
-        type,
-        simple,
-        semitones,
-        chroma: chroma32,
-        coord,
-        oct
-      };
-    }
-    function coordToInterval3(coord, forceDescending) {
-      const [f, o = 0] = coord;
-      const isDescending = f * 7 + o * 12 < 0;
-      const ivl = forceDescending || isDescending ? [-f, -o, -1] : [f, o, 1];
-      return interval5(pitch6(ivl));
-    }
-    function qToAlt5(type, q) {
-      return q === "M" && type === "majorable" || q === "P" && type === "perfectable" ? 0 : q === "m" && type === "majorable" ? -1 : /^A+$/.test(q) ? q.length : /^d+$/.test(q) ? -1 * (type === "perfectable" ? q.length : q.length + 1) : 0;
-    }
-    function pitchName7(props) {
-      const { step, alt, oct = 0, dir } = props;
-      if (!dir) {
-        return "";
-      }
-      const calcNum = step + 1 + 7 * oct;
-      const num = calcNum === 0 ? step + 1 : calcNum;
-      const d = dir < 0 ? "-" : "";
-      const type = TYPES5[step] === "M" ? "majorable" : "perfectable";
-      const name22 = d + num + altToQ5(type, alt);
-      return name22;
-    }
-    function altToQ5(type, alt) {
-      if (alt === 0) {
-        return type === "majorable" ? "M" : "P";
-      } else if (alt === -1 && type === "majorable") {
-        return "m";
-      } else if (alt > 0) {
-        return fillStr7("A", alt);
-      } else {
-        return fillStr7("d", type === "perfectable" ? alt : alt + 1);
-      }
-    }
-    var IQ22 = "P m M m M P d P m M m M".split(" ");
-    var add6 = combinator22((a, b) => [a[0] + b[0], a[1] + b[1]]);
-    var subtract2 = combinator22((a, b) => [a[0] - b[0], a[1] - b[1]]);
-    function combinator22(fn) {
-      return (a, b) => {
-        const coordA = interval5(a).coord;
-        const coordB = interval5(b).coord;
-        if (coordA && coordB) {
-          const coord = fn(coordA, coordB);
-          return coordToInterval3(coord).name;
-        }
-      };
-    }
-    var MODES2 = [
-      [0, 2773, 0, "ionian", "", "Maj7", "major"],
-      [1, 2902, 2, "dorian", "m", "m7"],
-      [2, 3418, 4, "phrygian", "m", "m7"],
-      [3, 2741, -1, "lydian", "", "Maj7"],
-      [4, 2774, 1, "mixolydian", "", "7"],
-      [5, 2906, 3, "aeolian", "m", "m7", "minor"],
-      [6, 3434, 5, "locrian", "dim", "m7b5"]
-    ];
-    var NoMode2 = {
-      ...EmptyPcset2,
-      name: "",
-      alt: 0,
-      modeNum: NaN,
-      triad: "",
-      seventh: "",
-      aliases: []
-    };
-    var modes22 = MODES2.map(toMode2);
-    var index42 = {};
-    modes22.forEach((mode2) => {
-      index42[mode2.name] = mode2;
-      mode2.aliases.forEach((alias) => {
-        index42[alias] = mode2;
-      });
-    });
-    function get72(name22) {
-      return typeof name22 === "string" ? index42[name22.toLowerCase()] || NoMode2 : name22 && name22.name ? get72(name22.name) : NoMode2;
-    }
-    function toMode2(mode2) {
-      const [modeNum, setNum, alt, name22, triad, seventh, alias] = mode2;
-      const aliases = alias ? [alias] : [];
-      const chroma32 = Number(setNum).toString(2);
-      const intervals = get32(name22).intervals;
-      return {
-        empty: false,
-        intervals,
-        modeNum,
-        chroma: chroma32,
-        normalized: chroma32,
-        name: name22,
-        setNum,
-        alt,
-        triad,
-        seventh,
-        aliases
-      };
-    }
-    function chords2(chords22) {
-      return (modeName, tonic) => {
-        const mode2 = get72(modeName);
-        if (mode2.empty) return [];
-        const triads22 = rotate2(mode2.modeNum, chords22);
-        const tonics = mode2.intervals.map((i) => transpose4(tonic, i));
-        return triads22.map((triad, i) => tonics[i] + triad);
-      };
-    }
-    var triads3 = chords2(MODES2.map((x) => x[4]));
-    var seventhChords2 = chords2(MODES2.map((x) => x[5]));
-    var CHORDS3 = [
-      // ==Major==
-      ["1P 3M 5P", "major", "M ^  maj"],
-      ["1P 3M 5P 7M", "major seventh", "maj7 \u0394 ma7 M7 Maj7 ^7"],
-      ["1P 3M 5P 7M 9M", "major ninth", "maj9 \u03949 ^9"],
-      ["1P 3M 5P 7M 9M 13M", "major thirteenth", "maj13 Maj13 ^13"],
-      ["1P 3M 5P 6M", "sixth", "6 add6 add13 M6"],
-      ["1P 3M 5P 6M 9M", "sixth added ninth", "6add9 6/9 69 M69"],
-      ["1P 3M 6m 7M", "major seventh flat sixth", "M7b6 ^7b6"],
-      [
-        "1P 3M 5P 7M 11A",
-        "major seventh sharp eleventh",
-        "maj#4 \u0394#4 \u0394#11 M7#11 ^7#11 maj7#11"
-      ],
-      // ==Minor==
-      // '''Normal'''
-      ["1P 3m 5P", "minor", "m min -"],
-      ["1P 3m 5P 7m", "minor seventh", "m7 min7 mi7 -7"],
-      [
-        "1P 3m 5P 7M",
-        "minor/major seventh",
-        "m/ma7 m/maj7 mM7 mMaj7 m/M7 -\u03947 m\u0394 -^7 -maj7"
-      ],
-      ["1P 3m 5P 6M", "minor sixth", "m6 -6"],
-      ["1P 3m 5P 7m 9M", "minor ninth", "m9 -9"],
-      ["1P 3m 5P 7M 9M", "minor/major ninth", "mM9 mMaj9 -^9"],
-      ["1P 3m 5P 7m 9M 11P", "minor eleventh", "m11 -11"],
-      ["1P 3m 5P 7m 9M 13M", "minor thirteenth", "m13 -13"],
-      // '''Diminished'''
-      ["1P 3m 5d", "diminished", "dim \xB0 o"],
-      ["1P 3m 5d 7d", "diminished seventh", "dim7 \xB07 o7"],
-      ["1P 3m 5d 7m", "half-diminished", "m7b5 \xF8 -7b5 h7 h"],
-      // ==Dominant/Seventh==
-      // '''Normal'''
-      ["1P 3M 5P 7m", "dominant seventh", "7 dom"],
-      ["1P 3M 5P 7m 9M", "dominant ninth", "9"],
-      ["1P 3M 5P 7m 9M 13M", "dominant thirteenth", "13"],
-      ["1P 3M 5P 7m 11A", "lydian dominant seventh", "7#11 7#4"],
-      // '''Altered'''
-      ["1P 3M 5P 7m 9m", "dominant flat ninth", "7b9"],
-      ["1P 3M 5P 7m 9A", "dominant sharp ninth", "7#9"],
-      ["1P 3M 7m 9m", "altered", "alt7"],
-      // '''Suspended'''
-      ["1P 4P 5P", "suspended fourth", "sus4 sus"],
-      ["1P 2M 5P", "suspended second", "sus2"],
-      ["1P 4P 5P 7m", "suspended fourth seventh", "7sus4 7sus"],
-      ["1P 5P 7m 9M 11P", "eleventh", "11"],
-      [
-        "1P 4P 5P 7m 9m",
-        "suspended fourth flat ninth",
-        "b9sus phryg 7b9sus 7b9sus4"
-      ],
-      // ==Other==
-      ["1P 5P", "fifth", "5"],
-      ["1P 3M 5A", "augmented", "aug + +5 ^#5"],
-      ["1P 3m 5A", "minor augmented", "m#5 -#5 m+"],
-      ["1P 3M 5A 7M", "augmented seventh", "maj7#5 maj7+5 +maj7 ^7#5"],
-      [
-        "1P 3M 5P 7M 9M 11A",
-        "major sharp eleventh (lydian)",
-        "maj9#11 \u03949#11 ^9#11"
-      ],
-      // ==Legacy==
-      ["1P 2M 4P 5P", "", "sus24 sus4add9"],
-      ["1P 3M 5A 7M 9M", "", "maj9#5 Maj9#5"],
-      ["1P 3M 5A 7m", "", "7#5 +7 7+ 7aug aug7"],
-      ["1P 3M 5A 7m 9A", "", "7#5#9 7#9#5 7alt"],
-      ["1P 3M 5A 7m 9M", "", "9#5 9+"],
-      ["1P 3M 5A 7m 9M 11A", "", "9#5#11"],
-      ["1P 3M 5A 7m 9m", "", "7#5b9 7b9#5"],
-      ["1P 3M 5A 7m 9m 11A", "", "7#5b9#11"],
-      ["1P 3M 5A 9A", "", "+add#9"],
-      ["1P 3M 5A 9M", "", "M#5add9 +add9"],
-      ["1P 3M 5P 6M 11A", "", "M6#11 M6b5 6#11 6b5"],
-      ["1P 3M 5P 6M 7M 9M", "", "M7add13"],
-      ["1P 3M 5P 6M 9M 11A", "", "69#11"],
-      ["1P 3m 5P 6M 9M", "", "m69 -69"],
-      ["1P 3M 5P 6m 7m", "", "7b6"],
-      ["1P 3M 5P 7M 9A 11A", "", "maj7#9#11"],
-      ["1P 3M 5P 7M 9M 11A 13M", "", "M13#11 maj13#11 M13+4 M13#4"],
-      ["1P 3M 5P 7M 9m", "", "M7b9"],
-      ["1P 3M 5P 7m 11A 13m", "", "7#11b13 7b5b13"],
-      ["1P 3M 5P 7m 13M", "", "7add6 67 7add13"],
-      ["1P 3M 5P 7m 9A 11A", "", "7#9#11 7b5#9 7#9b5"],
-      ["1P 3M 5P 7m 9A 11A 13M", "", "13#9#11"],
-      ["1P 3M 5P 7m 9A 11A 13m", "", "7#9#11b13"],
-      ["1P 3M 5P 7m 9A 13M", "", "13#9"],
-      ["1P 3M 5P 7m 9A 13m", "", "7#9b13"],
-      ["1P 3M 5P 7m 9M 11A", "", "9#11 9+4 9#4"],
-      ["1P 3M 5P 7m 9M 11A 13M", "", "13#11 13+4 13#4"],
-      ["1P 3M 5P 7m 9M 11A 13m", "", "9#11b13 9b5b13"],
-      ["1P 3M 5P 7m 9m 11A", "", "7b9#11 7b5b9 7b9b5"],
-      ["1P 3M 5P 7m 9m 11A 13M", "", "13b9#11"],
-      ["1P 3M 5P 7m 9m 11A 13m", "", "7b9b13#11 7b9#11b13 7b5b9b13"],
-      ["1P 3M 5P 7m 9m 13M", "", "13b9"],
-      ["1P 3M 5P 7m 9m 13m", "", "7b9b13"],
-      ["1P 3M 5P 7m 9m 9A", "", "7b9#9"],
-      ["1P 3M 5P 9M", "", "Madd9 2 add9 add2"],
-      ["1P 3M 5P 9m", "", "Maddb9"],
-      ["1P 3M 5d", "", "Mb5"],
-      ["1P 3M 5d 6M 7m 9M", "", "13b5"],
-      ["1P 3M 5d 7M", "", "M7b5"],
-      ["1P 3M 5d 7M 9M", "", "M9b5"],
-      ["1P 3M 5d 7m", "", "7b5"],
-      ["1P 3M 5d 7m 9M", "", "9b5"],
-      ["1P 3M 7m", "", "7no5"],
-      ["1P 3M 7m 13m", "", "7b13"],
-      ["1P 3M 7m 9M", "", "9no5"],
-      ["1P 3M 7m 9M 13M", "", "13no5"],
-      ["1P 3M 7m 9M 13m", "", "9b13"],
-      ["1P 3m 4P 5P", "", "madd4"],
-      ["1P 3m 5P 6m 7M", "", "mMaj7b6"],
-      ["1P 3m 5P 6m 7M 9M", "", "mMaj9b6"],
-      ["1P 3m 5P 7m 11P", "", "m7add11 m7add4"],
-      ["1P 3m 5P 9M", "", "madd9"],
-      ["1P 3m 5d 6M 7M", "", "o7M7"],
-      ["1P 3m 5d 7M", "", "oM7"],
-      ["1P 3m 6m 7M", "", "mb6M7"],
-      ["1P 3m 6m 7m", "", "m7#5"],
-      ["1P 3m 6m 7m 9M", "", "m9#5"],
-      ["1P 3m 5A 7m 9M 11P", "", "m11A"],
-      ["1P 3m 6m 9m", "", "mb6b9"],
-      ["1P 2M 3m 5d 7m", "", "m9b5"],
-      ["1P 4P 5A 7M", "", "M7#5sus4"],
-      ["1P 4P 5A 7M 9M", "", "M9#5sus4"],
-      ["1P 4P 5A 7m", "", "7#5sus4"],
-      ["1P 4P 5P 7M", "", "M7sus4"],
-      ["1P 4P 5P 7M 9M", "", "M9sus4"],
-      ["1P 4P 5P 7m 9M", "", "9sus4 9sus"],
-      ["1P 4P 5P 7m 9M 13M", "", "13sus4 13sus"],
-      ["1P 4P 5P 7m 9m 13m", "", "7sus4b9b13 7b9b13sus4"],
-      ["1P 4P 7m 10m", "", "4 quartal"],
-      ["1P 5P 7m 9m 11P", "", "11b9"]
-    ];
-    var data_default6 = CHORDS3;
-    var NoChordType3 = {
-      ...EmptyPcset2,
-      name: "",
-      quality: "Unknown",
-      intervals: [],
-      aliases: []
-    };
-    var dictionary4 = [];
-    var index5 = {};
-    function add7(intervals, aliases, fullName) {
-      const quality = getQuality3(intervals);
-      const chord22 = {
-        ...get8(intervals),
-        name: fullName || "",
-        quality,
-        intervals,
-        aliases
-      };
-      dictionary4.push(chord22);
-      if (chord22.name) {
-        index5[chord22.name] = chord22;
-      }
-      index5[chord22.setNum] = chord22;
-      index5[chord22.chroma] = chord22;
-      chord22.aliases.forEach((alias) => addAlias4(chord22, alias));
-    }
-    function addAlias4(chord22, alias) {
-      index5[alias] = chord22;
-    }
-    function getQuality3(intervals) {
-      const has = (interval7) => intervals.indexOf(interval7) !== -1;
-      return has("5A") ? "Augmented" : has("3M") ? "Major" : has("5d") ? "Diminished" : has("3m") ? "Minor" : "Unknown";
-    }
-    data_default6.forEach(
-      ([ivls, fullName, names22]) => add7(ivls.split(" "), names22.split(" "), fullName)
-    );
-    dictionary4.sort((a, b) => a.setNum - b.setNum);
-    function isNamedPitch7(src) {
-      return src !== null && typeof src === "object" && "name" in src && typeof src.name === "string" ? true : false;
-    }
-    function isPitch7(pitch222) {
-      return pitch222 !== null && typeof pitch222 === "object" && "step" in pitch222 && typeof pitch222.step === "number" && "alt" in pitch222 && typeof pitch222.alt === "number" && !isNaN(pitch222.step) && !isNaN(pitch222.alt) ? true : false;
-    }
-    var FIFTHS7 = [0, 2, 4, -1, 1, 3, 5];
-    var STEPS_TO_OCTS7 = FIFTHS7.map(
-      (fifths) => Math.floor(fifths * 7 / 12)
-    );
-    function coordinates7(pitch222) {
-      const { step, alt, oct, dir = 1 } = pitch222;
-      const f = FIFTHS7[step] + 7 * alt;
-      if (oct === void 0) {
-        return [dir * f];
-      }
-      const o = oct - STEPS_TO_OCTS7[step] - 4 * alt;
-      return [dir * f, dir * o];
-    }
-    var FIFTHS_TO_STEPS5 = [3, 0, 4, 1, 5, 2, 6];
-    function pitch7(coord) {
-      const [f, o, dir] = coord;
-      const step = FIFTHS_TO_STEPS5[unaltered5(f)];
-      const alt = Math.floor((f + 1) / 7);
-      if (o === void 0) {
-        return { step, alt, dir };
-      }
-      const oct = o + 4 * alt + STEPS_TO_OCTS7[step];
-      return { step, alt, oct, dir };
-    }
-    function unaltered5(f) {
-      const i = (f + 1) % 7;
-      return i < 0 ? 7 + i : i;
-    }
-    var fillStr8 = (s, n2) => Array(Math.abs(n2) + 1).join(s);
-    var NoInterval6 = Object.freeze({
-      empty: true,
-      name: "",
-      num: NaN,
-      q: "",
-      type: "",
-      step: NaN,
-      alt: NaN,
-      dir: NaN,
-      simple: NaN,
-      semitones: NaN,
-      chroma: NaN,
-      coord: [],
-      oct: NaN
-    });
-    var INTERVAL_TONAL_REGEX6 = "([-+]?\\d+)(d{1,4}|m|M|P|A{1,4})";
-    var INTERVAL_SHORTHAND_REGEX6 = "(AA|A|P|M|m|d|dd)([-+]?\\d+)";
-    var REGEX10 = new RegExp(
-      "^" + INTERVAL_TONAL_REGEX6 + "|" + INTERVAL_SHORTHAND_REGEX6 + "$"
-    );
-    function tokenizeInterval6(str) {
-      const m = REGEX10.exec(`${str}`);
-      if (m === null) {
-        return ["", ""];
-      }
-      return m[1] ? [m[1], m[2]] : [m[4], m[3]];
-    }
-    var cache10 = {};
-    function interval6(src) {
-      return typeof src === "string" ? cache10[src] || (cache10[src] = parse9(src)) : isPitch7(src) ? interval6(pitchName8(src)) : isNamedPitch7(src) ? interval6(src.name) : NoInterval6;
-    }
-    var SIZES6 = [0, 2, 4, 5, 7, 9, 11];
-    var TYPES6 = "PMMPPMM";
-    function parse9(str) {
-      const tokens = tokenizeInterval6(str);
-      if (tokens[0] === "") {
-        return NoInterval6;
-      }
-      const num = +tokens[0];
-      const q = tokens[1];
-      const step = (Math.abs(num) - 1) % 7;
-      const t = TYPES6[step];
-      if (t === "M" && q === "P") {
-        return NoInterval6;
-      }
-      const type = t === "M" ? "majorable" : "perfectable";
-      const name22 = "" + num + q;
-      const dir = num < 0 ? -1 : 1;
-      const simple = num === 8 || num === -8 ? num : dir * (step + 1);
-      const alt = qToAlt6(type, q);
-      const oct = Math.floor((Math.abs(num) - 1) / 7);
-      const semitones = dir * (SIZES6[step] + alt + 12 * oct);
-      const chroma32 = (dir * (SIZES6[step] + alt) % 12 + 12) % 12;
-      const coord = coordinates7({ step, alt, oct, dir });
-      return {
-        empty: false,
-        name: name22,
-        num,
-        q,
-        step,
-        alt,
-        dir,
-        type,
-        simple,
-        semitones,
-        chroma: chroma32,
-        coord,
-        oct
-      };
-    }
-    function coordToInterval4(coord, forceDescending) {
-      const [f, o = 0] = coord;
-      const isDescending = f * 7 + o * 12 < 0;
-      const ivl = forceDescending || isDescending ? [-f, -o, -1] : [f, o, 1];
-      return interval6(pitch7(ivl));
-    }
-    function qToAlt6(type, q) {
-      return q === "M" && type === "majorable" || q === "P" && type === "perfectable" ? 0 : q === "m" && type === "majorable" ? -1 : /^A+$/.test(q) ? q.length : /^d+$/.test(q) ? -1 * (type === "perfectable" ? q.length : q.length + 1) : 0;
-    }
-    function pitchName8(props) {
-      const { step, alt, oct = 0, dir } = props;
-      if (!dir) {
-        return "";
-      }
-      const calcNum = step + 1 + 7 * oct;
-      const num = calcNum === 0 ? step + 1 : calcNum;
-      const d = dir < 0 ? "-" : "";
-      const type = TYPES6[step] === "M" ? "majorable" : "perfectable";
-      const name22 = d + num + altToQ6(type, alt);
-      return name22;
-    }
-    function altToQ6(type, alt) {
-      if (alt === 0) {
-        return type === "majorable" ? "M" : "P";
-      } else if (alt === -1 && type === "majorable") {
-        return "m";
-      } else if (alt > 0) {
-        return fillStr8("A", alt);
-      } else {
-        return fillStr8("d", type === "perfectable" ? alt : alt + 1);
-      }
-    }
-    var IQ3 = "P m M m M P d P m M m M".split(" ");
-    var add8 = combinator3((a, b) => [a[0] + b[0], a[1] + b[1]]);
-    var subtract22 = combinator3((a, b) => [a[0] - b[0], a[1] - b[1]]);
-    function combinator3(fn) {
-      return (a, b) => {
-        const coordA = interval6(a).coord;
-        const coordB = interval6(b).coord;
-        if (coordA && coordB) {
-          const coord = fn(coordA, coordB);
-          return coordToInterval4(coord).name;
-        }
-      };
-    }
-    var CHORDS4 = [
-      // ==Major==
-      ["1P 3M 5P", "major", "M ^  maj"],
-      ["1P 3M 5P 7M", "major seventh", "maj7 \u0394 ma7 M7 Maj7 ^7"],
-      ["1P 3M 5P 7M 9M", "major ninth", "maj9 \u03949 ^9"],
-      ["1P 3M 5P 7M 9M 13M", "major thirteenth", "maj13 Maj13 ^13"],
-      ["1P 3M 5P 6M", "sixth", "6 add6 add13 M6"],
-      ["1P 3M 5P 6M 9M", "sixth added ninth", "6add9 6/9 69 M69"],
-      ["1P 3M 6m 7M", "major seventh flat sixth", "M7b6 ^7b6"],
-      [
-        "1P 3M 5P 7M 11A",
-        "major seventh sharp eleventh",
-        "maj#4 \u0394#4 \u0394#11 M7#11 ^7#11 maj7#11"
-      ],
-      // ==Minor==
-      // '''Normal'''
-      ["1P 3m 5P", "minor", "m min -"],
-      ["1P 3m 5P 7m", "minor seventh", "m7 min7 mi7 -7"],
-      [
-        "1P 3m 5P 7M",
-        "minor/major seventh",
-        "m/ma7 m/maj7 mM7 mMaj7 m/M7 -\u03947 m\u0394 -^7 -maj7"
-      ],
-      ["1P 3m 5P 6M", "minor sixth", "m6 -6"],
-      ["1P 3m 5P 7m 9M", "minor ninth", "m9 -9"],
-      ["1P 3m 5P 7M 9M", "minor/major ninth", "mM9 mMaj9 -^9"],
-      ["1P 3m 5P 7m 9M 11P", "minor eleventh", "m11 -11"],
-      ["1P 3m 5P 7m 9M 13M", "minor thirteenth", "m13 -13"],
-      // '''Diminished'''
-      ["1P 3m 5d", "diminished", "dim \xB0 o"],
-      ["1P 3m 5d 7d", "diminished seventh", "dim7 \xB07 o7"],
-      ["1P 3m 5d 7m", "half-diminished", "m7b5 \xF8 -7b5 h7 h"],
-      // ==Dominant/Seventh==
-      // '''Normal'''
-      ["1P 3M 5P 7m", "dominant seventh", "7 dom"],
-      ["1P 3M 5P 7m 9M", "dominant ninth", "9"],
-      ["1P 3M 5P 7m 9M 13M", "dominant thirteenth", "13"],
-      ["1P 3M 5P 7m 11A", "lydian dominant seventh", "7#11 7#4"],
-      // '''Altered'''
-      ["1P 3M 5P 7m 9m", "dominant flat ninth", "7b9"],
-      ["1P 3M 5P 7m 9A", "dominant sharp ninth", "7#9"],
-      ["1P 3M 7m 9m", "altered", "alt7"],
-      // '''Suspended'''
-      ["1P 4P 5P", "suspended fourth", "sus4 sus"],
-      ["1P 2M 5P", "suspended second", "sus2"],
-      ["1P 4P 5P 7m", "suspended fourth seventh", "7sus4 7sus"],
-      ["1P 5P 7m 9M 11P", "eleventh", "11"],
-      [
-        "1P 4P 5P 7m 9m",
-        "suspended fourth flat ninth",
-        "b9sus phryg 7b9sus 7b9sus4"
-      ],
-      // ==Other==
-      ["1P 5P", "fifth", "5"],
-      ["1P 3M 5A", "augmented", "aug + +5 ^#5"],
-      ["1P 3m 5A", "minor augmented", "m#5 -#5 m+"],
-      ["1P 3M 5A 7M", "augmented seventh", "maj7#5 maj7+5 +maj7 ^7#5"],
-      [
-        "1P 3M 5P 7M 9M 11A",
-        "major sharp eleventh (lydian)",
-        "maj9#11 \u03949#11 ^9#11"
-      ],
-      // ==Legacy==
-      ["1P 2M 4P 5P", "", "sus24 sus4add9"],
-      ["1P 3M 5A 7M 9M", "", "maj9#5 Maj9#5"],
-      ["1P 3M 5A 7m", "", "7#5 +7 7+ 7aug aug7"],
-      ["1P 3M 5A 7m 9A", "", "7#5#9 7#9#5 7alt"],
-      ["1P 3M 5A 7m 9M", "", "9#5 9+"],
-      ["1P 3M 5A 7m 9M 11A", "", "9#5#11"],
-      ["1P 3M 5A 7m 9m", "", "7#5b9 7b9#5"],
-      ["1P 3M 5A 7m 9m 11A", "", "7#5b9#11"],
-      ["1P 3M 5A 9A", "", "+add#9"],
-      ["1P 3M 5A 9M", "", "M#5add9 +add9"],
-      ["1P 3M 5P 6M 11A", "", "M6#11 M6b5 6#11 6b5"],
-      ["1P 3M 5P 6M 7M 9M", "", "M7add13"],
-      ["1P 3M 5P 6M 9M 11A", "", "69#11"],
-      ["1P 3m 5P 6M 9M", "", "m69 -69"],
-      ["1P 3M 5P 6m 7m", "", "7b6"],
-      ["1P 3M 5P 7M 9A 11A", "", "maj7#9#11"],
-      ["1P 3M 5P 7M 9M 11A 13M", "", "M13#11 maj13#11 M13+4 M13#4"],
-      ["1P 3M 5P 7M 9m", "", "M7b9"],
-      ["1P 3M 5P 7m 11A 13m", "", "7#11b13 7b5b13"],
-      ["1P 3M 5P 7m 13M", "", "7add6 67 7add13"],
-      ["1P 3M 5P 7m 9A 11A", "", "7#9#11 7b5#9 7#9b5"],
-      ["1P 3M 5P 7m 9A 11A 13M", "", "13#9#11"],
-      ["1P 3M 5P 7m 9A 11A 13m", "", "7#9#11b13"],
-      ["1P 3M 5P 7m 9A 13M", "", "13#9"],
-      ["1P 3M 5P 7m 9A 13m", "", "7#9b13"],
-      ["1P 3M 5P 7m 9M 11A", "", "9#11 9+4 9#4"],
-      ["1P 3M 5P 7m 9M 11A 13M", "", "13#11 13+4 13#4"],
-      ["1P 3M 5P 7m 9M 11A 13m", "", "9#11b13 9b5b13"],
-      ["1P 3M 5P 7m 9m 11A", "", "7b9#11 7b5b9 7b9b5"],
-      ["1P 3M 5P 7m 9m 11A 13M", "", "13b9#11"],
-      ["1P 3M 5P 7m 9m 11A 13m", "", "7b9b13#11 7b9#11b13 7b5b9b13"],
-      ["1P 3M 5P 7m 9m 13M", "", "13b9"],
-      ["1P 3M 5P 7m 9m 13m", "", "7b9b13"],
-      ["1P 3M 5P 7m 9m 9A", "", "7b9#9"],
-      ["1P 3M 5P 9M", "", "Madd9 2 add9 add2"],
-      ["1P 3M 5P 9m", "", "Maddb9"],
-      ["1P 3M 5d", "", "Mb5"],
-      ["1P 3M 5d 6M 7m 9M", "", "13b5"],
-      ["1P 3M 5d 7M", "", "M7b5"],
-      ["1P 3M 5d 7M 9M", "", "M9b5"],
-      ["1P 3M 5d 7m", "", "7b5"],
-      ["1P 3M 5d 7m 9M", "", "9b5"],
-      ["1P 3M 7m", "", "7no5"],
-      ["1P 3M 7m 13m", "", "7b13"],
-      ["1P 3M 7m 9M", "", "9no5"],
-      ["1P 3M 7m 9M 13M", "", "13no5"],
-      ["1P 3M 7m 9M 13m", "", "9b13"],
-      ["1P 3m 4P 5P", "", "madd4"],
-      ["1P 3m 5P 6m 7M", "", "mMaj7b6"],
-      ["1P 3m 5P 6m 7M 9M", "", "mMaj9b6"],
-      ["1P 3m 5P 7m 11P", "", "m7add11 m7add4"],
-      ["1P 3m 5P 9M", "", "madd9"],
-      ["1P 3m 5d 6M 7M", "", "o7M7"],
-      ["1P 3m 5d 7M", "", "oM7"],
-      ["1P 3m 6m 7M", "", "mb6M7"],
-      ["1P 3m 6m 7m", "", "m7#5"],
-      ["1P 3m 6m 7m 9M", "", "m9#5"],
-      ["1P 3m 5A 7m 9M 11P", "", "m11A"],
-      ["1P 3m 6m 9m", "", "mb6b9"],
-      ["1P 2M 3m 5d 7m", "", "m9b5"],
-      ["1P 4P 5A 7M", "", "M7#5sus4"],
-      ["1P 4P 5A 7M 9M", "", "M9#5sus4"],
-      ["1P 4P 5A 7m", "", "7#5sus4"],
-      ["1P 4P 5P 7M", "", "M7sus4"],
-      ["1P 4P 5P 7M 9M", "", "M9sus4"],
-      ["1P 4P 5P 7m 9M", "", "9sus4 9sus"],
-      ["1P 4P 5P 7m 9M 13M", "", "13sus4 13sus"],
-      ["1P 4P 5P 7m 9m 13m", "", "7sus4b9b13 7b9b13sus4"],
-      ["1P 4P 7m 10m", "", "4 quartal"],
-      ["1P 5P 7m 9m 11P", "", "11b9"]
-    ];
-    var data_default7 = CHORDS4;
-    var NoChordType4 = {
-      ...EmptyPcset2,
-      name: "",
-      quality: "Unknown",
-      intervals: [],
-      aliases: []
-    };
-    var dictionary5 = [];
-    var index6 = {};
-    function add9(intervals, aliases, fullName) {
-      const quality = getQuality4(intervals);
-      const chord22 = {
-        ...get8(intervals),
-        name: fullName || "",
-        quality,
-        intervals,
-        aliases
-      };
-      dictionary5.push(chord22);
-      if (chord22.name) {
-        index6[chord22.name] = chord22;
-      }
-      index6[chord22.setNum] = chord22;
-      index6[chord22.chroma] = chord22;
-      chord22.aliases.forEach((alias) => addAlias5(chord22, alias));
-    }
-    function addAlias5(chord22, alias) {
-      index6[alias] = chord22;
-    }
-    function getQuality4(intervals) {
-      const has = (interval7) => intervals.indexOf(interval7) !== -1;
-      return has("5A") ? "Augmented" : has("3M") ? "Major" : has("5d") ? "Diminished" : has("3m") ? "Minor" : "Unknown";
-    }
-    data_default7.forEach(
-      ([ivls, fullName, names22]) => add9(ivls.split(" "), names22.split(" "), fullName)
-    );
-    dictionary5.sort((a, b) => a.setNum - b.setNum);
     var chromatic_scale = ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"];
     function noteAtPosition(root_index, position, notes2) {
       const note_index = (root_index + position) % chromatic_scale.length;
-      const note3 = chromatic_scale[note_index];
+      const note22 = chromatic_scale[note_index];
       if (notes2) {
-        if (notes2.includes(note3)) {
-          return note3;
+        if (notes2.includes(note22)) {
+          return note22;
         }
-        for (let name22 of notes2) {
-          if (note3 == index_default6.enharmonic(name22)) {
-            return name22;
+        for (let name2 of notes2) {
+          if (note22 == enharmonic2(name2)) {
+            return name2;
           }
         }
         return null;
       }
-      return note3;
+      return note22;
     }
-    function noteIndex(name22) {
-      const note3 = index_default6.get(name22);
-      if (note3.letter) {
-        if (chromatic_scale.includes(note3.pc)) {
-          return chromatic_scale.indexOf(note3.pc);
+    function noteIndex(name2) {
+      const note22 = get8(name2);
+      if (note22.letter) {
+        if (chromatic_scale.includes(note22.pc)) {
+          return chromatic_scale.indexOf(note22.pc);
         }
-        const enharmonic22 = index_default6.enharmonic(name22);
-        if (chromatic_scale.includes(enharmonic22)) {
-          return chromatic_scale.indexOf(enharmonic22);
+        const alt_name = enharmonic2(name2);
+        if (chromatic_scale.includes(alt_name)) {
+          return chromatic_scale.indexOf(alt_name);
         }
       }
-      throw Error(`Note unknown: ${name22}`);
+      throw Error(`Note unknown: ${name2}`);
     }
-    function noteLabel(name22) {
-      return name22.replace(/b/g, "\u266D").replace(/#/g, "\u266F");
+    function noteLabel(name2) {
+      return name2.replace(/b/g, "\u266D").replace(/#/g, "\u266F");
     }
     function drawCircle(parent, cx, cy, radius, fill = "#cccccc", stroke, stroke_width, title) {
       const circle = parent.append("svg:circle").attr("cx", cx).attr("cy", cy).attr("r", radius).style("fill", fill);
       if (stroke) circle.style("stroke", stroke);
       if (stroke_width) circle.style("stroke-width", stroke_width);
       if (title) circle.attr("title", title);
+      return circle;
     }
     var Fretboard2 = class {
       constructor(instrument, selector, width) {
@@ -22404,8 +20096,8 @@
           fret_marker_radius: fret_distance * 0.069
         };
         const transform = `translate(${margin_horizontal}, ${margin_vertical})`;
-        for (let name22 of ["frets", "fret_markers", "strings", "notes"]) {
-          this.g[name22] = this.svg.append("g").attr("class", name22).attr("transform", transform);
+        for (let name2 of ["frets", "fret_markers", "strings", "notes"]) {
+          this.g[name2] = this.svg.append("g").attr("class", name2).attr("transform", transform);
         }
         this.drawFrets();
         this.drawFretMarkers(height - margin_vertical);
@@ -22451,20 +20143,22 @@
       /**
        * Draw given note at given string and fret indexes.
        */
-      drawNoteAtPosition(note3, string_idx, fret_idx) {
+      drawNoteAtPosition(note22, string_idx, fret_idx) {
         const cy = string_idx * this.dim.string_distance;
-        const label = noteLabel(note3);
+        const label = noteLabel(note22);
         const reduce = 5 * (1 - 1 / label.length);
         const font_size = this.dim.note_radius * 1.05 - reduce;
         const cx = fret_idx * this.dim.fret_distance - this.dim.fret_distance * 0.5;
-        drawCircle(this.g.notes, cx, cy, this.dim.note_radius, r(note3), "#999999", this.dim.note_radius * 0.1, note3);
-        this.g.notes.append("svg:text").attr("x", cx).attr("y", cy).attr("dy", "0.38em").attr("fill", "#000000").style("text-anchor", `middle`).style("font-size", `${font_size}px`).style("font-family", "Roboto,Ubuntu,Helvetica,Arial,sans-serif").text(label);
-      }
-      /**
-       * Remove all drawn notes from the fretboard.
-       */
-      clearNotes() {
-        this.g.notes.selectAll("*").remove();
+        const midi_value = (midi2(this.instrument.tuning[string_idx]) ?? 0) + fret_idx;
+        const dispatch = (event) => {
+          event.target.dispatchEvent(new CustomEvent("traste:note", {
+            detail: { note: note22, midi: midi_value, string: string_idx, fret: fret_idx },
+            bubbles: true
+          }));
+        };
+        const circle = drawCircle(this.g.notes, cx, cy, this.dim.note_radius, r(note22), "#999999", this.dim.note_radius * 0.1, note22);
+        circle.on("click", dispatch);
+        this.g.notes.append("svg:text").attr("x", cx).attr("y", cy).attr("dy", "0.38em").attr("fill", "#000000").style("cursor", "pointer").style("text-anchor", `middle`).style("font-size", `${font_size}px`).style("font-family", "Roboto,Ubuntu,Helvetica,Arial,sans-serif").text(label).on("click", dispatch);
       }
       /**
        * Draw notes as circles on the fretboard. If no notes are passed as input, all notes will be drawn.
@@ -22473,17 +20167,29 @@
         for (let string_idx = 0; string_idx < this.instrument.tuning.length; string_idx++) {
           const root_idx = noteIndex(this.instrument.tuning[string_idx]);
           for (let fret_idx = 0; fret_idx <= this.instrument.fret_count; fret_idx++) {
-            const note3 = noteAtPosition(root_idx, fret_idx, notes2);
-            if (!note3) continue;
-            this.drawNoteAtPosition(note3, string_idx, fret_idx);
+            const note22 = noteAtPosition(root_idx, fret_idx, notes2);
+            if (!note22) continue;
+            this.drawNoteAtPosition(note22, string_idx, fret_idx);
           }
         }
       }
+      /**
+       * Remove all drawn notes from the fretboard.
+       */
+      clearNotes() {
+        this.g.notes.selectAll("*").remove();
+      }
+    };
+    var bass = {
+      tuning: ["G2", "D2", "A1", "E1"],
+      string_gauges: [0.045, 0.065, 0.085, 0.105],
+      fret_count: 12,
+      fret_markers: [3, 5, 7, 9, 12, 15, 17, 19]
     };
     var guitar = {
       tuning: ["E4", "B3", "G3", "D3", "A2", "E2"],
       string_gauges: [0.01, 0.013, 0.017, 0.026, 0.036, 0.046],
-      fret_count: 15,
+      fret_count: 12,
       fret_markers: [3, 5, 7, 9, 12, 15, 17, 19, 21, 24]
     };
     var ukulele2 = {
