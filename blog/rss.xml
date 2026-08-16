@@ -8,12 +8,12 @@
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
         <title><![CDATA[Do You Know Your Ukulele Chord Shapes?]]></title>
-        <link><![CDATA[http://localhost:8080/blog/do-you-know-your-ukulele-chord-shapes/]]></link>
+        <link><![CDATA[https://ukealong.com/blog/do-you-know-your-ukulele-chord-shapes/]]></link>
         <description><![CDATA[<p>Ukulele Chord Quiz helps you connect chord names and shapes. A free Android app for players who want to read chord charts more fluently.</p><img src="/img/ucq/tablet-find-that-chord.webp" alt="Preview">]]></description>
-        <guid><![CDATA[http://localhost:8080/blog/do-you-know-your-ukulele-chord-shapes/]]></guid>
+        <guid><![CDATA[https://ukealong.com/blog/do-you-know-your-ukulele-chord-shapes/]]></guid>
         <pubDate>Sun, 16 Aug 2026 00:48:08 </pubDate>
         <content:encoded><![CDATA[<p>When you follow a play-along video, do you watch the chord name or the diagram? Some players find the name enough — they've played C and G so many times that their fingers just know where to go. Others rely on the diagram, especially for less familiar chords, and glance at the finger positions to orient themselves. Most of us use both, depending on the chord and how well we know it.</p>
-<p>What both approaches have in common is that they work better when name and shape are firmly connected in your memory. When you see "Dm" and can immediately picture where your fingers go — or see the diagram and instantly know it's a Dm — reading a chord chart becomes a much more relaxed experience. Building that connection is what <a href="/ucq/">Ukulele Chord Quiz</a> is designed to help with.</p>
+<p>What both approaches have in common is that they work better when name and shape are firmly connected in your memory. When you see "Dm" and can immediately picture where your fingers go — or see the diagram and instantly know it's a Dm — reading a chord chart becomes a much more relaxed experience. Building that connection is what <a href="https://ukealong.com/ucq/">Ukulele Chord Quiz</a> is designed to help with.</p>
 <h2>Two ways to quiz yourself</h2>
 <p>The app has two quiz modes, each targeting one direction of that name-shape connection.</p>
 <p><strong>Name that Chord</strong> shows you a chord diagram and asks you to pick the correct name from four options. <strong>Find that Chord</strong> does the reverse: you see the chord name and pick the correct diagram. The wrong answers aren't completely random. They include chords that look similar to the correct one, which makes the quiz harder in a useful way. Picking between four completely different shapes is easy; picking between four shapes that could plausibly be confused is closer to what actually trips you up when playing.</p>
@@ -32,62 +32,62 @@
     </item>
     <item>
         <title><![CDATA[Heavy Metal Songs to Learn on the Ukulele]]></title>
-        <link><![CDATA[http://localhost:8080/blog/heavy-metal-songs/]]></link>
+        <link><![CDATA[https://ukealong.com/blog/heavy-metal-songs/]]></link>
         <description><![CDATA[<p>Unleash your inner rocker with these heavy metal ukulele play-along videos! Learn iconic metal tracks, shred on your uke, and take your playing to level 11 🤘</p><img src="/img/preview/https://i.ytimg.com/vi/-KVVwkxw448/maxresdefault.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[http://localhost:8080/blog/heavy-metal-songs/]]></guid>
+        <guid><![CDATA[https://ukealong.com/blog/heavy-metal-songs/]]></guid>
         <pubDate>Sat, 04 Jan 2025 21:37:37 </pubDate>
         <content:encoded><![CDATA[<p>{% import 'macros.html' as m %}</p>
 <p>When you think of heavy metal music, distorted guitars, heavy drumbeats, and screaming vocals may come to your mind. But heavy metal on the ukulele? Believe it or not, this small but mighty instrument can unleash the raw power and emotion of this iconic genre, albeit with a unique, twangy twist. Whether you're shredding an epic riff, strumming chords, or playing intricate fingerstyle arrangements, the ukulele is versatile enough to bring heavy metal to life.</p>
 <p>If you're ready to dive headfirst into headbanging riffs and epic melodies with four nylon strings, we've got you covered. Here's are some of the most iconic heavy metal songs you can learn and play along with.</p>
 <h2>Strum and Pick Along</h2>
 <p>Let's start with songs that are great for strumming or practicing melodic picking. Heavy metal melodies and progressions adapted to the ukulele won't lose their intensity, but they will gain a fresh, almost haunting quality. Ready to take your first leap into ukulele-metal fusion?</p>
-<h3>Cult Of Luna - <a href="/song/passing-through/">Passing Through</a></h3>
+<h3>Cult Of Luna - <a href="https://ukealong.com/song/passing-through/">Passing Through</a></h3>
 <p>This post-metal masterpiece translates beautifully to the ukulele. With its atmospheric chord structure and hypnotic melody, "Passing Through" is ideal for slow, steady strumming that will mesmerize your listeners. Match the mood by adding a slow crescendo, and let the brooding power of the song shine.</p>
 <p>{{ m.player('8ZtdwBrsiYs') }}</p>
-<h3>Dream Theater - <a href="/song/the-answer-lies-within/">The Answer Lies Within</a></h3>
+<h3>Dream Theater - <a href="https://ukealong.com/song/the-answer-lies-within/">The Answer Lies Within</a></h3>
 <p>Known for their complex compositions, Dream Theater surprises with this ballad-like track that pairs well with picking on the ukulele. Focus on capturing the emotional depth and flowing melody while experimenting with finger placement for a richer tone.</p>
 <p>{{ m.player('e1M2BAsI_10') }}</p>
-<h3>Gojira - <a href="/song/stranded/">Stranded</a></h3>
+<h3>Gojira - <a href="https://ukealong.com/song/stranded/">Stranded</a></h3>
 <p>This bold anthem by Gojira might appear intense for the ukulele, but its rhythms and grooves adapt surprisingly well for hard-hitting strumming patterns. Tight, percussive strums can mimic the energy of the original. Be sure to play this one LOUD to feel the full force of its power!</p>
 <p>{{ m.player('ocppX3kWkSI') }}</p>
-<h3>Mastodon - <a href="/song/show-yourself/">Show Yourself</a></h3>
+<h3>Mastodon - <a href="https://ukealong.com/song/show-yourself/">Show Yourself</a></h3>
 <p>Short, sweet, and punchy. "Show Yourself" is the perfect combination of hard-hitting riffs and catchy hooks. This track works well for an upbeat strum-along session on the uke. Try incorporating palm mutes to give your performance more authenticity.</p>
 <p>{{ m.player('TwYcVK2DiFQ') }}</p>
-<h3>Slayer - <a href="/song/raining-blood/">Raining Blood</a></h3>
+<h3>Slayer - <a href="https://ukealong.com/song/raining-blood/">Raining Blood</a></h3>
 <p>Can we even talk about heavy metal without mentioning Slayer? This brutal classic might seem like sacrilege on a ukulele, but it works. Focus on the rapid progression of power chords, and create a rhythm loaded with intensity.</p>
 <p>{{ m.player('WdiJihR4qSg') }}</p>
 <h2>Heavy Metal Riffs</h2>
 <p>Now it's time to unleash the riffs. The ukulele may not be a heavy, distorted guitar, but it's still capable of delivering iconic riffs with attitude. Here are some heavy metal classics that sound just as epic on uke.</p>
-<h3>Black Sabbath - <a href="/song/iron-man/">Iron Man</a></h3>
+<h3>Black Sabbath - <a href="https://ukealong.com/song/iron-man/">Iron Man</a></h3>
 <p>Tony Iommi's legendary riff from "Iron Man" is surprisingly easy to tackle on the ukulele, providing a powerful way to start your heavy metal riff adventures. Keep it slow and plodding, just like the original, to capture that unmistakable groove.</p>
 <p>{{ m.player('rI1Vjz9ElTU') }}</p>
-<h3>Black Sabbath - <a href="/song/paranoid/">Paranoid</a></h3>
+<h3>Black Sabbath - <a href="https://ukealong.com/song/paranoid/">Paranoid</a></h3>
 <p>Another Sabbath classic, "Paranoid" is a high-energy riff that translates beautifully to the ukulele. Its driving rhythm is perfect for beginners looking to improve their alternate picking technique.</p>
 <p>{{ m.player('ll3UPl3AC_s') }}</p>
-<h3>Judas Pries - <a href="/song/breaking-the-law/">Breaking The Law</a></h3>
+<h3>Judas Pries - <a href="https://ukealong.com/song/breaking-the-law/">Breaking The Law</a></h3>
 <p>Few riffs are as iconic as Judas Priest's "Breaking The Law." This rebellious anthem practically begs to be played on the ukulele—and it's a crowd-pleaser every time. Opt for a quick tempo to capture the song's urgency.</p>
 <p>{{ m.player('nuTcTuTwHoI') }}</p>
-<h3>Metallica - <a href="/song/enter-sandman/">Enter Sandman</a></h3>
+<h3>Metallica - <a href="https://ukealong.com/song/enter-sandman/">Enter Sandman</a></h3>
 <p>"Enter Sandman" is one of the most recognizable heavy metal riffs in history, and it sounds downright eerie on the ukulele. Use fingerpicking for the intro to mimic the original's tone.</p>
 <p>{{ m.player('737hQqP-wPo') }}</p>
-<h3>Metallica - <a href="/song/one/">One</a></h3>
+<h3>Metallica - <a href="https://ukealong.com/song/one/">One</a></h3>
 <p>This song flows effortlessly between clean, haunting tones and aggressive, almost frantic riffs. The ukulele excels at capturing the soft intro riff.</p>
 <p>{{ m.player('-KVVwkxw448') }}</p>
-<h3>Ozzy Osbourne - <a href="/song/crazy-train/">Crazy Train</a></h3>
+<h3>Ozzy Osbourne - <a href="https://ukealong.com/song/crazy-train/">Crazy Train</a></h3>
 <p>Randy Rhoads' iconic riff in "Crazy Train" is full of energy and drive, making it a fantastic challenge for ukulele players. The quick, chugging tempo pushes your skills to the limit, but the payoff is undeniably worth it.</p>
 <p>{{ m.player('POsT9wyxC7o') }}</p>
 <h2>Fingerstyle Arrangements</h2>
 <p>For a more intricate and melodic approach, fingerstyle arrangements bring out the depth and complexity of heavy metal songs. These arrangements highlight the ukulele's ability to deliver hauntingly beautiful interpretations of even the heaviest tracks.</p>
-<h3>Metallica - <a href="/song/fade-to-black/">Fade To Black</a></h3>
+<h3>Metallica - <a href="https://ukealong.com/song/fade-to-black/">Fade To Black</a></h3>
 <p>"Fade to Black" is a hauntingly emotional song that feels right at home as a fingerstyle ukulele arrangement. Focus on the gentle intro and let it build in intensity, reflecting the song's emotional arc.</p>
 <p>{{ m.player('VZcw-d6jWYk') }}</p>
-<h3>Metallica - <a href="/song/the-unforgiven/">The Unforgiven</a></h3>
+<h3>Metallica - <a href="https://ukealong.com/song/the-unforgiven/">The Unforgiven</a></h3>
 <p>This Metallica ballad is a perfect fit for fingerpickers. Stripped down to ukulele, the melodic lines reveal just how heart-wrenching and delicate this song can be.</p>
 <p>{{ m.player('obguFYiw0V4') }}</p>
-<h3>System Of A Down - <a href="/song/toxicity/">Aerials</a></h3>
+<h3>System Of A Down - <a href="https://ukealong.com/song/toxicity/">Aerials</a></h3>
 <p>System of a Down's melancholic masterpiece adapts beautifully to fingerstyle ukulele. The interplay between melody and chords gives this song a depth that will captivate your audience.</p>
 <p>{{ m.player('M_l23d-FcZE') }}</p>
-<h3>System Of A Down - <a href="/song/toxicity/">Toxicity</a></h3>
+<h3>System Of A Down - <a href="https://ukealong.com/song/toxicity/">Toxicity</a></h3>
 <p>Another SOAD classic, "Toxicity" shines as a fingerstyle arrangement. The iconic melody and descending bassline make for a mesmerizing performance on the uke.</p>
 <p>{{ m.player('DnqNGH4hMd0') }}</p>
 <h2>Conclusion</h2>
@@ -97,9 +97,9 @@
     </item>
     <item>
         <title><![CDATA[Choosing Your First Ukulele: A Guide for Beginners]]></title>
-        <link><![CDATA[http://localhost:8080/blog/choosing-your-first-ukulele/]]></link>
+        <link><![CDATA[https://ukealong.com/blog/choosing-your-first-ukulele/]]></link>
         <description><![CDATA[<p>A guide for choosing your first ukulele, covering ukulele sizes, materials, budget considerations, and essential accessories to ensure a joyful learning experience.</p><img src="/img/blog/ukulele-sizes.webp" alt="Preview">]]></description>
-        <guid><![CDATA[http://localhost:8080/blog/choosing-your-first-ukulele/]]></guid>
+        <guid><![CDATA[https://ukealong.com/blog/choosing-your-first-ukulele/]]></guid>
         <pubDate>Wed, 13 Nov 2024 00:41:29 </pubDate>
         <content:encoded><![CDATA[<p>Choosing the right ukulele is crucial for a joyful and fulfilling learning experience. With so many options available, finding the perfect fit can feel overwhelming. This guide will help you navigate the basics to make an informed decision when purchasing your first ukulele.</p>
 <h2>Understanding Ukulele Types and Sizes</h2>
@@ -137,14 +137,14 @@
 <p>Consider purchasing essential accessories like a tuner, a gig bag for protection, and spare strings. These tools help maintain your ukulele's sound quality and ensure you're always ready to play. A strap, a stand or wall mount, and a string winder can also be valuable additions, providing comfort and convenience.</p>
 <h2>Conclusion</h2>
 <p>By considering these factors, you'll be well on your way to selecting a ukulele that not only meets your practical needs but also brings you joy. Embarking on your ukulele journey with the right instrument sets a positive tone for your musical development. Happy playing!</p>
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<script async src="https://ukealong.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 ]]></content:encoded>
     </item>
     <item>
         <title><![CDATA[How to Memorize Music: Proven Techniques for Musicians]]></title>
-        <link><![CDATA[http://localhost:8080/blog/memorize-music/]]></link>
+        <link><![CDATA[https://ukealong.com/blog/memorize-music/]]></link>
         <description><![CDATA[<p>Discover effective methods for memorizing music with techniques like chunking, visualization, and slow practice. Enhance your memory and performance skills with this guide.</p>]]></description>
-        <guid><![CDATA[http://localhost:8080/blog/memorize-music/]]></guid>
+        <guid><![CDATA[https://ukealong.com/blog/memorize-music/]]></guid>
         <pubDate>Sat, 25 May 2024 13:47:08 </pubDate>
         <content:encoded><![CDATA[<p>Memorizing music can be a daunting task for musicians at any level. Whether you're preparing for a recital, a performance, or just looking to improve your practice routine, effective memorization techniques can make a significant difference. In this article, we'll explore a variety of methods to help you memorize music more efficiently. From chunking to visualization, each technique is designed to enhance your memory and boost your confidence as a performer.</p>
 <h2>Chunking: Break It Down</h2>
@@ -184,9 +184,9 @@
     </item>
     <item>
         <title><![CDATA[Practice Challenges for Beginner and Intermediate Ukulele Players]]></title>
-        <link><![CDATA[http://localhost:8080/blog/practice-challenges-beginner-intermediate/]]></link>
+        <link><![CDATA[https://ukealong.com/blog/practice-challenges-beginner-intermediate/]]></link>
         <description><![CDATA[<p>Elevate your ukulele skills with challenging exercises for beginner and intermediate players. Strengthen your playing, embrace new techniques, and unlock your musical potential.</p>]]></description>
-        <guid><![CDATA[http://localhost:8080/blog/practice-challenges-beginner-intermediate/]]></guid>
+        <guid><![CDATA[https://ukealong.com/blog/practice-challenges-beginner-intermediate/]]></guid>
         <pubDate>Sun, 10 Sep 2023 22:37:34 </pubDate>
         <content:encoded><![CDATA[<p>Welcome to this guide designed to elevate your ukulele playing skills. Whether you're a beginner taking your first steps into the world of ukulele music or an intermediate player looking to refine your craft, this article is tailored to help you progress.</p>
 <p>Before we delve into the challenging exercises that await you, it's crucial to emphasize the fundamental role of practice in learning the ukulele. Just as a sculptor shapes clay into art through persistence and dedication, you mold your musical abilities through practice. Each practice session is an opportunity to refine your techniques, strengthen your fingers, and deepen your understanding of music.</p>
@@ -205,13 +205,13 @@
 <h2>Challenges for Beginner Ukulele Players</h2>
 <p>The following challenges are thoughtfully designed to introduce beginner ukulele players to fundamental concepts, improve technique, and build a strong foundation for further progress as a ukulele player.</p>
 <h3>Chord Progressions: Create and Play in C Major</h3>
-<p>The first challenge focuses on chord progressions, the backbone of countless songs. Begin by familiarizing yourself with the <a href="/chord/c/">C major chord</a>, a staple in the ukulele world. Once comfortable, create a chord progression that incorporates at least four different chords, all within the <a href="/key/c/">key of C major</a>. Strum each chord smoothly, ensuring clarity and precision. This exercise will not only strengthen your chord transitions but also deepen your understanding of basic music theory.</p>
+<p>The first challenge focuses on chord progressions, the backbone of countless songs. Begin by familiarizing yourself with the <a href="https://ukealong.com/chord/c/">C major chord</a>, a staple in the ukulele world. Once comfortable, create a chord progression that incorporates at least four different chords, all within the <a href="https://ukealong.com/key/c/">key of C major</a>. Strum each chord smoothly, ensuring clarity and precision. This exercise will not only strengthen your chord transitions but also deepen your understanding of basic music theory.</p>
 <h3>Transposition Challenge: Change the Key</h3>
-<p>Transposition is a valuable skill for any musician. Take a song you're already familiar with that's in the key of C major. Now, transpose it to the key of <a href="/key/g/">G major</a>. Adjust the chords accordingly and practice playing the new version. This challenge broadens your musical horizons, allowing you to play songs in various keys and enriching your overall musicality.</p>
+<p>Transposition is a valuable skill for any musician. Take a song you're already familiar with that's in the key of C major. Now, transpose it to the key of <a href="https://ukealong.com/key/g/">G major</a>. Adjust the chords accordingly and practice playing the new version. This challenge broadens your musical horizons, allowing you to play songs in various keys and enriching your overall musicality.</p>
 <h3>Fingerpicking: Alternating Strings</h3>
 <p>Fingerpicking is a beautiful and versatile ukulele technique. Begin by developing a fingerpicking pattern that alternates between two strings (e.g., E and A strings). Apply this pattern to a simple chord progression. Focus on maintaining a consistent rhythm and producing clear, distinct notes. Fingerpicking not only adds depth to your playing but also hones your finger dexterity.</p>
 <h3>Barre Chords and Mobility: Moving the Barre Chord</h3>
-<p>Barre chords are notorious for their initial difficulty, but they open doors to playing a wide range of songs. Choose a barre chord shape, such as <a href="/chord/bm/">Bm</a> or <a href="/chord/b♭/">Bb</a>, and practice moving it up and down the fretboard. Pay close attention to maintaining a clean, buzz-free sound during transitions. This exercise enhances your finger strength and agility while preparing you for more complex chord progressions.</p>
+<p>Barre chords are notorious for their initial difficulty, but they open doors to playing a wide range of songs. Choose a barre chord shape, such as <a href="https://ukealong.com/chord/bm/">Bm</a> or <a href="https://ukealong.com/chord/b♭/">Bb</a>, and practice moving it up and down the fretboard. Pay close attention to maintaining a clean, buzz-free sound during transitions. This exercise enhances your finger strength and agility while preparing you for more complex chord progressions.</p>
 <h3>Chord Inversions: Exploring Different Positions</h3>
 <p>Chord inversions provide fresh sonic perspectives. Learn at least three different C major chord inversions on your ukulele. As you explore these inversions across the fretboard, take note of how each one offers a unique voicing and character. Understanding chord inversions will greatly enrich your chord vocabulary.</p>
 <h3>Strumming Patterns: Syncopated Strumming</h3>
@@ -222,11 +222,11 @@
 <h3>Music Theory Application: Explore the Diminished Chord</h3>
 <p>In the realm of music theory, the diminished chord holds a distinct and intriguing place. Begin by delving into its construction and its unique role in music. Once you grasp the theory, find a song that incorporates the diminished chord, and learn how it is placed within the song. This challenge will enhance your understanding of harmonies and provide you with valuable insights into chord progressions.</p>
 <h3>Scales and Soloing: Conquer the C Major Scale</h3>
-<p>Scales are the foundation of melody. Start by learning the <a href="/tool/scales/">C major scale</a> on your ukulele, playing it smoothly both ascending and descending. Once you're comfortable, take the next step and embark on an improvisational journey. Create a short, melodious solo using the C major scale. Soloing is an art that brings a personal touch to your playing and allows your musical expression to shine.</p>
+<p>Scales are the foundation of melody. Start by learning the <a href="https://ukealong.com/tool/scales/">C major scale</a> on your ukulele, playing it smoothly both ascending and descending. Once you're comfortable, take the next step and embark on an improvisational journey. Create a short, melodious solo using the C major scale. Soloing is an art that brings a personal touch to your playing and allows your musical expression to shine.</p>
 <h3>Rhythmic Challenges: Change the Time Signature</h3>
 <p>Rhythm is the heartbeat of music, and learning various time signatures is a hallmark of a proficient musician. Take a song you know well and change its time signature. For instance, if it's originally in 4/4 time, try playing it in 6/8 or 3/4. Adjust your strumming or picking patterns accordingly. This exercise not only sharpens your rhythmic skills but also broadens your versatility as a player.</p>
 <h3>Ear Training: Play by Ear</h3>
-<p><a href="/blog/ear-training/">Ear training</a> is a valuable skill that allows you to play music without relying on sheet music or tabs. Listen to a short piece of ukulele music and attempt to replicate it solely by ear. Pay attention to the nuances of the melody, rhythm, and chord changes. This challenge sharpens your listening skills and fosters a deeper connection between your ear and your fingers.</p>
+<p><a href="https://ukealong.com/blog/ear-training/">Ear training</a> is a valuable skill that allows you to play music without relying on sheet music or tabs. Listen to a short piece of ukulele music and attempt to replicate it solely by ear. Pay attention to the nuances of the melody, rhythm, and chord changes. This challenge sharpens your listening skills and fosters a deeper connection between your ear and your fingers.</p>
 <h3>Songwriting and Composition: Craft Your Own Melody</h3>
 <p>Songwriting is a creative endeavor that gives you the opportunity to express your unique musical voice. Write your own ukulele song, complete with lyrics and chords. Create a melody that resonates with your emotions and experiences. This exercise not only showcases your artistic abilities but also deepens your understanding of song structure and composition.</p>
 <h3>Advanced Techniques: Choose Your Specialty</h3>
@@ -239,9 +239,9 @@
     </item>
     <item>
         <title><![CDATA[The Benefits of Playing the Ukulele for Mental Health and Well-being]]></title>
-        <link><![CDATA[http://localhost:8080/blog/mental-health-benefits/]]></link>
+        <link><![CDATA[https://ukealong.com/blog/mental-health-benefits/]]></link>
         <description><![CDATA[<p>Learn about the practical benefits of playing the ukulele for mental health and well-being. Reduce stress, improve cognition, and find inner harmony through music.</p>]]></description>
-        <guid><![CDATA[http://localhost:8080/blog/mental-health-benefits/]]></guid>
+        <guid><![CDATA[https://ukealong.com/blog/mental-health-benefits/]]></guid>
         <pubDate>Sun, 18 Jun 2023 23:06:03 </pubDate>
         <content:encoded><![CDATA[<p>In our fast-paced world, maintaining good mental health and overall well-being is crucial. While there are many methods available to achieve this, one often overlooked avenue is playing the ukulele. This essay aims to explore the practical benefits of playing the ukulele, including its ability to reduce stress and improve cognitive function.</p>
 <h2>Stress Reduction through Musical Escape</h2>
@@ -258,9 +258,9 @@
     </item>
     <item>
         <title><![CDATA[Ear Training for Ukulele Players - Enhancing Your Musical Perception]]></title>
-        <link><![CDATA[http://localhost:8080/blog/ear-training/]]></link>
+        <link><![CDATA[https://ukealong.com/blog/ear-training/]]></link>
         <description><![CDATA[<p>Unlock your musical potential with ear training for ukulele players. Develop pitch recognition, melodic patterns, rhythm perception, and harmony skills.</p>]]></description>
-        <guid><![CDATA[http://localhost:8080/blog/ear-training/]]></guid>
+        <guid><![CDATA[https://ukealong.com/blog/ear-training/]]></guid>
         <pubDate>Tue, 13 Jun 2023 15:19:18 </pubDate>
         <content:encoded><![CDATA[<p>Ear training is an essential skill for any musician, regardless of their instrument or genre. It involves developing the ability to identify and reproduce musical sounds by ear, without the need for sheet music or other written notation. By training your ear, you can improve your ability to play in tune, recognize melodies and harmonies, and improvise more effectively.</p>
 <p>For ukulele players, ear training is particularly important because the instrument has a unique sound and tuning. By developing your ear, you can improve your ability to play in tune with other musicians, identify chord progressions, and create your own arrangements. Additionally, ear training can help you to better understand the nuances of different ukulele styles, such as Hawaiian, jazz, and folk. Overall, ear training is an essential skill for any ukulele player who wants to improve their playing and expand their musical horizons.</p>
@@ -305,7 +305,7 @@
 <li><strong>Visualize on the Fretboard</strong>: As you transcribe, visualize the notes on your ukulele fretboard. This connection between what you hear and what you play enhances your understanding of the instrument and improves your ability to play by ear.</li>
 <li><strong>Check with Reference Material</strong>: Once you have transcribed the melody, compare it to existing sheet music, tabs, or chord charts to verify its accuracy. This step helps you refine your transcription skills and deepen your musical knowledge.</li>
 </ol>
-<p>Transcribing melodies is a challenging yet rewarding exercise that hones your ear training skills and strengthens your musical vocabulary on the ukulele. With practice, you'll be able to capture the essence of any melody and incorporate it into your playing. If you use tablature for transcribing, you can download a <a href="https://ukealong.gumroad.com/l/blank-ukulele-tab-sheet">blank ukulele tab sheet</a> in PDF format for free. Additionally, I offer a convenient <a href="/book/ukulele-tablature-notebook-100x6-spiral-bound/">ukulele tablature ringbook</a> for purchase, perfect for organizing and keeping all your transcriptions in one place.</p>
+<p>Transcribing melodies is a challenging yet rewarding exercise that hones your ear training skills and strengthens your musical vocabulary on the ukulele. With practice, you'll be able to capture the essence of any melody and incorporate it into your playing. If you use tablature for transcribing, you can download a <a href="https://ukealong.gumroad.com/l/blank-ukulele-tab-sheet">blank ukulele tab sheet</a> in PDF format for free. Additionally, I offer a convenient <a href="https://ukealong.com/book/ukulele-tablature-notebook-100x6-spiral-bound/">ukulele tablature ringbook</a> for purchase, perfect for organizing and keeping all your transcriptions in one place.</p>
 <h2>Training Rhythmic Perception</h2>
 <p>Rhythm forms the backbone of music and plays a crucial role in ukulele playing. It adds energy, groove, and a sense of timing to your performance. Developing a strong sense of rhythmic perception is essential for maintaining steady tempo, playing in sync with other musicians, and effectively conveying the intended musical feel. It allows you to bring life to your ukulele playing and engage listeners with captivating rhythms.</p>
 <p>Below you find exercises to enhance rhythmic perception, including clapping, counting, and tapping.</p>
@@ -338,7 +338,7 @@
 </ol>
 <p>By incorporating ear training into your ukulele practice, you'll develop a deeper understanding of chord progressions and harmony. This understanding will enhance your improvisation skills, enable you to create more compelling compositions, and expand your musical horizons.</p>
 <h2>Incorporating Ear Training into Practice</h2>
-<p>Consistency and regularity are key to reaping the benefits of ear training. Make ear training an integral part of your ukulele <a href="/blog/practice-schedule/">practice routine</a>. Below you find specific ways to incorporate ear training exercises into ukulele practice sessions.</p>
+<p>Consistency and regularity are key to reaping the benefits of ear training. Make ear training an integral part of your ukulele <a href="https://ukealong.com/blog/practice-schedule/">practice routine</a>. Below you find specific ways to incorporate ear training exercises into ukulele practice sessions.</p>
 <ol>
 <li><strong>Warm-up with Ear Training</strong>: Begin each practice session with a short ear training warm-up. Spend a few minutes focusing on pitch recognition, rhythm identification, or chord progressions. This sets the tone for developing your ear and primes your mind for focused practice.</li>
 <li><strong>Integrate Ear Training with Repertoire Practice</strong>: As you practice songs or pieces on the ukulele, actively listen to the melodies, chords, and rhythms within the music. Try to identify the intervals, chord progressions, and rhythmic patterns by ear. This not only enhances your ear training skills but also deepens your understanding and interpretation of the music you're playing.</li>
@@ -369,50 +369,50 @@
     </item>
     <item>
         <title><![CDATA[Latin Style Songs to Learn on the Ukulele]]></title>
-        <link><![CDATA[http://localhost:8080/blog/latin-songs/]]></link>
+        <link><![CDATA[https://ukealong.com/blog/latin-songs/]]></link>
         <description><![CDATA[<p>Discover the vibrant world of Latin music on your ukulele! Dive into this list of iconic songs, from La Bamba to La Llorona, and let the rhythms ignite your playing.</p><img src="/img/preview/https://i.ytimg.com/vi/bdmBg8GQG54/maxresdefault.jpg" alt="Preview">]]></description>
-        <guid><![CDATA[http://localhost:8080/blog/latin-songs/]]></guid>
+        <guid><![CDATA[https://ukealong.com/blog/latin-songs/]]></guid>
         <pubDate>Sun, 11 Jun 2023 00:16:52 </pubDate>
         <content:encoded><![CDATA[<p>{% import 'macros.html' as m %}</p>
 <p>Latin music is known for its infectious rhythms, vibrant melodies, and rich cultural heritage. If you're an aspiring ukulele player with a passion for Latin sounds, you're in for a treat! In this article, you find Latin style songs that are not only enjoyable to play on the ukulele but also offer a fantastic way to immerse yourself in the captivating world of Latin music. Let's dive in and discover the beauty of each song.</p>
 <h2>Strum and Pick Along</h2>
 <p>In this section, we'll explore Latin style songs that are perfect for strumming and picking along on your ukulele. These songs will get you moving with their infectious rhythms and catchy melodies.</p>
-<h3>Ritchie Valens - <a href="/song/la-bamba/">La Bamba</a></h3>
+<h3>Ritchie Valens - <a href="https://ukealong.com/song/la-bamba/">La Bamba</a></h3>
 <p>An absolute classic, "La Bamba" is a joyful Mexican folk song that Ritchie Valens turned into a global sensation. The song has the beginner-friendly chords C, F, and G. Experiment with different strumming patterns and try to emulate the rhythm of the song. Take it a step further and try to figure out the intro riff by ear and learn to play it.</p>
 <p>{{ m.player('wGVXm5l6TtU') }}</p>
-<h3>Santana, Mana - <a href="/song/corazón-espinado/">Corazón Espinado</a></h3>
+<h3>Santana, Mana - <a href="https://ukealong.com/song/corazón-espinado/">Corazón Espinado</a></h3>
 <p>A collaboration between Latin music artists, "Corazón Espinado" combines Santana's rock-infused sound with Mana's Latin pop sensibilities. Use muted strums and other percussive elements to create the song's captivating groove on the ukulele.</p>
 <p>{{ m.player('67qy4Hn1Q18') }}</p>
-<h3>Camila Cabello - <a href="/song/havana/">Havana</a></h3>
+<h3>Camila Cabello - <a href="https://ukealong.com/song/havana/">Havana</a></h3>
 <p>"Havana" combines modern pop with Latin influences. Its memorable intro sets the stage for a playful song that celebrates the vibrant spirit of Havana, Cuba. The song's chords Gm, Eb, and D7 are not the most common ones but still beginner-friendly. The songs works great for both strumming and picking. The syncopated rhythm can be a challenge, especially if you want to sing along.</p>
 <p>{{ m.player('yLn4n9x6RJA') }}</p>
-<h3>Los Panchos - <a href="/song/bésame-mucho/">Bésame Mucho</a></h3>
+<h3>Los Panchos - <a href="https://ukealong.com/song/bésame-mucho/">Bésame Mucho</a></h3>
 <p>"Bésame Mucho" is a timeless Latin bolero, known and loved by audiences worldwide. Its gentle melodies and romantic lyrics make it a perfect choice for expressing emotion through the ukulele. The song lends itself to using different strumming techniques such as rasgueados and rolling fingers and mixing it with plucking individual or multiple strings.</p>
 <p>{{ m.player('fRGmMAPXQuw') }}</p>
-<h3>Juanes - <a href="/song/la-camisa-negra/">La Camisa Negra</a></h3>
+<h3>Juanes - <a href="https://ukealong.com/song/la-camisa-negra/">La Camisa Negra</a></h3>
 <p>"La Camisa Negra" by Juanes is an upbeat and playful song that will get your ukulele grooving. It's an excellent choice for practicing percussive techniques and plucking multiple strings at once. The chord shapes and some quick changes can be challenging.</p>
 <p>{{ m.player('WncJO1j05Iw') }}</p>
-<h3>Santana - <a href="/song/oye-cómo-va/">Oye Cómo Va</a></h3>
+<h3>Santana - <a href="https://ukealong.com/song/oye-cómo-va/">Oye Cómo Va</a></h3>
 <p>Santana's "Oye Cómo Va" is a Latin rock anthem that blends infectious rhythms with Carlos Santana's signature guitar style. Using only the tow chords Am and D make it seem deceptively easy, but the syncopated rhythm is quite a brain-twister.</p>
 <p>{{ m.player('g5kipSXZVMI') }}</p>
-<h3>Gipsy Kings - <a href="/song/bamboleo/">Bamboleo</a></h3>
+<h3>Gipsy Kings - <a href="https://ukealong.com/song/bamboleo/">Bamboleo</a></h3>
 <p>"Bamboleo" is an exuberant and energetic song by the Gipsy Kings, known for their flamenco-inspired music. It works great with lively Rumba strumming patterns and is quite fast, yet fun to play.</p>
 <p>{{ m.player('bdmBg8GQG54') }}</p>
-<h3>Mecano - <a href="/song/hijo-de-la-luna/">Hijo De La Luna</a></h3>
+<h3>Mecano - <a href="https://ukealong.com/song/hijo-de-la-luna/">Hijo De La Luna</a></h3>
 <p>"Hijo De La Luna" is a hauntingly beautiful song by the Spanish group Mecano. Its ethereal melodies and poignant lyrics tell a captivating story, making it a wonderful choice for ukulele players looking to add a touch of mystery and introspection to their repertoire. This ukulele arrangement has very quick chord changes and several not so common chords.</p>
 <p>{{ m.player('mf-rAdG-DDo') }}</p>
 <h2>Fingerstyle Arrangements</h2>
-<p>For those seeking a more intricate and melodic approach, this section offers fingerstyle arrangements of Latin style songs on the ukulele. All these are low G ukulele arrangements by Yujiro from <a href="https://www.youtube.com/@UkuleleTime39">Ukulele Time</a>, who has an incredible output and almost 800 arrangements on Youtube at the time of writing. I learned a few of them and they were very challenging for me. If you're interested in something a bit easier, check out my etude <a href="/video/CQ3WsqPmBwQ/">Meñique Andaluz</a>.</p>
-<h3>Narcos Theme Song - <a href="/song/tuyo/">Tuyo</a></h3>
+<p>For those seeking a more intricate and melodic approach, this section offers fingerstyle arrangements of Latin style songs on the ukulele. All these are low G ukulele arrangements by Yujiro from <a href="https://www.youtube.com/@UkuleleTime39">Ukulele Time</a>, who has an incredible output and almost 800 arrangements on Youtube at the time of writing. I learned a few of them and they were very challenging for me. If you're interested in something a bit easier, check out my etude <a href="https://ukealong.com/video/CQ3WsqPmBwQ/">Meñique Andaluz</a>.</p>
+<h3>Narcos Theme Song - <a href="https://ukealong.com/song/tuyo/">Tuyo</a></h3>
 <p>The theme song from the hit series "Narcos," titled "Tuyo," is a mesmerizing and sultry tune. Its moody atmosphere and captivating chord progressions are captured really well in this arrangements.</p>
 <p>{{ m.player('wuz9C6okgjk') }}</p>
-<h3>Los Lobos, Antonio Banderas - <a href="/song/canción-del-mariachi/">Canción Del Mariachi</a></h3>
+<h3>Los Lobos, Antonio Banderas - <a href="https://ukealong.com/song/canción-del-mariachi/">Canción Del Mariachi</a></h3>
 <p>Featured in the movie "Desperado," "Canción Del Mariachi" is a powerful and passionate song that fuses flamenco and mariachi influences. Another great and difficult to play arrangement that captures the spirit of the song. I learned the iconic intro. The whole arrangement would be a very long-term project, but maybe I'll try some day.</p>
 <p>{{ m.player('3SGeCsmjNB8') }}</p>
-<h3>Buena Vista Social Club - <a href="/song/chan-chan/">Chan Chan</a></h3>
+<h3>Buena Vista Social Club - <a href="https://ukealong.com/song/chan-chan/">Chan Chan</a></h3>
 <p>"Chan Chan" is a masterpiece by the legendary Buena Vista Social Club, encapsulating the soul of Cuban music. Its infectious rhythms, intricate melodies, and rich harmonies are beautifully adapted to the ukulele in this arrangement. Again very challenging and certainly beyond what I can do now. There is a high G ukulele arrangement of Chan Chan by <a href="https://www.youtube.com/watch?v=39jQ2wPOS0o">Helmut Bickel</a>, that is more accessible and sounds great too.</p>
 <p>{{ m.player('AcvFicRKxjA') }}</p>
-<h3>Ángela Aguilar, Chavela Vargas - <a href="/song/la-llorona/">La Llorona</a></h3>
+<h3>Ángela Aguilar, Chavela Vargas - <a href="https://ukealong.com/song/la-llorona/">La Llorona</a></h3>
 <p>"La Llorona" is a haunting Mexican folk song, and the collaboration between Ángela Aguilar and the legendary Chavela Vargas adds a powerful and emotive touch. A beautiful arrangement that moves from a comparatively simple melody into a sophisticated and rhythmic chord melody.</p>
 <p>{{ m.player('b-CNZcWsWB0') }}</p>
 <h2>Conclusion</h2>
@@ -421,9 +421,9 @@
     </item>
     <item>
         <title><![CDATA[Creating an Effective Practice Schedule for Learning the Ukulele]]></title>
-        <link><![CDATA[http://localhost:8080/blog/practice-schedule/]]></link>
+        <link><![CDATA[https://ukealong.com/blog/practice-schedule/]]></link>
         <description><![CDATA[<p>Learn how to create an effective practice schedule for learning the ukulele. Set goals, allocate time, and develop your skills with practical tips and strategies.</p><img src="/img/blog/practice-schedule-example.webp" alt="Preview">]]></description>
-        <guid><![CDATA[http://localhost:8080/blog/practice-schedule/]]></guid>
+        <guid><![CDATA[https://ukealong.com/blog/practice-schedule/]]></guid>
         <pubDate>Thu, 08 Jun 2023 01:25:56 </pubDate>
         <content:encoded><![CDATA[<p>The ukulele is a delightful and versatile instrument that has gained popularity in recent years. Its compact size and melodic sound make it a great choice for beginners and experienced musicians alike. However, like any musical instrument or skill, learning the ukulele requires regular practice and dedication. Developing an effective practice schedule is essential to make progress and improve your skills. In this article, we will explore the key elements of creating an effective practice schedule for learning the ukulele.</p>
 <h2>Key Elements of Creating a Practice Schedule</h2>
