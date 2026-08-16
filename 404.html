@@ -11,6 +11,8 @@
     <link rel="shortcut icon" href="/favicon.png">
     <link rel="stylesheet" href="/vendor/bulma.min.css">
     <link rel="stylesheet" href="/compiled/style.css">
+
+<link href="/s/pagefind-ui.css" rel="stylesheet">
 </head>
 <body>
 <nav class="navbar is-light" role="navigation" aria-label="main navigation">
@@ -35,9 +37,10 @@
             <a class="navbar-item" href="https://ukealong.gumroad.com/">Store</a>
         </div>
     </div>
-</nav><section class="content section"><div class="container">
-<h1 class="is-hidden-mobile">Page not found</h1><p>The page you were looking for was not found. You can search <a href="/songs/">all songs listed on this website</a> using your browser's search function (Ctrl+F) to hopefully find what you were looking for.</p>
-</div></section>
+</nav><section class="content section">
+        <p><p>Oops, that page doesn't exist. Search for play along videos below instead.</p></p>
+    <div class="box" id="search"></div>
+</section>
 <section class="section"><div class="container-fluid">
 <hr>
 <nav class="breadcrumb" aria-label="breadcrumbs">
@@ -98,6 +101,18 @@
 </symbol>
 <symbol id="youtube" viewBox="0 0 576 512"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z" style="fill:#000"/>
 </symbol></svg></span>    <script src="/compiled/script.js"></script>
+
+<script src="/s/pagefind-ui.js"></script>
+<script>
+window.addEventListener('DOMContentLoaded', (event) => {
+    const search = new PagefindUI({
+        element: "#search",
+        pageSize: 10,
+        showEmptyFilters: false,
+        autofocus: true
+    });
+});
+</script>
     <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
 </body>
 </html>
