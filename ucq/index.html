@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ukulele Chord Quiz — Learn your chord shapes. Actually remember them.</title>
-  <meta name="description" content="A free Android quiz app that helps ukulele players memorize chord shapes through spaced, varied practice. Join the beta today.">
+  <title>Ukulele Chord Quiz — Connect chord names, shapes and sounds.</title>
+  <meta name="description" content="A free Android quiz app that helps ukulele players connect chord names, shapes and sounds through short, focused practice rounds. Join the beta today.">
   <meta property="og:image" content="/img/ucq/tablet-find-that-chord.webp">
   <link rel="stylesheet" href="/compiled/ucq.css">
 </head>
@@ -28,7 +28,7 @@
         <div class="hero__content">
           <p class="hero__eyebrow">Free Android App · Beta</p>
           <h1 class="hero__headline" id="hero-headline">Learn your chord shapes.<br>Actually remember them.</h1>
-          <p class="hero__sub">Ukulele Chord Quiz helps you memorise chord shapes through focused, varied practice — built around the chords that appear most in real songs.</p>
+          <p class="hero__sub">Ukulele Chord Quiz helps you connect chord names, shapes and sounds through short, focused practice rounds — built around the chords that appear most in real songs.</p>
           <div class="hero__actions">
             <a href="#beta" class="btn btn--primary">Join the Beta</a>
             <p class="hero__microcopy">Join the beta group with your Google Play account to get access.</p>
@@ -44,20 +44,19 @@
     <!-- WHAT IT IS -->
     <section class="what-it-is" aria-labelledby="what-headline">
       <div class="container">
-        <div class="what-it-is__inner">
-          <div class="what-it-is__text">
-            <h2 class="section-heading" id="what-headline">Two ways to quiz yourself</h2>
-            <p class="body-text">Most players can strum along when a chord name floats overhead. Fewer can look at a chord diagram and instantly know what to play. Ukulele Chord Quiz closes that gap. Two quiz modes test you in both directions: see the shape, name it; see the name, find the shape. The chord selection is informed by frequency data from thousands of ukulele play-along videos, so you spend your time on the shapes that actually come up.</p>
+        <h2 class="section-heading section-heading--centered" id="what-headline">Three ways to quiz yourself</h2>
+        <div class="what-it-is__modes">
+          <div class="mode-card">
+            <h3 class="mode-card__title">Name that Chord</h3>
+            <p class="mode-card__body">A chord diagram is shown. You pick the correct name from four options.</p>
           </div>
-          <div class="what-it-is__modes">
-            <div class="mode-card">
-              <h3 class="mode-card__title">Name that Chord</h3>
-              <p class="mode-card__body">A chord diagram is shown. You pick the correct name from four options.</p>
-            </div>
-            <div class="mode-card">
-              <h3 class="mode-card__title">Find that Chord</h3>
-              <p class="mode-card__body">A chord name is shown. You pick the correct diagram from four options.</p>
-            </div>
+          <div class="mode-card">
+            <h3 class="mode-card__title">Find that Chord</h3>
+            <p class="mode-card__body">A chord name is shown. You pick the correct diagram from four options.</p>
+          </div>
+          <div class="mode-card">
+            <h3 class="mode-card__title">Ear Training</h3>
+            <p class="mode-card__body">A chord is played. You pick the correct diagram from four options. Tapping an answer plays that chord and moves to the next round.</p>
           </div>
         </div>
       </div>
@@ -80,7 +79,7 @@
             </div>
             <figcaption class="phone-frame__caption">Home screen</figcaption>
           </figure>
-          <figure class="phone-frame phone-frame--featured">
+          <figure class="phone-frame">
             <div class="phone-frame__screen">
               <img
                 src="/img/ucq/name-that-chord.webp"
@@ -104,6 +103,18 @@
             </div>
             <figcaption class="phone-frame__caption">Find that Chord</figcaption>
           </figure>
+          <figure class="phone-frame">
+            <div class="phone-frame__screen">
+              <img
+                src="/img/ucq/ear-training.webp"
+                alt="Ear Training quiz screen showing four chord diagram options to identify a played chord"
+                class="phone-frame__img"
+                width="270"
+                height="540"
+              >
+            </div>
+            <figcaption class="phone-frame__caption">Ear Training</figcaption>
+          </figure>
         </div>
       </div>
     </section>
@@ -112,7 +123,7 @@
     <section class="video-section" aria-labelledby="video-heading">
       <div class="container">
         <h2 class="section-heading section-heading--centered" id="video-heading">See it in action</h2>
-        <p class="video-section__sub">Watch a full quiz session — both modes, a few chord pools.</p>
+        <p class="video-section__sub">Watch a quiz session showing the Name that Chord and Find that Chord modes.</p>
         <!-- Portrait video: constrained width so 9:16 doesn't fill the whole desktop screen -->
         <div class="video-section__embed">
           <iframe
@@ -131,11 +142,6 @@
         <h2 class="section-heading section-heading--centered" id="features-heading">Built for how practice actually works</h2>
         <div class="features__grid">
           <div class="feature-card">
-            <div class="feature-card__icon" aria-hidden="true">🔄</div>
-            <h3 class="feature-card__title">Two quiz modes</h3>
-            <p class="feature-card__body">Name that Chord and Find that Chord test you in both directions. Wrong answers include chords that look similar to the correct one, making the quiz more effective for building visual recognition.</p>
-          </div>
-          <div class="feature-card">
             <div class="feature-card__icon" aria-hidden="true">🎯</div>
             <h3 class="feature-card__title">Four chord pools</h3>
             <p class="feature-card__body">Start with the Starter set of beginner chords and work up through Standard, Extended, and Full at your own pace.</p>
@@ -146,14 +152,9 @@
             <p class="feature-card__body">Browse all chords in a searchable visual library, grouped by learning tier. Includes multiple voicings where applicable.</p>
           </div>
           <div class="feature-card">
-            <div class="feature-card__icon" aria-hidden="true">📊</div>
-            <h3 class="feature-card__title">Shaped by real songs</h3>
-            <p class="feature-card__body">Chord selection is informed by frequency data from thousands of ukulele play-along videos, so the most-used chords get more practice time.</p>
-          </div>
-          <div class="feature-card">
             <div class="feature-card__icon" aria-hidden="true">📈</div>
             <h3 class="feature-card__title">Progress tracking</h3>
-            <p class="feature-card__body">The app tracks your results per chord so you can see which shapes you have mastered and which ones still need work.</p>
+            <p class="feature-card__body">The app tracks your results per chord and per mode, so you can see where your recognition is solid and where it still needs work.</p>
           </div>
           <div class="feature-card">
             <div class="feature-card__icon" aria-hidden="true">🆓</div>
@@ -169,8 +170,7 @@
       <div class="container">
         <div class="stat-band__inner stat-band__inner--text-only">
           <div class="stat-band__text">
-            <h2 class="stat-band__heading" id="stat-heading">Grounded in real songs</h2>
-            <p class="stat-band__body">The chord tiers are based on frequency data from thousands of ukulele play-along videos in the UkeAlong index — so the structure reflects what actually comes up in real songs. Full data at <a href="https://ukealong.com/statistics/" class="stat-band__link">ukealong.com/statistics/</a>.</p>
+            <p class="stat-band__body">Chord tiers are informed by frequency data from thousands of ukulele play-along videos in the UkeAlong index. Full data at <a href="https://ukealong.com/statistics/" class="stat-band__link">ukealong.com/statistics/</a>.</p>
           </div>
         </div>
       </div>
@@ -194,7 +194,6 @@
             <div class="beta__cta-card">
               <p class="beta__cta-eyebrow">Beta testing</p>
               <h3 class="beta__cta-title">Ready to give it a go?</h3>
-              <p class="beta__cta-body">Join the beta group with your Google Play account to get access and find the install link.</p>
               <a href="https://groups.google.com/g/ukulelechordquiz" class="btn btn--primary btn--large" target="_blank" rel="noopener">Join the Beta Group</a>
               <p class="beta__cta-microcopy">Google account required. Install link is in the welcome message.</p>
             </div>
