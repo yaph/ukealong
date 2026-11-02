@@ -11,6 +11,8 @@
     <link rel="shortcut icon" href="/favicon.png">
     <link rel="stylesheet" href="/vendor/bulma.min.css">
     <link rel="stylesheet" href="/compiled/style.css">
+
+<link href="/s/pagefind-ui.css" rel="stylesheet">
 </head>
 <body>
 <nav class="navbar is-light" aria-label="main navigation">
@@ -159,6 +161,17 @@
         </div>
 </div>
 
+<div class="box" id="search"></div>
+</div></section>
+<section class="section"><div class="container-fluid">
+    <hr>
+    <nav class="breadcrumb" aria-label="breadcrumbs">
+    <ul>
+        <li><a href="/">Home</a></li>
+                <li><a href="/artists/">Artists</a></li>
+        <li class="is-active"><a href="#" aria-current="page">Michael Bublé - Ukulele Play Along Songs</a></li>
+    </ul>
+    </nav>
 </div></section>
 <footer class="section">
     <div class="container-fluid">
@@ -209,6 +222,18 @@
 </symbol>
 <symbol id="youtube" viewBox="0 0 576 512"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z" style="fill:#000"/>
 </symbol></svg></span>    <script src="/compiled/script.js"></script>
+
+<script src="/s/pagefind-ui.js"></script>
+<script>
+window.addEventListener('DOMContentLoaded', (event) => {
+    const search = new PagefindUI({
+        element: "#search",
+        pageSize: 10,
+        showEmptyFilters: false,
+        autofocus: false
+    });
+});
+</script>
     <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
 </body>
 </html>
