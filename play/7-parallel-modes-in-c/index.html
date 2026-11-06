@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The 7 Parallel Modes in C - Ukulele Tab + Sheet Music Player</title>
+<meta name="author" content="Ramiro Gómez"><link href="/rss.xml" rel="alternate" type="application/rss+xml" title="RSS feed">
+<link rel="shortcut icon" href="/favicon.png">
+<link rel="stylesheet" href="/compiled/score-player.css">
+<style>
+footer {padding: 1em;}
+</style>
+</head>
+<body>
+<div id="score-player" style="height: min(800px, 80vh);"></div>
+<footer><a href="/">UkeAlong</a> - Interactive Music Score Player BETA</footer>
+<script src="/vendor/opensheetmusicdisplay.min.js"></script>
+<script src="/vendor/OsmdAudioPlayer.min.js"></script>
+<script src="/compiled/score-player.js"></script>
+<script>
+  const player = new MusicXMLPlayer('#score-player', {
+    scoreUrl: '/score/7-parallel-modes-in-c.musicxml',
+    initialLayout: 'vertical'
+  });
+</script>
+</body>
+</html>
